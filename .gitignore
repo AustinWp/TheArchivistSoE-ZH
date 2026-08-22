@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 /TheArchivistPage.iml
+
+# Python
+__pycache__/
+*.pyc
