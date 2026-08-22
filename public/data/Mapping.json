@@ -1,0 +1,191 @@
+[
+  {
+    "id": "about",
+    "title": "关于地图变更",
+    "text": [
+      "In Sanctuary of Exile, mapping has been expanded. Each section here explains different systems that can be found in the endgame."
+    ]
+  },
+  {
+    "id": "map-currency-glyphs",
+    "title": "地图通货 - 雕文信息",
+    "text": [
+      "- New map customization system has been introduced to Sanctuary of Exile. It allows the player to have more agency and adjust the level of rewards to the power level of your character",
+      "- Every map tier has an abstract modifier called `glyph weight` which is equal to the `tier` of the map:",
+      "  - T1 has glyph weight of 1",
+      "  - T2 has glyph weight of 2",
+      "  - T3 has glyph weight of 3",
+      "  -  T4 has glyph weight of 4",
+      "- Every glyph has the same weight, which is equal to 1",
+      "- Glyphs work only on `rare` maps",
+      "- Rerolling the map with `Infused Horadrim Orb` will remove the Glyph and won’t refund it",
+      "- Every glyph along its unique modifier adds % HP and % enhanced physical damage to monsters, which differs per map tier",
+      "- Increases monster HP by:",
+      "  - 5% on T1 map",
+      "  - 8% on T2 map",
+      "  - 10% on T3 map",
+      "  - 12% on T4 map",
+      "- Increases monster physical damage by:",
+      "  - 0% on T1 map",
+      "  - 5% on T2 map",
+      "  - 8% on T3 map",
+      "  - 12% on T4 map"
+    ]
+  },
+  {
+    "id": "map-currency-glyphs-mods",
+    "title": "地图通货 - 雕文词缀",
+    "text": [
+      "- Glyph of Nemeses:",
+      "  - Adds additional `25% of unique monster packs` to the map - Stacks with itself",
+      "- Glyph of Corruption:",
+      "  - Monsters have `25% chance to drop a corrupted item` - this mod stack with itself",
+      "  - `Map boss drops additional 1-3 corrupted uniques` - this mod `DOES NOT` stack with itself",
+      "- Glyph of Adversaries:",
+      "  - Adds `additional map boss` - this mod `DOES NOT` stack with itself ",
+      "  - Map boss drops additional skillers - this mod `DOES NOT` stack with itself"
+    ]
+  },
+  {
+    "id": "map-currency-terrors",
+    "title": "地图通货 - 恐怖信息",
+    "text": [
+      "- Terrors are a new endgame map currency that adds unusual and difficult monsters to a map. These monsters are biased towards some kind of loot, based on the type of Terror applied to a map",
+      "- Only one Terror can be applied to a map",
+      "- Terrors scale with map tiers - the rewards on T1 map are going to be worse than on higher tiers",
+      "- Terrors work only on `rare` maps",
+      "- Rerolling the map with `Infused Horadrim Orb` will remove the Glyph and won’t refund it",
+      "- Every glyph along its unique modifier adds % HP and % enhanced physical damage to monsters, which differs per map tier",
+      "- Increases monster HP by:",
+      "  - 15% on T1 map",
+      "  - 20% on T2 map",
+      "  - 25% on T3 map",
+      "  - 30% on T4 map",
+      "- Increases monster physical damage by:",
+      "  - 10% on T1 map",
+      "  - 15% on T2 map",
+      "  - 20% on T3 map",
+      "  - 25% on T4 map"
+    ]
+  },
+  {
+    "id": "map-currency-terrors-mods",
+    "title": "地图通货 - 恐怖词缀",
+    "text": [
+      "- `Terror of Resplendence` - adds additional `Resplendent Horrors` which drop:",
+      "  - Up to 2 unique items on a T1 Map",
+      "  - Up to 3 unique items on a T2 Map",
+      "  - Up to 4 unique items on a T3 Map",
+      "  - Up to 5 unique items on a T4 Map",
+      "- `Terror of Opulence` - adds additional `Opulent Horrors` which drop:",
+      "  - Up to 1 currency item on a T1 Map",
+      "  - Up to 2 currency items on a T2 Map",
+      "  - Up to 3 currency items on a T3 Map",
+      "  - Up to 4 currency items on a T4 Map",
+      "- Can drop:",
+      "  - Glyphs",
+      "  - Chisels",
+      "  - Mythic Orb",
+      "  - Divine Orb",
+      "  - Sacred Orb - low chance",
+      "- `Terror of Ethereal` - adds additional `Ethereal Horrors` which drop:",
+      "  - Up to 1 rune on a T1 map",
+      "  - Up to 2 runes on a T2 map",
+      "  - Up to 3 runes on a T3 map",
+      "  - Up to 4 runes on a T4 map",
+      "- `Terror of Absolute` - adds additional `Absolute Horrors` which drop:",
+      "  - Up to 1 uber materials on a T1 map",
+      "  - Up to 2 uber materials on a T2 map",
+      "  - Up to 3 uber materials on a T3 map",
+      "  - Up to 4 uber materials on a T4 map"
+    ]
+  },
+  {
+    "id": "map-currency-chisels",
+    "title": "地图通货 - 雕刻刀信息",
+    "text": [
+      "- New map customization system has been introduced to Sanctuary of Exile. It allows the player to have more agency and adjust the level of rewards to the power level of your character",
+      "- Every map tier can have maximum of two chisels applied to it",
+      "- Rerolling the map with `Infused Horadrim Orb` will remove the Chisels and won’t refund it",
+      "- Every chisel along its unique modifier adds % HP and % enhanced physical damage to monsters, which differs per map tier",
+      "- Increases monster HP by:",
+      "  - 5% on T1 map",
+      "  - 8% on T2 map",
+      "  - 10% on T3 map",
+      "  - 12% on T4 map",
+      "- Increases monster physical damage by:",
+      "  - 0% on T1 map",
+      "  - 5% on T2 map",
+      "  - 8% on T3 map",
+      "  - 12% on T4 map"
+    ]
+  },
+  {
+    "id": "map-currency-chisels-mods",
+    "title": "地图通货 - 雕刻刀词缀",
+    "text": [
+      "- Cartographer's Chisel (basic): ",
+      "  - Increases player `gold % magic find` by `25%`",
+      "  - Increases `monster density` by `55%` on T1 map",
+      "  - Increases `monster density` by `65%` on T2 map",
+      "  - Increases `monster density` by `75%` on T3 map",
+      "  - Increases `monster density` by `75%` on T4 map",
+      "- Cartographer's Chisel of Avarice: ",
+      "  - Increases player `gold % magic find` by `75%`",
+      "  - Increases player `experience bonus` by `75%`",
+      "- Cartographer's Chisel of Procurement: ",
+      "  - Increases `monster density` by `85%` on T1 map",
+      "  - Increases `monster density` by `95%` on T2 map",
+      "  - Increases `monster density` by `105%` on T3 map",
+      "  - Increases `monster density` by `105%` on T4 map"
+    ]
+  },
+  {
+    "id": "hatred-orbs",
+    "title": "憎恨宝珠",
+    "text": [
+      "- Applying an orb to a map increases its `Hatred Level`",
+      "- Each map can have up to 5 Hatred Orbs applied to it",
+      "- Each level of Hatred corresponds to monsters having:",
+      "  - 100% Increased Health",
+      "  - 10% Increased Physical Damage",
+      "  - 10% Increased Attack and Cast speed",
+      "  - 10% Faster Hit Recovery",
+      "- Currently available orbs and their modifiers: ",
+      "  - Hatred Orb of Equipment - `Monsters have 1% chance to drop additional weapons and armors`",
+      "  - Hatred Orb of Accessories - `Monsters have 1% chance to drop additional jewellery, charms and jewels`",
+      "  - Hatred Orb of Essences - `Monsters have 1% chance to drop additional essences`",
+      "  - Hatred Orb of Fate Cards - `Monsters have 1% chance to drop additional fate cards`",
+      "  - Hatred Orb of Runes - `Monsters have 1% chance to drop additional runes`",
+      "  - Hatred Orb of Currency - `Monsters have 1% chance to drop additional currency`"
+    ]
+  },
+  {
+    "id": "map-currency-recipes",
+    "title": "地图通货专属魔方配方",
+    "text": [
+      "- Rare T4 dungeons can be now re-rolled with Infused Horadrim Orb",
+      "- Cube a rare map with glyph to add bonus modifier - check [Glyphs](app:changes:glyphs) for more information",
+      "- Cube a rare map with terror to add bonus modifier - check [Terrors](app:changes:terrors) for more information"
+    ]
+  },
+  {
+    "id": "map-currency-other",
+    "title": "其他地图通货变更",
+    "text": [
+      "- `Anya` now sells infused map currency, so you don't have juggle runes and gems",
+      "- `Anya` now sells basic `Cartographer's Chisel`",
+      "- Corrupting the map with `World Stone Shard` will now increase monster HP% and % physical damage",
+      "- Increases monster HP by:",
+      "  - 5% on T1 map",
+      "  - 8% on T2 map",
+      "  - 10% on T3 map",
+      "  - 12% on T4 map",
+      "- Increases monster physical damage by:",
+      "  - 0% on T1 map",
+      "  - 5% on T2 map",
+      "  - 8% on T3 map",
+      "  - 12% on T4 map"
+    ]
+  }
+]

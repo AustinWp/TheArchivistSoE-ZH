@@ -1,0 +1,109 @@
+[
+  {
+    "id": "about",
+    "title": "关于炼狱熔炉",
+    "text": [
+      "Infernal Kiln is a powerful contraption that drops from quest Hephasto on Hell.",
+      "To power it, harvest Crystallised Cindersouls from slain Abyssal enemies.",
+      "**To execute all below recipes, you have to use Infernal Kiln.**"
+    ]
+  },
+  {
+    "id": "uber-convert",
+    "title": "超级材料转换配方",
+    "text": [
+      "- 15x Crystallised Cindersoul + Any uber material from:",
+      "  - Black Soulstone",
+      "  - Pure Demonic Essence",
+      "  - Prime Evil Soul",
+      "  - Demonic Insignia",
+      "  - Talisman of Transgression",
+      "  - Flesh of Malic",
+      "  - Pandemonium Key 1-3",
+      "  - Trang-oul Jawbone",
+      "  - Splinter of the Void",
+      "  - Hellfire Ashes",
+      "  - Sigil of Madawc",
+      "  - Sigil of Talic",
+      "  - Sigil of Korlic",
+      "  - Sigil Fragment of Apostasy",
+      "  - Sigil Fragment of Betrayal",
+      "  - Sigil Fragment of Damnation",
+      "  - Sigil Fragment of Resurrection",
+      "- Can only convert for the materials for the same boss",
+      "- Has 90% chance to convert to any other material from the same boss",
+      "- Has 10% chance for conversion to not result in any change"
+    ]
+  },
+  {
+    "id": "gems",
+    "title": "完美宝石增殖配方",
+    "text": [
+      "Any perfect gem in non-stacked form + 10x Crystallised Cindersoul = 50x of that gem"
+    ]
+  },
+  {
+    "id": "infusions",
+    "title": "工艺注入制作配方",
+    "text": [
+      "- 15x Crystallised Cindersoul + 5x Jewel Fragment + 5x Perfect Gem (check below) = 5x Crafting Infusion:",
+      "  - Perfect Ruby = Blood Crafting Infusion",
+      "  - Perfect Amethyst = Caster Crafting Infusion",
+      "  - Perfect Emerald = Safety Crafting Infusion",
+      "  - Perfect Sapphire = Hitpower Crafting Infusion",
+      "  - Perfect Skull = Vampiric Crafting Infusion",
+      "  - Perfect Topaz = Bountiful Crafting Infusion",
+      "  - Perfect Diamond = Brilliant Crafting Infusion"
+    ]
+  },
+  {
+    "id": "random-hf",
+    "title": "获得随机地狱锻造暗金",
+    "text": [
+      "- 35x Crystallised Cindersoul + 5xMythic Orb = Random Hellforged Unique",
+      "- Please mind that the roll outcomes are weighted"
+    ]
+  },
+  {
+    "id": "target-hf",
+    "title": "获得指定地狱锻造暗金",
+    "text": [
+      "50x Crystallised Cindersoul + Divine Orb + Unique you want to convert = Unique converted to Hellforged part, if it exists"
+    ]
+  },
+  {
+    "id": "fate-card-gamba",
+    "title": "命运卡牌增殖",
+    "text": [
+      "Sacrifice a Fate Card to either obtain another one or lose it",
+      "Possible outcomes:",
+      "- Obtain another one - 33%",
+      "- Lose the card - 33%",
+      "- No change - card is returned - 33%",
+      "Recipe: Infernal Kiln + 50x Crystallised Cindersoul + 1x Any Fate Card"
+    ]
+  },
+  {
+    "id": "reroll-hatred",
+    "title": "重铸憎恨宝珠类型",
+    "text": [
+      "Reroll Hatred Orb to different type",
+      "Occurence rates:",
+      "- Hatred Orb of Equipment - 25% occurence rate",
+      "- Hatred Orb of Accessories - 21% occurence rate",
+      "- Hatred Orb of Essences - 17% occurence rate",
+      "- Hatred Orb of Fate Cards - 15% occurence rate",
+      "- Hatred Orb of Runes - 12% occurence rate",
+      "- Hatred Orb of Currency - 10% occurence rate",
+      "Recipe: Infernal Kiln + 25x Crystallised Cindersoul + 1x Any Hatred Orb"
+    ]
+  },
+  {
+    "id": "corrupted-essences",
+    "title": "获得腐化精华",
+    "text": [
+      "- Infernal Kiln + 1x Any Perfect Essence + 1x Crystallised Cindersoul = Essence of Insanity",
+      "- Infernal Kiln + 1x Any Perfect Essence + 1x Crystallised Cindersoul + 1x Key = Essence of Hysteria"
+    ]
+  }
+]

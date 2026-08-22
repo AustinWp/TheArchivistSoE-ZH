@@ -1,0 +1,7943 @@
+[
+  {
+    "displayName": "地图 T1",
+    "corruptionProperties": [
+      "怪物拥有 4-8% 致命攻击",
+      "怪物密度：+30-40%",
+      "经验值：+4-6%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T1",
+    "corruptionProperties": [
+      "怪物拥有 10-15% 增加最大生命",
+      "怪物拥有 10-15 无法冰冻",
+      "怪物密度：+30-40%",
+      "经验值：+6-8%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T1",
+    "corruptionProperties": [
+      "玩家拥有 -15 至 -5% 攻击速度",
+      "玩家拥有 -15 至 -5% 施法速度",
+      "怪物密度：+30-40%",
+      "怪物稀有度：+10-15%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T1",
+    "corruptionProperties": [
+      "玩家拥有 -10 至 -5% 物理伤害减少",
+      "怪物密度：+30-40%",
+      "怪物稀有度：+10-15%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T1",
+    "corruptionProperties": [
+      "玩家拥有 20-30% 攻击速度",
+      "玩家拥有 20-30% 施法速度",
+      "怪物稀有度：+10-15%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T1",
+    "corruptionProperties": [
+      "魔法寻找：+50%",
+      "金币寻找：+50%",
+      "怪物稀有度：+10-15%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T1",
+    "corruptionProperties": [
+      "怪物密度：+60-80%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T1",
+    "corruptionProperties": [
+      "+1 Area 等级",
+      "怪物密度：+15-20%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T1",
+    "corruptionProperties": [
+      "怪物稀有度：+30-40%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T1",
+    "corruptionProperties": [
+      "玩家拥有 -3 至 -2% 至火焰抗性上限",
+      "玩家拥有 -3 至 -2% 至闪电抗性上限",
+      "玩家拥有 -3 至 -2% 至冰冷抗性上限",
+      "玩家拥有 -3 至 -2% 至毒素抗性上限",
+      "怪物密度：+30-40%",
+      "怪物稀有度：+10-15%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T2",
+    "corruptionProperties": [
+      "怪物拥有 8-12% 致命攻击",
+      "怪物密度：+40-50%",
+      "经验值：+6-8%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T2",
+    "corruptionProperties": [
+      "怪物拥有 15-20% 增加最大生命",
+      "怪物拥有 15-20 无法冰冻",
+      "怪物密度：+40-50%",
+      "经验值：+8-10%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T2",
+    "corruptionProperties": [
+      "玩家拥有 -25 至 -15% 攻击速度",
+      "玩家拥有 -25 至 -15% 施法速度",
+      "怪物密度：+40-50%",
+      "怪物稀有度：+15-20%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T2",
+    "corruptionProperties": [
+      "玩家拥有 -15 至 -10% 物理伤害减少",
+      "怪物密度：+40-50%",
+      "怪物稀有度：+15-20%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T2",
+    "corruptionProperties": [
+      "玩家拥有 30-40% 攻击速度",
+      "玩家拥有 30-40% 施法速度",
+      "怪物稀有度：+15-20%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T2",
+    "corruptionProperties": [
+      "魔法寻找：+75%",
+      "金币寻找：+75%",
+      "怪物稀有度：+15-20%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T2",
+    "corruptionProperties": [
+      "怪物密度：+80-100%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T2",
+    "corruptionProperties": [
+      "+1 Area 等级",
+      "怪物密度：+20-25%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T2",
+    "corruptionProperties": [
+      "怪物稀有度：+40-50%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T2",
+    "corruptionProperties": [
+      "玩家拥有 -4 至 -3% 至火焰抗性上限",
+      "玩家拥有 -4 至 -3% 至闪电抗性上限",
+      "玩家拥有 -4 至 -3% 至冰冷抗性上限",
+      "玩家拥有 -4 至 -3% 至毒素抗性上限",
+      "怪物密度：+40-50%",
+      "怪物稀有度：+15-20%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T3",
+    "corruptionProperties": [
+      "怪物拥有 12-16% 致命攻击",
+      "怪物密度：+50-60%",
+      "经验值：+8-10%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T3",
+    "corruptionProperties": [
+      "怪物拥有 20-25% 增加最大生命",
+      "怪物拥有 20-25 无法冰冻",
+      "怪物密度：+50-60%",
+      "经验值：+10-12%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T3",
+    "corruptionProperties": [
+      "玩家拥有 -35 至 -25% 攻击速度",
+      "玩家拥有 -35 至 -25% 施法速度",
+      "怪物密度：+50-60%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T3",
+    "corruptionProperties": [
+      "玩家拥有 -20 至 -15% 物理伤害减少",
+      "怪物密度：+50-60%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T3",
+    "corruptionProperties": [
+      "玩家拥有 40-50% 攻击速度",
+      "玩家拥有 40-50% 施法速度",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T3",
+    "corruptionProperties": [
+      "魔法寻找：+100%",
+      "金币寻找：+100%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T3",
+    "corruptionProperties": [
+      "怪物密度：+100-120%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T3",
+    "corruptionProperties": [
+      "+1 Area 等级",
+      "怪物密度：+25-30%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T3",
+    "corruptionProperties": [
+      "怪物稀有度：+50-60%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "地图 T3",
+    "corruptionProperties": [
+      "玩家拥有 -5 至 -4% 至火焰抗性上限",
+      "玩家拥有 -5 至 -4% 至闪电抗性上限",
+      "玩家拥有 -5 至 -4% 至冰冷抗性上限",
+      "玩家拥有 -5 至 -4% 至毒素抗性上限",
+      "怪物密度：+50-60%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 27.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "+6-8 力量",
+      "+6-8 敏捷",
+      "+6-8 体力",
+      "+6-8 精力"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "+10-20% 几率穿刺"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "10% 增加格挡几率"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得生命"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得法力"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "+30-40% 增强伤害"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "Increases 力量, 敏捷与 精力减少 +10-15%"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "你 May Apply Additional 诅咒"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "+2% 毒素抗性上限",
+      "+2% 冰冷抗性上限",
+      "+2% 闪电抗性上限",
+      "+2% 火焰抗性上限"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "+5% 诅咒效果"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "+5% 灵气效果"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "熔合体",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 5.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "凹槽 (1-6)"
+    ],
+    "chance": 50.0
+  },
+  {
+    "displayName": "任意护甲",
+    "corruptionProperties": [
+      "凹槽 (1-6)"
+    ],
+    "chance": 50.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "凹槽 (1-6)"
+    ],
+    "chance": 50.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "凹槽 (1-6)"
+    ],
+    "chance": 50.0
+  },
+  {
+    "displayName": "任意护甲",
+    "corruptionProperties": [
+      "凹槽 (1-6)"
+    ],
+    "chance": 50.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "凹槽 (1-6)"
+    ],
+    "chance": 50.0
+  },
+  {
+    "displayName": "任意护甲",
+    "corruptionProperties": [
+      "凹槽 (1-6)"
+    ],
+    "chance": 50.0
+  },
+  {
+    "displayName": "弓类",
+    "corruptionProperties": [
+      "有 3 个凹槽"
+    ],
+    "chance": 32.5
+  },
+  {
+    "displayName": "弓类",
+    "corruptionProperties": [
+      "有 4 个凹槽"
+    ],
+    "chance": 7.0
+  },
+  {
+    "displayName": "弓类",
+    "corruptionProperties": [
+      "有 5 个凹槽"
+    ],
+    "chance": 6.0
+  },
+  {
+    "displayName": "弓类",
+    "corruptionProperties": [
+      "有 6 个凹槽"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弩类",
+    "corruptionProperties": [
+      "有 3 个凹槽"
+    ],
+    "chance": 32.5
+  },
+  {
+    "displayName": "弩类",
+    "corruptionProperties": [
+      "有 4 个凹槽"
+    ],
+    "chance": 7.0
+  },
+  {
+    "displayName": "弩类",
+    "corruptionProperties": [
+      "有 5 个凹槽"
+    ],
+    "chance": 6.0
+  },
+  {
+    "displayName": "弩类",
+    "corruptionProperties": [
+      "有 6 个凹槽"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "双手",
+    "corruptionProperties": [
+      "有 3 个凹槽"
+    ],
+    "chance": 32.5
+  },
+  {
+    "displayName": "双手",
+    "corruptionProperties": [
+      "有 4 个凹槽"
+    ],
+    "chance": 7.0
+  },
+  {
+    "displayName": "双手",
+    "corruptionProperties": [
+      "有 5 个凹槽"
+    ],
+    "chance": 6.0
+  },
+  {
+    "displayName": "双手",
+    "corruptionProperties": [
+      "有 6 个凹槽"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "有 2 个凹槽"
+    ],
+    "chance": 12.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "有 3 个凹槽"
+    ],
+    "chance": 7.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "有 4 个凹槽"
+    ],
+    "chance": 6.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "有 1 个凹槽"
+    ],
+    "chance": 12.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "有 2 个凹槽"
+    ],
+    "chance": 7.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "有 3 个凹槽"
+    ],
+    "chance": 6.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "有 1 个凹槽"
+    ],
+    "chance": 12.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "有 2 个凹槽"
+    ],
+    "chance": 7.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "有 3 个凹槽"
+    ],
+    "chance": 6.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "有 1 个凹槽"
+    ],
+    "chance": 12.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "有 2 个凹槽"
+    ],
+    "chance": 7.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "有 3 个凹槽"
+    ],
+    "chance": 6.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "有 1 个凹槽"
+    ],
+    "chance": 12.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "有 2 个凹槽"
+    ],
+    "chance": 7.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "有 3 个凹槽"
+    ],
+    "chance": 6.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "有 1 个凹槽"
+    ],
+    "chance": 43.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "有 2 个凹槽"
+    ],
+    "chance": 7.0
+  },
+  {
+    "displayName": "毁灭",
+    "corruptionProperties": [
+      "Annihilus brick"
+    ],
+    "chance": 20.0
+  },
+  {
+    "displayName": "毁灭",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "毁灭",
+    "corruptionProperties": [
+      "+20-25 体力",
+      "+10-15 精力"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "毁灭",
+    "corruptionProperties": [
+      "+30-50% 获得的经验值"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "毁灭",
+    "corruptionProperties": [
+      "所有抗性 +5-10%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "毁灭",
+    "corruptionProperties": [
+      "+1 最大攻击 projectiles"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "毁灭",
+    "corruptionProperties": [
+      "+1 最大法术 Projectiles"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "毁灭",
+    "corruptionProperties": [
+      "+1 最大攻击次数"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "毁灭",
+    "corruptionProperties": [
+      "Increases 力量, 敏捷与 精力减少 +5-10%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+40-80% 增强伤害"
+    ],
+    "chance": 2.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+150-250 攻击准确率"
+    ],
+    "chance": 2.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-6 每击杀后获得生命命中"
+    ],
+    "chance": 2.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对恶魔的攻击准确率",
+      "+100-150% 对恶魔的伤害"
+    ],
+    "chance": 2.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "需求 -25 至 -50%"
+    ],
+    "chance": 2.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 2.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得生命"
+    ],
+    "chance": 2.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得法力"
+    ],
+    "chance": 2.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 2.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对不死生物的攻击准确率",
+      "+100-150% 对不死生物的伤害"
+    ],
+    "chance": 2.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人火焰抗性"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人闪电抗性"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人冰冷抗性"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人毒素抗性"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "5% 每次命中偷取生命",
+      "+40-60% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-40 至 -60 至怪物防御每 命中"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 致命攻击"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30-40% 攻击速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 攻击速度",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30% 攻击速度",
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 1.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "Ignore 目标's 防御",
+      "+60-80% 增强伤害"
+    ],
+    "chance": 1.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+25% 致命攻击",
+      "+50-70% 增强伤害"
+    ],
+    "chance": 1.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+250 攻击准确率",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 火焰技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 冰冷技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 闪电技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.0
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 毒素技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+30-40 法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20% 跑步/行走速度"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%",
+      "+1% 物理抗性上限"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "生命回复 +20-30"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取生命"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取法力"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得生命"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得法力"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+150-250 攻击准确率",
+      "+2-4 光照范围"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "所有抗性 +15-20%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "受到的物理伤害减少 4-6%",
+      "+1% 物理抗性上限"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": -20.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "法力回复 10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+20-40 生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "所有抗性 +5-8%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "生命回复 +15-25"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速打击恢复"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+15% 跑步/行走速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10% 增加格挡几率"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "20% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "受到的物理伤害减少 3-4%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 火焰抗性上限",
+      "火焰抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 冰冷抗性上限",
+      "冰冷抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 闪电抗性上限",
+      "闪电抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 毒素抗性上限",
+      "毒素抗性 +10%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "火焰抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "冰冷抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "闪电抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "毒素抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "法力回复 20-30%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+100-150 攻击准确率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+20-40 生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+10-15% 几率穿刺"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+10-20% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "生命回复 +15-20"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "2-3% 每次命中偷取生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "2-3% 每次命中偷取法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+4-6 力量",
+      "+4-6 敏捷",
+      "+4-6 体力",
+      "+4-6 精力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+10% 致命攻击"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得法力"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+10% 技能范围"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+10% 攻击速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "-15 至 -25% 目标防御"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "10% 增加格挡几率"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "手套",
+    "corruptionProperties": [
+      "+30-40% 增强伤害"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+7-10 力量"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+7-10 敏捷"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+7-10 体力"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+7-10 精力"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "火焰抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "冰冷抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "闪电抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "毒素抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "攻击者受到伤害之 16-32（以角色等级决定）"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+4-6 力量",
+      "+4-6 敏捷",
+      "+4-6 体力",
+      "+4-6 精力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+10-15% 几率穿刺"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+100-150 攻击准确率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "生命回复 +15-20"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "60-100% 额外金币从 怪物"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+10% 快速打击恢复"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+10% 技能冷却时间减少"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+10% 技能频率"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "20% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "受到的物理伤害减少 3-4%",
+      "+1% 物理抗性上限"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "10% 增加格挡几率"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+10% 攻击速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "腰带",
+    "corruptionProperties": [
+      "+2% 毒素抗性上限",
+      "+2% 冰冷抗性上限",
+      "+2% 闪电抗性上限",
+      "+2% 火焰抗性上限"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+20% 快速打击恢复"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "火焰抗性 +10-20%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "冰冷抗性 +10-20%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "闪电抗性 +10-20%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "毒素抗性 +10-20%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+50-100 攻击准确率"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-10 至 -20% 目标防御"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15% 几率穿刺"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-5 至 -10% 至敌人火焰抗性"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-5 至 -10% 至敌人冰冷抗性"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "2-4% 每次命中偷取生命"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "2-4% 每次命中偷取法力"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10% 跑步/行走速度"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15 最小伤害"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "所有抗性 +5-10%"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15 最大伤害"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+30-40% 增强伤害"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "Ignore 目标's 防御"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10% 攻击速度"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "火焰抗性 +35-40%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "冰冷抗性 +35-40%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "闪电抗性 +35-40%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "毒素抗性 +35-40%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "10-20% 增加格挡几率",
+      "+10% 快速格挡率"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 2.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 1.2
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 1.3
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+7-10 力量"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+7-10 敏捷"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+7-10 体力"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+7-10 精力"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "火焰抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "冰冷抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "闪电抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "毒素抗性 +10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "15-20% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "受到的物理伤害减少 4-6"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 4-6"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+100-150 攻击准确率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+10% 跑步/行走速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "受到的物理伤害减少 3%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "10% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "3-4% 每次命中偷取生命"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "3-4% 每次命中偷取法力"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+5% 灵气效果"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+5% 诅咒效果"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "戒指",
+    "corruptionProperties": [
+      "+4-6 力量",
+      "+4-6 敏捷",
+      "+4-6 体力",
+      "+4-6 精力"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+6-12 力量"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+6-12 敏捷"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+6-12 体力"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+6-12 精力"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+6-8 力量",
+      "+6-8 敏捷",
+      "+6-8 体力",
+      "+6-8 精力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+10-20% 几率穿刺"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "10% 增加格挡几率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+30-40% 增强伤害"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "Increases 力量, 敏捷与 精力减少 +10-15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "你 May Apply Additional 诅咒"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+2% 毒素抗性上限",
+      "+2% 冰冷抗性上限",
+      "+2% 闪电抗性上限",
+      "+2% 火焰抗性上限"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+5% 诅咒效果"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "+5% 灵气效果"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "项链",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+40-80% 增强伤害"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+150-250 攻击准确率"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-6 每击杀后获得生命命中"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对恶魔的攻击准确率",
+      "+100-150% 对恶魔的伤害"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "需求 -25 至 -50%"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对不死生物的攻击准确率",
+      "+100-150% 对不死生物的伤害"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人火焰抗性"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人闪电抗性"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人冰冷抗性"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人毒素抗性"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 施法速度"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "5% 每次命中偷取生命",
+      "+40-60% 增强伤害"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-40 至 -60 至怪物防御每 命中"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 致命攻击"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30-40% 攻击速度"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 攻击速度",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30% 攻击速度",
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "Ignore 目标's 防御",
+      "+60-80% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+25% 致命攻击",
+      "+50-70% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+250 攻击准确率",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 火焰技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 冰冷技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 闪电技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 毒素技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+40-80% 增强伤害"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+150-250 攻击准确率"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-6 每击杀后获得生命命中"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对恶魔的攻击准确率",
+      "+100-150% 对恶魔的伤害"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "需求 -25 至 -50%"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对不死生物的攻击准确率",
+      "+100-150% 对不死生物的伤害"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人火焰抗性"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人闪电抗性"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人冰冷抗性"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人毒素抗性"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 施法速度"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "5% 每次命中偷取生命",
+      "+40-60% 增强伤害"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-40 至 -60 至怪物防御每 命中"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 致命攻击"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30-40% 攻击速度"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 攻击速度",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30% 攻击速度",
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "Ignore 目标's 防御",
+      "+60-80% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+25% 致命攻击",
+      "+50-70% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+250 攻击准确率",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 火焰技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 冰冷技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 闪电技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 毒素技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+40-80% 增强伤害"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+150-250 攻击准确率"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-6 每击杀后获得生命命中"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对恶魔的攻击准确率",
+      "+100-150% 对恶魔的伤害"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "需求 -25 至 -50%"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对不死生物的攻击准确率",
+      "+100-150% 对不死生物的伤害"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人火焰抗性"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人闪电抗性"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人冰冷抗性"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人毒素抗性"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 施法速度"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "5% 每次命中偷取生命",
+      "+40-60% 增强伤害"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-40 至 -60 至怪物防御每 命中"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 致命攻击"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30-40% 攻击速度"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 攻击速度",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30% 攻击速度",
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "Ignore 目标's 防御",
+      "+60-80% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+25% 致命攻击",
+      "+50-70% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+250 攻击准确率",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 火焰技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 冰冷技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 闪电技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 毒素技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+40-80% 增强伤害"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+150-250 攻击准确率"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-6 每击杀后获得生命命中"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对恶魔的攻击准确率",
+      "+100-150% 对恶魔的伤害"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "需求 -25 至 -50%"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对不死生物的攻击准确率",
+      "+100-150% 对不死生物的伤害"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人火焰抗性"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人闪电抗性"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人冰冷抗性"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人毒素抗性"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 施法速度"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "5% 每次命中偷取生命",
+      "+40-60% 增强伤害"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-40 至 -60 至怪物防御每 命中"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 致命攻击"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30-40% 攻击速度"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 攻击速度",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30% 攻击速度",
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "Ignore 目标's 防御",
+      "+60-80% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+25% 致命攻击",
+      "+50-70% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+250 攻击准确率",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 火焰技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 冰冷技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 闪电技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 毒素技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+40-80% 增强伤害"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+150-250 攻击准确率"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-6 每击杀后获得生命命中"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对恶魔的攻击准确率",
+      "+100-150% 对恶魔的伤害"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "需求 -25 至 -50%"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+3-5 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.7
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+200 对不死生物的攻击准确率",
+      "+100-150% 对不死生物的伤害"
+    ],
+    "chance": 3.8
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人火焰抗性"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人闪电抗性"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人冰冷抗性"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-7 至 -10% 至敌人毒素抗性"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 施法速度"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "5% 每次命中偷取生命",
+      "+40-60% 增强伤害"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "-40 至 -60 至怪物防御每 命中"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 致命攻击"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30-40% 攻击速度"
+    ],
+    "chance": 2.2
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 2.3
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+20% 攻击速度",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+30% 攻击速度",
+      "+20-30% 几率之 压碎性打击"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "Ignore 目标's 防御",
+      "+60-80% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+25% 致命攻击",
+      "+50-70% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+250 攻击准确率",
+      "+80-120% 增强伤害"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 火焰技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 冰冷技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 闪电技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "武器",
+    "corruptionProperties": [
+      "+5% 毒素技能伤害",
+      "+10% 施法速度"
+    ],
+    "chance": 1.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+30-40 法力"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20% 跑步/行走速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+30-40 法力"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20% 跑步/行走速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+30-40 法力"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20% 跑步/行走速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+30-40 法力"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20% 跑步/行走速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+30-40 法力"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+20% 跑步/行走速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "护甲",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "生命回复 +20-30"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+150-250 攻击准确率",
+      "+2-4 光照范围"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "10% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "所有抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "受到的物理伤害减少 4-6%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "生命回复 +20-30"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+150-250 攻击准确率",
+      "+2-4 光照范围"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "10% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "所有抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "受到的物理伤害减少 4-6%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "生命回复 +20-30"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+150-250 攻击准确率",
+      "+2-4 光照范围"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "10% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "所有抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "受到的物理伤害减少 4-6%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "生命回复 +20-30"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+150-250 攻击准确率",
+      "+2-4 光照范围"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "10% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "所有抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "受到的物理伤害减少 4-6%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "生命回复 +20-30"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "火焰抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "冰冷抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "闪电抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "毒素抗性 +30-35%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "3-5% 每次命中偷取法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+3-4 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+150-250 攻击准确率",
+      "+2-4 光照范围"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "10% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "所有抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "受到的物理伤害减少 4-6%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "头盔",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20% 快速格挡率"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "火焰抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "冰冷抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "闪电抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "毒素抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "10-20% 增加格挡几率",
+      "+10% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20% 快速格挡率"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "火焰抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "冰冷抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "闪电抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "毒素抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "10-20% 增加格挡几率",
+      "+10% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20% 快速格挡率"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "火焰抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "冰冷抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "闪电抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "毒素抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "10-20% 增加格挡几率",
+      "+10% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20% 快速格挡率"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "火焰抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "冰冷抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "闪电抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "毒素抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "10-20% 增加格挡几率",
+      "+10% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20% 快速格挡率"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "20-30% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+20-30% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "火焰抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "冰冷抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "闪电抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "毒素抗性 +35-40%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "攻击者受到伤害之 32-48（以角色等级决定）"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "增加最大生命 4-6%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "10-20% 增加格挡几率",
+      "+10% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "无法冰冻"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "魔法伤害受到的减少 6-10"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+10% 施法速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "所有抗性 +20-25%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "受到的物理伤害减少 6-8%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 火焰抗性上限",
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 冰冷抗性上限",
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 闪电抗性上限",
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "任意盾牌",
+    "corruptionProperties": [
+      "+4-5% 毒素抗性上限",
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+20% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "火焰抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "冰冷抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "闪电抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "毒素抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+50-100 攻击准确率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-10 至 -20% 目标防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15% 几率穿刺"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-5 至 -10% 至敌人火焰抗性"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-5 至 -10% 至敌人冰冷抗性"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "2-4% 每次命中偷取生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "2-4% 每次命中偷取法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10% 跑步/行走速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15 最小伤害"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "所有抗性 +5-10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15 最大伤害"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+30-40% 增强伤害"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "Ignore 目标's 防御"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10% 攻击速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+20% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "火焰抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "冰冷抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "闪电抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "毒素抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+50-100 攻击准确率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-10 至 -20% 目标防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15% 几率穿刺"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-5 至 -10% 至敌人火焰抗性"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-5 至 -10% 至敌人冰冷抗性"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "2-4% 每次命中偷取生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "2-4% 每次命中偷取法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10% 跑步/行走速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15 最小伤害"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "所有抗性 +5-10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15 最大伤害"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+30-40% 增强伤害"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "Ignore 目标's 防御"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10% 攻击速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+20% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "火焰抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "冰冷抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "闪电抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "毒素抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+50-100 攻击准确率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-10 至 -20% 目标防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15% 几率穿刺"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-5 至 -10% 至敌人火焰抗性"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-5 至 -10% 至敌人冰冷抗性"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "2-4% 每次命中偷取生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "2-4% 每次命中偷取法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10% 跑步/行走速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15 最小伤害"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "所有抗性 +5-10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15 最大伤害"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+30-40% 增强伤害"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "Ignore 目标's 防御"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10% 攻击速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+20% 快速打击恢复"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+30-40 生命"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "火焰抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "冰冷抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "闪电抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "毒素抗性 +10-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+50-100 攻击准确率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-10 至 -20% 目标防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15% 几率穿刺"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-5 至 -10% 至敌人火焰抗性"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "-5 至 -10% 至敌人冰冷抗性"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "2-4% 每次命中偷取生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "2-4% 每次命中偷取法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10% 跑步/行走速度"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15 最小伤害"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "所有抗性 +5-10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "诅咒抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10-15 最大伤害"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+30-40% 增强伤害"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "Ignore 目标's 防御"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+10% 攻击速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "弓/弩箭袋",
+    "corruptionProperties": [
+      "+1 所有技能"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "法力回复 10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+20-40 生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "所有抗性 +5-8%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "生命回复 +15-25"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速打击恢复"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+15% 跑步/行走速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10% 增加格挡几率"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "20% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "受到的物理伤害减少 3-4%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 火焰抗性上限",
+      "火焰抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 冰冷抗性上限",
+      "冰冷抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 闪电抗性上限",
+      "闪电抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 毒素抗性上限",
+      "毒素抗性 +10%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "法力回复 10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+20-40 生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "所有抗性 +5-8%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "生命回复 +15-25"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速打击恢复"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+15% 跑步/行走速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10% 增加格挡几率"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "20% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "受到的物理伤害减少 3-4%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 火焰抗性上限",
+      "火焰抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 冰冷抗性上限",
+      "冰冷抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 闪电抗性上限",
+      "闪电抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 毒素抗性上限",
+      "毒素抗性 +10%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "法力回复 10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+20-40 生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "所有抗性 +5-8%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "生命回复 +15-25"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速打击恢复"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+15% 跑步/行走速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10% 增加格挡几率"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "20% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "受到的物理伤害减少 3-4%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 火焰抗性上限",
+      "火焰抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 冰冷抗性上限",
+      "冰冷抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 闪电抗性上限",
+      "闪电抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 毒素抗性上限",
+      "毒素抗性 +10%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "法力回复 10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+20-40 生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "所有抗性 +5-8%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "生命回复 +15-25"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速打击恢复"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+15% 跑步/行走速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10% 增加格挡几率"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "20% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "受到的物理伤害减少 3-4%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 火焰抗性上限",
+      "火焰抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 冰冷抗性上限",
+      "冰冷抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 闪电抗性上限",
+      "闪电抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 毒素抗性上限",
+      "毒素抗性 +10%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+50-80% 增强防御"
+    ],
+    "chance": 29.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10-25% 更好的几率之 获得魔法物品"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "50-100% 额外金币从 怪物"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "火焰抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "冰冷抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "闪电抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "毒素抗性 +15-20%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "法力回复 10-15%"
+    ],
+    "chance": 4.5
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速格挡率"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+20-40 生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "无法破坏",
+      "+50-80% 增强防御"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "所有抗性 +5-8%"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "生命回复 +15-25"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得生命"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3 每击杀一个敌人后获得法力"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+10% 快速打击恢复"
+    ],
+    "chance": 3.0
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+15% 跑步/行走速度"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "10% 增加格挡几率"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "20% 减少诅咒持续时间"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "受到的物理伤害减少 3-4%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 火焰抗性上限",
+      "火焰抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 冰冷抗性上限",
+      "冰冷抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 闪电抗性上限",
+      "闪电抗性 +10%"
+    ],
+    "chance": 1.9
+  },
+  {
+    "displayName": "靴子",
+    "corruptionProperties": [
+      "+2-3% 毒素抗性上限",
+      "毒素抗性 +10%"
+    ],
+    "chance": 1.8
+  },
+  {
+    "displayName": "地图 T4",
+    "corruptionProperties": [
+      "怪物拥有 15-20% 致命攻击",
+      "怪物密度：+50-60%",
+      "经验值：+8-10%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T4",
+    "corruptionProperties": [
+      "怪物拥有 25-35% 增加最大生命",
+      "怪物拥有 25-35 无法冰冻",
+      "怪物密度：+50-60%",
+      "经验值：+10-12%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T4",
+    "corruptionProperties": [
+      "玩家拥有 -35 至 -25% 攻击速度",
+      "玩家拥有 -35 至 -25% 施法速度",
+      "怪物密度：+50-60%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T4",
+    "corruptionProperties": [
+      "玩家拥有 -20 至 -15% 物理伤害减少",
+      "怪物密度：+50-60%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T4",
+    "corruptionProperties": [
+      "玩家拥有 40-50% 攻击速度",
+      "玩家拥有 40-50% 施法速度",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T4",
+    "corruptionProperties": [
+      "魔法寻找：+100%",
+      "金币寻找：+100%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T4",
+    "corruptionProperties": [
+      "怪物密度：+100-120%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T4",
+    "corruptionProperties": [
+      "+1 Area 等级",
+      "怪物密度：+25-30%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T4",
+    "corruptionProperties": [
+      "怪物稀有度：+50-60%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T4",
+    "corruptionProperties": [
+      "玩家拥有 -5 至 -4% 至火焰抗性上限",
+      "玩家拥有 -5 至 -4% 至闪电抗性上限",
+      "玩家拥有 -5 至 -4% 至冰冷抗性上限",
+      "玩家拥有 -5 至 -4% 至毒素抗性上限",
+      "怪物密度：+50-60%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T5",
+    "corruptionProperties": [
+      "怪物拥有 12-16% 致命攻击",
+      "怪物密度：+50-60%",
+      "经验值：+8-10%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T5",
+    "corruptionProperties": [
+      "怪物拥有 20-25% 增加最大生命",
+      "怪物拥有 20-25 无法冰冻",
+      "怪物密度：+50-60%",
+      "经验值：+10-12%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T5",
+    "corruptionProperties": [
+      "玩家拥有 -35 至 -25% 攻击速度",
+      "玩家拥有 -35 至 -25% 施法速度",
+      "怪物密度：+50-60%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T5",
+    "corruptionProperties": [
+      "玩家拥有 -20 至 -15% 物理伤害减少",
+      "怪物密度：+50-60%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T5",
+    "corruptionProperties": [
+      "玩家拥有 40-50% 攻击速度",
+      "玩家拥有 40-50% 施法速度",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T5",
+    "corruptionProperties": [
+      "魔法寻找：+100%",
+      "金币寻找：+100%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T5",
+    "corruptionProperties": [
+      "怪物密度：+100-120%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T5",
+    "corruptionProperties": [
+      "+1 Area 等级",
+      "怪物密度：+25-30%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T5",
+    "corruptionProperties": [
+      "怪物稀有度：+50-60%"
+    ],
+    "chance": 10.0
+  },
+  {
+    "displayName": "地图 T5",
+    "corruptionProperties": [
+      "玩家拥有 -5 至 -4% 至火焰抗性上限",
+      "玩家拥有 -5 至 -4% 至闪电抗性上限",
+      "玩家拥有 -5 至 -4% 至冰冷抗性上限",
+      "玩家拥有 -5 至 -4% 至毒素抗性上限",
+      "怪物密度：+50-60%",
+      "怪物稀有度：+20-25%"
+    ],
+    "chance": 10.0
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "code": "fa01",
+    "name": "药剂师",
+    "description": "\"4 瓶\" 魔力之血",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa02",
+    "name": "恐惧之眼",
+    "description": "\"3 瓶\" 魔力之血",
+    "requiredAmount": 8
+  },
+  {
+    "code": "fa03",
+    "name": "医师",
+    "description": "猎首",
+    "requiredAmount": 6
+  },
+  {
+    "code": "fa04",
+    "name": "源质",
+    "description": "10 个神圣宝珠",
+    "requiredAmount": 8
+  },
+  {
+    "code": "fa05",
+    "name": "不朽者",
+    "description": "Zod 符文",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa06",
+    "name": "财富与权力",
+    "description": "光歌之瓶",
+    "requiredAmount": 4
+  },
+  {
+    "code": "fa07",
+    "name": "镜之屋",
+    "description": "莉莉丝之镜",
+    "requiredAmount": 6
+  },
+  {
+    "code": "fa08",
+    "name": "单恋",
+    "description": "Cham 符文",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa09",
+    "name": "炽天使的恩宠",
+    "description": "泰瑞尔的力量",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa10",
+    "name": "诱人赏金",
+    "description": "2 个 Ber 符文",
+    "requiredAmount": 8
+  },
+  {
+    "code": "fa11",
+    "name": "生不如死",
+    "description": "Jah 符文",
+    "requiredAmount": 3
+  },
+  {
+    "code": "fa12",
+    "name": "完美之石",
+    "description": "腐化\n+1 所有技能\n乔丹之石",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa13",
+    "name": "孤独战士",
+    "description": "命运的抗争",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa14",
+    "name": "博学者",
+    "description": "星界之石",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa15",
+    "name": "虹彩之梦",
+    "description": "未切割的纯净珠宝",
+    "requiredAmount": 3
+  },
+  {
+    "code": "fa16",
+    "name": "蛛网",
+    "description": "蛛网腰带",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa17",
+    "name": "我见兄弟",
+    "description": "兄弟会之唤",
+    "requiredAmount": 4
+  },
+  {
+    "code": "fa18",
+    "name": "收割者",
+    "description": "死亡之姿",
+    "requiredAmount": 4
+  },
+  {
+    "code": "fa19",
+    "name": "持盾者",
+    "description": "侍从",
+    "requiredAmount": 6
+  },
+  {
+    "code": "fa20",
+    "name": "复仇者",
+    "description": "雷神之锤",
+    "requiredAmount": 4
+  },
+  {
+    "code": "fa21",
+    "name": "宝石匠的承诺",
+    "description": "暗金神话珠宝",
+    "requiredAmount": 3
+  },
+  {
+    "code": "fa22",
+    "name": "混沌本性",
+    "description": "5 个混沌宝珠",
+    "requiredAmount": 1
+  },
+  {
+    "code": "fa23",
+    "name": "意外之获",
+    "description": "75 个结晶余烬之魂",
+    "requiredAmount": 1
+  },
+  {
+    "code": "fa24",
+    "name": "再创发明",
+    "description": "物品等级：91\n魔法华丽护符",
+    "requiredAmount": 6
+  },
+  {
+    "code": "fa25",
+    "name": "宝石匠的怜悯",
+    "description": "物品等级：91\n稀有神话珠宝",
+    "requiredAmount": 6
+  },
+  {
+    "code": "fa26",
+    "name": "失落世界",
+    "description": "T4 地下城\n稀有罪之圣所",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa27",
+    "name": "无垠之境",
+    "description": "T4 地下城\n稀有折磨平原",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa28",
+    "name": "旅程",
+    "description": "T4 地下城\n稀有达肯沙尔草原",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa29",
+    "name": "制图师的喜悦",
+    "description": "5 个制图师的雕刻刀（采购）",
+    "requiredAmount": 4
+  },
+  {
+    "code": "fa30",
+    "name": "制图师",
+    "description": "5 个制图师的雕刻刀（贪婪）",
+    "requiredAmount": 4
+  },
+  {
+    "code": "fa31",
+    "name": "永不知足",
+    "description": "3 个复仇女神雕文",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa32",
+    "name": "伏击",
+    "description": "物品等级：85\n刺客陷阱技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa33",
+    "name": "艺术家",
+    "description": "物品等级：85\n刺客武学技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa34",
+    "name": "黑暗中的苦难",
+    "description": "物品等级：85\n刺客影子训练技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa36",
+    "name": "沉睡的魅力",
+    "description": "物品等级：85\n亚马逊被动与魔法技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa37",
+    "name": "阿塞盖长矛",
+    "description": "物品等级：85\n亚马逊标枪与长矛技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa38",
+    "name": "元素仪式",
+    "description": "物品等级：85\n德鲁伊元素技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa39",
+    "name": "始祖的召唤",
+    "description": "物品等级：85\n德鲁伊召唤技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa40",
+    "name": "兽化",
+    "description": "物品等级：85\n德鲁伊变形技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa41",
+    "name": "诅咒之语",
+    "description": "物品等级：85\n死灵法师诅咒技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa42",
+    "name": "黑暗法师",
+    "description": "物品等级：85\n死灵法师毒素与白骨技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa43",
+    "name": "巫妖",
+    "description": "物品等级：85\n死灵法师召唤技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa44",
+    "name": "天界审判官",
+    "description": "物品等级：85\n圣骑士战斗技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa45",
+    "name": "十字军",
+    "description": "物品等级：85\n圣骑士攻击灵气技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa46",
+    "name": "壁垒",
+    "description": "物品等级：85\n圣骑士防御灵气技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa47",
+    "name": "刺骨寒风",
+    "description": "物品等级：85\n法师冰冷法术技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa48",
+    "name": "熊熊烈焰",
+    "description": "物品等级：85\n法师火焰法术技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa49",
+    "name": "风暴将至",
+    "description": "物品等级：85\n法师闪电法术技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa50",
+    "name": "战争领主",
+    "description": "物品等级：85\n野蛮人战吼技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa51",
+    "name": "为战而生",
+    "description": "物品等级：85\n野蛮人战斗技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa52",
+    "name": "游击者",
+    "description": "物品等级：85\n野蛮人战斗专家技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa53",
+    "name": "无畏者",
+    "description": "物品等级：87\n稀有或暗金腰带",
+    "requiredAmount": 4
+  },
+  {
+    "code": "fa54",
+    "name": "宝石匠的馈赠",
+    "description": "物品等级：88\n稀有珠宝",
+    "requiredAmount": 4
+  },
+  {
+    "code": "fa55",
+    "name": "大法师的右手",
+    "description": "法力风暴",
+    "requiredAmount": 6
+  },
+  {
+    "code": "fa56",
+    "name": "求生者",
+    "description": "3 个点金石",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa57",
+    "name": "遗弃之财",
+    "description": "3 个神话宝珠",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa58",
+    "name": "斥候",
+    "description": "3 个地平线宝珠",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa59",
+    "name": "希望微光",
+    "description": "金环",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa60",
+    "name": "逃亡",
+    "description": "七里靴",
+    "requiredAmount": 5
+  },
+  {
+    "code": "fa61",
+    "name": "谦卑",
+    "description": "空白之卷",
+    "requiredAmount": 8
+  },
+  {
+    "code": "fa62",
+    "name": "圣者的宝藏",
+    "description": "2 个崇高宝珠",
+    "requiredAmount": 3
+  },
+  {
+    "code": "fa63",
+    "name": "发明家",
+    "description": "10 个世界之石碎片",
+    "requiredAmount": 8
+  }
+]

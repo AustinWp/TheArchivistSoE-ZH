@@ -1,0 +1,337 @@
+[
+  {
+    "id": "about",
+    "title": "关于飞升",
+    "text": [
+      "Ascendancies are a new way to develop your character in a more specified direction. These sub classes are available to any class and expand the possibility of builds greatly.",
+      "There are 14 ascendancies implemented at the moment. "
+    ]
+  },
+  {
+    "id": "ascension",
+    "title": "如何飞升",
+    "text": [
+      "After defeating Baal for the first time in normal difficulty, he will drop Ascendancy Cairn alongside Ascendancy Soulstone of Tier 1 - Soulstone of Might. \n",
+      "To cycle through the available Ascendancies, just cube Soulstone of Might on its own. After you have decided which Ascendancy you want to advance with, cube Soulstone of Might with your Ascendancy Cairn. Ascendancy Cairn acts as any other talisman, so just keep it in your inventory.\n",
+      "Defeating Baal for the first time on Nightmare and Hell difficulties, will yield you Soulstones of Tier 2 and 3 respectively. Cube them with your Ascendancy Cairn to unlock more power of the sub-class of your choice. \n",
+      "To obtain final Soulstone and achieve complete ascension, you have to prove your strength by defeating any of the Ubers on any tier:",
+      "- Diablo Clone",
+      "- Rathma",
+      "- Uber Tristram",
+      "- Lazarus",
+      "- Lucion"
+    ]
+  },
+  {
+    "id": "respec",
+    "title": "如何重置",
+    "text": [
+      "In order to respec, cube your Ascendancy Cairn with Token of Absolution. This will scour it and give you back all hard earned ascendancy stones."
+    ]
+  },
+  {
+    "id": "blood-mage",
+    "title": "血法师",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +30 to vitality",
+      "- +30 to energy",
+      "Tier 2:",
+      "- +25% Faster Cast Rate",
+      "- +100 life",
+      "Tier 3:",
+      "- 25% Increased Maximum Life",
+      "Tier 4:",
+      "- Gain 1% elemental and magic mastery for every 40 life",
+      "- Heal for 1% of Maximum Life on Kill",
+      "- Blood Magic"
+    ]
+  },
+  {
+    "id": "Chronomancer",
+    "title": "时空法师",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +20% Faster Cast Rate",
+      "- +25% Increased Attack Speed",
+      "Tier 2:",
+      "- +20% Skill Cooldown Reduction",
+      "- +25% to Skill Duration",
+      "Tier 3:",
+      "- +1 to Time Warp (Additional temporal movement/attack speed/faster cast rate bonus)",
+      "- +1 to Time Freeze (All speeds debuff for enemy; Curse)",
+      "Tier 4:",
+      "- Skill cooldown reduced by 1 second",
+      "- +20% to Skill Frequency"
+    ]
+  },
+  {
+    "id": "Juggernaut",
+    "title": "主宰",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +40 to Strength",
+      "- +40 to Dexterity",
+      "Tier 2:",
+      "- +30% Faster Hit Recovery",
+      "- 25% chance to cast Endurance Charge on being hit",
+      "- Every endurance charge gives 2% Physical Damage Duration",
+      "- Every endurance charge gives 5% Elemental Resistance",
+      "- 10 seconds duration",
+      "- Base max 5 charges",
+      "Tier 3:",
+      "- +400 to Attack Rating",
+      "- +3% to Maximum Physical Resistance",
+      "- Physical Absorb 3%",
+      "Tier 4:",
+      "- Gain Attack Rating equal to double your strength",
+      "- Gain 1% Increased Attack Speed per 40 Attack Rating",
+      "- Gain 25% Enhanced Damage per Endurance Charge",
+      "- +3 to Maximum Endurance Charges"
+    ]
+  },
+  {
+    "id": "Hierophant",
+    "title": "圣职者",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +100 to mana",
+      "- Regenerate Mana 200%",
+      "Tier 2:",
+      "- Increase Maximum Mana 40%",
+      "- 30% Damage Taken Gained as Mana when Hit",
+      "Tier 3:",
+      "- 25% chance to cast Level 1 Arcane Surge on casting",
+      "- Arcane Surge gives:",
+      "- Regenerate Mana 100%",
+      "- 25% Increased Faster Cast Rate",
+      "- Lasts 4 seconds",
+      "- +5 to Mana after each kill",
+      "Tier 4:",
+      "- Gain Faster Cast Rate equal to 1% of your maximum mana",
+      "- Gain Fire, Cold, Lightning equal to 2% of your maximum mana",
+      "- Gain Skill Area of Effect equal to 1% of your maximum mana"
+    ]
+  },
+  {
+    "id": "Berserker",
+    "title": "狂战士",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +40 to Strength",
+      "- +40 to Vitality",
+      "Tier 2:",
+      "- +1 to Attack Strikes",
+      "- +30% Increased Attack Speed",
+      "Tier 3:",
+      "- Gain 4 to 10 Physical Damage to melee attacks per 1% Life stolen per hit",
+      "- 10% Life stolen per hit",
+      "Tier 4:",
+      "- +1 to Maximum Attack Strikes",
+      "- -20% Physical Damage Reduction",
+      "- +250% Enhanced Damage"
+    ]
+  },
+  {
+    "id": "Elementalist",
+    "title": "元素师",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +40 to Energy",
+      "- +25% Faster Cast Rate",
+      "Tier 2:",
+      "- +1 to Spell Projectiles",
+      "- Fire Absorb 4%",
+      "- Cold Absorb 4%",
+      "- Lightning Absorb 4%",
+      "Tier 3:",
+      "- 25% chance to cast Level 1 Mastermind of Discord on casting:",
+      "- Gives +30% to Fire, Cold and Lightning masteries",
+      "- Gives -15% to Fire, Cold and Lightning Enemy Resistances",
+      "- Lasts 4 seconds",
+      "Tier 4:",
+      "- +1 to Maximum Spell Projectiles",
+      "- Gain 1 Mana per 1% of Fire Mastery",
+      "- Gain 2% Mana Recovery per 1% of Cold Mastery",
+      "- Gain 1% Faster Cast Rate per 10% of Lightning Mastery"
+    ]
+  },
+  {
+    "id": "Occultist",
+    "title": "秘术师",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +10% to Curse Effect",
+      "- +30 Energy",
+      "Tier 2:",
+      "- Magic Absorb 5%",
+      "- -15% to Enemy Magic Resistance",
+      "Tier 3:",
+      "- You may apply an additional Curse",
+      "- 15% chance to cast Level 1 Profane Bloom on kill",
+      "- Profane Bloom deals 4000 magic damage in 10yd radius",
+      "Tier 4:",
+      "- Gain +10% Curse Effect per curse you can apply",
+      "- Gain +1% Magic Mastery per 1% Curse Effect",
+      "- Gain +1% Faster Hit Recovery per 1% Curse Effect"
+    ]
+  },
+  {
+    "id": "Guardian",
+    "title": "守护者",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +30 to Strength",
+      "- +150 Defense",
+      "Tier 2:",
+      "- Poison length reduced by 50%",
+      "- 30% reduced curse duration",
+      "Tier 3:",
+      "- +5% to all Maximum Elemental Resistances",
+      "- Increases strength, dexterity and energy by 20%",
+      "Tier 4:",
+      "- Gain 1% to Aura Effect per every 2% to Maximum of any elemental resistance",
+      "- Gain 100 base defence per 4% of Aura Effect"
+    ]
+  },
+  {
+    "id": "Lich",
+    "title": "巫妖",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +30 to Strength",
+      "- +30 to Vitality",
+      "Tier 2:",
+      "- You May Summon 3 Additional Skeleton Warriors",
+      "- You May Summon 6 Additional Skeleton Mages",
+      "- You May Summon 4 Additional Skeleton Archers",
+      "Tier 3:",
+      "- You May Summon 4 Additional Revives",
+      "- Your minions gain 30% More Maximum Life",
+      "Tier 4:",
+      "- Level 1 Commander of Darkness aura when equipped",
+      "- Commander of Darkness grants +75% Enhanced Defense to your minions",
+      "- Commander of Darkness grants +150% Enhanced Damage to your minions",
+      "- Commander of Darkness grants 5% Life Steal to your minions",
+      "- Above values scale with Aura Effect"
+    ]
+  },
+  {
+    "id": "Pathfinder",
+    "title": "寻路者",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +30 to Vitality",
+      "- +40% to Poison Resistance",
+      "Tier 2:",
+      "- +25% Run/Walk Speed",
+      "- +30% Buff Effect",
+      "Tier 3:",
+      "- Gain Wither stack on cast",
+      "- Gain Wither stack on striking",
+      "- Each Wither stack provides -2% to Enemy Poison Resistance",
+      "- Wither lasts 4 seconds",
+      "- Max 10 stacks",
+      "- Scales with buff effect",
+      "- Wither is refreshed with each stack",
+      "Tier 4:",
+      "- 25% chance to gain +50% poison mastery on striking",
+      "- 35% chance to gain +50% poison mastery on casting",
+      "- Lasts 4 seconds",
+      "- Scales with buff effect"
+    ]
+  },
+  {
+    "id": "Spirit Walker",
+    "title": "灵行者",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +30 to Vitality",
+      "- Physical Damage Taken Reduced by 10%",
+      "Tier 2:",
+      "- You may summon 3 additional Spirit Wolves",
+      "- You may summon 1 additional Spirit",
+      "Tier 3:",
+      "- You may summon 2 additional Grizzlies",
+      "- Your minions gain \"Physical Damage Taken Reduced by\" equal to 25% of yours",
+      "Tier 4:",
+      "- +1 to Ferocious Roar:",
+      "- Lasts 10 seconds",
+      "- Has 20 seconds cooldown",
+      "- Grants 300% Enhanced Damage to allies",
+      "- Grants 40% Faster Run/Walk",
+      "- Grants 50% Increased Attack Speed"
+    ]
+  },
+  {
+    "id": "Deadeye",
+    "title": "锐眼",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +250 to Attack Rating",
+      "- +30 to dexterity",
+      "Tier 2:",
+      "- +1 to Attack Projectiles",
+      "- +1 to Blink Arrow",
+      "Tier 3:",
+      "- 50% chance to gain 1 Gale Force on Striking",
+      "- Gale Force also grants 10% Attack Rating per stack",
+      "- Gale Force also grants 2% Physical Damage Reduction per stack",
+      "- Lasts 4 seconds",
+      "Tier 4:",
+      "- +1 to Maximum Attack Projectiles",
+      "- Gain +125% Enhanced Damage per Maximum Attack Projectile"
+    ]
+  },
+  {
+    "id": "Chieftain",
+    "title": "酋长",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +50 to Vitality",
+      "Tier 2:",
+      "- Increase Maximum Life 15%",
+      "- +30% to Buff Effect",
+      "Tier 3:",
+      "- Modifiers to Fire Resistance also apply to Cold, Lightning and Poison Resistances at 50% of their Value",
+      "- Modifiers to Maximum Fire Resistance also apply to Maximum Cold, Lightning and Poison Resistances",
+      "Tier 4:",
+      "- -20% to Enemy Fire Resistance",
+      "- 15% chance to cast Level 1 Explosion on kill",
+      "- Explosion deals 5000-5000 fire damage in 10yd radius"
+    ]
+  },
+  {
+    "id": "Saboteur",
+    "title": "破坏者",
+    "text": [
+      "Tier 1:",
+      "- +2 to Class Skill Levels",
+      "- +30 to vitality",
+      "- Regenerate Mana 100%",
+      "Tier 2:",
+      "- +25% Increased Attack Speed",
+      "- +1 to Maximum Traps",
+      "Tier 3:",
+      "- You have Life regeneration equal to 5% of your Maximum Life",
+      "- +20% Skill Buff Effect",
+      "- +20% Skill Duration",
+      "Tier 4:",
+      "- Your traps gain elemental pierce and mastery at 125% value",
+      "- +1 to Maximum Traps"
+    ]
+  }
+]
