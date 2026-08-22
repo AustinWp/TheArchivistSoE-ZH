@@ -14333,7 +14333,7 @@
         "max": 10
       },
       {
-        "displayString": "怪物拥有 5-10% 几率之 撕裂伤口",
+        "displayString": "怪物拥有 5-10% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 5,
         "max": 10
@@ -14377,7 +14377,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 10-15% 几率之 撕裂伤口",
+        "displayString": "怪物拥有 10-15% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 10,
         "max": 15
@@ -14421,7 +14421,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 15-20% 几率之 撕裂伤口",
+        "displayString": "怪物拥有 15-20% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 15,
         "max": 20
@@ -14599,7 +14599,7 @@
         "max": 10
       },
       {
-        "displayString": "怪物拥有 15-25% 几率之 压碎性打击",
+        "displayString": "怪物拥有 15-25% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 15,
         "max": 25
@@ -14643,7 +14643,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 25-35% 几率之 压碎性打击",
+        "displayString": "怪物拥有 25-35% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 25,
         "max": 35
@@ -14687,7 +14687,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 35-45% 几率之 压碎性打击",
+        "displayString": "怪物拥有 35-45% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 35,
         "max": 45
@@ -17172,7 +17172,7 @@
     "group": 170,
     "displayProperties": [
       {
-        "displayString": "+20% 几率之 撕裂伤口",
+        "displayString": "+20% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 20,
         "max": 20
@@ -17208,7 +17208,7 @@
     "group": 170,
     "displayProperties": [
       {
-        "displayString": "+20% 几率之 撕裂伤口",
+        "displayString": "+20% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 20,
         "max": 20
@@ -17244,7 +17244,7 @@
     "group": 170,
     "displayProperties": [
       {
-        "displayString": "+20% 几率之 撕裂伤口",
+        "displayString": "+20% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 20,
         "max": 20
@@ -17280,7 +17280,7 @@
     "group": 170,
     "displayProperties": [
       {
-        "displayString": "+5% 几率之 撕裂伤口",
+        "displayString": "+5% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 5,
         "max": 5
@@ -17312,7 +17312,7 @@
     "group": 170,
     "displayProperties": [
       {
-        "displayString": "+5% 几率之 撕裂伤口",
+        "displayString": "+5% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 5,
         "max": 5
@@ -17344,7 +17344,7 @@
     "group": 170,
     "displayProperties": [
       {
-        "displayString": "+5% 几率之 撕裂伤口",
+        "displayString": "+5% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 5,
         "max": 5
@@ -19462,7 +19462,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 8-15% 几率之 撕裂伤口",
+        "displayString": "怪物拥有 8-15% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 8,
         "max": 15
@@ -19506,7 +19506,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 15-23% 几率之 撕裂伤口",
+        "displayString": "怪物拥有 15-23% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 15,
         "max": 23
@@ -19550,7 +19550,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 23-30% 几率之 撕裂伤口",
+        "displayString": "怪物拥有 23-30% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 23,
         "max": 30
@@ -19728,7 +19728,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 23-38% 几率之 压碎性打击",
+        "displayString": "怪物拥有 23-38% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 23,
         "max": 38
@@ -19772,7 +19772,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 38-53% 几率之 压碎性打击",
+        "displayString": "怪物拥有 38-53% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 38,
         "max": 53
@@ -19816,7 +19816,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 53-68% 几率之 压碎性打击",
+        "displayString": "怪物拥有 53-68% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 53,
         "max": 68
@@ -21021,7 +21021,7 @@
     "group": 203,
     "displayProperties": [
       {
-        "displayString": "+5-10% 几率之 压碎性打击",
+        "displayString": "+5-10% 几率造成 压碎性打击",
         "property": "crush",
         "min": 5,
         "max": 10
@@ -21046,7 +21046,7 @@
     "group": 203,
     "displayProperties": [
       {
-        "displayString": "+10-15% 几率之 压碎性打击",
+        "displayString": "+10-15% 几率造成 压碎性打击",
         "property": "crush",
         "min": 10,
         "max": 15
@@ -21071,7 +21071,7 @@
     "group": 203,
     "displayProperties": [
       {
-        "displayString": "+4-7% 几率之 压碎性打击",
+        "displayString": "+4-7% 几率造成 压碎性打击",
         "property": "crush",
         "min": 4,
         "max": 7
@@ -21096,7 +21096,7 @@
     "group": 203,
     "displayProperties": [
       {
-        "displayString": "+15-20% 几率之 压碎性打击",
+        "displayString": "+15-20% 几率造成 压碎性打击",
         "property": "crush",
         "min": 15,
         "max": 20
@@ -21121,7 +21121,7 @@
     "group": 203,
     "displayProperties": [
       {
-        "displayString": "+7-10% 几率之 压碎性打击",
+        "displayString": "+7-10% 几率造成 压碎性打击",
         "property": "crush",
         "min": 7,
         "max": 10
@@ -21802,7 +21802,7 @@
     "group": 170,
     "displayProperties": [
       {
-        "displayString": "+9% 几率之 撕裂伤口",
+        "displayString": "+9% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 9,
         "max": 9
@@ -22765,7 +22765,7 @@
     "group": 6,
     "displayProperties": [
       {
-        "displayString": "攻击者受到伤害之 3-6",
+        "displayString": "攻击者受到 3-6 伤害",
         "property": "thorns",
         "min": 3,
         "max": 6
@@ -22793,7 +22793,7 @@
     "group": 6,
     "displayProperties": [
       {
-        "displayString": "攻击者受到伤害之 8-12",
+        "displayString": "攻击者受到 8-12 伤害",
         "property": "thorns",
         "min": 8,
         "max": 12
@@ -22821,7 +22821,7 @@
     "group": 6,
     "displayProperties": [
       {
-        "displayString": "攻击者受到伤害之 31-40",
+        "displayString": "攻击者受到 31-40 伤害",
         "property": "thorns",
         "min": 31,
         "max": 40
@@ -22848,7 +22848,7 @@
     "group": 6,
     "displayProperties": [
       {
-        "displayString": "攻击者受到伤害之 80-160",
+        "displayString": "攻击者受到 80-160 伤害",
         "property": "thorns",
         "min": 80,
         "max": 160
@@ -22875,7 +22875,7 @@
     "group": 6,
     "displayProperties": [
       {
-        "displayString": "攻击者受到伤害之 30-40",
+        "displayString": "攻击者受到 30-40 伤害",
         "property": "thorns",
         "min": 30,
         "max": 40
@@ -31691,7 +31691,7 @@
     "group": 6,
     "displayProperties": [
       {
-        "displayString": "攻击者受到伤害之 1",
+        "displayString": "攻击者受到 1 伤害",
         "property": "thorns",
         "min": 1,
         "max": 1
@@ -34382,7 +34382,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+10% 几率之 撕裂伤口",
+        "displayString": "+10% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 10,
         "max": 10
@@ -34418,7 +34418,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+10% 几率之 撕裂伤口",
+        "displayString": "+10% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 10,
         "max": 10
@@ -34454,7 +34454,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+10% 几率之 撕裂伤口",
+        "displayString": "+10% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 10,
         "max": 10
@@ -34490,7 +34490,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+10% 几率之 撕裂伤口",
+        "displayString": "+10% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 10,
         "max": 10
@@ -34526,7 +34526,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+10% 几率之 撕裂伤口",
+        "displayString": "+10% 几率造成 撕裂伤口",
         "property": "openwounds",
         "min": 10,
         "max": 10
@@ -34562,7 +34562,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+5-10% 几率之 压碎性打击",
+        "displayString": "+5-10% 几率造成 压碎性打击",
         "property": "crush",
         "min": 5,
         "max": 10
@@ -34592,7 +34592,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+10-15% 几率之 压碎性打击",
+        "displayString": "+10-15% 几率造成 压碎性打击",
         "property": "crush",
         "min": 10,
         "max": 15
@@ -34622,7 +34622,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+15-20% 几率之 压碎性打击",
+        "displayString": "+15-20% 几率造成 压碎性打击",
         "property": "crush",
         "min": 15,
         "max": 20
@@ -34652,7 +34652,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+20-25% 几率之 压碎性打击",
+        "displayString": "+20-25% 几率造成 压碎性打击",
         "property": "crush",
         "min": 20,
         "max": 25
@@ -34682,7 +34682,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+25-30% 几率之 压碎性打击",
+        "displayString": "+25-30% 几率造成 压碎性打击",
         "property": "crush",
         "min": 25,
         "max": 30
@@ -36668,7 +36668,7 @@
     "group": 6,
     "displayProperties": [
       {
-        "displayString": "攻击者受到伤害之 200-400",
+        "displayString": "攻击者受到 200-400 伤害",
         "property": "thorns",
         "min": 200,
         "max": 400
