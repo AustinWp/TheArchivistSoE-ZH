@@ -49,8 +49,8 @@
   {
     "displayName": "地图 T1",
     "corruptionProperties": [
-      "魔法寻找：+50%",
-      "金币寻找：+50%",
+      "寻宝率：+50%",
+      "额外金币：+50%",
       "怪物稀有度：+10-15%"
     ],
     "chance": 27.0
@@ -65,7 +65,7 @@
   {
     "displayName": "地图 T1",
     "corruptionProperties": [
-      "+1 Area 等级",
+      "+1 区域等级",
       "怪物密度：+15-20%"
     ],
     "chance": 27.0
@@ -139,8 +139,8 @@
   {
     "displayName": "地图 T2",
     "corruptionProperties": [
-      "魔法寻找：+75%",
-      "金币寻找：+75%",
+      "寻宝率：+75%",
+      "额外金币：+75%",
       "怪物稀有度：+15-20%"
     ],
     "chance": 27.0
@@ -155,7 +155,7 @@
   {
     "displayName": "地图 T2",
     "corruptionProperties": [
-      "+1 Area 等级",
+      "+1 区域等级",
       "怪物密度：+20-25%"
     ],
     "chance": 27.0
@@ -229,8 +229,8 @@
   {
     "displayName": "地图 T3",
     "corruptionProperties": [
-      "魔法寻找：+100%",
-      "金币寻找：+100%",
+      "寻宝率：+100%",
+      "额外金币：+100%",
       "怪物稀有度：+20-25%"
     ],
     "chance": 27.0
@@ -245,7 +245,7 @@
   {
     "displayName": "地图 T3",
     "corruptionProperties": [
-      "+1 Area 等级",
+      "+1 区域等级",
       "怪物密度：+25-30%"
     ],
     "chance": 27.0
@@ -310,7 +310,7 @@
   {
     "displayName": "熔合体",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 5.0
   },
@@ -359,14 +359,14 @@
   {
     "displayName": "熔合体",
     "corruptionProperties": [
-      "Increases 力量, 敏捷与 精力减少 +10-15%"
+      "力量、敏捷和精力增加 +10-15%"
     ],
     "chance": 5.0
   },
   {
     "displayName": "熔合体",
     "corruptionProperties": [
-      "你 May Apply Additional 诅咒"
+      "你 可以施加额外诅咒"
     ],
     "chance": 5.0
   },
@@ -670,7 +670,7 @@
   {
     "displayName": "毁灭",
     "corruptionProperties": [
-      "Annihilus brick"
+      "毁灭之砖"
     ],
     "chance": 20.0
   },
@@ -706,14 +706,14 @@
   {
     "displayName": "毁灭",
     "corruptionProperties": [
-      "+1 最大攻击 projectiles"
+      "+1 最大攻击投射物"
     ],
     "chance": 10.0
   },
   {
     "displayName": "毁灭",
     "corruptionProperties": [
-      "+1 最大法术 Projectiles"
+      "+1 最大法术 投射物"
     ],
     "chance": 10.0
   },
@@ -727,7 +727,7 @@
   {
     "displayName": "毁灭",
     "corruptionProperties": [
-      "Increases 力量, 敏捷与 精力减少 +5-10%"
+      "力量、敏捷和精力增加 +5-10%"
     ],
     "chance": 10.0
   },
@@ -770,7 +770,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 2.5
   },
@@ -893,7 +893,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "Ignore 目标's 防御",
+      "忽略目标防御",
       "+60-80% 增强伤害"
     ],
     "chance": 1.0
@@ -963,7 +963,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 3.0
   },
@@ -1179,7 +1179,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 3.0
   },
@@ -1312,7 +1312,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -1485,7 +1485,7 @@
   {
     "displayName": "手套",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -1743,7 +1743,7 @@
   {
     "displayName": "腰带",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 3.0
   },
@@ -1838,7 +1838,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 3.0
   },
@@ -1971,7 +1971,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "Ignore 目标's 防御"
+      "忽略目标防御"
     ],
     "chance": 1.3
   },
@@ -1999,7 +1999,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 3.0
   },
@@ -2229,7 +2229,7 @@
   {
     "displayName": "戒指",
     "corruptionProperties": [
-      "15-20% 更好的几率之 获得魔法物品"
+      "15-20% 更好的机会获得魔法物品"
     ],
     "chance": 3.0
   },
@@ -2403,7 +2403,7 @@
   {
     "displayName": "项链",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 3.0
   },
@@ -2452,14 +2452,14 @@
   {
     "displayName": "项链",
     "corruptionProperties": [
-      "Increases 力量, 敏捷与 精力减少 +10-15%"
+      "力量、敏捷和精力增加 +10-15%"
     ],
     "chance": 1.9
   },
   {
     "displayName": "项链",
     "corruptionProperties": [
-      "你 May Apply Additional 诅咒"
+      "你 可以施加额外诅咒"
     ],
     "chance": 1.9
   },
@@ -2547,7 +2547,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 3.8
   },
@@ -2670,7 +2670,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "Ignore 目标's 防御",
+      "忽略目标防御",
       "+60-80% 增强伤害"
     ],
     "chance": 1.5
@@ -2769,7 +2769,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 3.8
   },
@@ -2892,7 +2892,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "Ignore 目标's 防御",
+      "忽略目标防御",
       "+60-80% 增强伤害"
     ],
     "chance": 1.5
@@ -2991,7 +2991,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 3.8
   },
@@ -3114,7 +3114,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "Ignore 目标's 防御",
+      "忽略目标防御",
       "+60-80% 增强伤害"
     ],
     "chance": 1.5
@@ -3213,7 +3213,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 3.8
   },
@@ -3336,7 +3336,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "Ignore 目标's 防御",
+      "忽略目标防御",
       "+60-80% 增强伤害"
     ],
     "chance": 1.5
@@ -3435,7 +3435,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 3.8
   },
@@ -3558,7 +3558,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "Ignore 目标's 防御",
+      "忽略目标防御",
       "+60-80% 增强伤害"
     ],
     "chance": 1.5
@@ -3628,7 +3628,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -3801,7 +3801,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -3974,7 +3974,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -4147,7 +4147,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -4320,7 +4320,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -4535,7 +4535,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -4709,7 +4709,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -4883,7 +4883,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -5057,7 +5057,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -5231,7 +5231,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -5363,7 +5363,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -5537,7 +5537,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -5711,7 +5711,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -5885,7 +5885,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -6059,7 +6059,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的几率之 获得魔法物品"
+      "20-30% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -6240,7 +6240,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -6373,7 +6373,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "Ignore 目标's 防御"
+      "忽略目标防御"
     ],
     "chance": 1.9
   },
@@ -6408,7 +6408,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -6541,7 +6541,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "Ignore 目标's 防御"
+      "忽略目标防御"
     ],
     "chance": 1.9
   },
@@ -6576,7 +6576,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -6709,7 +6709,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "Ignore 目标's 防御"
+      "忽略目标防御"
     ],
     "chance": 1.9
   },
@@ -6744,7 +6744,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -6877,7 +6877,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "Ignore 目标's 防御"
+      "忽略目标防御"
     ],
     "chance": 1.9
   },
@@ -6905,7 +6905,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -7078,7 +7078,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -7251,7 +7251,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -7424,7 +7424,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -7597,7 +7597,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的几率之 获得魔法物品"
+      "10-25% 更好的机会获得魔法物品"
     ],
     "chance": 4.5
   },
@@ -7810,8 +7810,8 @@
   {
     "displayName": "地图 T4",
     "corruptionProperties": [
-      "魔法寻找：+100%",
-      "金币寻找：+100%",
+      "寻宝率：+100%",
+      "额外金币：+100%",
       "怪物稀有度：+20-25%"
     ],
     "chance": 10.0
@@ -7826,7 +7826,7 @@
   {
     "displayName": "地图 T4",
     "corruptionProperties": [
-      "+1 Area 等级",
+      "+1 区域等级",
       "怪物密度：+25-30%"
     ],
     "chance": 10.0
@@ -7900,8 +7900,8 @@
   {
     "displayName": "地图 T5",
     "corruptionProperties": [
-      "魔法寻找：+100%",
-      "金币寻找：+100%",
+      "寻宝率：+100%",
+      "额外金币：+100%",
       "怪物稀有度：+20-25%"
     ],
     "chance": 10.0
@@ -7916,7 +7916,7 @@
   {
     "displayName": "地图 T5",
     "corruptionProperties": [
-      "+1 Area 等级",
+      "+1 区域等级",
       "怪物密度：+25-30%"
     ],
     "chance": 10.0

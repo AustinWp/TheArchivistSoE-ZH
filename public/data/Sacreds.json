@@ -1,2867 +1,2867 @@
 [
- {
-  "displayName": "狂乱的圣化宝珠",
-  "firstInputDisplayName": "Lem",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ist",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Io",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "头盔": [
-    "14% 几率施展等级 13 恐惧时 struck",
-    "6% 几率施展等级 14 心灵爆震时 struck",
-    "11% 几率施展等级 18 迷乱时 命中",
-    "+261 防御"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "头盔"
-  ]
- },
- {
-  "displayName": "摇曳之火的圣化宝珠",
-  "firstInputDisplayName": "Nef",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Pul",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Vex",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "头盔": [
-    "-5 至 -10% 至敌人火焰抗性",
-    "+4% 火焰抗性上限",
-    "+2 火焰系技能",
-    "毒素持续时间减少 50%"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "头盔"
-  ]
- },
- {
-  "displayName": "梦境的圣化宝珠",
-  "firstInputDisplayName": "Io",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Jah",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Pul",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "头盔",
-  "fourthInputQuantity": 0,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "头盔": [
-    "所有抗性 +10-20%",
-    "+20-30% 快速打击恢复",
-    "装备时赋予 14 级圣电灵气",
-    "+150-220 防御"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "头盔"
-  ]
- },
- {
-  "displayName": "凶残的圣化宝珠",
-  "firstInputDisplayName": "Zod",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Cham",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Shael",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "头盔": [
-    "12% 几率施展等级 10 嘲讽时 命中",
-    "+18 热诚（限于该类技能 +3）",
-    "无法破坏",
-    "无法冰冻"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "头盔"
-  ]
- },
- {
-  "displayName": "赎罪的圣化宝珠",
-  "firstInputDisplayName": "Lo",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Jah",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ohm",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "头盔": [
-    "6% 几率施展等级 25 钢铁处女时 命中",
-    "+150-200 对. 投射物",
-    "+200-250% 增强防御",
-    "+8-10% 诅咒效果"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "头盔"
-  ]
- },
- {
-  "displayName": "幻象的圣化宝珠",
-  "firstInputDisplayName": "Cham",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ohm",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ber",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "头盔": [
-    "+50-60 生命",
-    "增加最大生命 3-5%",
-    "装备时赋予 4-5 级信念灵气",
-    "+35-40% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "头盔"
-  ]
- },
- {
-  "displayName": "顺风的圣化宝珠",
-  "firstInputDisplayName": "Lo",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Sur",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ist",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "靴子": [
-    "+10-15% 技能频率",
-    "30% 更好的几率之 获得魔法物品",
-    "增加最大法力 5%",
-    "33% 几率施展等级 1 [Gale Force]（app:技能:Gale Force）时命中"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "靴子"
-  ]
- },
- {
-  "displayName": "共鸣的圣化宝珠",
-  "firstInputDisplayName": "Zod",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Io",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Hel",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "靴子": [
-    "+1 所有技能",
-    "+8-10% 灵气效果",
-    "+40% 跑步/行走速度",
-    "无法破坏"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "靴子"
-  ]
- },
- {
-  "displayName": "追猎的圣化宝珠",
-  "firstInputDisplayName": "Pul",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Lem",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ist",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "靴子": [
-    "+5-10% 技能冷却时间减少",
-    "+180-220 对. 投射物",
-    "10% 几率施展等级 1 [Onslaught]（app:技能:Onslaught）时你 击杀敌人",
-    "30% 更好的几率之 获得魔法物品"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "靴子"
-  ]
- },
- {
-  "displayName": "启迪的圣化宝珠",
-  "firstInputDisplayName": "Pul",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ral",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Sol",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "25% 几率施展等级 28 火焰球 时施法",
-    "+5-8 温暖（限于该类技能 +3）",
-    "+20% 施法速度",
-    "+2 法师技能等级"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "强制的圣化宝珠",
-  "firstInputDisplayName": "Shael",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Um",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Thul",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "+15% 几率之 压碎性打击",
-    "+40% 快速打击恢复",
-    "+40-80% 增强伤害",
-    "+150-200% 增强防御"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "石块的圣化宝珠",
-  "firstInputDisplayName": "Shael",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Um",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Pul",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Lum",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "所有抗性 +15%",
-    "+10-16 力量",
-    "+10-16 体力",
-    "+60% 快速打击恢复",
-    "+250-340% 增强防御"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "幽暗的圣化宝珠",
-  "firstInputDisplayName": "Fal",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Um",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Pul",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "所有抗性 +45%",
-    "15% 几率施展等级 9 Dim Vision 时 struck",
-    "+170-230% 增强防御",
-    "诅咒抗性 +20%"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "白骨的圣化宝珠",
-  "firstInputDisplayName": "Sol",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Um",
-  "secondInputQuantity": 2,
-  "thirdInputDisplayName": null,
-  "thirdInputQuantity": null,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "所有抗性 +30%",
-    "受到的物理伤害减少 7",
-    "30% 几率施展等级 25 骨矛时 命中",
-    "+2 死灵法师技能等级"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "审慎的圣化宝珠",
-  "firstInputDisplayName": "Mal",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Tir",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": null,
-  "thirdInputQuantity": null,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "所有抗性 +25-35%",
-    "受到的物理伤害减少 5-13",
-    "魔法伤害受到的减少 6-10",
-    "+40% 施法速度"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "雨的圣化宝珠",
-  "firstInputDisplayName": "Ort",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Mal",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ith",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "20% 几率施展等级 25 小旋风时 命中",
-    "8% 几率施展等级 15 飓风装甲时 struck",
-    "魔法伤害受到的减少 7",
-    "+2 德鲁伊技能等级"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "原则的圣化宝珠",
-  "firstInputDisplayName": "Ral",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Gul",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Eld",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "75% 几率施展等级 25 圣光弹时 命中",
-    "+4% 毒素抗性上限",
-    "+100-150 生命",
-    "+2 圣骑士技能等级"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "刚毅的圣化宝珠",
-  "firstInputDisplayName": "El",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Sol",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Dol",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Lo",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "护甲",
-  "fifthInputQuantity": 0,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "所有抗性 +25-30%",
-    "+（每级 1.0-1.5）1-148 生命（以角色等级决定）",
-    "+200% 增强防御",
-    "受到的物理伤害减少 7"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "荆棘的圣化宝珠",
-  "firstInputDisplayName": "Ral",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ohm",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Sur",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Eth",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "+4% 冰冷抗性上限",
-    "毒素抗性 +100%",
-    "+40-50% 毒素技能伤害",
-    "+300 防御"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "龙的圣化宝珠",
-  "firstInputDisplayName": "Sur",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Lo",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Sol",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "护甲",
-  "fourthInputQuantity": 0,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "12% 几率施展等级 40 九头蛇时 命中",
-    "+1 最大 Hydras",
-    "装备时赋予 12 级圣火灵气",
-    "+400-550 防御"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "荣誉的圣化宝珠",
-  "firstInputDisplayName": "Dol",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Um",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ber",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Ist",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "所有抗性 +50-60%",
-    "生命回复 +20",
-    "受到的物理伤害减少 5%",
-    "+2 所有技能"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "谜团的圣化宝珠",
-  "firstInputDisplayName": "Jah",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ith",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ber",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "+1 传送（限于该类技能 +3）",
-    "+（每级 0.5-0.75）0-74 力量（以角色等级决定）",
-    "+500-775 防御",
-    "+2 所有技能"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "纯真的圣化宝珠",
-  "firstInputDisplayName": "Gul",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Lem",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Zod",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Hel",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "等级 10-15 刀刃护盾装备时",
-    "+15-20% 技能范围",
-    "毒素持续时间减少 50%",
-    "+2 所有技能"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "要塞的圣化宝珠",
-  "firstInputDisplayName": "Zod",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Sol",
-  "secondInputQuantity": 2,
-  "thirdInputDisplayName": "Ber",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "+（每级 0.75-1.25）0-123 生命（以角色等级决定）",
-    "受到的物理伤害减少 12-20%",
-    "+250-300% 增强防御",
-    "+2% 物理抗性上限"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "匆忙的圣化宝珠",
-  "firstInputDisplayName": "Shael",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ko",
-  "secondInputQuantity": 2,
-  "thirdInputDisplayName": "Eld",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "+20% 攻击速度",
-    "所有抗性 +10%",
-    "+5-8% 技能频率",
-    "+20% 快速打击恢复"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "擢升的圣化宝珠",
-  "firstInputDisplayName": "Sur",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Jah",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Pul",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Um",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "护甲": [
-    "+130-150% 增强防御",
-    "+8-10% 灵气效果",
-    "+2 所有技能",
-    "装备时赋予 3-5 级净化灵气"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "护甲"
-  ]
- },
- {
-  "displayName": "精神的圣化宝珠",
-  "firstInputDisplayName": "Tal",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Thul",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ort",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Amn",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "任意盾牌",
-  "fifthInputQuantity": 0,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "任意盾牌": [
-    "+11-22 体力",
-    "+59-82 法力",
-    "+25-35% 施法速度",
-    "+3-8 魔法吸收"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "任意盾牌"
-  ]
- },
- {
-  "displayName": "圣堂的圣化宝珠",
-  "firstInputDisplayName": "Ko",
-  "firstInputQuantity": 2,
-  "secondInputDisplayName": "Mal",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": null,
-  "thirdInputQuantity": null,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "任意盾牌": [
-    "20% 增加格挡几率",
-    "+20% 快速格挡率",
-    "魔法伤害受到的减少 7",
-    "所有抗性 +40-50%"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "任意盾牌"
-  ]
- },
- {
-  "displayName": "流亡的圣化宝珠",
-  "firstInputDisplayName": "Vex",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ohm",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ist",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Dol",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "任意盾牌": [
-    "生命回复 +30",
-    "25% 几率施展等级 18 衰老时 命中",
-    "+220-260% 增强防御",
-    "装备时赋予 13-16 级反抗灵气"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "任意盾牌"
-  ]
- },
- {
-  "displayName": "顿悟的圣化宝珠",
-  "firstInputDisplayName": "Lo",
-  "firstInputQuantity": 2,
-  "secondInputDisplayName": "Ith",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ist",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "任意盾牌": [
-    "增加最大法力 28-35%",
-    "等级 18 精力盾牌装备时",
-    "+20% 施法速度",
-    "+8% 闪电抗性上限"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "任意盾牌"
-  ]
- },
- {
-  "displayName": "龙的圣化宝珠",
-  "firstInputDisplayName": "Sur",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Lo",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Sol",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "任意盾牌",
-  "fourthInputQuantity": 0,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "任意盾牌": [
-    "+400-550 防御",
-    "+1 最大 Hydras",
-    "装备时赋予 12 级圣火灵气",
-    "受到的物理伤害减少 9"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "任意盾牌"
-  ]
- },
- {
-  "displayName": "梦境的圣化宝珠",
-  "firstInputDisplayName": "Io",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Jah",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Pul",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "任意盾牌",
-  "fourthInputQuantity": 0,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "任意盾牌": [
-    "所有抗性 +10-20%",
-    "+20-30% 快速打击恢复",
-    "装备时赋予 14 级圣电灵气",
-    "+75 生命"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "任意盾牌"
-  ]
- },
- {
-  "displayName": "凤凰的圣化宝珠",
-  "firstInputDisplayName": "Vex",
-  "firstInputQuantity": 2,
-  "secondInputDisplayName": "Lo",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Jah",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "任意盾牌",
-  "fourthInputQuantity": 0,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "任意盾牌": [
-    "20% 几率施展等级 40 火风暴时 命中",
-    "+350-400 对. 投射物",
-    "装备时赋予 10-12 级救赎灵气",
-    "+75 生命"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "任意盾牌"
-  ]
- },
- {
-  "displayName": "破碎之墙的圣化宝珠",
-  "firstInputDisplayName": "Zod",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Jah",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ral",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Cham",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "任意盾牌": [
-    "装备时赋予 16 级圣冰灵气",
-    "+160-200% 增强防御",
-    "+125-175 生命",
-    "无法冰冻"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "任意盾牌"
-  ]
- },
- {
-  "displayName": "天顶的圣化宝珠",
-  "firstInputDisplayName": "Jah",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Zod",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ort",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Thul",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Ral",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Crossbow": [
-    "装备时赋予 10-12 级救助灵气",
-    "+45% 攻击速度",
-    "+2 所有技能",
-    "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
-   ],
-   "Staff": [
-    "装备时赋予 10-12 级救助灵气",
-    "+45% 攻击速度",
-    "+2 所有技能",
-    "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
-   ],
-   "Polearm": [
-    "装备时赋予 10-12 级救助灵气",
-    "+45% 攻击速度",
-    "+2 所有技能",
-    "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
-   ],
-   "Bow": [
-    "装备时赋予 10-12 级救助灵气",
-    "+45% 攻击速度",
-    "+2 所有技能",
-    "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
-   ],
-   "2H Sword": [
-    "装备时赋予 10-12 级救助灵气",
-    "+45% 攻击速度",
-    "+2 所有技能",
-    "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
-   ],
-   "Spear": [
-    "装备时赋予 10-12 级救助灵气",
-    "+45% 攻击速度",
-    "+2 所有技能",
-    "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Bow",
-   "Crossbow",
-   "Spear",
-   "Polearm",
-   "Staff",
-   "2H Sword"
-  ]
- },
- {
-  "displayName": "濒死的圣化宝珠",
-  "firstInputDisplayName": "Vex",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Hel",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "El",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Eld",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Zod",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": "Eth",
-  "sixthInputQuantity": 1,
-  "propertiesByItemType": {
-   "Hammer": [
-    "35% 几率施展等级 40 剧毒新星时 命中",
-    "无法破坏",
-    "+60% 攻击速度",
-    "+170-220% 增强伤害"
-   ],
-   "Crossbow": [
-    "35% 几率施展等级 40 剧毒新星时 命中",
-    "无法破坏",
-    "+60% 攻击速度",
-    "+170-220% 增强伤害"
-   ],
-   "Staff": [
-    "35% 几率施展等级 40 剧毒新星时 命中",
-    "无法破坏",
-    "+60% 攻击速度",
-    "+170-220% 增强伤害"
-   ],
-   "Bow": [
-    "35% 几率施展等级 40 剧毒新星时 命中",
-    "无法破坏",
-    "+60% 攻击速度",
-    "+170-220% 增强伤害"
-   ],
-   "2H Sword": [
-    "35% 几率施展等级 40 剧毒新星时 命中",
-    "无法破坏",
-    "+60% 攻击速度",
-    "+170-220% 增强伤害"
-   ],
-   "武器": [
-    "35% 几率施展等级 40 剧毒新星时 命中",
-    "无法破坏",
-    "+60% 攻击速度",
-    "+170-220% 增强伤害"
-   ],
-   "Axe": [
-    "35% 几率施展等级 40 剧毒新星时 命中",
-    "无法破坏",
-    "+60% 攻击速度",
-    "+170-220% 增强伤害"
-   ],
-   "Spear": [
-    "35% 几率施展等级 40 剧毒新星时 命中",
-    "无法破坏",
-    "+60% 攻击速度",
-    "+170-220% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "武器",
-   "2H Sword",
-   "Axe",
-   "Bow",
-   "Crossbow",
-   "Hammer",
-   "Spear",
-   "Staff"
-  ]
- },
- {
-  "displayName": "执念的圣化宝珠",
-  "firstInputDisplayName": "Zod",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ist",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Lem",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Lum",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Io",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": "Nef",
-  "sixthInputQuantity": 1,
-  "propertiesByItemType": {
-   "Staff": [
-    "24% 几率施展等级 18 削弱时 施法",
-    "增加最大生命 15-25%",
-    "所有抗性 +60-70%",
-    "+4 所有技能"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Staff"
-  ]
- },
- {
-  "displayName": "庇护所的圣化宝珠",
-  "firstInputDisplayName": "Gul",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Cham",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Hel",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Jah",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Dol",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": "Um",
-  "sixthInputQuantity": 1,
-  "propertiesByItemType": {
-   "Hammer": [
-    "装备时赋予 17-20 级圣堂灵气",
-    "25% 几率施展等级 40 天堂之拳时 命中",
-    "+200-235% 增强伤害",
-    "+2 所有技能"
-   ],
-   "Crossbow": [
-    "装备时赋予 17-20 级圣堂灵气",
-    "25% 几率施展等级 40 天堂之拳时 命中",
-    "+200-235% 增强伤害",
-    "+2 所有技能"
-   ],
-   "Staff": [
-    "装备时赋予 17-20 级圣堂灵气",
-    "25% 几率施展等级 40 天堂之拳时 施法",
-    "+20 敏捷",
-    "+2 所有技能"
-   ],
-   "Polearm": [
-    "装备时赋予 17-20 级圣堂灵气",
-    "25% 几率施展等级 40 天堂之拳时 命中",
-    "+200-235% 增强伤害",
-    "+2 所有技能"
-   ],
-   "Wand": [
-    "装备时赋予 17-20 级圣堂灵气",
-    "25% 几率施展等级 40 天堂之拳时 施法",
-    "+20 敏捷",
-    "+2 所有技能"
-   ],
-   "Bow": [
-    "装备时赋予 17-20 级圣堂灵气",
-    "25% 几率施展等级 40 天堂之拳时 命中",
-    "+200-235% 增强伤害",
-    "+2 所有技能"
-   ],
-   "2H Sword": [
-    "装备时赋予 17-20 级圣堂灵气",
-    "25% 几率施展等级 40 天堂之拳时 命中",
-    "+200-235% 增强伤害",
-    "+2 所有技能"
-   ],
-   "Spear": [
-    "装备时赋予 17-20 级圣堂灵气",
-    "25% 几率施展等级 40 天堂之拳时 命中",
-    "+200-235% 增强伤害",
-    "+2 所有技能"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Hammer",
-   "Polearm",
-   "Spear",
-   "Bow",
-   "Crossbow",
-   "2H Sword",
-   "Staff",
-   "Wand"
-  ]
- },
- {
-  "displayName": "骄傲的圣化宝珠",
-  "firstInputDisplayName": "Cham",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Sur",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Io",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Lo",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Staff": [
-    "装备时赋予 18-20 级专注灵气",
-    "260-300% 加成攻击准确率",
-    "+20% 致命攻击"
-   ],
-   "Polearm": [
-    "装备时赋予 18-20 级专注灵气",
-    "260-300% 加成攻击准确率",
-    "+20% 致命攻击"
-   ],
-   "Spear": [
-    "装备时赋予 18-20 级专注灵气",
-    "260-300% 加成攻击准确率",
-    "+20% 致命攻击"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Polearm",
-   "Spear",
-   "Staff"
-  ]
- },
- {
-  "displayName": "正义的圣化宝珠",
-  "firstInputDisplayName": "Sur",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Cham",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Amn",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Lo",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "武器": [
-    "装备时赋予 12 级圣火灵气",
-    "-10 至 -20% 至敌人火焰抗性",
-    "+20% 致命攻击",
-    "+190-220% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "武器"
-  ]
- },
- {
-  "displayName": "末日的圣化宝珠",
-  "firstInputDisplayName": "Hel",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ohm",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Um",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Lo",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Cham",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Hammer": [
-    "装备时赋予 16 级圣冰灵气",
-    "+2 所有技能",
-    "-30 至 -50% 至敌人冰冷抗性",
-    "+200-225% 增强伤害"
-   ],
-   "Sword": [
-    "装备时赋予 16 级圣冰灵气",
-    "+2 所有技能",
-    "-30 至 -50% 至敌人冰冷抗性",
-    "+200-225% 增强伤害"
-   ],
-   "Staff": [
-    "装备时赋予 16 级圣冰灵气",
-    "+30% 施法速度",
-    "-30 至 -50% 至敌人冰冷抗性",
-    "+2 所有技能"
-   ],
-   "Polearm": [
-    "装备时赋予 16 级圣冰灵气",
-    "+2 所有技能",
-    "-30 至 -50% 至敌人冰冷抗性",
-    "+200-225% 增强伤害"
-   ],
-   "Scepter": [
-    "装备时赋予 16 级圣冰灵气",
-    "+2 所有技能",
-    "-30 至 -50% 至敌人冰冷抗性",
-    "+200-225% 增强伤害"
-   ],
-   "Axe": [
-    "装备时赋予 16 级圣冰灵气",
-    "+2 所有技能",
-    "-30 至 -50% 至敌人冰冷抗性",
-    "+200-225% 增强伤害"
-   ],
-   "Spear": [
-    "装备时赋予 16 级圣冰灵气",
-    "+2 所有技能",
-    "-30 至 -50% 至敌人冰冷抗性",
-    "+200-225% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Axe",
-   "Polearm",
-   "Hammer",
-   "Spear",
-   "Sword",
-   "Scepter",
-   "Staff"
-  ]
- },
- {
-  "displayName": "主宰的圣化宝珠",
-  "firstInputDisplayName": "Cham",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ohm",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": null,
-  "thirdInputQuantity": null,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Wand": [
-    "+1 最大石魔",
-    "+2-3 石魔掌握（死灵法师专用）",
-    "受到的物理伤害减少 5-7",
-    "+2 死灵法师技能等级"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Wand"
-  ]
- },
- {
-  "displayName": "迷雾的圣化宝珠",
-  "firstInputDisplayName": "Cham",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Shael",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Gul",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Thul",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Ith",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Crossbow": [
-    "+100% 几率穿刺",
-    "+20% 攻击速度",
-    "装备时赋予 12-14 级专注灵气",
-    "+130-180% 增强伤害"
-   ],
-   "Bow": [
-    "+100% 几率穿刺",
-    "+20% 攻击速度",
-    "装备时赋予 12-14 级专注灵气",
-    "+130-180% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Bow",
-   "Crossbow"
-  ]
- },
- {
-  "displayName": "瘟疫的圣化宝珠",
-  "firstInputDisplayName": "Cham",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Fal",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Um",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "武器": [
-    "25% 几率施展等级 35 剧毒新星时 命中",
-    "+20% 施法速度",
-    "-20% 至敌人毒素抗性",
-    "装备时赋予 15-17 级净化灵气"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "武器"
-  ]
- },
- {
-  "displayName": "狂喜的圣化宝珠",
-  "firstInputDisplayName": "Vex",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Jah",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Lo",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Ral",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Ko",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": "Mal",
-  "sixthInputQuantity": 1,
-  "propertiesByItemType": {
-   "Hammer": [
-    "30% 几率施展等级 35 降低抗性时 命中",
-    "14% 几率施展等级 46 裂隙时 命中",
-    "+40% 致命攻击",
-    "+140-180% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Hammer"
-  ]
- },
- {
-  "displayName": "最后希望的圣化宝珠",
-  "firstInputDisplayName": "Jah",
-  "firstInputQuantity": 3,
-  "secondInputDisplayName": "Mal",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Sur",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Ber",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Hammer": [
-    "60% 几率施展等级 40 充能弹时 攻击",
-    "装备时赋予 19 级力量灵气",
-    "+60-70% 几率之 压碎性打击",
-    "+230-280% 增强伤害"
-   ],
-   "Sword": [
-    "60% 几率施展等级 40 充能弹时 攻击",
-    "装备时赋予 19 级力量灵气",
-    "+60-70% 几率之 压碎性打击",
-    "+230-280% 增强伤害"
-   ],
-   "Staff": [
-    "60% 几率施展等级 40 充能弹时 攻击",
-    "装备时赋予 19 级力量灵气",
-    "+60-70% 几率之 压碎性打击",
-    "+230-280% 增强伤害"
-   ],
-   "Axe": [
-    "60% 几率施展等级 40 充能弹时 攻击",
-    "装备时赋予 19 级力量灵气",
-    "+60-70% 几率之 压碎性打击",
-    "+230-280% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Axe",
-   "Hammer",
-   "Sword",
-   "Staff"
-  ]
- },
- {
-  "displayName": "毁灭的圣化宝珠",
-  "firstInputDisplayName": "Vex",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Lo",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ber",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Jah",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Ko",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Sword": [
-    "8% 几率施展等级 35 熔岩巨岩时 命中",
-    "15% 几率施展等级 45 陨石时 命中",
-    "20% 几率施展等级 35 霜之新星时 命中",
-    "+220% 增强伤害"
-   ],
-   "Staff": [
-    "8% 几率施展等级 35 熔岩巨岩时 施法",
-    "15% 几率施展等级 45 陨石时 施法",
-    "20% 几率施展等级 35 霜之新星时 施法",
-    "15% 几率施展等级 40 新星时 施法"
-   ],
-   "Polearm": [
-    "8% 几率施展等级 35 熔岩巨岩时 命中",
-    "15% 几率施展等级 45 陨石时 命中",
-    "20% 几率施展等级 35 霜之新星时 命中",
-    "+220% 增强伤害"
-   ],
-   "Spear": [
-    "8% 几率施展等级 35 熔岩巨岩时 命中",
-    "15% 几率施展等级 45 陨石时 命中",
-    "20% 几率施展等级 35 霜之新星时 命中",
-    "+220% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Sword",
-   "Polearm",
-   "Spear",
-   "Staff"
-  ]
- },
- {
-  "displayName": "凤凰的圣化宝珠",
-  "firstInputDisplayName": "Vex",
-  "firstInputQuantity": 2,
-  "secondInputDisplayName": "Lo",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Jah",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "武器",
-  "fourthInputQuantity": 0,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Staff": [
-    "20% 几率施展等级 40 火风暴时 施法",
-    "-28% 至敌人火焰抗性",
-    "装备时赋予 10-12 级救赎灵气",
-    "+15-21 火焰吸收"
-   ],
-   "武器": [
-    "20% 几率施展等级 40 火风暴时 命中",
-    "-28% 至敌人火焰抗性",
-    "装备时赋予 10-12 级救赎灵气",
-    "+180-225% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Staff",
-   "武器"
-  ]
- },
- {
-  "displayName": "烙印的圣化宝珠",
-  "firstInputDisplayName": "Jah",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Lo",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Mal",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Gul",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Crossbow": [
-    "+8 最大骷髅弓箭手",
-    "50% 几率施展等级 45 破碎骨髓时 命中",
-    "+20% 致命攻击",
-    "+160-200% 增强伤害"
-   ],
-   "Bow": [
-    "+8 最大骷髅弓箭手",
-    "50% 几率施展等级 45 破碎骨髓时 命中",
-    "+20% 致命攻击",
-    "+160-200% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Crossbow",
-   "Bow"
-  ]
- },
- {
-  "displayName": "冰冻的圣化宝珠",
-  "firstInputDisplayName": "Amn",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Shael",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Jah",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Lo",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Crossbow": [
-    "装备时赋予 18 级圣冰灵气",
-    "+25-30% 冰冷技能伤害",
-    "-20% 至敌人冰冷抗性",
-    "20% 几率施展等级 32 霜之新星时 命中"
-   ],
-   "Bow": [
-    "装备时赋予 18 级圣冰灵气",
-    "+25-30% 冰冷技能伤害",
-    "-20% 至敌人冰冷抗性",
-    "20% 几率施展等级 32 霜之新星时 命中"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Crossbow",
-   "Bow"
-  ]
- },
- {
-  "displayName": "信念的圣化宝珠",
-  "firstInputDisplayName": "Ohm",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Jah",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Lem",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Eld",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Crossbow": [
-    "所有抗性 +15%",
-    "300% 加成攻击准确率",
-    "装备时赋予 12-15 级狂热灵气",
-    "+160-180% 增强伤害"
-   ],
-   "Bow": [
-    "所有抗性 +15%",
-    "300% 加成攻击准确率",
-    "装备时赋予 12-15 级狂热灵气",
-    "+160-180% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Crossbow",
-   "Bow"
-  ]
- },
- {
-  "displayName": "饥荒的圣化宝珠",
-  "firstInputDisplayName": "Fal",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ohm",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ort",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Jah",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Hammer": [
-    "-15% 至敌人闪电抗性",
-    "-15% 至敌人火焰抗性",
-    "-15% 至敌人冰冷抗性",
-    "增加 100-225 火焰伤害\\n增加 100-225 冰冷伤害\\n增加 100-225 闪电伤害\\n"
-   ],
-   "Sword": [
-    "-15% 至敌人闪电抗性",
-    "-15% 至敌人火焰抗性",
-    "-15% 至敌人冰冷抗性",
-    "增加 100-225 火焰伤害\\n增加 100-225 冰冷伤害\\n增加 100-225 闪电伤害\\n"
-   ],
-   "Axe": [
-    "-15% 至敌人闪电抗性",
-    "-15% 至敌人火焰抗性",
-    "-15% 至敌人冰冷抗性",
-    "增加 100-225 火焰伤害\\n增加 100-225 冰冷伤害\\n增加 100-225 闪电伤害\\n"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Axe",
-   "Hammer",
-   "Sword"
-  ]
- },
- {
-  "displayName": "狂怒的圣化宝珠",
-  "firstInputDisplayName": "Jah",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Gul",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Eth",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Thrown Weapon": [
-    "Ignore 目标's 防御",
-    "+40% 攻击速度",
-    "+33-66% 致命攻击",
-    "+150-180% 增强伤害"
-   ],
-   "Melee Weapon": [
-    "Ignore 目标's 防御",
-    "+40% 攻击速度",
-    "+33-66% 致命攻击",
-    "+150-180% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Thrown Weapon",
-   "Melee Weapon"
-  ]
- },
- {
-  "displayName": "无限的圣化宝珠",
-  "firstInputDisplayName": "Ber",
-  "firstInputQuantity": 2,
-  "secondInputDisplayName": "Mal",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ist",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Hammer": [
-    "25% 几率施展等级 20 连锁闪电时 命中",
-    "-45 至 -55% 至敌人闪电抗性",
-    "装备时赋予 12 级信念灵气",
-    "+150-195% 增强伤害"
-   ],
-   "Staff": [
-    "15% 几率施展等级 20 连锁闪电时 施法",
-    "-45 至 -55% 至敌人闪电抗性",
-    "装备时赋予 12 级信念灵气",
-    "2% 几率施展等级 15 飓风装甲时 施法"
-   ],
-   "Polearm": [
-    "25% 几率施展等级 20 连锁闪电时 命中",
-    "-45 至 -55% 至敌人闪电抗性",
-    "装备时赋予 12 级信念灵气",
-    "+150-195% 增强伤害"
-   ],
-   "Spear": [
-    "25% 几率施展等级 20 连锁闪电时 命中",
-    "-45 至 -55% 至敌人闪电抗性",
-    "装备时赋予 12 级信念灵气",
-    "+150-195% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Polearm",
-   "Staff",
-   "Spear",
-   "Hammer"
-  ]
- },
- {
-  "displayName": "永恒的圣化宝珠",
-  "firstInputDisplayName": "Amn",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ber",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ist",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Sol",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Sur",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Melee Weapon": [
-    "+6 最大 Revives",
-    "10% 以…形态复活：Wraith",
-    "+61-71 最小伤害",
-    "+61-71 最大伤害",
-    "+190-210% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Melee Weapon"
-  ]
- },
- {
-  "displayName": "野兽的圣化宝珠",
-  "firstInputDisplayName": "Ber",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Tir",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Um",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Mal",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Lum",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Hammer": [
-    "+6 熊人变化（限于该类技能 +3）",
-    "+6 撞槌（限于该类技能 +3）",
-    "装备时赋予 8-10 级狂热灵气",
-    "+150-180% 增强伤害"
-   ],
-   "Staff": [
-    "+6 熊人变化（限于该类技能 +3）",
-    "+6 撞槌（限于该类技能 +3）",
-    "装备时赋予 8-10 级狂热灵气",
-    "+150-180% 增强伤害"
-   ],
-   "Scepter": [
-    "+6 熊人变化（限于该类技能 +3）",
-    "+6 撞槌（限于该类技能 +3）",
-    "装备时赋予 8-10 级狂热灵气",
-    "+150-180% 增强伤害"
-   ],
-   "Axe": [
-    "+6 熊人变化（限于该类技能 +3）",
-    "+6 撞槌（限于该类技能 +3）",
-    "装备时赋予 8-10 级狂热灵气",
-    "+150-180% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Axe",
-   "Scepter",
-   "Hammer",
-   "Staff"
-  ]
- },
- {
-  "displayName": "愤怒的圣化宝珠",
-  "firstInputDisplayName": "Pul",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Lum",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ber",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Mal",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Crossbow": [
-    "Prevent 怪物治疗",
-    "+30-45% 攻击速度",
-    "60% 几率施展等级 31 伤害加深时 命中",
-    "增加 85-120 魔法伤害"
-   ],
-   "Bow": [
-    "Prevent 怪物治疗",
-    "+30-45% 攻击速度",
-    "60% 几率施展等级 31 伤害加深时 命中",
-    "增加 85-120 魔法伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Crossbow",
-   "Bow"
-  ]
- },
- {
-  "displayName": "风的圣化宝珠",
-  "firstInputDisplayName": "Sur",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "El",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": null,
-  "thirdInputQuantity": null,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Staff": [
-    "+20-30% 跑步/行走速度",
-    "18% 几率施展等级 35 龙卷风时 施法",
-    "18% 几率施展等级 35 小旋风时 施法",
-    "5% 几率施展等级 9 飓风装甲时 施法"
-   ],
-   "Thrown Weapon": [
-    "+20-30% 跑步/行走速度",
-    "18% 几率施展等级 35 龙卷风时 命中",
-    "18% 几率施展等级 35 小旋风时 命中",
-    "+80-140% 增强伤害"
-   ],
-   "Melee Weapon": [
-    "+20-30% 跑步/行走速度",
-    "18% 几率施展等级 35 龙卷风时 命中",
-    "18% 几率施展等级 35 小旋风时 命中",
-    "+120-180% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Staff",
-   "Thrown Weapon",
-   "Melee Weapon"
-  ]
- },
- {
-  "displayName": "悔恨的圣化宝珠",
-  "firstInputDisplayName": "Eth",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Tir",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Lo",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Mal",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Ral",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Sword": [
-    "+160 最小伤害",
-    "+120-140 最大伤害",
-    "-15 至 -20% 至敌人毒素抗性",
-    "35% 几率施展等级 15 毒牙时 命中"
-   ],
-   "Polearm": [
-    "+160 最小伤害",
-    "+120-140 最大伤害",
-    "-15 至 -20% 至敌人毒素抗性",
-    "35% 几率施展等级 15 毒牙时 命中"
-   ],
-   "Axe": [
-    "+160 最小伤害",
-    "+120-140 最大伤害",
-    "-15 至 -20% 至敌人毒素抗性",
-    "35% 几率施展等级 15 毒牙时 命中"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Sword",
-   "Axe",
-   "Polearm"
-  ]
- },
- {
-  "displayName": "刚毅的圣化宝珠",
-  "firstInputDisplayName": "El",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Sol",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Dol",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Lo",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "武器",
-  "fifthInputQuantity": 0,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "武器": [
-    "所有抗性 +25-30%",
-    "+（每级 1.0-1.5）1-148 生命（以角色等级决定）",
-    "+20% 致命攻击",
-    "+130-180% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "武器"
-  ]
- },
- {
-  "displayName": "兵器的圣化宝珠",
-  "firstInputDisplayName": "Amn",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ral",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Mal",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Ist",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Ohm",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "武器": [
-    "+2-6 战斗号令（限于该类技能 +3）",
-    "+2-6 战斗指挥（限于该类技能 +3）",
-    "+1-3 战斗狂嗥（限于该类技能 +3）",
-    "+80-120% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "武器"
-  ]
- },
- {
-  "displayName": "混沌的圣化宝珠",
-  "firstInputDisplayName": "Fal",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ohm",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Um",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Melee Weapon": [
-    "18% 几率施展等级 40 充能弹时 命中",
-    "+2 Blade Dance（刺客专用）",
-    "+90-130% 增强伤害",
-    "增加 200-400 魔法伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Melee Weapon"
-  ]
- },
- {
-  "displayName": "死亡的圣化宝珠",
-  "firstInputDisplayName": "Hel",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "El",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Vex",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Ort",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Gul",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Sword": [
-    "25% 几率施展等级 18 Glacial Spike 时攻击",
-    "+50% 几率之 压碎性打击",
-    "+65-110% 增强伤害"
-   ],
-   "Axe": [
-    "25% 几率施展等级 18 Glacial Spike 时攻击",
-    "+50% 几率之 压碎性打击",
-    "+65-110% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Sword",
-   "Axe"
-  ]
- },
- {
-  "displayName": "橡树的圣化宝珠",
-  "firstInputDisplayName": "Ko",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Vex",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Pul",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Thul",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Mace": [
-    "增加最大法力 15%",
-    "4 级橡木智者（25 次充能）",
-    "所有抗性 +20-30%",
-    "+30% 施法速度"
-   ],
-   "Staff": [
-    "增加最大法力 15%",
-    "4 级橡木智者（25 次充能）",
-    "所有抗性 +20-30%",
-    "+30% 施法速度"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Mace",
-   "Staff"
-  ]
- },
- {
-  "displayName": "弑王者的圣化宝珠",
-  "firstInputDisplayName": "Mal",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Um",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Gul",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Fal",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Sword": [
-    "+30% 攻击速度",
-    "+10 Vengeance（限于该类技能 +3）",
-    "+50-90% 增强伤害",
-    "增加 250-500 冰冷伤害"
-   ],
-   "Axe": [
-    "+30% 攻击速度",
-    "+10 Vengeance（限于该类技能 +3）",
-    "+50-90% 增强伤害",
-    "增加 250-500 冰冷伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Sword",
-   "Axe"
-  ]
- },
- {
-  "displayName": "裂缝的圣化宝珠",
-  "firstInputDisplayName": "Hel",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ko",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Lem",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Gul",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Sword": [
-    "38% 受击时承受伤害的百分比转化为法力",
-    "26% 几率施展等级 30 龙卷风时 命中",
-    "24% 几率施展等级 25 冰封球时 命中",
-    "+60% 攻击速度"
-   ],
-   "Polearm": [
-    "38% 受击时承受伤害的百分比转化为法力",
-    "26% 几率施展等级 30 龙卷风时 命中",
-    "24% 几率施展等级 25 冰封球时 命中",
-    "+60% 攻击速度"
-   ],
-   "Scepter": [
-    "38% 受击时承受伤害的百分比转化为法力",
-    "26% 几率施展等级 30 龙卷风时 命中",
-    "24% 几率施展等级 25 冰封球时 命中",
-    "+60% 攻击速度"
-   ],
-   "Spear": [
-    "38% 受击时承受伤害的百分比转化为法力",
-    "26% 几率施展等级 30 龙卷风时 命中",
-    "24% 几率施展等级 25 冰封球时 命中",
-    "+60% 攻击速度"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Polearm",
-   "Spear",
-   "Scepter",
-   "Sword"
-  ]
- },
- {
-  "displayName": "誓约的圣化宝珠",
-  "firstInputDisplayName": "Shael",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Pul",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Mal",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Lum",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Mace": [
-    "+50% 攻击速度",
-    "30% 几率施展等级 20 灵魂撕裂时 命中",
-    "+10-15 魔法吸收",
-    "+30-70% 增强伤害"
-   ],
-   "Sword": [
-    "+50% 攻击速度",
-    "30% 几率施展等级 20 灵魂撕裂时 命中",
-    "+10-15 魔法吸收",
-    "+30-70% 增强伤害"
-   ],
-   "Axe": [
-    "+50% 攻击速度",
-    "30% 几率施展等级 20 灵魂撕裂时 命中",
-    "+10-15 魔法吸收",
-    "+30-70% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Sword",
-   "Axe",
-   "Mace"
-  ]
- },
- {
-  "displayName": "毒牙的圣化宝珠",
-  "firstInputDisplayName": "Tal",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Dol",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Mal",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "武器": [
-    "+6 毒素打击（限于该类技能 +3）",
-    "20% 几率施展等级 28 剧毒新星时 命中",
-    "-20 至 -30% 至敌人毒素抗性",
-    "Prevent 怪物治疗"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "武器"
-  ]
- },
- {
-  "displayName": "新月的圣化宝珠",
-  "firstInputDisplayName": "Shael",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Um",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Tir",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "武器": [
-    "-10 至 -15% 至敌人闪电抗性",
-    "10% 几率施展等级 27 连锁闪电时 命中",
-    "24% 几率施展等级 13 静电力场时 命中",
-    "+20-50% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "武器"
-  ]
- },
- {
-  "displayName": "忠诚的圣化宝珠",
-  "firstInputDisplayName": "Pul",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Tir",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Dol",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Crossbow": [
-    "+4 每击杀一个敌人后获得法力",
-    "+2-3 炮轰（亚马逊专用）",
-    "+20% 几率穿刺",
-    "+2 被动与魔法技能（亚马逊专用）"
-   ],
-   "Polearm": [
-    "+4 每击杀一个敌人后获得法力",
-    "+2-3 炮轰（亚马逊专用）",
-    "+20% 几率穿刺",
-    "+2 被动与魔法技能（亚马逊专用）"
-   ],
-   "Bow": [
-    "+4 每击杀一个敌人后获得法力",
-    "+2-3 炮轰（亚马逊专用）",
-    "+20% 几率穿刺",
-    "+2 被动与魔法技能（亚马逊专用）"
-   ],
-   "Spear": [
-    "+4 每击杀一个敌人后获得法力",
-    "+2-3 炮轰（亚马逊专用）",
-    "+20% 几率穿刺",
-    "+2 被动与魔法技能（亚马逊专用）"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Polearm",
-   "Spear",
-   "Crossbow",
-   "Bow"
-  ]
- },
- {
-  "displayName": "寒冬的圣化宝珠",
-  "firstInputDisplayName": "Lem",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ko",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "El",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Eld",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Mace": [
-    "-24% 至敌人冰冷抗性",
-    "18% 几率施展等级 20 冰爆震时 命中",
-    "15% 几率施展等级 16 冰封球时 命中",
-    "增加 200-320 冰冷伤害"
-   ],
-   "Crossbow": [
-    "-24% 至敌人冰冷抗性",
-    "18% 几率施展等级 20 冰爆震时 命中",
-    "15% 几率施展等级 16 冰封球时 命中",
-    "增加 200-320 冰冷伤害"
-   ],
-   "Sword": [
-    "-24% 至敌人冰冷抗性",
-    "18% 几率施展等级 20 冰爆震时 命中",
-    "15% 几率施展等级 16 冰封球时 命中",
-    "增加 200-320 冰冷伤害"
-   ],
-   "Bow": [
-    "-24% 至敌人冰冷抗性",
-    "18% 几率施展等级 20 冰爆震时 命中",
-    "15% 几率施展等级 16 冰封球时 命中",
-    "增加 200-320 冰冷伤害"
-   ],
-   "Scepter": [
-    "-24% 至敌人冰冷抗性",
-    "18% 几率施展等级 20 冰爆震时 命中",
-    "15% 几率施展等级 16 冰封球时 命中",
-    "增加 200-320 冰冷伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Crossbow",
-   "Bow",
-   "Mace",
-   "Scepter",
-   "Sword"
-  ]
- },
- {
-  "displayName": "服从的圣化宝珠",
-  "firstInputDisplayName": "Hel",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ko",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Thul",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Eth",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "Fal",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Hammer": [
-    "30% 几率施展等级 21 强化火焰时 你击杀敌人",
-    "+40% 几率之 压碎性打击",
-    "-25% 至敌人火焰抗性",
-    "所有抗性 +20-30%"
-   ],
-   "Polearm": [
-    "30% 几率施展等级 21 强化火焰时 你击杀敌人",
-    "+40% 几率之 压碎性打击",
-    "-25% 至敌人火焰抗性",
-    "所有抗性 +20-30%"
-   ],
-   "Spear": [
-    "30% 几率施展等级 21 强化火焰时 你击杀敌人",
-    "+40% 几率之 压碎性打击",
-    "-25% 至敌人火焰抗性",
-    "所有抗性 +20-30%"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Polearm",
-   "Spear",
-   "Hammer"
-  ]
- },
- {
-  "displayName": "不屈意志的圣化宝珠",
-  "firstInputDisplayName": "Fal",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Io",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ith",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Eld",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "El",
-  "fifthInputQuantity": 1,
-  "sixthInputDisplayName": "Hel",
-  "sixthInputQuantity": 1,
-  "propertiesByItemType": {
-   "Sword": [
-    "+3 精通（野蛮人专用）",
-    "+20-30% 攻击速度",
-    "受到的物理伤害减少 8",
-    "+20-50% 增强伤害"
-   ],
-   "2H Sword": [
-    "+3 精通（野蛮人专用）",
-    "+20-30% 攻击速度",
-    "受到的物理伤害减少 8",
-    "+20-50% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Sword",
-   "2H Sword"
-  ]
- },
- {
-  "displayName": "和谐的圣化宝珠",
-  "firstInputDisplayName": "Tir",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ith",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Sol",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Ko",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Crossbow": [
-    "装备时赋予 10 级活力灵气",
-    "+3-6 女武神（亚马逊专用）",
-    "+2 每击杀一个敌人后获得法力",
-    "+15-40% 增强伤害"
-   ],
-   "Bow": [
-    "装备时赋予 10 级活力灵气",
-    "+3-6 女武神（亚马逊专用）",
-    "+2 每击杀一个敌人后获得法力",
-    "+15-40% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Bow",
-   "Crossbow"
-  ]
- },
- {
-  "displayName": "洞察的圣化宝珠",
-  "firstInputDisplayName": "Ral",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Tir",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Tal",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Sol",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Staff": [
-    "装备时赋予 12-17 级冥想灵气",
-    "+10-20 力量",
-    "+10-20 敏捷",
-    "+10-20 体力",
-    "+10-20 精力",
-    "+35% 施法速度",
-    "+2 每击杀一个敌人后获得法力"
-   ],
-   "Polearm": [
-    "装备时赋予 12-17 级冥想灵气",
-    "+10-20 力量",
-    "+10-20 敏捷",
-    "+10-20 体力",
-    "+10-20 精力",
-    "+35% 施法速度",
-    "+2 每击杀一个敌人后获得法力"
-   ],
-   "Spear": [
-    "装备时赋予 12-17 级冥想灵气",
-    "+10-20 力量",
-    "+10-20 敏捷",
-    "+10-20 体力",
-    "+10-20 精力",
-    "+35% 施法速度",
-    "+2 每击杀一个敌人后获得法力"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Spear",
-   "Staff",
-   "Polearm"
-  ]
- },
- {
-  "displayName": "纯净的圣化宝珠",
-  "firstInputDisplayName": "Amn",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Eth",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Thul",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Crossbow": [
-    "装备时赋予 10-12 级祈祷灵气",
-    "30% 减少诅咒持续时间",
-    "+80-120% 对恶魔的伤害",
-    "+45% 攻击速度"
-   ],
-   "Staff": [
-    "装备时赋予 10-12 级祈祷灵气",
-    "30% 减少诅咒持续时间",
-    "+80-120% 对恶魔的伤害",
-    "+45% 攻击速度"
-   ],
-   "Polearm": [
-    "装备时赋予 10-12 级祈祷灵气",
-    "30% 减少诅咒持续时间",
-    "+80-120% 对恶魔的伤害",
-    "+45% 攻击速度"
-   ],
-   "Bow": [
-    "装备时赋予 10-12 级祈祷灵气",
-    "30% 减少诅咒持续时间",
-    "+80-120% 对恶魔的伤害",
-    "+45% 攻击速度"
-   ],
-   "武器": [
-    "装备时赋予 10-12 级祈祷灵气",
-    "30% 减少诅咒持续时间",
-    "+80-120% 对恶魔的伤害",
-    "+45% 攻击速度"
-   ],
-   "Spear": [
-    "装备时赋予 10-12 级祈祷灵气",
-    "30% 减少诅咒持续时间",
-    "+80-120% 对恶魔的伤害",
-    "+45% 攻击速度"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "武器",
-   "Polearm",
-   "Spear",
-   "Staff",
-   "Bow",
-   "Crossbow"
-  ]
- },
- {
-  "displayName": "精神的圣化宝珠",
-  "firstInputDisplayName": "Tal",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Thul",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ort",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Amn",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": "武器",
-  "fifthInputQuantity": 0,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Sword": [
-    "+59-82 法力",
-    "+25% 快速打击恢复",
-    "+11-22 体力",
-    "+1 所有技能"
-   ],
-   "Staff": [
-    "+59-82 法力",
-    "+55% 快速打击恢复",
-    "+11-22 体力",
-    "+2 所有技能"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Staff",
-   "Sword"
-  ]
- },
- {
-  "displayName": "白色的圣化宝珠",
-  "firstInputDisplayName": "Dol",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Io",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": null,
-  "thirdInputQuantity": null,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Wand": [
-    "魔法伤害受到的减少 4",
-    "+13 法力",
-    "+2-3 骨甲（死灵法师专用）",
-    "+2 毒素与白骨技能（死灵法师专用）"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Wand"
-  ]
- },
- {
-  "displayName": "荒芜的圣化宝珠",
-  "firstInputDisplayName": "Ber",
-  "firstInputQuantity": 2,
-  "secondInputDisplayName": "Vex",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": null,
-  "thirdInputQuantity": null,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "武器": [
-    "-15 至 -20% 至敌人物理抗性",
-    "装备时赋予 12-16 级 [Frailty]（app:技能:Frailty）灵气",
-    "+140-170% 增强伤害",
-    "+15-20% 致命攻击"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "武器"
-  ]
- },
- {
-  "displayName": "堡垒的圣化宝珠",
-  "firstInputDisplayName": "Ohm",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Shael",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Nef",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Gul",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Hammer": [
-    "25% 几率施展等级 20 [Reinforce]（app:技能:强化）时命中",
-    "+90-140% 增强伤害",
-    "增加最大生命 10-15%",
-    "+10 最小伤害"
-   ],
-   "Mace": [
-    "25% 几率施展等级 20 [Reinforce]（app:技能:强化）时命中",
-    "+90-140% 增强伤害",
-    "增加最大生命 10-15%",
-    "+10 最小伤害"
-   ],
-   "Sword": [
-    "25% 几率施展等级 20 [Reinforce]（app:技能:强化）时命中",
-    "+90-140% 增强伤害",
-    "增加最大生命 10-15%",
-    "+10 最小伤害"
-   ],
-   "Polearm": [
-    "25% 几率施展等级 20 [Reinforce]（app:技能:强化）时命中",
-    "+90-140% 增强伤害",
-    "增加最大生命 10-15%",
-    "+10 最小伤害"
-   ],
-   "2H Sword": [
-    "25% 几率施展等级 20 [Reinforce]（app:技能:强化）时命中",
-    "+90-140% 增强伤害",
-    "增加最大生命 10-15%",
-    "+10 最小伤害"
-   ],
-   "Axe": [
-    "25% 几率施展等级 20 [Reinforce]（app:技能:强化）时命中",
-    "+90-140% 增强伤害",
-    "增加最大生命 10-15%",
-    "+10 最小伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Axe",
-   "Mace",
-   "Sword",
-   "2H Sword",
-   "Hammer",
-   "Polearm"
-  ]
- },
- {
-  "displayName": "执法者的圣化宝珠",
-  "firstInputDisplayName": "Amn",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Lem",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Ko",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Hammer": [
-    "20% 几率施展等级 15 衰老时 命中",
-    "被击杀的怪物 Rest 在 Peace",
-    "增加 150-210 火焰伤害",
-    "增加 130-180 冰冷伤害"
-   ],
-   "Sword": [
-    "20% 几率施展等级 15 衰老时 命中",
-    "被击杀的怪物 Rest 在 Peace",
-    "增加 150-210 火焰伤害",
-    "增加 130-180 冰冷伤害"
-   ],
-   "Claws": [
-    "20% 几率施展等级 15 衰老时 命中",
-    "被击杀的怪物 Rest 在 Peace",
-    "增加 150-210 火焰伤害",
-    "增加 130-180 冰冷伤害"
-   ],
-   "Throwing Axe": [
-    "20% 几率施展等级 15 衰老时 命中",
-    "被击杀的怪物 Rest 在 Peace",
-    "增加 150-210 火焰伤害",
-    "增加 130-180 冰冷伤害"
-   ],
-   "Thrown Weapon": [
-    "20% 几率施展等级 15 衰老时 命中",
-    "被击杀的怪物 Rest 在 Peace",
-    "增加 150-210 火焰伤害",
-    "增加 130-180 冰冷伤害"
-   ],
-   "Scepter": [
-    "20% 几率施展等级 15 衰老时 命中",
-    "被击杀的怪物 Rest 在 Peace",
-    "增加 150-210 火焰伤害",
-    "增加 130-180 冰冷伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Hammer",
-   "Sword",
-   "Scepter",
-   "Claws",
-   "Throwing Axe",
-   "Thrown Weapon"
-  ]
- },
- {
-  "displayName": "回忆的圣化宝珠",
-  "firstInputDisplayName": "Lum",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Io",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": "Sol",
-  "thirdInputQuantity": 1,
-  "fourthInputDisplayName": "Eth",
-  "fourthInputQuantity": 1,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Staff": [
-    "+5-10% 技能冷却时间减少",
-    "增加最大法力 25-40%",
-    "+10 体力",
-    "+50% 增强防御"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Staff"
-  ]
- },
- {
-  "displayName": "经文的圣化宝珠",
-  "firstInputDisplayName": "Tal",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ort",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": null,
-  "thirdInputQuantity": null,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Missile": [
-    "+20 生命",
-    "闪电抗性 +40-50%",
-    "毒素抗性 +40-50%",
-    "+10-20% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Missile"
-  ]
- },
- {
-  "displayName": "预见的圣化宝珠",
-  "firstInputDisplayName": "Ral",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Thul",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": null,
-  "thirdInputQuantity": null,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Missile": [
-    "法力回复 20%",
-    "冰冷抗性 +40-50%",
-    "火焰抗性 +40-50%",
-    "+10-20% 增强伤害"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Missile"
-  ]
- },
- {
-  "displayName": "回响的圣化宝珠",
-  "firstInputDisplayName": "Dol",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Sol",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": null,
-  "thirdInputQuantity": null,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Missile": [
-    "+20-30% 几率穿刺",
-    "+2 每击杀一个敌人后获得生命",
-    "+20-30% 增强伤害",
-    "受到的物理伤害减少 9"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Missile"
-  ]
- },
- {
-  "displayName": "盛怒的圣化宝珠",
-  "firstInputDisplayName": "Jah",
-  "firstInputQuantity": 1,
-  "secondInputDisplayName": "Ber",
-  "secondInputQuantity": 1,
-  "thirdInputDisplayName": null,
-  "thirdInputQuantity": null,
-  "fourthInputDisplayName": null,
-  "fourthInputQuantity": null,
-  "fifthInputDisplayName": null,
-  "fifthInputQuantity": null,
-  "sixthInputDisplayName": null,
-  "sixthInputQuantity": null,
-  "propertiesByItemType": {
-   "Missile": [
-    "+120-140% 增强伤害",
-    "+50-60% 攻击速度",
-    "+2 所有技能",
-    "+15% 跑步/行走速度"
-   ]
-  },
-  "itemTypesDisplayNames": [
-   "Missile"
-  ]
- }
+  {
+    "displayName": "狂乱的圣化宝珠",
+    "firstInputDisplayName": "Lem",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ist",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Io",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "头盔": [
+        "14% 几率施展等级 13 恐惧时 struck",
+        "6% 几率施展等级 14 心灵爆震时 struck",
+        "11% 几率施展等级 18 迷乱时 命中",
+        "+261 防御"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "头盔"
+    ]
+  },
+  {
+    "displayName": "摇曳之火的圣化宝珠",
+    "firstInputDisplayName": "Nef",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Pul",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Vex",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "头盔": [
+        "-5 至 -10% 至敌人火焰抗性",
+        "+4% 火焰抗性上限",
+        "+2 火焰系技能",
+        "毒素持续时间减少 50%"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "头盔"
+    ]
+  },
+  {
+    "displayName": "梦境的圣化宝珠",
+    "firstInputDisplayName": "Io",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Jah",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Pul",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "头盔",
+    "fourthInputQuantity": 0,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "头盔": [
+        "所有抗性 +10-20%",
+        "+20-30% 快速打击恢复",
+        "装备时赋予 14 级圣电灵气",
+        "+150-220 防御"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "头盔"
+    ]
+  },
+  {
+    "displayName": "凶残的圣化宝珠",
+    "firstInputDisplayName": "Zod",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Cham",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Shael",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "头盔": [
+        "12% 几率施展等级 10 嘲讽时 命中",
+        "+18 热诚（限于该类技能 +3）",
+        "无法破坏",
+        "无法冰冻"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "头盔"
+    ]
+  },
+  {
+    "displayName": "赎罪的圣化宝珠",
+    "firstInputDisplayName": "Lo",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Jah",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ohm",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "头盔": [
+        "6% 几率施展等级 25 钢铁处女时 命中",
+        "+150-200 对. 投射物",
+        "+200-250% 增强防御",
+        "+8-10% 诅咒效果"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "头盔"
+    ]
+  },
+  {
+    "displayName": "幻象的圣化宝珠",
+    "firstInputDisplayName": "Cham",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ohm",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ber",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "头盔": [
+        "+50-60 生命",
+        "增加最大生命 3-5%",
+        "装备时赋予 4-5 级信念灵气",
+        "+35-40% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "头盔"
+    ]
+  },
+  {
+    "displayName": "顺风的圣化宝珠",
+    "firstInputDisplayName": "Lo",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Sur",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ist",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "靴子": [
+        "+10-15% 技能频率",
+        "30% 更好的机会获得魔法物品",
+        "增加最大法力 5%",
+        "33% 几率施展等级 1 [狂风之力](app:skills:狂风之力)时命中"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "靴子"
+    ]
+  },
+  {
+    "displayName": "共鸣的圣化宝珠",
+    "firstInputDisplayName": "Zod",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Io",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Hel",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "靴子": [
+        "+1 所有技能",
+        "+8-10% 灵气效果",
+        "+40% 跑步/行走速度",
+        "无法破坏"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "靴子"
+    ]
+  },
+  {
+    "displayName": "追猎的圣化宝珠",
+    "firstInputDisplayName": "Pul",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Lem",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ist",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "靴子": [
+        "+5-10% 技能冷却时间减少",
+        "+180-220 对. 投射物",
+        "10% 几率施展等级 1 [猛攻](app:skills:猛攻)时你 击杀敌人",
+        "30% 更好的机会获得魔法物品"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "靴子"
+    ]
+  },
+  {
+    "displayName": "启迪的圣化宝珠",
+    "firstInputDisplayName": "Pul",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ral",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Sol",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "25% 几率施展等级 28 火焰球 时施法",
+        "+5-8 温暖（限于该类技能 +3）",
+        "+20% 施法速度",
+        "+2 法师技能等级"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "强制的圣化宝珠",
+    "firstInputDisplayName": "Shael",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Um",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Thul",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "+15% 几率之 压碎性打击",
+        "+40% 快速打击恢复",
+        "+40-80% 增强伤害",
+        "+150-200% 增强防御"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "石块的圣化宝珠",
+    "firstInputDisplayName": "Shael",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Um",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Pul",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Lum",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "所有抗性 +15%",
+        "+10-16 力量",
+        "+10-16 体力",
+        "+60% 快速打击恢复",
+        "+250-340% 增强防御"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "幽暗的圣化宝珠",
+    "firstInputDisplayName": "Fal",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Um",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Pul",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "所有抗性 +45%",
+        "15% 几率在受击时施展 9 级 微暗灵视",
+        "+170-230% 增强防御",
+        "诅咒抗性 +20%"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "白骨的圣化宝珠",
+    "firstInputDisplayName": "Sol",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Um",
+    "secondInputQuantity": 2,
+    "thirdInputDisplayName": null,
+    "thirdInputQuantity": null,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "所有抗性 +30%",
+        "受到的物理伤害减少 7",
+        "30% 几率施展等级 25 骨矛时 命中",
+        "+2 死灵法师技能等级"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "审慎的圣化宝珠",
+    "firstInputDisplayName": "Mal",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Tir",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": null,
+    "thirdInputQuantity": null,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "所有抗性 +25-35%",
+        "受到的物理伤害减少 5-13",
+        "魔法伤害受到的减少 6-10",
+        "+40% 施法速度"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "雨的圣化宝珠",
+    "firstInputDisplayName": "Ort",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Mal",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ith",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "20% 几率施展等级 25 小旋风时 命中",
+        "8% 几率施展等级 15 飓风装甲时 struck",
+        "魔法伤害受到的减少 7",
+        "+2 德鲁伊技能等级"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "原则的圣化宝珠",
+    "firstInputDisplayName": "Ral",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Gul",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Eld",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "75% 几率施展等级 25 圣光弹时 命中",
+        "+4% 毒素抗性上限",
+        "+100-150 生命",
+        "+2 圣骑士技能等级"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "刚毅的圣化宝珠",
+    "firstInputDisplayName": "El",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Sol",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Dol",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Lo",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "护甲",
+    "fifthInputQuantity": 0,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "所有抗性 +25-30%",
+        "+（每级 1.0-1.5）1-148 生命（以角色等级决定）",
+        "+200% 增强防御",
+        "受到的物理伤害减少 7"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "荆棘的圣化宝珠",
+    "firstInputDisplayName": "Ral",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ohm",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Sur",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Eth",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "+4% 冰冷抗性上限",
+        "毒素抗性 +100%",
+        "+40-50% 毒素技能伤害",
+        "+300 防御"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "龙的圣化宝珠",
+    "firstInputDisplayName": "Sur",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Lo",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Sol",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "护甲",
+    "fourthInputQuantity": 0,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "12% 几率施展等级 40 九头蛇时 命中",
+        "+1 最大 Hydras",
+        "装备时赋予 12 级圣火灵气",
+        "+400-550 防御"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "荣誉的圣化宝珠",
+    "firstInputDisplayName": "Dol",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Um",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ber",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Ist",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "所有抗性 +50-60%",
+        "生命回复 +20",
+        "受到的物理伤害减少 5%",
+        "+2 所有技能"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "谜团的圣化宝珠",
+    "firstInputDisplayName": "Jah",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ith",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ber",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "+1 传送（限于该类技能 +3）",
+        "+（每级 0.5-0.75）0-74 力量（以角色等级决定）",
+        "+500-775 防御",
+        "+2 所有技能"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "纯真的圣化宝珠",
+    "firstInputDisplayName": "Gul",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Lem",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Zod",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Hel",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "等级 10-15 刀刃护盾装备时",
+        "+15-20% 技能范围",
+        "毒素持续时间减少 50%",
+        "+2 所有技能"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "要塞的圣化宝珠",
+    "firstInputDisplayName": "Zod",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Sol",
+    "secondInputQuantity": 2,
+    "thirdInputDisplayName": "Ber",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "+（每级 0.75-1.25）0-123 生命（以角色等级决定）",
+        "受到的物理伤害减少 12-20%",
+        "+250-300% 增强防御",
+        "+2% 物理抗性上限"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "匆忙的圣化宝珠",
+    "firstInputDisplayName": "Shael",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ko",
+    "secondInputQuantity": 2,
+    "thirdInputDisplayName": "Eld",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "+20% 攻击速度",
+        "所有抗性 +10%",
+        "+5-8% 技能频率",
+        "+20% 快速打击恢复"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "擢升的圣化宝珠",
+    "firstInputDisplayName": "Sur",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Jah",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Pul",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Um",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "护甲": [
+        "+130-150% 增强防御",
+        "+8-10% 灵气效果",
+        "+2 所有技能",
+        "装备时赋予 3-5 级净化灵气"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "护甲"
+    ]
+  },
+  {
+    "displayName": "精神的圣化宝珠",
+    "firstInputDisplayName": "Tal",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Thul",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ort",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Amn",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "任意盾牌",
+    "fifthInputQuantity": 0,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "任意盾牌": [
+        "+11-22 体力",
+        "+59-82 法力",
+        "+25-35% 施法速度",
+        "+3-8 魔法吸收"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "任意盾牌"
+    ]
+  },
+  {
+    "displayName": "圣堂的圣化宝珠",
+    "firstInputDisplayName": "Ko",
+    "firstInputQuantity": 2,
+    "secondInputDisplayName": "Mal",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": null,
+    "thirdInputQuantity": null,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "任意盾牌": [
+        "20% 增加格挡几率",
+        "+20% 快速格挡率",
+        "魔法伤害受到的减少 7",
+        "所有抗性 +40-50%"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "任意盾牌"
+    ]
+  },
+  {
+    "displayName": "流亡的圣化宝珠",
+    "firstInputDisplayName": "Vex",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ohm",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ist",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Dol",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "任意盾牌": [
+        "生命回复 +30",
+        "25% 几率施展等级 18 衰老时 命中",
+        "+220-260% 增强防御",
+        "装备时赋予 13-16 级反抗灵气"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "任意盾牌"
+    ]
+  },
+  {
+    "displayName": "顿悟的圣化宝珠",
+    "firstInputDisplayName": "Lo",
+    "firstInputQuantity": 2,
+    "secondInputDisplayName": "Ith",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ist",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "任意盾牌": [
+        "增加最大法力 28-35%",
+        "等级 18 精力盾牌装备时",
+        "+20% 施法速度",
+        "+8% 闪电抗性上限"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "任意盾牌"
+    ]
+  },
+  {
+    "displayName": "龙的圣化宝珠",
+    "firstInputDisplayName": "Sur",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Lo",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Sol",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "任意盾牌",
+    "fourthInputQuantity": 0,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "任意盾牌": [
+        "+400-550 防御",
+        "+1 最大 Hydras",
+        "装备时赋予 12 级圣火灵气",
+        "受到的物理伤害减少 9"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "任意盾牌"
+    ]
+  },
+  {
+    "displayName": "梦境的圣化宝珠",
+    "firstInputDisplayName": "Io",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Jah",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Pul",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "任意盾牌",
+    "fourthInputQuantity": 0,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "任意盾牌": [
+        "所有抗性 +10-20%",
+        "+20-30% 快速打击恢复",
+        "装备时赋予 14 级圣电灵气",
+        "+75 生命"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "任意盾牌"
+    ]
+  },
+  {
+    "displayName": "凤凰的圣化宝珠",
+    "firstInputDisplayName": "Vex",
+    "firstInputQuantity": 2,
+    "secondInputDisplayName": "Lo",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Jah",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "任意盾牌",
+    "fourthInputQuantity": 0,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "任意盾牌": [
+        "20% 几率施展等级 40 火风暴时 命中",
+        "+350-400 对. 投射物",
+        "装备时赋予 10-12 级救赎灵气",
+        "+75 生命"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "任意盾牌"
+    ]
+  },
+  {
+    "displayName": "破碎之墙的圣化宝珠",
+    "firstInputDisplayName": "Zod",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Jah",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ral",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Cham",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "任意盾牌": [
+        "装备时赋予 16 级圣冰灵气",
+        "+160-200% 增强防御",
+        "+125-175 生命",
+        "无法冰冻"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "任意盾牌"
+    ]
+  },
+  {
+    "displayName": "天顶的圣化宝珠",
+    "firstInputDisplayName": "Jah",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Zod",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ort",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Thul",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Ral",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Crossbow": [
+        "装备时赋予 10-12 级救助灵气",
+        "+45% 攻击速度",
+        "+2 所有技能",
+        "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
+      ],
+      "Staff": [
+        "装备时赋予 10-12 级救助灵气",
+        "+45% 攻击速度",
+        "+2 所有技能",
+        "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
+      ],
+      "Polearm": [
+        "装备时赋予 10-12 级救助灵气",
+        "+45% 攻击速度",
+        "+2 所有技能",
+        "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
+      ],
+      "Bow": [
+        "装备时赋予 10-12 级救助灵气",
+        "+45% 攻击速度",
+        "+2 所有技能",
+        "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
+      ],
+      "2H Sword": [
+        "装备时赋予 10-12 级救助灵气",
+        "+45% 攻击速度",
+        "+2 所有技能",
+        "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
+      ],
+      "Spear": [
+        "装备时赋予 10-12 级救助灵气",
+        "+45% 攻击速度",
+        "+2 所有技能",
+        "增加 360-420 火焰伤害\\n增加 360-420 冰冷伤害\\n增加 360-420 闪电伤害\\n"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Bow",
+      "Crossbow",
+      "Spear",
+      "Polearm",
+      "Staff",
+      "2H Sword"
+    ]
+  },
+  {
+    "displayName": "濒死的圣化宝珠",
+    "firstInputDisplayName": "Vex",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Hel",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "El",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Eld",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Zod",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": "Eth",
+    "sixthInputQuantity": 1,
+    "propertiesByItemType": {
+      "Hammer": [
+        "35% 几率施展等级 40 剧毒新星时 命中",
+        "无法破坏",
+        "+60% 攻击速度",
+        "+170-220% 增强伤害"
+      ],
+      "Crossbow": [
+        "35% 几率施展等级 40 剧毒新星时 命中",
+        "无法破坏",
+        "+60% 攻击速度",
+        "+170-220% 增强伤害"
+      ],
+      "Staff": [
+        "35% 几率施展等级 40 剧毒新星时 命中",
+        "无法破坏",
+        "+60% 攻击速度",
+        "+170-220% 增强伤害"
+      ],
+      "Bow": [
+        "35% 几率施展等级 40 剧毒新星时 命中",
+        "无法破坏",
+        "+60% 攻击速度",
+        "+170-220% 增强伤害"
+      ],
+      "2H Sword": [
+        "35% 几率施展等级 40 剧毒新星时 命中",
+        "无法破坏",
+        "+60% 攻击速度",
+        "+170-220% 增强伤害"
+      ],
+      "武器": [
+        "35% 几率施展等级 40 剧毒新星时 命中",
+        "无法破坏",
+        "+60% 攻击速度",
+        "+170-220% 增强伤害"
+      ],
+      "Axe": [
+        "35% 几率施展等级 40 剧毒新星时 命中",
+        "无法破坏",
+        "+60% 攻击速度",
+        "+170-220% 增强伤害"
+      ],
+      "Spear": [
+        "35% 几率施展等级 40 剧毒新星时 命中",
+        "无法破坏",
+        "+60% 攻击速度",
+        "+170-220% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "武器",
+      "2H Sword",
+      "Axe",
+      "Bow",
+      "Crossbow",
+      "Hammer",
+      "Spear",
+      "Staff"
+    ]
+  },
+  {
+    "displayName": "执念的圣化宝珠",
+    "firstInputDisplayName": "Zod",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ist",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Lem",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Lum",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Io",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": "Nef",
+    "sixthInputQuantity": 1,
+    "propertiesByItemType": {
+      "Staff": [
+        "24% 几率施展等级 18 削弱时 施法",
+        "增加最大生命 15-25%",
+        "所有抗性 +60-70%",
+        "+4 所有技能"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Staff"
+    ]
+  },
+  {
+    "displayName": "庇护所的圣化宝珠",
+    "firstInputDisplayName": "Gul",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Cham",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Hel",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Jah",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Dol",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": "Um",
+    "sixthInputQuantity": 1,
+    "propertiesByItemType": {
+      "Hammer": [
+        "装备时赋予 17-20 级圣堂灵气",
+        "25% 几率施展等级 40 天堂之拳时 命中",
+        "+200-235% 增强伤害",
+        "+2 所有技能"
+      ],
+      "Crossbow": [
+        "装备时赋予 17-20 级圣堂灵气",
+        "25% 几率施展等级 40 天堂之拳时 命中",
+        "+200-235% 增强伤害",
+        "+2 所有技能"
+      ],
+      "Staff": [
+        "装备时赋予 17-20 级圣堂灵气",
+        "25% 几率施展等级 40 天堂之拳时 施法",
+        "+20 敏捷",
+        "+2 所有技能"
+      ],
+      "Polearm": [
+        "装备时赋予 17-20 级圣堂灵气",
+        "25% 几率施展等级 40 天堂之拳时 命中",
+        "+200-235% 增强伤害",
+        "+2 所有技能"
+      ],
+      "Wand": [
+        "装备时赋予 17-20 级圣堂灵气",
+        "25% 几率施展等级 40 天堂之拳时 施法",
+        "+20 敏捷",
+        "+2 所有技能"
+      ],
+      "Bow": [
+        "装备时赋予 17-20 级圣堂灵气",
+        "25% 几率施展等级 40 天堂之拳时 命中",
+        "+200-235% 增强伤害",
+        "+2 所有技能"
+      ],
+      "2H Sword": [
+        "装备时赋予 17-20 级圣堂灵气",
+        "25% 几率施展等级 40 天堂之拳时 命中",
+        "+200-235% 增强伤害",
+        "+2 所有技能"
+      ],
+      "Spear": [
+        "装备时赋予 17-20 级圣堂灵气",
+        "25% 几率施展等级 40 天堂之拳时 命中",
+        "+200-235% 增强伤害",
+        "+2 所有技能"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Hammer",
+      "Polearm",
+      "Spear",
+      "Bow",
+      "Crossbow",
+      "2H Sword",
+      "Staff",
+      "Wand"
+    ]
+  },
+  {
+    "displayName": "骄傲的圣化宝珠",
+    "firstInputDisplayName": "Cham",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Sur",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Io",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Lo",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Staff": [
+        "装备时赋予 18-20 级专注灵气",
+        "260-300% 加成攻击准确率",
+        "+20% 致命攻击"
+      ],
+      "Polearm": [
+        "装备时赋予 18-20 级专注灵气",
+        "260-300% 加成攻击准确率",
+        "+20% 致命攻击"
+      ],
+      "Spear": [
+        "装备时赋予 18-20 级专注灵气",
+        "260-300% 加成攻击准确率",
+        "+20% 致命攻击"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Polearm",
+      "Spear",
+      "Staff"
+    ]
+  },
+  {
+    "displayName": "正义的圣化宝珠",
+    "firstInputDisplayName": "Sur",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Cham",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Amn",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Lo",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "武器": [
+        "装备时赋予 12 级圣火灵气",
+        "-10 至 -20% 至敌人火焰抗性",
+        "+20% 致命攻击",
+        "+190-220% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "武器"
+    ]
+  },
+  {
+    "displayName": "末日的圣化宝珠",
+    "firstInputDisplayName": "Hel",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ohm",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Um",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Lo",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Cham",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Hammer": [
+        "装备时赋予 16 级圣冰灵气",
+        "+2 所有技能",
+        "-30 至 -50% 至敌人冰冷抗性",
+        "+200-225% 增强伤害"
+      ],
+      "Sword": [
+        "装备时赋予 16 级圣冰灵气",
+        "+2 所有技能",
+        "-30 至 -50% 至敌人冰冷抗性",
+        "+200-225% 增强伤害"
+      ],
+      "Staff": [
+        "装备时赋予 16 级圣冰灵气",
+        "+30% 施法速度",
+        "-30 至 -50% 至敌人冰冷抗性",
+        "+2 所有技能"
+      ],
+      "Polearm": [
+        "装备时赋予 16 级圣冰灵气",
+        "+2 所有技能",
+        "-30 至 -50% 至敌人冰冷抗性",
+        "+200-225% 增强伤害"
+      ],
+      "Scepter": [
+        "装备时赋予 16 级圣冰灵气",
+        "+2 所有技能",
+        "-30 至 -50% 至敌人冰冷抗性",
+        "+200-225% 增强伤害"
+      ],
+      "Axe": [
+        "装备时赋予 16 级圣冰灵气",
+        "+2 所有技能",
+        "-30 至 -50% 至敌人冰冷抗性",
+        "+200-225% 增强伤害"
+      ],
+      "Spear": [
+        "装备时赋予 16 级圣冰灵气",
+        "+2 所有技能",
+        "-30 至 -50% 至敌人冰冷抗性",
+        "+200-225% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Axe",
+      "Polearm",
+      "Hammer",
+      "Spear",
+      "Sword",
+      "Scepter",
+      "Staff"
+    ]
+  },
+  {
+    "displayName": "主宰的圣化宝珠",
+    "firstInputDisplayName": "Cham",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ohm",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": null,
+    "thirdInputQuantity": null,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Wand": [
+        "+1 最大石魔",
+        "+2-3 石魔掌握（死灵法师专用）",
+        "受到的物理伤害减少 5-7",
+        "+2 死灵法师技能等级"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Wand"
+    ]
+  },
+  {
+    "displayName": "迷雾的圣化宝珠",
+    "firstInputDisplayName": "Cham",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Shael",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Gul",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Thul",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Ith",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Crossbow": [
+        "+100% 几率穿刺",
+        "+20% 攻击速度",
+        "装备时赋予 12-14 级专注灵气",
+        "+130-180% 增强伤害"
+      ],
+      "Bow": [
+        "+100% 几率穿刺",
+        "+20% 攻击速度",
+        "装备时赋予 12-14 级专注灵气",
+        "+130-180% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Bow",
+      "Crossbow"
+    ]
+  },
+  {
+    "displayName": "瘟疫的圣化宝珠",
+    "firstInputDisplayName": "Cham",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Fal",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Um",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "武器": [
+        "25% 几率施展等级 35 剧毒新星时 命中",
+        "+20% 施法速度",
+        "-20% 至敌人毒素抗性",
+        "装备时赋予 15-17 级净化灵气"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "武器"
+    ]
+  },
+  {
+    "displayName": "狂喜的圣化宝珠",
+    "firstInputDisplayName": "Vex",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Jah",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Lo",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Ral",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Ko",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": "Mal",
+    "sixthInputQuantity": 1,
+    "propertiesByItemType": {
+      "Hammer": [
+        "30% 几率施展等级 35 降低抗性时 命中",
+        "14% 几率施展等级 46 裂隙时 命中",
+        "+40% 致命攻击",
+        "+140-180% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Hammer"
+    ]
+  },
+  {
+    "displayName": "最后希望的圣化宝珠",
+    "firstInputDisplayName": "Jah",
+    "firstInputQuantity": 3,
+    "secondInputDisplayName": "Mal",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Sur",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Ber",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Hammer": [
+        "60% 几率施展等级 40 充能弹时 攻击",
+        "装备时赋予 19 级力量灵气",
+        "+60-70% 几率之 压碎性打击",
+        "+230-280% 增强伤害"
+      ],
+      "Sword": [
+        "60% 几率施展等级 40 充能弹时 攻击",
+        "装备时赋予 19 级力量灵气",
+        "+60-70% 几率之 压碎性打击",
+        "+230-280% 增强伤害"
+      ],
+      "Staff": [
+        "60% 几率施展等级 40 充能弹时 攻击",
+        "装备时赋予 19 级力量灵气",
+        "+60-70% 几率之 压碎性打击",
+        "+230-280% 增强伤害"
+      ],
+      "Axe": [
+        "60% 几率施展等级 40 充能弹时 攻击",
+        "装备时赋予 19 级力量灵气",
+        "+60-70% 几率之 压碎性打击",
+        "+230-280% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Axe",
+      "Hammer",
+      "Sword",
+      "Staff"
+    ]
+  },
+  {
+    "displayName": "毁灭的圣化宝珠",
+    "firstInputDisplayName": "Vex",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Lo",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ber",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Jah",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Ko",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Sword": [
+        "8% 几率施展等级 35 熔岩巨岩时 命中",
+        "15% 几率施展等级 45 陨石时 命中",
+        "20% 几率施展等级 35 霜之新星时 命中",
+        "+220% 增强伤害"
+      ],
+      "Staff": [
+        "8% 几率施展等级 35 熔岩巨岩时 施法",
+        "15% 几率施展等级 45 陨石时 施法",
+        "20% 几率施展等级 35 霜之新星时 施法",
+        "15% 几率施展等级 40 新星时 施法"
+      ],
+      "Polearm": [
+        "8% 几率施展等级 35 熔岩巨岩时 命中",
+        "15% 几率施展等级 45 陨石时 命中",
+        "20% 几率施展等级 35 霜之新星时 命中",
+        "+220% 增强伤害"
+      ],
+      "Spear": [
+        "8% 几率施展等级 35 熔岩巨岩时 命中",
+        "15% 几率施展等级 45 陨石时 命中",
+        "20% 几率施展等级 35 霜之新星时 命中",
+        "+220% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Sword",
+      "Polearm",
+      "Spear",
+      "Staff"
+    ]
+  },
+  {
+    "displayName": "凤凰的圣化宝珠",
+    "firstInputDisplayName": "Vex",
+    "firstInputQuantity": 2,
+    "secondInputDisplayName": "Lo",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Jah",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "武器",
+    "fourthInputQuantity": 0,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Staff": [
+        "20% 几率施展等级 40 火风暴时 施法",
+        "-28% 至敌人火焰抗性",
+        "装备时赋予 10-12 级救赎灵气",
+        "+15-21 火焰吸收"
+      ],
+      "武器": [
+        "20% 几率施展等级 40 火风暴时 命中",
+        "-28% 至敌人火焰抗性",
+        "装备时赋予 10-12 级救赎灵气",
+        "+180-225% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Staff",
+      "武器"
+    ]
+  },
+  {
+    "displayName": "烙印的圣化宝珠",
+    "firstInputDisplayName": "Jah",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Lo",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Mal",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Gul",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Crossbow": [
+        "+8 最大骷髅弓箭手",
+        "50% 几率施展等级 45 破碎骨髓时 命中",
+        "+20% 致命攻击",
+        "+160-200% 增强伤害"
+      ],
+      "Bow": [
+        "+8 最大骷髅弓箭手",
+        "50% 几率施展等级 45 破碎骨髓时 命中",
+        "+20% 致命攻击",
+        "+160-200% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Crossbow",
+      "Bow"
+    ]
+  },
+  {
+    "displayName": "冰冻的圣化宝珠",
+    "firstInputDisplayName": "Amn",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Shael",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Jah",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Lo",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Crossbow": [
+        "装备时赋予 18 级圣冰灵气",
+        "+25-30% 冰冷技能伤害",
+        "-20% 至敌人冰冷抗性",
+        "20% 几率施展等级 32 霜之新星时 命中"
+      ],
+      "Bow": [
+        "装备时赋予 18 级圣冰灵气",
+        "+25-30% 冰冷技能伤害",
+        "-20% 至敌人冰冷抗性",
+        "20% 几率施展等级 32 霜之新星时 命中"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Crossbow",
+      "Bow"
+    ]
+  },
+  {
+    "displayName": "信念的圣化宝珠",
+    "firstInputDisplayName": "Ohm",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Jah",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Lem",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Eld",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Crossbow": [
+        "所有抗性 +15%",
+        "300% 加成攻击准确率",
+        "装备时赋予 12-15 级狂热灵气",
+        "+160-180% 增强伤害"
+      ],
+      "Bow": [
+        "所有抗性 +15%",
+        "300% 加成攻击准确率",
+        "装备时赋予 12-15 级狂热灵气",
+        "+160-180% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Crossbow",
+      "Bow"
+    ]
+  },
+  {
+    "displayName": "饥荒的圣化宝珠",
+    "firstInputDisplayName": "Fal",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ohm",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ort",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Jah",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Hammer": [
+        "-15% 至敌人闪电抗性",
+        "-15% 至敌人火焰抗性",
+        "-15% 至敌人冰冷抗性",
+        "增加 100-225 火焰伤害\\n增加 100-225 冰冷伤害\\n增加 100-225 闪电伤害\\n"
+      ],
+      "Sword": [
+        "-15% 至敌人闪电抗性",
+        "-15% 至敌人火焰抗性",
+        "-15% 至敌人冰冷抗性",
+        "增加 100-225 火焰伤害\\n增加 100-225 冰冷伤害\\n增加 100-225 闪电伤害\\n"
+      ],
+      "Axe": [
+        "-15% 至敌人闪电抗性",
+        "-15% 至敌人火焰抗性",
+        "-15% 至敌人冰冷抗性",
+        "增加 100-225 火焰伤害\\n增加 100-225 冰冷伤害\\n增加 100-225 闪电伤害\\n"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Axe",
+      "Hammer",
+      "Sword"
+    ]
+  },
+  {
+    "displayName": "狂怒的圣化宝珠",
+    "firstInputDisplayName": "Jah",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Gul",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Eth",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Thrown Weapon": [
+        "忽略目标防御",
+        "+40% 攻击速度",
+        "+33-66% 致命攻击",
+        "+150-180% 增强伤害"
+      ],
+      "Melee Weapon": [
+        "忽略目标防御",
+        "+40% 攻击速度",
+        "+33-66% 致命攻击",
+        "+150-180% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Thrown Weapon",
+      "Melee Weapon"
+    ]
+  },
+  {
+    "displayName": "无限的圣化宝珠",
+    "firstInputDisplayName": "Ber",
+    "firstInputQuantity": 2,
+    "secondInputDisplayName": "Mal",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ist",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Hammer": [
+        "25% 几率施展等级 20 连锁闪电时 命中",
+        "-45 至 -55% 至敌人闪电抗性",
+        "装备时赋予 12 级信念灵气",
+        "+150-195% 增强伤害"
+      ],
+      "Staff": [
+        "15% 几率施展等级 20 连锁闪电时 施法",
+        "-45 至 -55% 至敌人闪电抗性",
+        "装备时赋予 12 级信念灵气",
+        "2% 几率施展等级 15 飓风装甲时 施法"
+      ],
+      "Polearm": [
+        "25% 几率施展等级 20 连锁闪电时 命中",
+        "-45 至 -55% 至敌人闪电抗性",
+        "装备时赋予 12 级信念灵气",
+        "+150-195% 增强伤害"
+      ],
+      "Spear": [
+        "25% 几率施展等级 20 连锁闪电时 命中",
+        "-45 至 -55% 至敌人闪电抗性",
+        "装备时赋予 12 级信念灵气",
+        "+150-195% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Polearm",
+      "Staff",
+      "Spear",
+      "Hammer"
+    ]
+  },
+  {
+    "displayName": "永恒的圣化宝珠",
+    "firstInputDisplayName": "Amn",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ber",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ist",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Sol",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Sur",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Melee Weapon": [
+        "+6 最大 复活",
+        "10% 几率复活为 Wraith",
+        "+61-71 最小伤害",
+        "+61-71 最大伤害",
+        "+190-210% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Melee Weapon"
+    ]
+  },
+  {
+    "displayName": "野兽的圣化宝珠",
+    "firstInputDisplayName": "Ber",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Tir",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Um",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Mal",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Lum",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Hammer": [
+        "+6 熊人变化（限于该类技能 +3）",
+        "+6 撞槌（限于该类技能 +3）",
+        "装备时赋予 8-10 级狂热灵气",
+        "+150-180% 增强伤害"
+      ],
+      "Staff": [
+        "+6 熊人变化（限于该类技能 +3）",
+        "+6 撞槌（限于该类技能 +3）",
+        "装备时赋予 8-10 级狂热灵气",
+        "+150-180% 增强伤害"
+      ],
+      "Scepter": [
+        "+6 熊人变化（限于该类技能 +3）",
+        "+6 撞槌（限于该类技能 +3）",
+        "装备时赋予 8-10 级狂热灵气",
+        "+150-180% 增强伤害"
+      ],
+      "Axe": [
+        "+6 熊人变化（限于该类技能 +3）",
+        "+6 撞槌（限于该类技能 +3）",
+        "装备时赋予 8-10 级狂热灵气",
+        "+150-180% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Axe",
+      "Scepter",
+      "Hammer",
+      "Staff"
+    ]
+  },
+  {
+    "displayName": "愤怒的圣化宝珠",
+    "firstInputDisplayName": "Pul",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Lum",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ber",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Mal",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Crossbow": [
+        "防止怪物治疗",
+        "+30-45% 攻击速度",
+        "60% 几率施展等级 31 伤害加深时 命中",
+        "增加 85-120 魔法伤害"
+      ],
+      "Bow": [
+        "防止怪物治疗",
+        "+30-45% 攻击速度",
+        "60% 几率施展等级 31 伤害加深时 命中",
+        "增加 85-120 魔法伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Crossbow",
+      "Bow"
+    ]
+  },
+  {
+    "displayName": "风的圣化宝珠",
+    "firstInputDisplayName": "Sur",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "El",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": null,
+    "thirdInputQuantity": null,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Staff": [
+        "+20-30% 跑步/行走速度",
+        "18% 几率施展等级 35 龙卷风时 施法",
+        "18% 几率施展等级 35 小旋风时 施法",
+        "5% 几率施展等级 9 飓风装甲时 施法"
+      ],
+      "Thrown Weapon": [
+        "+20-30% 跑步/行走速度",
+        "18% 几率施展等级 35 龙卷风时 命中",
+        "18% 几率施展等级 35 小旋风时 命中",
+        "+80-140% 增强伤害"
+      ],
+      "Melee Weapon": [
+        "+20-30% 跑步/行走速度",
+        "18% 几率施展等级 35 龙卷风时 命中",
+        "18% 几率施展等级 35 小旋风时 命中",
+        "+120-180% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Staff",
+      "Thrown Weapon",
+      "Melee Weapon"
+    ]
+  },
+  {
+    "displayName": "悔恨的圣化宝珠",
+    "firstInputDisplayName": "Eth",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Tir",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Lo",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Mal",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Ral",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Sword": [
+        "+160 最小伤害",
+        "+120-140 最大伤害",
+        "-15 至 -20% 至敌人毒素抗性",
+        "35% 几率施展等级 15 毒牙时 命中"
+      ],
+      "Polearm": [
+        "+160 最小伤害",
+        "+120-140 最大伤害",
+        "-15 至 -20% 至敌人毒素抗性",
+        "35% 几率施展等级 15 毒牙时 命中"
+      ],
+      "Axe": [
+        "+160 最小伤害",
+        "+120-140 最大伤害",
+        "-15 至 -20% 至敌人毒素抗性",
+        "35% 几率施展等级 15 毒牙时 命中"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Sword",
+      "Axe",
+      "Polearm"
+    ]
+  },
+  {
+    "displayName": "刚毅的圣化宝珠",
+    "firstInputDisplayName": "El",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Sol",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Dol",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Lo",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "武器",
+    "fifthInputQuantity": 0,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "武器": [
+        "所有抗性 +25-30%",
+        "+（每级 1.0-1.5）1-148 生命（以角色等级决定）",
+        "+20% 致命攻击",
+        "+130-180% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "武器"
+    ]
+  },
+  {
+    "displayName": "兵器的圣化宝珠",
+    "firstInputDisplayName": "Amn",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ral",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Mal",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Ist",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Ohm",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "武器": [
+        "+2-6 战斗号令（限于该类技能 +3）",
+        "+2-6 战斗指挥（限于该类技能 +3）",
+        "+1-3 战斗狂嗥（限于该类技能 +3）",
+        "+80-120% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "武器"
+    ]
+  },
+  {
+    "displayName": "混沌的圣化宝珠",
+    "firstInputDisplayName": "Fal",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ohm",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Um",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Melee Weapon": [
+        "18% 几率施展等级 40 充能弹时 命中",
+        "+2 Blade Dance（刺客专用）",
+        "+90-130% 增强伤害",
+        "增加 200-400 魔法伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Melee Weapon"
+    ]
+  },
+  {
+    "displayName": "死亡的圣化宝珠",
+    "firstInputDisplayName": "Hel",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "El",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Vex",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Ort",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Gul",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Sword": [
+        "25% 几率施展等级 18 冰尖柱 时攻击",
+        "+50% 几率之 压碎性打击",
+        "+65-110% 增强伤害"
+      ],
+      "Axe": [
+        "25% 几率施展等级 18 冰尖柱 时攻击",
+        "+50% 几率之 压碎性打击",
+        "+65-110% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Sword",
+      "Axe"
+    ]
+  },
+  {
+    "displayName": "橡树的圣化宝珠",
+    "firstInputDisplayName": "Ko",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Vex",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Pul",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Thul",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Mace": [
+        "增加最大法力 15%",
+        "4 级橡木智者（25 次充能）",
+        "所有抗性 +20-30%",
+        "+30% 施法速度"
+      ],
+      "Staff": [
+        "增加最大法力 15%",
+        "4 级橡木智者（25 次充能）",
+        "所有抗性 +20-30%",
+        "+30% 施法速度"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Mace",
+      "Staff"
+    ]
+  },
+  {
+    "displayName": "弑王者的圣化宝珠",
+    "firstInputDisplayName": "Mal",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Um",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Gul",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Fal",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Sword": [
+        "+30% 攻击速度",
+        "+10 复仇（限于该类技能 +3）",
+        "+50-90% 增强伤害",
+        "增加 250-500 冰冷伤害"
+      ],
+      "Axe": [
+        "+30% 攻击速度",
+        "+10 复仇（限于该类技能 +3）",
+        "+50-90% 增强伤害",
+        "增加 250-500 冰冷伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Sword",
+      "Axe"
+    ]
+  },
+  {
+    "displayName": "裂缝的圣化宝珠",
+    "firstInputDisplayName": "Hel",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ko",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Lem",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Gul",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Sword": [
+        "38% 受击时承受伤害的百分比转化为法力",
+        "26% 几率施展等级 30 龙卷风时 命中",
+        "24% 几率施展等级 25 冰封球时 命中",
+        "+60% 攻击速度"
+      ],
+      "Polearm": [
+        "38% 受击时承受伤害的百分比转化为法力",
+        "26% 几率施展等级 30 龙卷风时 命中",
+        "24% 几率施展等级 25 冰封球时 命中",
+        "+60% 攻击速度"
+      ],
+      "Scepter": [
+        "38% 受击时承受伤害的百分比转化为法力",
+        "26% 几率施展等级 30 龙卷风时 命中",
+        "24% 几率施展等级 25 冰封球时 命中",
+        "+60% 攻击速度"
+      ],
+      "Spear": [
+        "38% 受击时承受伤害的百分比转化为法力",
+        "26% 几率施展等级 30 龙卷风时 命中",
+        "24% 几率施展等级 25 冰封球时 命中",
+        "+60% 攻击速度"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Polearm",
+      "Spear",
+      "Scepter",
+      "Sword"
+    ]
+  },
+  {
+    "displayName": "誓约的圣化宝珠",
+    "firstInputDisplayName": "Shael",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Pul",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Mal",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Lum",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Mace": [
+        "+50% 攻击速度",
+        "30% 几率施展等级 20 灵魂撕裂时 命中",
+        "+10-15 魔法吸收",
+        "+30-70% 增强伤害"
+      ],
+      "Sword": [
+        "+50% 攻击速度",
+        "30% 几率施展等级 20 灵魂撕裂时 命中",
+        "+10-15 魔法吸收",
+        "+30-70% 增强伤害"
+      ],
+      "Axe": [
+        "+50% 攻击速度",
+        "30% 几率施展等级 20 灵魂撕裂时 命中",
+        "+10-15 魔法吸收",
+        "+30-70% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Sword",
+      "Axe",
+      "Mace"
+    ]
+  },
+  {
+    "displayName": "毒牙的圣化宝珠",
+    "firstInputDisplayName": "Tal",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Dol",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Mal",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "武器": [
+        "+6 毒素打击（限于该类技能 +3）",
+        "20% 几率施展等级 28 剧毒新星时 命中",
+        "-20 至 -30% 至敌人毒素抗性",
+        "防止怪物治疗"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "武器"
+    ]
+  },
+  {
+    "displayName": "新月的圣化宝珠",
+    "firstInputDisplayName": "Shael",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Um",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Tir",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "武器": [
+        "-10 至 -15% 至敌人闪电抗性",
+        "10% 几率施展等级 27 连锁闪电时 命中",
+        "24% 几率施展等级 13 静电力场时 命中",
+        "+20-50% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "武器"
+    ]
+  },
+  {
+    "displayName": "忠诚的圣化宝珠",
+    "firstInputDisplayName": "Pul",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Tir",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Dol",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Crossbow": [
+        "+4 每击杀一个敌人后获得法力",
+        "+2-3 炮轰（亚马逊专用）",
+        "+20% 几率穿刺",
+        "+2 被动与魔法技能（亚马逊专用）"
+      ],
+      "Polearm": [
+        "+4 每击杀一个敌人后获得法力",
+        "+2-3 炮轰（亚马逊专用）",
+        "+20% 几率穿刺",
+        "+2 被动与魔法技能（亚马逊专用）"
+      ],
+      "Bow": [
+        "+4 每击杀一个敌人后获得法力",
+        "+2-3 炮轰（亚马逊专用）",
+        "+20% 几率穿刺",
+        "+2 被动与魔法技能（亚马逊专用）"
+      ],
+      "Spear": [
+        "+4 每击杀一个敌人后获得法力",
+        "+2-3 炮轰（亚马逊专用）",
+        "+20% 几率穿刺",
+        "+2 被动与魔法技能（亚马逊专用）"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Polearm",
+      "Spear",
+      "Crossbow",
+      "Bow"
+    ]
+  },
+  {
+    "displayName": "寒冬的圣化宝珠",
+    "firstInputDisplayName": "Lem",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ko",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "El",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Eld",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Mace": [
+        "-24% 至敌人冰冷抗性",
+        "18% 几率施展等级 20 冰爆震时 命中",
+        "15% 几率施展等级 16 冰封球时 命中",
+        "增加 200-320 冰冷伤害"
+      ],
+      "Crossbow": [
+        "-24% 至敌人冰冷抗性",
+        "18% 几率施展等级 20 冰爆震时 命中",
+        "15% 几率施展等级 16 冰封球时 命中",
+        "增加 200-320 冰冷伤害"
+      ],
+      "Sword": [
+        "-24% 至敌人冰冷抗性",
+        "18% 几率施展等级 20 冰爆震时 命中",
+        "15% 几率施展等级 16 冰封球时 命中",
+        "增加 200-320 冰冷伤害"
+      ],
+      "Bow": [
+        "-24% 至敌人冰冷抗性",
+        "18% 几率施展等级 20 冰爆震时 命中",
+        "15% 几率施展等级 16 冰封球时 命中",
+        "增加 200-320 冰冷伤害"
+      ],
+      "Scepter": [
+        "-24% 至敌人冰冷抗性",
+        "18% 几率施展等级 20 冰爆震时 命中",
+        "15% 几率施展等级 16 冰封球时 命中",
+        "增加 200-320 冰冷伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Crossbow",
+      "Bow",
+      "Mace",
+      "Scepter",
+      "Sword"
+    ]
+  },
+  {
+    "displayName": "服从的圣化宝珠",
+    "firstInputDisplayName": "Hel",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ko",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Thul",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Eth",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "Fal",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Hammer": [
+        "30% 几率施展等级 21 强化火焰时 你击杀敌人",
+        "+40% 几率之 压碎性打击",
+        "-25% 至敌人火焰抗性",
+        "所有抗性 +20-30%"
+      ],
+      "Polearm": [
+        "30% 几率施展等级 21 强化火焰时 你击杀敌人",
+        "+40% 几率之 压碎性打击",
+        "-25% 至敌人火焰抗性",
+        "所有抗性 +20-30%"
+      ],
+      "Spear": [
+        "30% 几率施展等级 21 强化火焰时 你击杀敌人",
+        "+40% 几率之 压碎性打击",
+        "-25% 至敌人火焰抗性",
+        "所有抗性 +20-30%"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Polearm",
+      "Spear",
+      "Hammer"
+    ]
+  },
+  {
+    "displayName": "不屈意志的圣化宝珠",
+    "firstInputDisplayName": "Fal",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Io",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ith",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Eld",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "El",
+    "fifthInputQuantity": 1,
+    "sixthInputDisplayName": "Hel",
+    "sixthInputQuantity": 1,
+    "propertiesByItemType": {
+      "Sword": [
+        "+3 精通（野蛮人专用）",
+        "+20-30% 攻击速度",
+        "受到的物理伤害减少 8",
+        "+20-50% 增强伤害"
+      ],
+      "2H Sword": [
+        "+3 精通（野蛮人专用）",
+        "+20-30% 攻击速度",
+        "受到的物理伤害减少 8",
+        "+20-50% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Sword",
+      "2H Sword"
+    ]
+  },
+  {
+    "displayName": "和谐的圣化宝珠",
+    "firstInputDisplayName": "Tir",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ith",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Sol",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Ko",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Crossbow": [
+        "装备时赋予 10 级活力灵气",
+        "+3-6 女武神（亚马逊专用）",
+        "+2 每击杀一个敌人后获得法力",
+        "+15-40% 增强伤害"
+      ],
+      "Bow": [
+        "装备时赋予 10 级活力灵气",
+        "+3-6 女武神（亚马逊专用）",
+        "+2 每击杀一个敌人后获得法力",
+        "+15-40% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Bow",
+      "Crossbow"
+    ]
+  },
+  {
+    "displayName": "洞察的圣化宝珠",
+    "firstInputDisplayName": "Ral",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Tir",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Tal",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Sol",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Staff": [
+        "装备时赋予 12-17 级冥想灵气",
+        "+10-20 力量",
+        "+10-20 敏捷",
+        "+10-20 体力",
+        "+10-20 精力",
+        "+35% 施法速度",
+        "+2 每击杀一个敌人后获得法力"
+      ],
+      "Polearm": [
+        "装备时赋予 12-17 级冥想灵气",
+        "+10-20 力量",
+        "+10-20 敏捷",
+        "+10-20 体力",
+        "+10-20 精力",
+        "+35% 施法速度",
+        "+2 每击杀一个敌人后获得法力"
+      ],
+      "Spear": [
+        "装备时赋予 12-17 级冥想灵气",
+        "+10-20 力量",
+        "+10-20 敏捷",
+        "+10-20 体力",
+        "+10-20 精力",
+        "+35% 施法速度",
+        "+2 每击杀一个敌人后获得法力"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Spear",
+      "Staff",
+      "Polearm"
+    ]
+  },
+  {
+    "displayName": "纯净的圣化宝珠",
+    "firstInputDisplayName": "Amn",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Eth",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Thul",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Crossbow": [
+        "装备时赋予 10-12 级祈祷灵气",
+        "30% 减少诅咒持续时间",
+        "+80-120% 对恶魔的伤害",
+        "+45% 攻击速度"
+      ],
+      "Staff": [
+        "装备时赋予 10-12 级祈祷灵气",
+        "30% 减少诅咒持续时间",
+        "+80-120% 对恶魔的伤害",
+        "+45% 攻击速度"
+      ],
+      "Polearm": [
+        "装备时赋予 10-12 级祈祷灵气",
+        "30% 减少诅咒持续时间",
+        "+80-120% 对恶魔的伤害",
+        "+45% 攻击速度"
+      ],
+      "Bow": [
+        "装备时赋予 10-12 级祈祷灵气",
+        "30% 减少诅咒持续时间",
+        "+80-120% 对恶魔的伤害",
+        "+45% 攻击速度"
+      ],
+      "武器": [
+        "装备时赋予 10-12 级祈祷灵气",
+        "30% 减少诅咒持续时间",
+        "+80-120% 对恶魔的伤害",
+        "+45% 攻击速度"
+      ],
+      "Spear": [
+        "装备时赋予 10-12 级祈祷灵气",
+        "30% 减少诅咒持续时间",
+        "+80-120% 对恶魔的伤害",
+        "+45% 攻击速度"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "武器",
+      "Polearm",
+      "Spear",
+      "Staff",
+      "Bow",
+      "Crossbow"
+    ]
+  },
+  {
+    "displayName": "精神的圣化宝珠",
+    "firstInputDisplayName": "Tal",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Thul",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ort",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Amn",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": "武器",
+    "fifthInputQuantity": 0,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Sword": [
+        "+59-82 法力",
+        "+25% 快速打击恢复",
+        "+11-22 体力",
+        "+1 所有技能"
+      ],
+      "Staff": [
+        "+59-82 法力",
+        "+55% 快速打击恢复",
+        "+11-22 体力",
+        "+2 所有技能"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Staff",
+      "Sword"
+    ]
+  },
+  {
+    "displayName": "白色的圣化宝珠",
+    "firstInputDisplayName": "Dol",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Io",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": null,
+    "thirdInputQuantity": null,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Wand": [
+        "魔法伤害受到的减少 4",
+        "+13 法力",
+        "+2-3 骨甲（死灵法师专用）",
+        "+2 毒素与白骨技能（死灵法师专用）"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Wand"
+    ]
+  },
+  {
+    "displayName": "荒芜的圣化宝珠",
+    "firstInputDisplayName": "Ber",
+    "firstInputQuantity": 2,
+    "secondInputDisplayName": "Vex",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": null,
+    "thirdInputQuantity": null,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "武器": [
+        "-15 至 -20% 至敌人物理抗性",
+        "装备时赋予 12-16 级 [脆弱](app:skills:脆弱)灵气",
+        "+140-170% 增强伤害",
+        "+15-20% 致命攻击"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "武器"
+    ]
+  },
+  {
+    "displayName": "堡垒的圣化宝珠",
+    "firstInputDisplayName": "Ohm",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Shael",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Nef",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Gul",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Hammer": [
+        "25% 几率施展等级 20 [强化](app:skills:强化)时命中",
+        "+90-140% 增强伤害",
+        "增加最大生命 10-15%",
+        "+10 最小伤害"
+      ],
+      "Mace": [
+        "25% 几率施展等级 20 [强化](app:skills:强化)时命中",
+        "+90-140% 增强伤害",
+        "增加最大生命 10-15%",
+        "+10 最小伤害"
+      ],
+      "Sword": [
+        "25% 几率施展等级 20 [强化](app:skills:强化)时命中",
+        "+90-140% 增强伤害",
+        "增加最大生命 10-15%",
+        "+10 最小伤害"
+      ],
+      "Polearm": [
+        "25% 几率施展等级 20 [强化](app:skills:强化)时命中",
+        "+90-140% 增强伤害",
+        "增加最大生命 10-15%",
+        "+10 最小伤害"
+      ],
+      "2H Sword": [
+        "25% 几率施展等级 20 [强化](app:skills:强化)时命中",
+        "+90-140% 增强伤害",
+        "增加最大生命 10-15%",
+        "+10 最小伤害"
+      ],
+      "Axe": [
+        "25% 几率施展等级 20 [强化](app:skills:强化)时命中",
+        "+90-140% 增强伤害",
+        "增加最大生命 10-15%",
+        "+10 最小伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Axe",
+      "Mace",
+      "Sword",
+      "2H Sword",
+      "Hammer",
+      "Polearm"
+    ]
+  },
+  {
+    "displayName": "执法者的圣化宝珠",
+    "firstInputDisplayName": "Amn",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Lem",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Ko",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Hammer": [
+        "20% 几率施展等级 15 衰老时 命中",
+        "被击杀的怪物安息",
+        "增加 150-210 火焰伤害",
+        "增加 130-180 冰冷伤害"
+      ],
+      "Sword": [
+        "20% 几率施展等级 15 衰老时 命中",
+        "被击杀的怪物安息",
+        "增加 150-210 火焰伤害",
+        "增加 130-180 冰冷伤害"
+      ],
+      "Claws": [
+        "20% 几率施展等级 15 衰老时 命中",
+        "被击杀的怪物安息",
+        "增加 150-210 火焰伤害",
+        "增加 130-180 冰冷伤害"
+      ],
+      "Throwing Axe": [
+        "20% 几率施展等级 15 衰老时 命中",
+        "被击杀的怪物安息",
+        "增加 150-210 火焰伤害",
+        "增加 130-180 冰冷伤害"
+      ],
+      "Thrown Weapon": [
+        "20% 几率施展等级 15 衰老时 命中",
+        "被击杀的怪物安息",
+        "增加 150-210 火焰伤害",
+        "增加 130-180 冰冷伤害"
+      ],
+      "Scepter": [
+        "20% 几率施展等级 15 衰老时 命中",
+        "被击杀的怪物安息",
+        "增加 150-210 火焰伤害",
+        "增加 130-180 冰冷伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Hammer",
+      "Sword",
+      "Scepter",
+      "Claws",
+      "Throwing Axe",
+      "Thrown Weapon"
+    ]
+  },
+  {
+    "displayName": "回忆的圣化宝珠",
+    "firstInputDisplayName": "Lum",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Io",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": "Sol",
+    "thirdInputQuantity": 1,
+    "fourthInputDisplayName": "Eth",
+    "fourthInputQuantity": 1,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Staff": [
+        "+5-10% 技能冷却时间减少",
+        "增加最大法力 25-40%",
+        "+10 体力",
+        "+50% 增强防御"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Staff"
+    ]
+  },
+  {
+    "displayName": "经文的圣化宝珠",
+    "firstInputDisplayName": "Tal",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ort",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": null,
+    "thirdInputQuantity": null,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Missile": [
+        "+20 生命",
+        "闪电抗性 +40-50%",
+        "毒素抗性 +40-50%",
+        "+10-20% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Missile"
+    ]
+  },
+  {
+    "displayName": "预见的圣化宝珠",
+    "firstInputDisplayName": "Ral",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Thul",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": null,
+    "thirdInputQuantity": null,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Missile": [
+        "法力回复 20%",
+        "冰冷抗性 +40-50%",
+        "火焰抗性 +40-50%",
+        "+10-20% 增强伤害"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Missile"
+    ]
+  },
+  {
+    "displayName": "回响的圣化宝珠",
+    "firstInputDisplayName": "Dol",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Sol",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": null,
+    "thirdInputQuantity": null,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Missile": [
+        "+20-30% 几率穿刺",
+        "+2 每击杀一个敌人后获得生命",
+        "+20-30% 增强伤害",
+        "受到的物理伤害减少 9"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Missile"
+    ]
+  },
+  {
+    "displayName": "盛怒的圣化宝珠",
+    "firstInputDisplayName": "Jah",
+    "firstInputQuantity": 1,
+    "secondInputDisplayName": "Ber",
+    "secondInputQuantity": 1,
+    "thirdInputDisplayName": null,
+    "thirdInputQuantity": null,
+    "fourthInputDisplayName": null,
+    "fourthInputQuantity": null,
+    "fifthInputDisplayName": null,
+    "fifthInputQuantity": null,
+    "sixthInputDisplayName": null,
+    "sixthInputQuantity": null,
+    "propertiesByItemType": {
+      "Missile": [
+        "+120-140% 增强伤害",
+        "+50-60% 攻击速度",
+        "+2 所有技能",
+        "+15% 跑步/行走速度"
+      ]
+    },
+    "itemTypesDisplayNames": [
+      "Missile"
+    ]
+  }
 ]

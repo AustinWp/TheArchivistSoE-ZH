@@ -3,199 +3,199 @@
     "id": "about",
     "title": "关于技能",
     "text": [
-      "- Here you can find non-class skills added in Sanctuary of Exile",
-      "- For vanilla skills, please refer to [Vanilla PD2 Wiki](https://wiki.projectdiablo2.com/wiki/Main_Page)"
+      "- 在这里你可以找到流放圣域（Sanctuary of Exile）新增的非职业技能",
+      "- 关于原版技能，请参阅 [原版 PD2 Wiki](https://wiki.projectdiablo2.com/wiki/Main_Page)"
     ]
   },
   {
     "id": "skill-frailty",
     "title": "脆弱",
     "text": [
-      "Frailty is a new aura that reduces enemy physical resistance: ",
-      "- Reduces enemy physical resistance - starts at 15% and receives 1% additional reduction per level",
-      "- Reduces enemy defense - min. 25%, max 90%",
-      "- Can break immunities"
+      "脆弱（Frailty）是一种降低敌人物理抗性的新灵气：",
+      "- 降低敌人物理抗性 - 初始为 15%，每级额外降低 1%",
+      "- 降低敌人防御 - 最低 25%，最高 90%",
+      "- 可以破除免疫"
     ]
   },
   {
     "id": "skill-rimefall",
     "title": "霜落",
     "text": [
-      "Shoot forth cold enchanted arrow that leave a wave of rimefall behind, dealing cold damage to enemies:",
-      "- Deals 100% weapon damage",
-      "- Converts 50% physical damage to elemental damage",
-      "- Adds +% to attack rating",
-      "- Scales with +skills",
-      "- Freezes enemies for 0.2 seconds",
-      "- Deals cold damage per level:",
-      "  - On level 1 deals 28-40 damage",
-      "  - On levels 2-8 deals additional 8-16 damage",
-      "  - On levels 9-16 deals additional 20-24 damage",
-      "  - On levels 17-22 deals additional 60-64 damage",
-      "  - On levels 23-28 deals additional 120-128 damage",
-      "  - On levels 29+ deals additional 180-192 damage"
+      "射出一支冰霜附魔箭矢，在身后留下一道霜落之波，对敌人造成冰冷伤害：",
+      "- 造成 100% 武器伤害",
+      "- 将 50% 的物理伤害转化为元素伤害",
+      "- 增加 +% 攻击准确率",
+      "- 伤害随 +技能 加成提升",
+      "- 冰冻敌人 0.2 秒",
+      "- 每级造成冰冷伤害：",
+      "  - 1 级时造成 28-40 点伤害",
+      "  - 2-8 级时额外造成 8-16 点伤害",
+      "  - 9-16 级时额外造成 20-24 点伤害",
+      "  - 17-22 级时额外造成 60-64 点伤害",
+      "  - 23-28 级时额外造成 120-128 点伤害",
+      "  - 29 级及以上时额外造成 180-192 点伤害"
     ]
   },
   {
     "id": "skill-reinforce",
     "title": "强化",
     "text": [
-      "New defensive skill that allows scaling of %PDR, flat PDR and MDR with base defence:",
-      "- scales of BASE defense from items + bonus from dexterity - this means that any % enhanced defense is not taken into account",
-      "- Gain 2 physical damage reduction per base defense according to formula",
-      "  - 1000 - 34 * base skill level",
-      "- Gain 1% physical damage reduction per base defense according to formula",
-      "  - 1000 - 34 * base skill level",
-      "- Gain 2 magic damage reduction per base defense according to formula",
-      "  - 1000 - 34 * base skill level",
-      "- For example, at level 15, to achieve each breakpoint:",
-      "  - Base defense: 4000",
-      "  - Skill level: 15",
-      "  - 1000 - 34 * 15 = 1000 - 510 = 490 - breakpoint every 490 defence",
+      "新的防御技能，使百分比物理伤害减少（%PDR）、固定物理伤害减少（flat PDR）和魔法伤害减少（MDR）随基础防御成长：",
+      "- 按物品提供的基础防御 + 敏捷加成进行成长 - 这意味着任何百分比增强防御都不会被计入",
+      "- 每点基础防御获得 2 点物理伤害减少，按公式计算",
+      "  - 1000 - 34 * 基础技能等级",
+      "- 每点基础防御获得 1% 物理伤害减少，按公式计算",
+      "  - 1000 - 34 * 基础技能等级",
+      "- 每点基础防御获得 2 点魔法伤害减少，按公式计算",
+      "  - 1000 - 34 * 基础技能等级",
+      "- 例如，在 15 级时，要达到每个阈值：",
+      "  - 基础防御：4000",
+      "  - 技能等级：15",
+      "  - 1000 - 34 * 15 = 1000 - 510 = 490 - 每 490 点防御一个阈值",
       "  - pdr - (4000 / 490 ) * 2 = ~8 * 2 = 16",
       "  - pdr% - 4000 / 490 = ~8%",
       "  - mdr - (4000 / 490) * 2 = ~8 * 2 = 16",
-      "- Duration: 6 seconds",
-      "- Affects also your allies",
-      "- Scales only with hard points"
+      "- 持续时间：6 秒",
+      "- 同样影响你的盟友",
+      "- 仅随基础技能等级（hard points）成长"
     ]
   },
   {
     "id": "skill-gale-force",
     "title": "狂风之力",
     "text": [
-      "- Gale Force increases [action speed](app:changes:action speed) by 1% per 1 stack",
-      "- 1 cast is equivalent of gaining 1 stack",
-      "- 1 stack lasts 4 seconds",
-      "- The duration is refreshed when a stack is gained",
-      "- Maximum 10 stacks of Gale Force"
+      "- 狂风之力（Gale Force）每 1 层使 [动作速度](app:changes:动作速度) 提高 1%",
+      "- 施放 1 次等同于获得 1 层",
+      "- 每层持续 4 秒",
+      "- 获得新层数时刷新持续时间",
+      "- 狂风之力最多叠加 10 层"
     ]
   },
   {
     "id": "skill-onslaught",
     "title": "猛攻",
     "text": [
-      "- Increases cast rate, attack speed and run/walk speed by 25% for 5 seconds"
+      "- 在 5 秒内将施法速度、攻击速度和跑动/行走速度提高 25%"
     ]
   },
   {
     "id": "headhunter-speed",
     "title": "猎首速度奖杯",
     "text": [
-      "- Increases `cast rate, attack speed and run/walk speed` by `50%` for `10 seconds`"
+      "- 在 `10 秒` 内将 `施法速度、攻击速度和跑动/行走速度` 提高 `50%`"
     ]
   },
   {
     "id": "headhunter-damage",
     "title": "猎首伤害奖杯",
     "text": [
-      "- Increases `enhanced damage` by `150%` for `10 seconds`",
-      "- Increases `fire/cold/lightning/poison/magic mastery` by `50%` for `10 second`s`"
+      "- 在 `10 秒` 内将 `增强伤害` 提高 `150%`",
+      "- 在 `10 秒`s` 内将 `火焰/冰冷/闪电/毒素/魔法掌握` 提高 `50%`"
     ]
   },
   {
     "id": "necromancer-class-changes",
     "title": "死灵法师职业变更",
     "text": [
-      "- Bone spear:",
-      "  - Name changed to Shattered Marrow",
-      "  - On hit it forks to nearby enemies",
-      "  - Gain additional forks at base level 10 an 20",
-      "- Bone spirit:",
-      "  - No longer tracks enemies",
-      "  - On impact with enemy or wall, leaves a unholy ground that deals magic damage over time",
-      "  - Projectile can pierce, leaving DoT ground on contact with every enemy",
-      "  - DoT ground stacks",
-      "  - Gains additional projectile at base level 20",
-      "- Lower resist curse:",
-      "  - Will now also reduce magic resist but at half the rate of elemental resistances reduction",
-      "- Revives:",
-      "  - Now permanent"
+      "- 骨矛（Bone spear）：",
+      "  - 更名为碎髓（Shattered Marrow）",
+      "  - 命中时分裂至附近的敌人",
+      "  - 在基础等级 10 级和 20 级时获得额外的分裂",
+      "- 骨魂（Bone spirit）：",
+      "  - 不再追踪敌人",
+      "  - 击中敌人或墙壁时，会留下一片亵渎之地，造成魔法持续伤害",
+      "  - 投射物可以穿透，每接触一个敌人都会留下造成持续伤害的地面",
+      "  - 持续伤害地面可以叠加",
+      "  - 在基础等级 20 级时获得额外投射物",
+      "- 降低抗性诅咒（Lower resist curse）：",
+      "  - 现在也会降低魔法抗性，但降低速率仅为元素抗性降低的一半",
+      "- 复活（Revives）：",
+      "  - 现在永久生效"
     ]
   },
   {
     "id": "sorceress-class-changes",
     "title": "法师职业变更",
     "text": [
-      "- Glacial Spike",
-      "  - Glacial Spike no longer freezes and explodes",
-      "  - Now forks to max 3 nearby enemies (starts at 1, 1 additional at levels 15 and 25)"
+      "- 冰尖柱（Glacial Spike）",
+      "  - 冰尖柱不再冰冻并爆炸",
+      "  - 现在最多分裂至 3 个附近的敌人（起始 1 个，在 15 级和 25 级时各额外增加 1 个）"
     ]
   },
   {
     "id": "paladin-class-changes",
     "title": "圣骑士职业变更",
     "text": [
-      "- Defiance:",
-      "  - Now receives +1% to maximum Physical Resistance per 10 levels",
-      "- Divine Judgement:",
-      "  - Entirely new skill that was has replaced `Holy Nova`",
-      "  - Requires level 30",
-      "  - Hitting the enemy creates holy ground that deals magic damage over time and regenerates your HP",
-      "  - The initial hit deals splash damage",
-      "  - Converts 10% + 2% per base level (max 50%) to magic damage",
-      "  - The damage over time from ground effect benefits from magic mastery",
-      "  - The regeneration scales with LEVELS, not BASE LEVELS (so it does not stop at hard 20 points)",
-      "  - Has added Attack Rating bonus",
-      "- Holy Sword: ",
-      "  - No longer requires two handed sword to function - now works with every melee weapon type",
-      "  - No longer only adds % damage to undead and demons - now adds damage % to all enemies, but at half rate as before",
-      "  - Adds magic damage to your melee attacks"
+      "- 蔑视光环（Defiance）：",
+      "  - 现在每 10 级获得 +1% 物理抗性上限",
+      "- 神圣审判（Divine Judgement）：",
+      "  - 全新的技能，取代了 `圣光弹（Holy Nova）`",
+      "  - 需求等级 30",
+      "  - 命中敌人会创造一片神圣之地，造成魔法持续伤害并回复你的生命值",
+      "  - 初次命中造成溅射伤害",
+      "  - 将 10% + 每基础等级 2%（最高 50%）转化为魔法伤害",
+      "  - 地面效果的持续伤害受益于魔法掌握",
+      "  - 回复效果随技能等级（LEVELS）成长，而非基础技能等级（BASE LEVELS）（因此不会在投入 20 点技能点处停止）",
+      "  - 附加攻击准确率加成",
+      "- 圣剑（Holy Sword）：",
+      "  - 不再需要双手剑才能生效 - 现在适用于所有近战武器类型",
+      "  - 不再只对不死生物和恶魔附加 % 伤害 - 现在对所有敌人附加伤害 %，但效果为原来的一半",
+      "  - 为你的近战攻击附加魔法伤害"
     ]
   },
   {
     "id": "amazon-class-changes",
     "title": "亚马逊职业变更",
     "text": [
-      "- Tornado Shot:",
-      "  - New skill that replaced Guided Arrow",
-      "  - Shoots a projectile that creates a tornado at the end of its range or on collision, that lingers for 1 second",
-      "  - Tornado creates secondary projectiles",
-      "  - Main and secondary projectiles deal 20% of weapon damage",
-      "  - Has added Attack Rating bonus",
-      "  - Receives additional projectile on base level 20",
-      "  - The main projectiles do not pierce",
-      "  - Secondary projectiles do pierce",
-      "  - Can mana leech, life leech, critical/deadly strike, apply crushing blow",
-      "  - Can proc on striking effects",
-      "- Frostgale:",
-      "  - New skill that replaced Charged Strike",
-      "  - Hit your enemy and create multiple twisters",
-      "  - Both initial hit and twisters deal 75% of weapon damage",
-      "  - Both initial hit and twisters convert 50% of physical damage to cold",
-      "  - Twisters always hit",
-      "  - Has added Attack Rating bonus",
-      "  - Conjures 3 twisters at level 1",
-      "  - Conjure additional twister per 5 levels",
-      "  - Can mana leech, life leech, critical/deadly strike, apply crushing blow and proc effects",
-      "  - Can proc on striking effects",
-      "- Magic Arrow",
-      "  - Now receives synergy from Tornado Shot",
-      "- Lightning Strike",
-      "  - Now receives synergy from Frostgale"
+      "- 龙卷射击（Tornado Shot）：",
+      "  - 取代引导箭（Guided Arrow）的新技能",
+      "  - 射出投射物，在射程末端或碰撞时制造一道龙卷风，持续 1 秒",
+      "  - 龙卷风会产生次级投射物",
+      "  - 主投射物和次级投射物造成 20% 的武器伤害",
+      "  - 附加攻击准确率加成",
+      "  - 在基础等级 20 级时获得额外投射物",
+      "  - 主投射物不穿透",
+      "  - 次级投射物会穿透",
+      "  - 可以触发法力偷取、生命偷取、致命一击/致命攻击，并施加压碎性打击",
+      "  - 可以在打击时触发效果",
+      "- 冰霜风暴（Frostgale）：",
+      "  - 取代充能一击（Charged Strike）的新技能",
+      "  - 击中你的敌人并制造多道小旋风",
+      "  - 初次命中和小旋风都造成 75% 的武器伤害",
+      "  - 初次命中和小旋风都将 50% 的物理伤害转化为冰冷伤害",
+      "  - 小旋风必定命中",
+      "  - 附加攻击准确率加成",
+      "  - 1 级时召唤 3 道小旋风",
+      "  - 每 5 级额外召唤 1 道小旋风",
+      "  - 可以触发法力偷取、生命偷取、致命一击/致命攻击，施加压碎性打击和触发效果",
+      "  - 可以在打击时触发效果",
+      "- 魔法箭（Magic Arrow）",
+      "  - 现在从龙卷射击获得协同加成",
+      "- 闪电攻击（Lightning Strike）",
+      "  - 现在从冰霜风暴获得协同加成"
     ]
   },
   {
     "id": "barbarian-class-changes",
     "title": "野蛮人职业变更",
     "text": [
-      "- Natural Resistance:",
-      "  - Now also reduces poison length at the same rate as resistances (with diminishing returns; poison length reduced by 63% at level 20)",
-      "- Iron Skin:",
-      "  - Now adds 1% maximum fire, cold and lightning resistance every 10 base levels",
-      "- Perforate: ",
-      "  - Entirely new skill that replaced `Stun`",
-      "  - Requires level 6",
-      "  - Strike the enemy, unearthing spikes from the ground, that move forward and deal damage to enemies",
-      "  - Each spike deals damage separately equal to 50% of your weapon damage",
-      "  - Initial hit deals damage equal to 50% of your weapon damage",
-      "  - Create 2 spikes at first level and get additional spikes every 10 levels",
-      "  - Leeches life and mana",
-      "  - Can proc on strike modifiers",
-      "  - Added Attack Rating bonus",
-      "- Frenzy",
-      "  - No longer requires two weapons to work",
-      "  - Synergy changed from Perforate to Bash"
+      "- 自然抗性（Natural Resistance）：",
+      "  - 现在还会以与抗性相同的速率降低毒素持续时间（有递减收益；20 级时毒素持续时间减少 63%）",
+      "- 铁布衫（Iron Skin）：",
+      "  - 现在每 10 个基础等级增加 1% 火焰、冰冷和闪电抗性上限",
+      "- 穿刺（Perforate）：",
+      "  - 取代 `击晕（Stun）` 的全新技能",
+      "  - 需求等级 6",
+      "  - 击中敌人，从地面刺出尖刺，尖刺向前移动并对敌人造成伤害",
+      "  - 每根尖刺单独造成相当于你 50% 武器伤害的伤害",
+      "  - 初次命中造成相当于你 50% 武器伤害的伤害",
+      "  - 第一级时创造 2 根尖刺，之后每 10 级获得额外尖刺",
+      "  - 偷取生命和法力",
+      "  - 可以在打击修正上触发效果",
+      "  - 附加攻击准确率加成",
+      "- 狂乱（Frenzy）",
+      "  - 不再需要双持武器才能生效",
+      "  - 协同加成从穿刺改为猛击"
     ]
   }
 ]

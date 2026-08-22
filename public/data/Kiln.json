@@ -3,107 +3,107 @@
     "id": "about",
     "title": "关于炼狱熔炉",
     "text": [
-      "Infernal Kiln is a powerful contraption that drops from quest Hephasto on Hell.",
-      "To power it, harvest Crystallised Cindersouls from slain Abyssal enemies.",
-      "**To execute all below recipes, you have to use Infernal Kiln.**"
+      "炼狱熔炉是一种强大的装置，由地狱难度的任务首领赫法斯托掉落。",
+      "要为其供能，请从被你击杀的深渊敌人身上收集结晶余烬之魂。",
+      "**要执行以下所有配方，你必须使用炼狱熔炉。**"
     ]
   },
   {
     "id": "uber-convert",
     "title": "超级材料转换配方",
     "text": [
-      "- 15x Crystallised Cindersoul + Any uber material from:",
-      "  - Black Soulstone",
-      "  - Pure Demonic Essence",
-      "  - Prime Evil Soul",
-      "  - Demonic Insignia",
-      "  - Talisman of Transgression",
-      "  - Flesh of Malic",
-      "  - Pandemonium Key 1-3",
-      "  - Trang-oul Jawbone",
-      "  - Splinter of the Void",
-      "  - Hellfire Ashes",
-      "  - Sigil of Madawc",
-      "  - Sigil of Talic",
-      "  - Sigil of Korlic",
-      "  - Sigil Fragment of Apostasy",
-      "  - Sigil Fragment of Betrayal",
-      "  - Sigil Fragment of Damnation",
-      "  - Sigil Fragment of Resurrection",
-      "- Can only convert for the materials for the same boss",
-      "- Has 90% chance to convert to any other material from the same boss",
-      "- Has 10% chance for conversion to not result in any change"
+      "- 15x 结晶余烬之魂 + 以下任意超级材料：",
+      "  - 黑色灵魂石",
+      "  - 纯粹恶魔精华",
+      "  - 魔神之魂",
+      "  - 恶魔徽记",
+      "  - 逾矩护符",
+      "  - 马利克的肉块",
+      "  - 混沌之钥 1-3",
+      "  - 塔格奥之颚骨",
+      "  - 虚空碎片",
+      "  - 地狱火之烬",
+      "  - 马道克的纹章",
+      "  - 塔力克的纹章",
+      "  - 科力克的纹章",
+      "  - 叛教纹章碎片",
+      "  - 背叛纹章碎片",
+      "  - 毁灭纹章碎片",
+      "  - 复活纹章碎片",
+      "- 只能转换为同一首领掉落的材料",
+      "- 有 90% 的几率转换为同一首领掉落的任意其他材料",
+      "- 有 10% 的几率转换后不产生任何变化"
     ]
   },
   {
     "id": "gems",
     "title": "完美宝石增殖配方",
     "text": [
-      "Any perfect gem in non-stacked form + 10x Crystallised Cindersoul = 50x of that gem"
+      "任意未堆叠形态的完美宝石 + 10x 结晶余烬之魂 = 该宝石的 50x"
     ]
   },
   {
     "id": "infusions",
     "title": "工艺注入制作配方",
     "text": [
-      "- 15x Crystallised Cindersoul + 5x Jewel Fragment + 5x Perfect Gem (check below) = 5x Crafting Infusion:",
-      "  - Perfect Ruby = Blood Crafting Infusion",
-      "  - Perfect Amethyst = Caster Crafting Infusion",
-      "  - Perfect Emerald = Safety Crafting Infusion",
-      "  - Perfect Sapphire = Hitpower Crafting Infusion",
-      "  - Perfect Skull = Vampiric Crafting Infusion",
-      "  - Perfect Topaz = Bountiful Crafting Infusion",
-      "  - Perfect Diamond = Brilliant Crafting Infusion"
+      "- 15x 结晶余烬之魂 + 5x 珠宝碎片 + 5x 完美宝石（见下文）= 5x 工艺注入：",
+      "  - 完美红宝石 = 鲜血工艺注入",
+      "  - 完美紫水晶 = 施法者工艺注入",
+      "  - 完美祖母绿 = 安全工艺注入",
+      "  - 完美蓝宝石 = 打击之力工艺注入",
+      "  - 完美头骨 = 吸血工艺注入",
+      "  - 完美黄宝石 = 丰饶工艺注入",
+      "  - 完美钻石 = 璀璨工艺注入"
     ]
   },
   {
     "id": "random-hf",
     "title": "获得随机地狱锻造暗金",
     "text": [
-      "- 35x Crystallised Cindersoul + 5xMythic Orb = Random Hellforged Unique",
-      "- Please mind that the roll outcomes are weighted"
+      "- 35x 结晶余烬之魂 + 5x 神话宝珠 = 随机地狱锻造暗金",
+      "- 请注意，掷骰结果带有权重"
     ]
   },
   {
     "id": "target-hf",
     "title": "获得指定地狱锻造暗金",
     "text": [
-      "50x Crystallised Cindersoul + Divine Orb + Unique you want to convert = Unique converted to Hellforged part, if it exists"
+      "50x 结晶余烬之魂 + 神圣宝珠 + 你想要转换的暗金物品 = 将该暗金转换为地狱锻造部件（如果存在）"
     ]
   },
   {
     "id": "fate-card-gamba",
     "title": "命运卡牌增殖",
     "text": [
-      "Sacrifice a Fate Card to either obtain another one or lose it",
-      "Possible outcomes:",
-      "- Obtain another one - 33%",
-      "- Lose the card - 33%",
-      "- No change - card is returned - 33%",
-      "Recipe: Infernal Kiln + 50x Crystallised Cindersoul + 1x Any Fate Card"
+      "献祭一张命运卡牌，要么获得另一张，要么失去它",
+      "可能的结果：",
+      "- 获得另一张 - 33%",
+      "- 失去卡牌 - 33%",
+      "- 无变化 - 卡牌被返还 - 33%",
+      "配方：炼狱熔炉 + 50x 结晶余烬之魂 + 1x 任意命运卡牌"
     ]
   },
   {
     "id": "reroll-hatred",
     "title": "重铸憎恨宝珠类型",
     "text": [
-      "Reroll Hatred Orb to different type",
-      "Occurence rates:",
-      "- Hatred Orb of Equipment - 25% occurence rate",
-      "- Hatred Orb of Accessories - 21% occurence rate",
-      "- Hatred Orb of Essences - 17% occurence rate",
-      "- Hatred Orb of Fate Cards - 15% occurence rate",
-      "- Hatred Orb of Runes - 12% occurence rate",
-      "- Hatred Orb of Currency - 10% occurence rate",
-      "Recipe: Infernal Kiln + 25x Crystallised Cindersoul + 1x Any Hatred Orb"
+      "将憎恨宝珠重铸为其他类型",
+      "出现几率：",
+      "- 装备型憎恨宝珠 - 25% 出现几率",
+      "- 饰品型憎恨宝珠 - 21% 出现几率",
+      "- 精华型憎恨宝珠 - 17% 出现几率",
+      "- 命运卡牌型憎恨宝珠 - 15% 出现几率",
+      "- 符文型憎恨宝珠 - 12% 出现几率",
+      "- 货币型憎恨宝珠 - 10% 出现几率",
+      "配方：炼狱熔炉 + 25x 结晶余烬之魂 + 1x 任意憎恨宝珠"
     ]
   },
   {
     "id": "corrupted-essences",
     "title": "获得腐化精华",
     "text": [
-      "- Infernal Kiln + 1x Any Perfect Essence + 1x Crystallised Cindersoul = Essence of Insanity",
-      "- Infernal Kiln + 1x Any Perfect Essence + 1x Crystallised Cindersoul + 1x Key = Essence of Hysteria"
+      "- 炼狱熔炉 + 1x 任意完美精华 + 1x 结晶余烬之魂 = 疯狂精华",
+      "- 炼狱熔炉 + 1x 任意完美精华 + 1x 结晶余烬之魂 + 1x 钥匙 = 歇斯底里精华"
     ]
   }
 ]

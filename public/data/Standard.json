@@ -3,265 +3,265 @@
     "id": "about",
     "title": "关于标准模式",
     "text": [
-      "- Standard mode is the default way of playing Sanctuary of Exile",
-      "- It features increased drop rates in relation to vanilla Project Diablo 2 aswell as quality of life changes",
-      "- Below you will find changes and new features that were introduced in Standard Mode"
+      "- 标准模式是游玩流放圣域的默认方式",
+      "- 相较于原版 Project Diablo 2，它的掉落率更高，并加入了便利性改动",
+      "- 下方将列出标准模式中引入的改动与新特性"
     ]
   },
   {
     "id": "unique-item-drop-changes",
     "title": "暗金物品掉落变更",
     "text": [
-      "- Unique items ratio has been improved, meaning all unique items drop rate has been increased",
-      "- Additionally, bosses, champions, unique and super unique monsters have higher chance to drop a unique"
+      "- 暗金物品的比例已提高，即所有暗金物品的掉落率都有所提升",
+      "- 此外，首领、精英、暗金与超级暗金怪物掉落暗金物品的几率更高"
     ]
   },
   {
     "id": "general-drop-rate-changes",
     "title": "常规掉落率变更",
     "text": [
-      "- Runes are 5 times less likely to downgrade to lower tier during drop generation in Hell LoD content and T1-T3 maps",
-      "- Countness always drops three runes",
-      "- Demonic Cube has increased drop rate - 1:5000 in Normal",
-      "- Demonic Cube has increased drop rate - 1:3000 in Nightmare",
-      "- Demonic Cube has increased drop rate - 1:2500 in Hell",
-      "- Larzuk Puzzle Piece has increased drop rate - 1:6000 in Normal",
-      "- Larzuk Puzzle Piece has increased drop rate - 1:3000 in Nightmare",
-      "- Larzuk Puzzle Piece has increased drop rate - 1:1000 in Hell",
-      "- Larzuk Puzzle Box has increased drop rate - 1:12000 in Normal",
-      "- Larzuk Puzzle Box has increased drop rate - 1:6000 in Nightmare",
-      "- Larzuk Puzzle Box has increased drop rate - 1:2000 in Hell",
-      "- Skeleton Key has increased drop rate - 1:100 000 in Hell",
-      "- Horadrim Navigator has increased drop rate - 1:100 000 in Hell",
-      "- Horadrim Almanac has increased drop rate - 1:100 000 in Hell",
-      "- Lilith Mirror has increased drop rate - 1:500 000 in Hell",
-      "- Vial of the Lightsong has increased drop rate - 1:100 000 in Hell",
-      "- WSS in corrupted zones has 1:25 drop rate (from 1:300)",
-      "- Unique map drop rate from monsters has increased drop rate to 1:36500",
-      "- Unique map drop rate from bosses has increased drop rate to 1:3000",
-      "- Twisted essence of suffering drop rate from Normal Andariel is 28% (Quest - 35%)",
-      "- Twisted essence of suffering drop rate from Nightmare Andariel is 28% (Quest - 35%)",
-      "- Twisted essence of suffering drop rate from Hell Andariel is 28% (Quest - 36%)",
-      "- Twisted essence of suffering drop rate from Normal Duriel is 28% (Quest - 35%)",
-      "- Twisted essence of suffering drop rate from Nightmare Duriel is 28% (Quest - 35%)",
-      "- Twisted essence of suffering drop rate from Hell Duriel is 28% (Quest - 35%)",
-      "- Charged Essence of Hatred drop rate from Normal Mephisto is 28% (Quest - 31%)",
-      "- Charged Essence of Hatred drop rate from Nightmare Mephisto is 28% (Quest - 31%)",
-      "- Charged Essence of Hatred drop rate from Hell Mephisto is 28% (Quest - 31%)",
-      "- Burning Essence of Terror drop rate from Normal Diablo is 28% (Quest - 31%)",
-      "- Burning Essence of Terror drop rate from Nightmare Diablo is 28% (Quest - 31%)",
-      "- Burning Essence of Terror drop rate from Hell Diablo is 28% (Quest - 31%)",
-      "- Festering Essence of Destruction drop rate from Hell Baal is 28% (Quest - 31%)",
-      "- Festering Essence of Destruction drop rate from Hell Baal is 28% (Quest - 31%)",
-      "- Festering Essence of Destruction drop rate from Hell Baal is 28% (Quest - 31%)",
-      "- Key of Terror drop rate from Countness and Blood Raven is 29%",
-      "- Key of Hate drop rate from Summoner and Bloodwitch is 31%",
-      "- Key of Destruction drop rate from Nihlathak and Izual is 29%"
+      "- 在地狱难度毁灭之王（LoD）内容和 T1-T3 地图中，符文在掉落生成时降级为更低等级符文的几率仅为原来的 1/5",
+      "- 女伯爵总是掉落三枚符文",
+      "- 恶魔方块的掉落率提高 - 普通难度 1:5000",
+      "- 恶魔方块的掉落率提高 - 噩梦难度 1:3000",
+      "- 恶魔方块的掉落率提高 - 地狱难度 1:2500",
+      "- 拉苏克谜题碎片的掉落率提高 - 普通难度 1:6000",
+      "- 拉苏克谜题碎片的掉落率提高 - 噩梦难度 1:3000",
+      "- 拉苏克谜题碎片的掉落率提高 - 地狱难度 1:1000",
+      "- 拉苏克谜题盒的掉落率提高 - 普通难度 1:12000",
+      "- 拉苏克谜题盒的掉落率提高 - 噩梦难度 1:6000",
+      "- 拉苏克谜题盒的掉落率提高 - 地狱难度 1:2000",
+      "- 骷髅钥匙的掉落率提高 - 地狱难度 1:100 000",
+      "- 赫拉迪姆导航仪的掉落率提高 - 地狱难度 1:100 000",
+      "- 赫拉迪姆年鉴的掉落率提高 - 地狱难度 1:100 000",
+      "- 莉莉丝之镜的掉落率提高 - 地狱难度 1:500 000",
+      "- 光歌之瓶的掉落率提高 - 地狱难度 1:100 000",
+      "- 腐化区域中世界之石碎片（WSS）的掉落率为 1:25（原为 1:300）",
+      "- 怪物掉落暗金地图的掉落率提高至 1:36500",
+      "- 首领掉落暗金地图的掉落率提高至 1:3000",
+      "- 普通难度安达利尔掉落扭曲的折磨之精华的几率为 28%（任务 - 35%）",
+      "- 噩梦难度安达利尔掉落扭曲的折磨之精华的几率为 28%（任务 - 35%）",
+      "- 地狱难度安达利尔掉落扭曲的折磨之精华的几率为 28%（任务 - 36%）",
+      "- 普通难度督瑞尔掉落扭曲的折磨之精华的几率为 28%（任务 - 35%）",
+      "- 噩梦难度督瑞尔掉落扭曲的折磨之精华的几率为 28%（任务 - 35%）",
+      "- 地狱难度督瑞尔掉落扭曲的折磨之精华的几率为 28%（任务 - 35%）",
+      "- 普通难度墨菲斯托掉落充能的仇恨之精华的几率为 28%（任务 - 31%）",
+      "- 噩梦难度墨菲斯托掉落充能的仇恨之精华的几率为 28%（任务 - 31%）",
+      "- 地狱难度墨菲斯托掉落充能的仇恨之精华的几率为 28%（任务 - 31%）",
+      "- 普通难度暗黑破坏神掉落燃烧的恐惧之精华的几率为 28%（任务 - 31%）",
+      "- 噩梦难度暗黑破坏神掉落燃烧的恐惧之精华的几率为 28%（任务 - 31%）",
+      "- 地狱难度暗黑破坏神掉落燃烧的恐惧之精华的几率为 28%（任务 - 31%）",
+      "- 地狱难度巴尔掉落溃烂的毁灭之精华的几率为 28%（任务 - 31%）",
+      "- 地狱难度巴尔掉落溃烂的毁灭之精华的几率为 28%（任务 - 31%）",
+      "- 地狱难度巴尔掉落溃烂的毁灭之精华的几率为 28%（任务 - 31%）",
+      "- 女伯爵和血乌掉落恐惧之钥的几率为 29%",
+      "- 召唤者和血巫掉落憎恨之钥的几率为 31%",
+      "- 尼拉塞克和衣卒尔掉落毁灭之钥的几率为 29%"
     ]
   },
   {
     "id": "uber-materials-drop-rate-changes",
     "title": "超级材料掉落率变更",
     "text": [
-      "- Rathma Jawbone has increased drop rate in Hell to 1:1300",
-      "- Demonic Insignia from Abaddon, Pit of Acheron, Infernal Pit monsters has increased drop rate in Hell to 1:150",
-      "- Talisman of Transgression from corrupted zones enemies has increased drop rate to 1:100",
-      "- Flesh of Malic from demon enemies has increased drop rate to 1:1300",
-      "- Uber Ancients keys in maps have 1:1700 drop rate",
-      "- Pure Demonic Essence drop rate from map bosses was increased to ~40%",
-      "- Prime Evil Soul drop rate from Hell Mephisto was increased to ~29%",
-      "- Prime Evil Soul drop rate from Hell Diablo was increased to ~31%",
-      "- Prime Evil Soul drop rate from Hell Baal was increased to ~33%"
+      "- 拉斯玛之颚骨在地狱难度的掉落率提高至 1:1300",
+      "- 亚巴顿、阿刻戎之坑、地狱深渊的怪物掉落的恶魔徽记，其掉落率在地狱难度提高至 1:150",
+      "- 腐化区域敌人掉落的僭越护符，其掉落率提高至 1:100",
+      "- 恶魔敌人掉落的马利克之肉，其掉落率提高至 1:1300",
+      "- 地图中超级古代人钥匙的掉落率为 1:1700",
+      "- 地图首领掉落纯粹恶魔精华的几率提高至约 40%",
+      "- 地狱难度墨菲斯托掉落原罪之魂的几率提高至约 29%",
+      "- 地狱难度暗黑破坏神掉落原罪之魂的几率提高至约 31%",
+      "- 地狱难度巴尔掉落原罪之魂的几率提高至约 33%"
     ]
   },
   {
     "id": "sacred-orb",
     "title": "圣化宝珠",
     "text": [
-      "- `Sacred Orb` is a currency that creates an imprint of a Runeword",
-      "- Please refer to about tab in [Sacreds tab](app:sacreds) for more information",
-      "- `Sacred Orb` code is `sror`"
+      "- `圣化宝珠`是一种货币，可以制作符文之语的烙印",
+      "- 更多信息请参阅[圣化页](app:sacreds)中的“关于”标签页",
+      "- `圣化宝珠`的物品代码为 `sror`"
     ]
   },
   {
     "id": "divine-orb",
     "title": "神圣宝珠",
     "text": [
-      "- `Divine Orb` is a currency that allows upgrading `elite` bases to unique item on this base",
-      "- `Divine Orb` drops in: T1-T4 maps, from Uber Ancients, from Lucion Chests, from Shadow of Mendeln map event, from Treasure Fallen",
-      "- Please refer to [Cube recipes tab](app:cube:Divine Orb) for more information",
-      "- `Divine Orb` code is `dvo`"
+      "- `神圣宝珠`是一种货币，可以将`精英`基底升级为该基底对应的暗金物品",
+      "- `神圣宝珠`的掉落来源：T1-T4 地图、超级古代人、卢西恩宝箱、门德林之影地图事件、遗落的财宝事件",
+      "- 更多信息请参阅[方块配方页](app:cube:神圣宝珠)",
+      "- `神圣宝珠`的物品代码为 `dvo`"
     ]
   },
   {
     "id": "mythic-orb",
     "title": "神话宝珠",
     "text": [
-      "- `Mythic Orb` is a currency that allows upgrading `normal/exceptional` bases to unique item on this base",
-      "- `Mythic Orb` drops in: Lord of Destruction content, T1-T4 maps, from Lucion Chests, from Shadow of Mendeln map event, from Treasure Fallen",
-      "- Please refer to [Cube recipes tab](app:cube:Mythic Orb) for more information",
-      "- `Mythic Orb` code is `mfo`"
+      "- `神话宝珠`是一种货币，可以将`普通/扩展`基底升级为该基底对应的暗金物品",
+      "- `神话宝珠`的掉落来源：毁灭之王（LoD）内容、T1-T4 地图、卢西恩宝箱、门德林之影地图事件、遗落的财宝事件",
+      "- 更多信息请参阅[方块配方页](app:cube:神话宝珠)",
+      "- `神话宝珠`的物品代码为 `mfo`"
     ]
   },
   {
     "id": "exalted-orb",
     "title": "崇高宝珠",
     "text": [
-      "- `Exalted Orb` is a currency that allows upgrading `normal/exceptional/elite` bases to set item on this base",
-      "- `Exalted Orb` drops in: Lord of Destruction content, T1-T4 maps, from Lucion Chests, from Shadow of Mendeln map event, from Treasure Fallen",
-      "- Please refer to [Cube recipes tab](app:cube:Exalted Orb) for more information",
-      "- `Exalted Orb` code is `exo`"
+      "- `崇高宝珠`是一种货币，可以将`普通/扩展/精英`基底升级为该基底对应的套装物品",
+      "- `崇高宝珠`的掉落来源：毁灭之王（LoD）内容、T1-T4 地图、卢西恩宝箱、门德林之影地图事件、遗落的财宝事件",
+      "- 更多信息请参阅[方块配方页](app:cube:崇高宝珠)",
+      "- `崇高宝珠`的物品代码为 `exo`"
     ]
   },
   {
     "id": "ornate-charms",
     "title": "华丽护符",
     "text": [
-      "- Ornate charms are horizontal 3x1 charms that drop only in maps",
-      "- Ornate charms can roll all of the affixes of Grand Charms",
-      "- Ornate charms have exclusive tier of affixes with higher values than obtainable on other charms",
-      "- Ornate charms can be re-rolled with the same Cube recipe as other charms",
-      "- Better affixes are available on Ornate Charms the higher the item level is",
-      "- Ornate charms code is `cm4`"
+      "- 华丽护符是横向 3x1 的护符，只在地图中掉落",
+      "- 华丽护符可以随机出大型护符的全部词缀",
+      "- 华丽护符拥有专属词缀等级，数值高于其他护符可获得的上限",
+      "- 华丽护符可以使用与其他护符相同的方块配方重新随机",
+      "- 物品等级越高，华丽护符可获得越好的词缀",
+      "- 华丽护符的物品代码为 `cm4`"
     ]
   },
   {
     "id": "mythical-jewels",
     "title": "神话珠宝",
     "text": [
-      "- Mythical jewels are a new tier of jewels that drop only in maps",
-      "- Mythical jewels can roll all of the affixes of regular jewels",
-      "- Mythical jewels have exclusive tier of affixes with higher values than obtainable on regular jewels",
-      "- Mythical jewels can be re-rolled with the same Cube recipe as regular jewels",
-      "- Better affixes are available on Mythical jewels the higher the item level is",
-      "- Please refer to [Mythical Jewel Cube Recipes](app:cube:mythical jewel recipes) for cube recipes",
-      "- Mythical Jewels code is `mjw`"
+      "- 神话珠宝是一种新的珠宝等级，只在地图中掉落",
+      "- 神话珠宝可以随机出普通珠宝的全部词缀",
+      "- 神话珠宝拥有专属词缀等级，数值高于普通珠宝可获得的上限",
+      "- 神话珠宝可以使用与普通珠宝相同的方块配方重新随机",
+      "- 物品等级越高，神话珠宝可获得越好的词缀",
+      "- 方块配方请参阅[神话珠宝方块配方](app:cube:神话珠宝配方)",
+      "- 神话珠宝的物品代码为 `mjw`"
     ]
   },
   {
     "id": "mercenary-changes",
     "title": "雇佣兵变更",
     "text": [
-      "- Act 1 Hell mercenaries:",
-      "  - `Base HP` has been increased by 30% from 900 to 1170",
-      "  - `HP/lvl` has been increased by 20% from 30 to 36",
-      "  - `Base defense` increased by 35% from 744 to 1004",
-      "  - `Defense/lvl` has been increased by 20% from 22 to 26",
-      "  - `Evade` and `Dodge` passive abilities base levels improved from 5 to 13",
-      "- Act 2 Hell mercenaries:",
-      "  - `Base HP` has been increased by 25% from 1430 to 1787",
-      "  - `HP/lvl` has been increased by 20% from 40 to 50",
-      "  - `Base` defense increased by 40% from 1027 to 1438",
-      "  - `Defense/lvl` has been increased by 30% from 28 to 36",
-      "  - Now have `Combat Reflexes` on base level 15",
-      "- Act 3 Hell mercenaries:",
-      "  - `Base HP` has been increased by 30% from 1006 to 1307",
-      "  - `HP/lvl` has been increased by 25% from 27 to 34",
-      "  - `Base defense` increased by 35% from 640 to 832",
-      "  - `Defense/lvl` has been increased by 20% from 25 to 32",
-      "  - Now all variants of mercenary use level 12 `Chilling Armor`",
-      "- Act 4 Hell mercenaries:",
-      "  - `Base HP` has been increased by 30% from 1006 to 1307",
-      "  - `HP/lvl` has been increased by 25% from 27 to 34",
-      "  - `Base defense` increased by 35% from 640 to 832",
-      "  - `Defense/lvl` has been increased by 20% from 25 to 32",
-      "  - Chance to use `Bone Armor` has been increased from 12% to 25%",
-      "- Act 5 Hell mercenaries:",
-      "  - `Base HP` has been increased by 25% from 1422 to 1787",
-      "  - `HP/lvl` has been increased by 20% from 45 to 54",
-      "  - `Base defense` increased by 40% from 1027 to 1438",
-      "  - `Defense/lvl` has been increased by 30% from 28 to 36",
-      "  - Now have `Iron Skin` on base level 10"
+      "- 第一幕地狱雇佣兵：",
+      "  - `基础生命值`提高了 30%，从 900 提升至 1170",
+      "  - `每级生命`提高了 20%，从 30 提升至 36",
+      "  - `基础防御`提高了 35%，从 744 提升至 1004",
+      "  - `每级防御`提高了 20%，从 22 提升至 26",
+      "  - `闪避`与`躲闪`被动技能的基础等级从 5 提升至 13",
+      "- 第二幕地狱雇佣兵：",
+      "  - `基础生命值`提高了 25%，从 1430 提升至 1787",
+      "  - `每级生命`提高了 20%，从 40 提升至 50",
+      "  - `基础`防御提高了 40%，从 1027 提升至 1438",
+      "  - `每级防御`提高了 30%，从 28 提升至 36",
+      "  - 现在拥有基础等级 15 的`战斗反射`",
+      "- 第三幕地狱雇佣兵：",
+      "  - `基础生命值`提高了 30%，从 1006 提升至 1307",
+      "  - `每级生命`提高了 25%，从 27 提升至 34",
+      "  - `基础防御`提高了 35%，从 640 提升至 832",
+      "  - `每级防御`提高了 20%，从 25 提升至 32",
+      "  - 现在所有雇佣兵变体都使用等级 12 的`寒冰装甲`",
+      "- 第四幕地狱雇佣兵：",
+      "  - `基础生命值`提高了 30%，从 1006 提升至 1307",
+      "  - `每级生命`提高了 25%，从 27 提升至 34",
+      "  - `基础防御`提高了 35%，从 640 提升至 832",
+      "  - `每级防御`提高了 20%，从 25 提升至 32",
+      "  - 使用`白骨装甲`的几率从 12% 提高至 25%",
+      "- 第五幕地狱雇佣兵：",
+      "  - `基础生命值`提高了 25%，从 1422 提升至 1787",
+      "  - `每级生命`提高了 20%，从 45 提升至 54",
+      "  - `基础防御`提高了 40%，从 1027 提升至 1438",
+      "  - `每级防御`提高了 30%，从 28 提升至 36",
+      "  - 现在拥有基础等级 10 的`铁布衫`"
     ]
   },
   {
     "id": "eternal-coin",
     "title": "永恒硬币",
     "text": [
-      "- `Eternal Coin` is a new item that does not have use on it's own, but only as a component of few Cube recipes",
-      "- Bought from various vendors for `250k`",
-      "- Please refer to [Cube recipes tab](app:cube:Eternal Coin) for more information",
-      "- `Eternal coin` code is `ncoi`"
+      "- `永恒硬币`是一种新物品，本身没有用途，仅作为少数方块配方的材料",
+      "- 可从各个 NPC 处以 `250k` 购买",
+      "- 更多信息请参阅[方块配方页](app:cube:永恒硬币)",
+      "- `永恒硬币`的物品代码为 `ncoi`"
     ]
   },
   {
     "id": "jewellers-prims",
     "title": "珠宝匠棱镜",
     "text": [
-      "- `Jewellers Prism` is a new item that is used to upgrade `magic Mythical and Regular jewels` to `rare`",
-      "- Bought from `Anya` for `500k`",
-      "- Please refer to [Cube recipes tab](app:cube:Prism) for more information",
-      "- `Jewellers Prism` code is `jewp`"
+      "- `珠宝匠棱镜`是一种新物品，用于将`魔法品质的神话珠宝与普通珠宝`升级为`稀有`",
+      "- 可从`安亚`处以 `500k` 购买",
+      "- 更多信息请参阅[方块配方页](app:cube:棱镜)",
+      "- `珠宝匠棱镜`的物品代码为 `jewp`"
     ]
   },
   {
     "id": "gheeds-box",
     "title": "基德的奇趣盒",
     "text": [
-      "- `Gheed's Crafting Box` is a currency that on cubing `twice` will reward the player with random stack of `50x Perfect Gems`",
-      "- Drops in A1 - A5 Hell, T1-T4 Maps, Treasure Fallen event, Shadow of Mendeln event",
-      "- `Gheed's Crafting Box` code is `gcbx`"
+      "- `基德的奇趣盒`是一种货币，在方块中合成`两次`后，将奖励玩家随机数量的`50x 完美宝石`",
+      "- 掉落来源：第一幕至第五幕地狱难度、T1-T4 地图、遗落的财宝事件、门德林之影事件",
+      "- `基德的奇趣盒`的物品代码为 `gcbx`"
     ]
   },
   {
     "id": "charsis-box",
     "title": "恰西的工艺盒",
     "text": [
-      "- `Charsi's Crafting Box` is a currency that on cubing `twice` will reward the player with random stack of `5x Crafting Infusion`",
-      "- Drops in A1 - A5 Hell, T1-T4 Maps, Treasure Fallen event, Shadow of Mendeln event",
-      "- `Charsi's Crafting Box` code is `ccbx`"
+      "- `恰西的工艺盒`是一种货币，在方块中合成`两次`后，将奖励玩家随机数量的`5x 工艺注入物`",
+      "- 掉落来源：第一幕至第五幕地狱难度、T1-T4 地图、遗落的财宝事件、门德林之影事件",
+      "- `恰西的工艺盒`的物品代码为 `ccbx`"
     ]
   },
   {
     "id": "cartohraphers-box",
     "title": "制图师的盒子",
     "text": [
-      "- `Cartographers's Box` is a currency that on cubing `twice` will reward the player with random stack of `5x Random Glyphs`, `5x Random Chisels` or `5x Catalyst Shard`",
-      "- Drops in A1 - A5 Hell, T1-T4 Maps, Treasure Fallen event, Shadow of Mendeln event",
-      "- `Cartographers's Box` code is `cabx`"
+      "- `制图师的盒子`是一种货币，在方块中合成`两次`后，将奖励玩家随机数量的`5x 随机雕文`、`5x 随机雕刻刀`或`5x 催化剂碎片`",
+      "- 掉落来源：第一幕至第五幕地狱难度、T1-T4 地图、遗落的财宝事件、门德林之影事件",
+      "- `制图师的盒子`的物品代码为 `cabx`"
     ]
   },
   {
     "id": "boots-sockets",
     "title": "靴子孔数",
     "text": [
-      "- Boots are now able to have sockets",
-      "- `Normal tier boots` can have up to 1 socket",
-      "- `Exceptional tier boots` can have up to 2 sockets",
-      "- `Elite tier boots` can have up to 3 sockets",
-      "- Socketable socketed in boots count as socketed in helmet/chest"
+      "- 靴子现在可以拥有孔",
+      "- `普通等级靴子`最多可以有 1 个孔",
+      "- `扩展等级靴子`最多可以有 2 个孔",
+      "- `精英等级靴子`最多可以有 3 个孔",
+      "- 镶嵌在靴子中的镶嵌物视为镶嵌在头盔/胸甲中"
     ]
   },
   {
     "id": "monster-changes",
     "title": "怪物变更",
     "text": [
-      "- Unique non-boss monsters on Hell difficulty damage bonus coefficient increased from 66% to 80%",
-      "- Champion monsters damage bonus coefficient increased from 66% to 80%"
+      "- 地狱难度下非首领的暗金怪物，其伤害加成系数从 66% 提高至 80%",
+      "- 精英怪物的伤害加成系数从 66% 提高至 80%"
     ]
   },
   {
     "id": "gambling-changes",
     "title": "赌博变更",
     "text": [
-      "- Class bases are available in gambling",
-      "- More bases is available in gambling"
+      "- 赌博中可以获得职业基底物品",
+      "- 赌博中提供更多基底物品"
     ]
   },
   {
     "id": "vendor-changes",
     "title": "NPC 变更",
     "text": [
-      "- Akara now sells Token of Absolution for 1 gold. Finally we may rejoice!"
+      "- 阿卡拉现在以 1 金币出售赦免徽记。我们终于可以欢呼了！"
     ]
   },
   {
     "id": "action-speed",
     "title": "动作速度",
     "text": [
-      "- A new percentage modifier “+X% to Action Speed” that affects:",
-      "  - Total run/walk speed (multiplicatively)",
-      "  - Reduces the amount of `+% Increased Attack Speed` player needs to get to the next breakpoint"
+      "- 新的百分比修正“+X% 动作速度”，其影响如下：",
+      "  - 总跑动/行走速度（乘法叠加）",
+      "  - 减少玩家达到下一个档位所需的`+% 攻击速度`"
     ]
   }
 ]
