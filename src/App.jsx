@@ -210,7 +210,7 @@ function visibleProperties(properties) {
 
 function sacredTypes(it) {
     const a = Array.isArray(it?.itemTypesDisplayNames) ? it.itemTypesDisplayNames : [];
-    return a.map((x) => n(x)).filter(Boolean);
+    return a.map((x) => typeZh(n(x))).filter(Boolean);
 }
 
 function sacredIngredients(it) {
@@ -783,13 +783,13 @@ function applyModifierExpansions(searchText) {
 
 function affixTypes(it) {
     const a = Array.isArray(it?.displayItemTypeNames) ? it.displayItemTypeNames : [];
-    return a.map((x) => n(x)).filter(Boolean);
+    return a.map((x) => typeZh(n(x))).filter(Boolean);
 }
 
 function runewordAllTypes(rw) {
     const a = Array.isArray(rw?.displayItemTypes) ? rw.displayItemTypes : [];
     const b = Array.isArray(rw?.itemTypes) ? rw.itemTypes : [];
-    return (a.length ? a : b).map((x) => n(x)).filter(Boolean);
+    return (a.length ? a : b).map((x) => typeZh(n(x))).filter(Boolean);
 }
 
 function filterVisible(arr) {
@@ -797,26 +797,56 @@ function filterVisible(arr) {
     return arr.filter((it) => !isDontDisplay(it));
 }
 
+// ---- 物品类型（筛选下拉/标签）中英映射 ----
+const TYPE_CODE_ZH = {
+    // 武器
+    "Sword": "剑类", "swor": "剑类", "Axe": "斧类", "axe": "斧类", "Bow": "弓类", "bow": "弓类",
+    "Claws": "爪类", "Staff": "法杖类", "staf": "法杖类", "Javelin": "标枪类", "jave": "标枪类",
+    "Spear": "矛类", "spea": "矛类", "Sorceress Orb": "法师宝珠类", "orb": "法师宝珠类",
+    "Wand": "魔杖类", "wand": "魔杖类", "Hammer": "锤类", "hamm": "锤类", "Knife": "匕首类",
+    "knif": "匕首类", "Polearm": "长柄武器类", "pole": "长柄武器类", "Crossbow": "弩类", "xbow": "弩类",
+    "Mace": "钉头锤类", "mace": "钉头锤类", "h2h2": "拳刃类", "h2h": "拳刃类",
+    "Scepter": "权杖类", "scep": "权杖类", "Club": "棍棒类", "club": "棍棒类",
+    "Throwing Knife": "投掷刀类", "tkni": "投掷刀类", "Throwing Axe": "投掷斧类", "taxe": "投掷斧类",
+    "Scythe": "镰刀类", "sc9": "镰刀类", "Amazon Bow": "亚马逊弓", "abow": "亚马逊弓",
+    "Amazon Spear": "亚马逊矛", "aspe": "亚马逊矛", "Amazon Javelin": "亚马逊标枪", "ajav": "亚马逊标枪",
+    "2H Crystal Sword": "双手水晶剑", "2hcs": "双手水晶剑", "2H Sword": "双手剑", "2hsw": "双手剑",
+    "Melee Weapon": "近战武器", "mele": "近战武器", "Missile": "远程武器", "misl": "远程武器",
+    "Thrown Weapon": "投掷武器", "thro": "投掷武器", "Sorceress Item": "法师物品", "sorc": "法师物品",
+    "Hand to Hand 2": "拳刃类 2", "Hand to Hand": "拳刃类",
+    // 护甲
+    "Armor": "护甲", "tors": "护甲", "Helm": "头盔", "helm": "头盔", "Shield": "盾牌", "shie": "盾牌",
+    "Belt": "腰带", "belt": "腰带", "Gloves": "手套", "glov": "手套", "Boots": "靴子", "boot": "靴子",
+    "Pelt": "德鲁伊毛皮", "pelt": "德鲁伊毛皮", "Primal Helm": "野蛮人头盔", "phlm": "野蛮人头盔",
+    "Auric Shields": "圣骑士盾牌", "ashd": "圣骑士盾牌", "Voodoo Heads": "死灵法师头颅", "head": "死灵法师头颅",
+    "Circlet": "头环", "circ": "头环", "Paladin Helmet": "圣骑士头盔", "pahm": "圣骑士头盔",
+    "Belt [S]": "腰带[S]", "bels": "腰带[S]",
+    // 通用
+    "Mythic Jewel": "神话珠宝", "Weapon": "武器", "weap": "武器",
+};
+
+const typeZh = (v) => (v ? (TYPE_CODE_ZH[v] || v) : v);
+
 function weaponTypeLabel(w) {
-    const primary = n(w?.itemType?.displayName) || n(w?.displayType) || n(w?.type);
-    const secondary = n(w?.secondItemType?.displayName) || n(w?.secondDisplayType) || n(w?.secondType);
-    return has(secondary) ? `${primary} / ${secondary}` : primary || "weapon";
+    const primary = typeZh(n(w?.itemType?.displayName) || n(w?.displayType) || n(w?.type) || n(w?.itemType?.itemType));
+    const secondary = typeZh(n(w?.secondItemType?.displayName) || n(w?.secondDisplayType) || n(w?.secondType) || n(w?.secondItemType?.itemType));
+    return has(secondary) ? `${primary} / ${secondary}` : primary || "武器";
 }
 
 function weaponTypeForFilter(w) {
-    return n(w?.itemType?.itemType) || n(w?.type);
+    return typeZh(n(w?.itemType?.itemType) || n(w?.type));
 }
 
 function armorTypeLabel(a) {
-    const dt = n(a?.displayType);
-    const sdt = n(a?.secondDisplayType);
-    const base = dt || ARMOR_TYPE_MAP[n(a?.type)] || n(a?.type) || "armor";
+    const dt = typeZh(n(a?.displayType));
+    const sdt = typeZh(n(a?.secondDisplayType));
+    const base = dt || ARMOR_TYPE_MAP[n(a?.type)] || typeZh(n(a?.type)) || "护甲";
     const sec = has(sdt) ? sdt : "";
     return has(sec) ? `${base} / ${sec}` : base;
 }
 
 function armorTypeForFilter(a) {
-    return n(a?.displayType) || ARMOR_TYPE_MAP[n(a?.type)] || n(a?.type);
+    return typeZh(n(a?.displayType)) || ARMOR_TYPE_MAP[n(a?.type)] || typeZh(n(a?.type));
 }
 
 function uniqueBase(u) {
@@ -825,12 +855,12 @@ function uniqueBase(u) {
 
 function uniqueBaseTypeLabel(u) {
     const base = uniqueBase(u);
-    return n(base?.itemType?.itemType) || n(base?.displayName) || n(base?.type);
+    return typeZh(n(base?.itemType?.itemType)) || typeZh(n(base?.displayName)) || typeZh(n(base?.type));
 }
 
 function uniqueBaseTypeLabelPretty(u) {
     const base = uniqueBase(u);
-    return n(base?.itemType?.displayName) || n(base?.displayName) || n(base?.displayType) || uniqueBaseTypeLabel(u);
+    return typeZh(n(base?.itemType?.displayName)) || typeZh(n(base?.displayName)) || typeZh(n(base?.displayType)) || uniqueBaseTypeLabel(u);
 }
 
 function weaponDmgLines(w) {

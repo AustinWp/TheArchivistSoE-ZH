@@ -937,12 +937,12 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Bow",
-      "Crossbow",
-      "Spear",
-      "Polearm",
-      "Staff",
-      "2H Sword"
+      "弓类",
+      "弩类",
+      "矛类",
+      "长柄武器类",
+      "法杖类",
+      "双手剑"
     ]
   },
   {
@@ -1011,13 +1011,13 @@
     },
     "itemTypesDisplayNames": [
       "武器",
-      "2H Sword",
-      "Axe",
-      "Bow",
-      "Crossbow",
-      "Hammer",
-      "Spear",
-      "Staff"
+      "双手剑",
+      "斧类",
+      "弓类",
+      "弩类",
+      "锤类",
+      "矛类",
+      "法杖类"
     ]
   },
   {
@@ -1043,7 +1043,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Staff"
+      "法杖类"
     ]
   },
   {
@@ -1111,14 +1111,14 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Hammer",
-      "Polearm",
-      "Spear",
-      "Bow",
-      "Crossbow",
-      "2H Sword",
-      "Staff",
-      "Wand"
+      "锤类",
+      "长柄武器类",
+      "矛类",
+      "弓类",
+      "弩类",
+      "双手剑",
+      "法杖类",
+      "魔杖类"
     ]
   },
   {
@@ -1153,9 +1153,9 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Polearm",
-      "Spear",
-      "Staff"
+      "长柄武器类",
+      "矛类",
+      "法杖类"
     ]
   },
   {
@@ -1243,13 +1243,13 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Axe",
-      "Polearm",
-      "Hammer",
-      "Spear",
-      "Sword",
-      "Scepter",
-      "Staff"
+      "斧类",
+      "长柄武器类",
+      "锤类",
+      "矛类",
+      "剑类",
+      "权杖类",
+      "法杖类"
     ]
   },
   {
@@ -1275,7 +1275,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Wand"
+      "魔杖类"
     ]
   },
   {
@@ -1307,8 +1307,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Bow",
-      "Crossbow"
+      "弓类",
+      "弩类"
     ]
   },
   {
@@ -1360,7 +1360,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Hammer"
+      "锤类"
     ]
   },
   {
@@ -1404,10 +1404,10 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Axe",
-      "Hammer",
-      "Sword",
-      "Staff"
+      "斧类",
+      "锤类",
+      "剑类",
+      "法杖类"
     ]
   },
   {
@@ -1451,10 +1451,10 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Sword",
-      "Polearm",
-      "Spear",
-      "Staff"
+      "剑类",
+      "长柄武器类",
+      "矛类",
+      "法杖类"
     ]
   },
   {
@@ -1486,7 +1486,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Staff",
+      "法杖类",
       "武器"
     ]
   },
@@ -1519,8 +1519,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Crossbow",
-      "Bow"
+      "弩类",
+      "弓类"
     ]
   },
   {
@@ -1552,8 +1552,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Crossbow",
-      "Bow"
+      "弩类",
+      "弓类"
     ]
   },
   {
@@ -1585,8 +1585,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Crossbow",
-      "Bow"
+      "弩类",
+      "弓类"
     ]
   },
   {
@@ -1624,9 +1624,9 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Axe",
-      "Hammer",
-      "Sword"
+      "斧类",
+      "锤类",
+      "剑类"
     ]
   },
   {
@@ -1658,8 +1658,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Thrown Weapon",
-      "Melee Weapon"
+      "投掷武器",
+      "近战武器"
     ]
   },
   {
@@ -1703,10 +1703,10 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Polearm",
-      "Staff",
-      "Spear",
-      "Hammer"
+      "长柄武器类",
+      "法杖类",
+      "矛类",
+      "锤类"
     ]
   },
   {
@@ -1733,7 +1733,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Melee Weapon"
+      "近战武器"
     ]
   },
   {
@@ -1777,10 +1777,10 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Axe",
-      "Scepter",
-      "Hammer",
-      "Staff"
+      "斧类",
+      "权杖类",
+      "锤类",
+      "法杖类"
     ]
   },
   {
@@ -1812,8 +1812,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Crossbow",
-      "Bow"
+      "弩类",
+      "弓类"
     ]
   },
   {
@@ -1851,9 +1851,9 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Staff",
-      "Thrown Weapon",
-      "Melee Weapon"
+      "法杖类",
+      "投掷武器",
+      "近战武器"
     ]
   },
   {
@@ -1891,9 +1891,9 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Sword",
-      "Axe",
-      "Polearm"
+      "剑类",
+      "斧类",
+      "长柄武器类"
     ]
   },
   {
@@ -1971,7 +1971,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Melee Weapon"
+      "近战武器"
     ]
   },
   {
@@ -2001,8 +2001,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Sword",
-      "Axe"
+      "剑类",
+      "斧类"
     ]
   },
   {
@@ -2034,8 +2034,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Mace",
-      "Staff"
+      "钉头锤类",
+      "法杖类"
     ]
   },
   {
@@ -2067,8 +2067,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Sword",
-      "Axe"
+      "剑类",
+      "斧类"
     ]
   },
   {
@@ -2112,10 +2112,10 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Polearm",
-      "Spear",
-      "Scepter",
-      "Sword"
+      "长柄武器类",
+      "矛类",
+      "权杖类",
+      "剑类"
     ]
   },
   {
@@ -2153,9 +2153,9 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Sword",
-      "Axe",
-      "Mace"
+      "剑类",
+      "斧类",
+      "钉头锤类"
     ]
   },
   {
@@ -2251,10 +2251,10 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Polearm",
-      "Spear",
-      "Crossbow",
-      "Bow"
+      "长柄武器类",
+      "矛类",
+      "弩类",
+      "弓类"
     ]
   },
   {
@@ -2304,11 +2304,11 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Crossbow",
-      "Bow",
-      "Mace",
-      "Scepter",
-      "Sword"
+      "弩类",
+      "弓类",
+      "钉头锤类",
+      "权杖类",
+      "剑类"
     ]
   },
   {
@@ -2346,9 +2346,9 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Polearm",
-      "Spear",
-      "Hammer"
+      "长柄武器类",
+      "矛类",
+      "锤类"
     ]
   },
   {
@@ -2380,8 +2380,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Sword",
-      "2H Sword"
+      "剑类",
+      "双手剑"
     ]
   },
   {
@@ -2413,8 +2413,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Bow",
-      "Crossbow"
+      "弓类",
+      "弩类"
     ]
   },
   {
@@ -2461,9 +2461,9 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Spear",
-      "Staff",
-      "Polearm"
+      "矛类",
+      "法杖类",
+      "长柄武器类"
     ]
   },
   {
@@ -2520,11 +2520,11 @@
     },
     "itemTypesDisplayNames": [
       "武器",
-      "Polearm",
-      "Spear",
-      "Staff",
-      "Bow",
-      "Crossbow"
+      "长柄武器类",
+      "矛类",
+      "法杖类",
+      "弓类",
+      "弩类"
     ]
   },
   {
@@ -2556,8 +2556,8 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Staff",
-      "Sword"
+      "法杖类",
+      "剑类"
     ]
   },
   {
@@ -2583,7 +2583,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Wand"
+      "魔杖类"
     ]
   },
   {
@@ -2665,12 +2665,12 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Axe",
-      "Mace",
-      "Sword",
-      "2H Sword",
-      "Hammer",
-      "Polearm"
+      "斧类",
+      "钉头锤类",
+      "剑类",
+      "双手剑",
+      "锤类",
+      "长柄武器类"
     ]
   },
   {
@@ -2726,12 +2726,12 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Hammer",
-      "Sword",
-      "Scepter",
-      "Claws",
-      "Throwing Axe",
-      "Thrown Weapon"
+      "锤类",
+      "剑类",
+      "权杖类",
+      "爪类",
+      "投掷斧类",
+      "投掷武器"
     ]
   },
   {
@@ -2757,7 +2757,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Staff"
+      "法杖类"
     ]
   },
   {
@@ -2783,7 +2783,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Missile"
+      "远程武器"
     ]
   },
   {
@@ -2809,7 +2809,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Missile"
+      "远程武器"
     ]
   },
   {
@@ -2835,7 +2835,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Missile"
+      "远程武器"
     ]
   },
   {
@@ -2861,7 +2861,7 @@
       ]
     },
     "itemTypesDisplayNames": [
-      "Missile"
+      "远程武器"
     ]
   }
 ]
