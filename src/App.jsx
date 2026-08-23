@@ -77,6 +77,33 @@ const TABS = {
 
 const ALL_RUNES = ["El", "Eld", "Tir", "Nef", "Eth", "Ith", "Tal", "Ral", "Ort", "Thul", "Amn", "Sol", "Shael", "Dol", "Hel", "Io", "Lum", "Ko", "Fal", "Lem", "Pul", "Um", "Mal", "Ist", "Gul", "Vex", "Ohm", "Lo", "Sur", "Ber", "Jah", "Cham", "Zod"];
 
+// 符文中文名 + 编号（暗黑 2 官方译名）
+const RUNE_ZH = {
+    "El": {zh: "艾尔", num: 1}, "Eld": {zh: "艾德", num: 2}, "Tir": {zh: "特尔", num: 3},
+    "Nef": {zh: "那夫", num: 4}, "Eth": {zh: "爱斯", num: 5}, "Ith": {zh: "伊司", num: 6},
+    "Tal": {zh: "塔尔", num: 7}, "Ral": {zh: "拉尔", num: 8}, "Ort": {zh: "欧特", num: 9},
+    "Thul": {zh: "书尔", num: 10}, "Amn": {zh: "安姆", num: 11}, "Sol": {zh: "索尔", num: 12},
+    "Shael": {zh: "夏", num: 13}, "Dol": {zh: "多尔", num: 14}, "Hel": {zh: "海尔", num: 15},
+    "Io": {zh: "埃欧", num: 16}, "Lum": {zh: "卢姆", num: 17}, "Ko": {zh: "科", num: 18},
+    "Fal": {zh: "法尔", num: 19}, "Lem": {zh: "兰姆", num: 20}, "Pul": {zh: "普尔", num: 21},
+    "Um": {zh: "乌姆", num: 22}, "Mal": {zh: "马尔", num: 23}, "Ist": {zh: "伊司特", num: 24},
+    "Gul": {zh: "古尔", num: 25}, "Vex": {zh: "伐克斯", num: 26}, "Ohm": {zh: "欧姆", num: 27},
+    "Lo": {zh: "罗", num: 28}, "Sur": {zh: "瑟", num: 29}, "Ber": {zh: "贝", num: 30},
+    "Jah": {zh: "乔", num: 31}, "Cham": {zh: "查姆", num: 32}, "Zod": {zh: "萨德", num: 33},
+};
+
+// 符文显示标签：拉尔（8号）；非符文原样返回
+function runeLabel(r) {
+    const info = RUNE_ZH[r];
+    return info ? `${info.zh}（${info.num}号）` : r;
+}
+
+// 符文筛选 chip 紧凑标签：拉尔 8号
+function runeChipLabel(r) {
+    const info = RUNE_ZH[r];
+    return info ? `${info.zh} ${info.num}号` : r;
+}
+
 const PROP_HIGHLIGHT_RULES = [{test: /corrupted|腐化/i, className: "propRed"},];
 
 const WEAPON_ICON_MAP = {
@@ -1372,7 +1399,7 @@ function SacredTooltip({s, onLink}) {
 
         {ing.length ? (<div className="line runesDisplay">
             <Tip text={String(TOOLTIPS_TEXT_MAP["sacred"])}>
-                {ing.join(" · ")}
+                {ing.map(runeLabel).join(" · ")}
             </Tip>
         </div>) : (<div className="line dim">未列出符文。</div>)}
 
@@ -2849,7 +2876,7 @@ function RunewordTooltip({rw, onGoSacred, onLink}) {
         <div className="hr"/>
         {runes.length ? (<div className="runesDisplay">
             <Tip text={String(TOOLTIPS_TEXT_MAP["runes"])}>
-                {runes.join(" · ")}
+                {runes.map(runeLabel).join(" · ")}
             </Tip>
         </div>) : null}
 
@@ -4708,7 +4735,7 @@ export default function App() {
                                                 onClick={() => toggleRuneFilter(rune)}
                                             >
                                                 <img src={RuneIcon} alt="" className="runeChipIcon"/>
-                                                <span>{rune}</span>
+                                                <span>{runeChipLabel(rune)}</span>
                                             </button>
                                         );
                                     })}
