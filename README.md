@@ -1,4 +1,4 @@
-# 档案管理员 · The Archivist（中文版）
+# PD2 流放圣域（Sanctuary of Exile）中文资料库
 
 [The Archivist](https://lukaszpg.github.io/TheArchivistSoE/) 的简体中文复刻版 —— Project Diablo 2《流放圣域（Sanctuary of Exile）》物品资料库。
 
