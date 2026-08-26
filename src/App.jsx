@@ -49,7 +49,7 @@ const TABS = {
     uniques: "暗金装备",
     runewords: "符文之语",
     affixes: "词缀",
-    sacreds: "圣物",
+    sacreds: "圣化",
     corruptions: {
         title: "腐化",
         badge: "测试版"
@@ -210,8 +210,8 @@ const TOOLTIPS_TEXT_MAP = {
 
 const INFO_BY_TAB = {
     sacreds: {
-        title: "关于圣物",
-        text: "圣物系统是流放圣域（Sanctuary of Exile）独有的。它允许你驾驭符文之语的力量，并将其铭刻到 `暗金` 或 `手工` 物品上：\n\n" + "- 制作圣物需要找到 `圣化宝珠`，它掉落于 `T4 地下城`，或由 `财富恐怖（Terror of Opulence）` 加入的怪物掉落\n\n" + "- 要圣化一件物品，首先用 `符文`（或其他附加物品 - 请查阅下方列表中的相应配方）与 `圣化宝珠` 合成，制作出 `圣化宝珠（X）`\n\n" + "- 符文必须处于堆叠状态，每种符文的堆叠数量需与本页圣物提示中显示的数量一致\n\n" + "- 将制作好的宝珠与你想圣化的 `暗金` 或 `手工` 物品合成。请注意，附加属性可能因物品类型而异\n\n" + "- 圣物可以被 `世界之石碎片` 腐化\n\n" + "- 只要物品**不是** `腐化` 状态，就可以用 `恶魔魔方` 从 `暗金` 物品上移除圣物属性及其圣化状态\n\n" + "- `手工` 物品上的圣物属性及圣化状态**无法**被移除，请谨慎选择！\n\n" + "- 配方中提到的附加装备组件可以是任意品质和阶位"
+        title: "关于圣化",
+        text: "圣化系统是流放圣域（Sanctuary of Exile）独有的。它允许你驾驭符文之语的力量，并将其铭刻到 `暗金` 或 `手工` 物品上：\n\n" + "- 制作圣化物品需要找到 `圣化宝珠`，它掉落于 `T4 地下城`，或由 `财富恐怖（Terror of Opulence）` 加入的怪物掉落\n\n" + "- 要圣化一件物品，首先用 `符文`（或其他附加物品 - 请查阅下方列表中的相应配方）与 `圣化宝珠` 合成，制作出 `圣化宝珠（X）`\n\n" + "- 符文必须处于堆叠状态，每种符文的堆叠数量需与本页圣化提示中显示的数量一致\n\n" + "- 将制作好的宝珠与你想圣化的 `暗金` 或 `手工` 物品合成。请注意，附加属性可能因物品类型而异\n\n" + "- 圣化物品可以被 `世界之石碎片` 腐化\n\n" + "- 只要物品**不是** `腐化` 状态，就可以用 `恶魔魔方` 从 `暗金` 物品上移除圣化属性及其圣化状态\n\n" + "- `手工` 物品上的圣化属性及圣化状态**无法**被移除，请谨慎选择！\n\n" + "- 配方中提到的附加装备组件可以是任意品质和阶位"
     },
 };
 
@@ -1379,7 +1379,7 @@ function UniquesPanel({uniques, onGoUnique}) {
 function SacredTooltip({s, onLink}) {
     if (!s) return <div className="emptyState">Select an item.</div>;
 
-    const title = n(s?.displayName) || "圣物";
+    const title = n(s?.displayName) || "圣化";
     const types = sacredTypes(s);
     const ing = sacredIngredients(s);
 
@@ -2714,7 +2714,7 @@ function HelpPanel() {
             <p><b>搜索</b></p>
             <ul>
                 <li>使用引号进行精确短语搜索：<code>"快速施法"</code></li>
-                <li>在 <b>暗金装备</b>、<b>符文之语</b>、<b>圣物</b> 和 <b>词缀</b> 标签页中，搜索也会匹配
+                <li>在 <b>暗金装备</b>、<b>符文之语</b>、<b>圣化</b> 和 <b>词缀</b> 标签页中，搜索也会匹配
                     属性内容。
                 </li>
             </ul>
@@ -2921,7 +2921,7 @@ function RunewordTooltip({rw, onGoSacred, onLink}) {
                             ev.preventDefault();
                             onGoSacred(name, Array.isArray(s?.itemTypes) ? s.itemTypes : []);
                         }}
-                        title={`跳转到圣物：${name}`}
+                        title={`跳转到圣化：${name}`}
                     >
                         {name} {typesText ? `(${typesText})` : ""}
                     </a>) : (<span className="d2linkText">{name}</span>)}
@@ -4347,7 +4347,7 @@ export default function App() {
         if (tab === "sacreds") {
             return (it) => {
                 const types = sacredTypes(it);
-                return types.length ? types.join(" / ") : "圣物";
+                return types.length ? types.join(" / ") : "圣化";
             };
         }
 

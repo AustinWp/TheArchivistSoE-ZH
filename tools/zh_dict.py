@@ -687,7 +687,7 @@ WORD_DICT = {
     "decrepify": "衰老", "slow": "减慢", "heal": "治疗", "splash": "溅射", "weaken": "削弱",
     "hydra": "九头蛇", "molten": "熔岩", "boulder": "巨岩", "vigor": "活力", "masteries": "精通",
     "freezes": "冰冻", "teleport": "传送", "arrow": "箭", "causes": "使", "flee": "逃跑",
-    "blinds": "致盲", "base": "基底", "martial": "武术", "arts": "武术", "buff": "增益",
+    "blinds": "致盲", "base": "基础", "martial": "武术", "arts": "武术", "buff": "增益",
     "revive": "复活", "venom": "毒牙",    "repairs": "修复", "repair": "修复", "seconds": "秒", "radius": "范围",
  "repairs": "修复", "durability": "耐久度", "orb": "宝珠",
     "plus": "加", "has": "拥有", "defensive": "防御", "rage": "狂暴", "shadows": "影子",

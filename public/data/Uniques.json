@@ -37575,7 +37575,7 @@
     "displayDefense": null,
     "dropSource": null,
     "displayProperties": [
-      "获得 1 伤害每 10 基底攻击命中值如果你的基底攻击命中值是 大于 2000"
+      "获得 1 伤害每 10 基础攻击命中值如果你的基础攻击命中值是 大于 2000"
     ],
     "highlight": true,
     "dontDisplay": false,
@@ -38572,7 +38572,7 @@
     "displayDefense": null,
     "dropSource": null,
     "displayProperties": [
-      "获得 20% 之你的基底 防御 作为攻击命中值",
+      "获得 20% 之你的基础 防御 作为攻击命中值",
       "+25 铁魔（限于该类技能 +3）",
       "+20 石魔掌握（限于该类技能 +3）",
       "+300-350 防御",
@@ -41553,7 +41553,7 @@
     "displayDefense": "60-65",
     "dropSource": null,
     "displayProperties": [
-      "+100% 基底防御受到的物理伤害减免 25%"
+      "+100% 基础防御受到的物理伤害减免 25%"
     ],
     "highlight": true,
     "dontDisplay": false,
@@ -42258,7 +42258,7 @@
     "displayDefense": "60-65",
     "dropSource": null,
     "displayProperties": [
-      "+100% 基底防御受到的物理伤害减免 25%",
+      "+100% 基础防御受到的物理伤害减免 25%",
       "+20% 技能增益效果",
       "+200% 增强伤害",
       "200% 加成攻击命中值"
@@ -42623,7 +42623,7 @@
     "displayDefense": "60-65",
     "dropSource": null,
     "displayProperties": [
-      "+100% 基底防御受到的物理伤害减免 25%",
+      "+100% 基础防御受到的物理伤害减免 25%",
       "+20% 技能增益效果",
       "+75% 火焰技能伤害",
       "+75% 冰冷技能伤害",
@@ -42998,7 +42998,7 @@
     "displayDefense": "60-65",
     "dropSource": null,
     "displayProperties": [
-      "+100% 基底防御受到的物理伤害减免 25%",
+      "+100% 基础防御受到的物理伤害减免 25%",
       "+20% 技能增益效果",
       "+75% 魔法技能伤害"
     ],
@@ -43358,7 +43358,7 @@
     "displayDefense": "60-65",
     "dropSource": null,
     "displayProperties": [
-      "+100% 基底防御受到的物理伤害减免 25%",
+      "+100% 基础防御受到的物理伤害减免 25%",
       "+20% 技能增益效果",
       "+50% 致命攻击倍率",
       "+50% 致命攻击",
@@ -43873,7 +43873,7 @@
     "displayDefense": "60-65",
     "dropSource": null,
     "displayProperties": [
-      "+100% 基底防御受到的物理伤害减免 25%",
+      "+100% 基础防御受到的物理伤害减免 25%",
       "动作速度 +10%",
       "+20% 技能增益效果",
       "+50% 跑步/行走速度",
@@ -44218,7 +44218,7 @@
     "displayDefense": null,
     "dropSource": "大主教拉扎鲁斯，复生异端",
     "displayProperties": [
-      "获得 1% 之你的基底最大伤害作为物理刺骨"
+      "获得 1% 之你的基础最大伤害作为物理刺骨"
     ],
     "highlight": true,
     "dontDisplay": false,
