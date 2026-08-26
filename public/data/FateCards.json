@@ -349,19 +349,19 @@
   },
   {
     "code": "fa60",
-    "name": "逃亡",
+    "name": "逃出生天",
     "description": "七里靴",
     "requiredAmount": 5
   },
   {
     "code": "fa61",
-    "name": "谦卑",
+    "name": "谦恭",
     "description": "空白之卷",
     "requiredAmount": 8
   },
   {
     "code": "fa62",
-    "name": "圣者的宝藏",
+    "name": "圣者宝藏",
     "description": "2 个崇高宝珠",
     "requiredAmount": 3
   },

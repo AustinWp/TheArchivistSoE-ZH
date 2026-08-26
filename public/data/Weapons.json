@@ -8278,7 +8278,7 @@
     "highlight": false
   },
   {
-    "name": "钩镰枪",
+    "name": "比尔",
     "type": "pole",
     "secondType": "2han",
     "code": "9vo",
@@ -8323,7 +8323,7 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "钩镰枪",
+    "displayName": "比尔",
     "itemTier": "扩展",
     "normalItemDisplayName": "战戟",
     "exceptionalItemDisplayName": "钩镰枪",
@@ -11071,7 +11071,7 @@
     "highlight": false
   },
   {
-    "name": "狂战士之斧",
+    "name": "狂战士斧",
     "type": "axe",
     "secondType": "1han",
     "code": "7wa",
@@ -11116,7 +11116,7 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "狂战士之斧",
+    "displayName": "狂战士斧",
     "itemTier": "精英",
     "normalItemDisplayName": "战斧",
     "exceptionalItemDisplayName": "蛇刀",
@@ -17191,7 +17191,7 @@
     "highlight": false
   },
   {
-    "name": "碎骨之锤",
+    "name": "崩裂大槌",
     "type": "hamm",
     "secondType": "2han",
     "code": "rmn",
@@ -17236,7 +17236,7 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "碎骨之锤",
+    "displayName": "崩裂大槌",
     "itemTier": "普通",
     "normalItemDisplayName": "碎骨之锤",
     "exceptionalItemDisplayName": "碎裂之锤",
@@ -17247,7 +17247,7 @@
     "highlight": true
   },
   {
-    "name": "碎裂之锤",
+    "name": "瓦解大槌",
     "type": "hamm",
     "secondType": "2han",
     "code": "rme",
@@ -17292,7 +17292,7 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "碎裂之锤",
+    "displayName": "瓦解大槌",
     "itemTier": "扩展",
     "normalItemDisplayName": "碎骨之锤",
     "exceptionalItemDisplayName": "碎裂之锤",
@@ -17303,7 +17303,7 @@
     "highlight": true
   },
   {
-    "name": "毁灭之锤",
+    "name": "毁灭大槌",
     "type": "hamm",
     "secondType": "2han",
     "code": "rmu",
@@ -17348,7 +17348,7 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "毁灭之锤",
+    "displayName": "毁灭大槌",
     "itemTier": "精英",
     "normalItemDisplayName": "碎骨之锤",
     "exceptionalItemDisplayName": "碎裂之锤",

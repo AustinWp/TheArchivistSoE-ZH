@@ -663,7 +663,7 @@
     "suffix": false
   },
   {
-    "name": "强壮的",
+    "name": "强壮",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -1323,7 +1323,7 @@
     "group": 107,
     "displayProperties": [
       {
-        "displayString": "7-12% 受击时承受伤害的百分比转化为法力",
+        "displayString": "7-12% 受到的伤害转换为法力",
         "property": "dmg-to-mana",
         "min": 7,
         "max": 12
@@ -1351,7 +1351,7 @@
     "group": 107,
     "displayProperties": [
       {
-        "displayString": "7-12% 受击时承受伤害的百分比转化为法力",
+        "displayString": "7-12% 受到的伤害转换为法力",
         "property": "dmg-to-mana",
         "min": 7,
         "max": 12
@@ -1427,7 +1427,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+6-12 攻击准确率",
+        "displayString": "+6-12 攻击命中值",
         "property": "att",
         "min": 6,
         "max": 12
@@ -1453,7 +1453,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+13-27 攻击准确率",
+        "displayString": "+13-27 攻击命中值",
         "property": "att",
         "min": 13,
         "max": 27
@@ -1479,7 +1479,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+28-42 攻击准确率",
+        "displayString": "+28-42 攻击命中值",
         "property": "att",
         "min": 28,
         "max": 42
@@ -1505,7 +1505,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+43-57 攻击准确率",
+        "displayString": "+43-57 攻击命中值",
         "property": "att",
         "min": 43,
         "max": 57
@@ -1531,7 +1531,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+58-72 攻击准确率",
+        "displayString": "+58-72 攻击命中值",
         "property": "att",
         "min": 58,
         "max": 72
@@ -1557,7 +1557,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+73-87 攻击准确率",
+        "displayString": "+73-87 攻击命中值",
         "property": "att",
         "min": 73,
         "max": 87
@@ -1583,7 +1583,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+88-102 攻击准确率",
+        "displayString": "+88-102 攻击命中值",
         "property": "att",
         "min": 88,
         "max": 102
@@ -1609,7 +1609,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+103-117 攻击准确率",
+        "displayString": "+103-117 攻击命中值",
         "property": "att",
         "min": 103,
         "max": 117
@@ -1635,7 +1635,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+118-132 攻击准确率",
+        "displayString": "+118-132 攻击命中值",
         "property": "att",
         "min": 118,
         "max": 132
@@ -1661,7 +1661,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+4-8 攻击准确率",
+        "displayString": "+4-8 攻击命中值",
         "property": "att",
         "min": 4,
         "max": 8
@@ -1686,7 +1686,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+6-12 攻击准确率",
+        "displayString": "+6-12 攻击命中值",
         "property": "att",
         "min": 6,
         "max": 12
@@ -1711,7 +1711,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+13-25 攻击准确率",
+        "displayString": "+13-25 攻击命中值",
         "property": "att",
         "min": 13,
         "max": 25
@@ -1736,7 +1736,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+26-38 攻击准确率",
+        "displayString": "+26-38 攻击命中值",
         "property": "att",
         "min": 26,
         "max": 38
@@ -1761,7 +1761,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+39-51 攻击准确率",
+        "displayString": "+39-51 攻击命中值",
         "property": "att",
         "min": 39,
         "max": 51
@@ -1786,7 +1786,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+52-64 攻击准确率",
+        "displayString": "+52-64 攻击命中值",
         "property": "att",
         "min": 52,
         "max": 64
@@ -1811,7 +1811,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+65-77 攻击准确率",
+        "displayString": "+65-77 攻击命中值",
         "property": "att",
         "min": 65,
         "max": 77
@@ -1836,7 +1836,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+2-4 攻击准确率",
+        "displayString": "+2-4 攻击命中值",
         "property": "att",
         "min": 2,
         "max": 4
@@ -1861,7 +1861,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+6-12 攻击准确率",
+        "displayString": "+6-12 攻击命中值",
         "property": "att",
         "min": 6,
         "max": 12
@@ -1886,7 +1886,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+13-24 攻击准确率",
+        "displayString": "+13-24 攻击命中值",
         "property": "att",
         "min": 13,
         "max": 24
@@ -1911,7 +1911,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+25-36 攻击准确率",
+        "displayString": "+25-36 攻击命中值",
         "property": "att",
         "min": 25,
         "max": 36
@@ -1936,7 +1936,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+10-20 攻击准确率",
+        "displayString": "+10-20 攻击命中值",
         "property": "att",
         "min": 10,
         "max": 20
@@ -1971,7 +1971,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+21-40 攻击准确率",
+        "displayString": "+21-40 攻击命中值",
         "property": "att",
         "min": 21,
         "max": 40
@@ -2005,7 +2005,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+41-60 攻击准确率",
+        "displayString": "+41-60 攻击命中值",
         "property": "att",
         "min": 41,
         "max": 60
@@ -2028,7 +2028,7 @@
     "suffix": false
   },
   {
-    "name": "银的",
+    "name": "银",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -2039,7 +2039,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+61-80 攻击准确率",
+        "displayString": "+61-80 攻击命中值",
         "property": "att",
         "min": 61,
         "max": 80
@@ -2074,7 +2074,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+81-100 攻击准确率",
+        "displayString": "+81-100 攻击命中值",
         "property": "att",
         "min": 81,
         "max": 100
@@ -2109,7 +2109,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+101-120 攻击准确率",
+        "displayString": "+101-120 攻击命中值",
         "property": "att",
         "min": 101,
         "max": 120
@@ -2144,7 +2144,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+121-150 攻击准确率",
+        "displayString": "+121-150 攻击命中值",
         "property": "att",
         "min": 121,
         "max": 150
@@ -2174,7 +2174,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+151-300 攻击准确率",
+        "displayString": "+151-300 攻击命中值",
         "property": "att",
         "min": 151,
         "max": 300
@@ -2203,7 +2203,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+301-450 攻击准确率",
+        "displayString": "+301-450 攻击命中值",
         "property": "att",
         "min": 301,
         "max": 450
@@ -2232,7 +2232,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+10-20 攻击准确率",
+        "displayString": "+10-20 攻击命中值",
         "property": "att",
         "min": 10,
         "max": 20
@@ -2258,7 +2258,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+21-40 攻击准确率",
+        "displayString": "+21-40 攻击命中值",
         "property": "att",
         "min": 21,
         "max": 40
@@ -2273,7 +2273,7 @@
     "suffix": false
   },
   {
-    "name": "银的",
+    "name": "银",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -2284,7 +2284,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+41-60 攻击准确率",
+        "displayString": "+41-60 攻击命中值",
         "property": "att",
         "min": 41,
         "max": 60
@@ -2310,7 +2310,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+61-100 攻击准确率",
+        "displayString": "+61-100 攻击命中值",
         "property": "att",
         "min": 61,
         "max": 100
@@ -2342,7 +2342,7 @@
         "max": 3
       },
       {
-        "displayString": "+10-20 攻击准确率",
+        "displayString": "+10-20 攻击命中值",
         "property": "att",
         "min": 10,
         "max": 20
@@ -2374,7 +2374,7 @@
         "max": 6
       },
       {
-        "displayString": "+21-48 攻击准确率",
+        "displayString": "+21-48 攻击命中值",
         "property": "att",
         "min": 21,
         "max": 48
@@ -2406,7 +2406,7 @@
         "max": 10
       },
       {
-        "displayString": "+49-76 攻击准确率",
+        "displayString": "+49-76 攻击命中值",
         "property": "att",
         "min": 49,
         "max": 76
@@ -2438,7 +2438,7 @@
         "max": 3
       },
       {
-        "displayString": "+10-20 攻击准确率",
+        "displayString": "+10-20 攻击命中值",
         "property": "att",
         "min": 10,
         "max": 20
@@ -2469,7 +2469,7 @@
         "max": 6
       },
       {
-        "displayString": "+21-48 攻击准确率",
+        "displayString": "+21-48 攻击命中值",
         "property": "att",
         "min": 21,
         "max": 48
@@ -2500,7 +2500,7 @@
         "max": 3
       },
       {
-        "displayString": "+10-20 攻击准确率",
+        "displayString": "+10-20 攻击命中值",
         "property": "att",
         "min": 10,
         "max": 20
@@ -2531,7 +2531,7 @@
         "max": 20
       },
       {
-        "displayString": "+10-20 攻击准确率",
+        "displayString": "+10-20 攻击命中值",
         "property": "att",
         "min": 10,
         "max": 20
@@ -2566,7 +2566,7 @@
         "max": 30
       },
       {
-        "displayString": "+21-40 攻击准确率",
+        "displayString": "+21-40 攻击命中值",
         "property": "att",
         "min": 21,
         "max": 40
@@ -2601,7 +2601,7 @@
         "max": 40
       },
       {
-        "displayString": "+41-60 攻击准确率",
+        "displayString": "+41-60 攻击命中值",
         "property": "att",
         "min": 41,
         "max": 60
@@ -2636,7 +2636,7 @@
         "max": 50
       },
       {
-        "displayString": "+61-80 攻击准确率",
+        "displayString": "+61-80 攻击命中值",
         "property": "att",
         "min": 61,
         "max": 80
@@ -2671,7 +2671,7 @@
         "max": 65
       },
       {
-        "displayString": "+81-100 攻击准确率",
+        "displayString": "+81-100 攻击命中值",
         "property": "att",
         "min": 81,
         "max": 100
@@ -2706,7 +2706,7 @@
         "max": 80
       },
       {
-        "displayString": "+101-120 攻击准确率",
+        "displayString": "+101-120 攻击命中值",
         "property": "att",
         "min": 101,
         "max": 120
@@ -2741,7 +2741,7 @@
         "max": 100
       },
       {
-        "displayString": "+121-150 攻击准确率",
+        "displayString": "+121-150 攻击命中值",
         "property": "att",
         "min": 121,
         "max": 150
@@ -2776,7 +2776,7 @@
         "max": 150
       },
       {
-        "displayString": "+151-250 攻击准确率",
+        "displayString": "+151-250 攻击命中值",
         "property": "att",
         "min": 151,
         "max": 250
@@ -2811,7 +2811,7 @@
         "max": 200
       },
       {
-        "displayString": "+251-300 攻击准确率",
+        "displayString": "+251-300 攻击命中值",
         "property": "att",
         "min": 251,
         "max": 300
@@ -2900,7 +2900,7 @@
     "group": 112,
     "displayProperties": [
       {
-        "displayString": "+10 攻击准确率",
+        "displayString": "+10 攻击命中值",
         "property": "att",
         "min": 10,
         "max": 10
@@ -6928,7 +6928,7 @@
         "max": 25
       },
       {
-        "displayString": "+25-50 对恶魔的攻击准确率",
+        "displayString": "+25-50 对恶魔的攻击命中值",
         "property": "att-demon",
         "min": 25,
         "max": 50
@@ -6964,7 +6964,7 @@
         "max": 50
       },
       {
-        "displayString": "+51-100 对恶魔的攻击准确率",
+        "displayString": "+51-100 对恶魔的攻击命中值",
         "property": "att-demon",
         "min": 51,
         "max": 100
@@ -7001,7 +7001,7 @@
         "max": 100
       },
       {
-        "displayString": "+101-150 对恶魔的攻击准确率",
+        "displayString": "+101-150 对恶魔的攻击命中值",
         "property": "att-demon",
         "min": 101,
         "max": 150
@@ -7036,7 +7036,7 @@
         "max": 150
       },
       {
-        "displayString": "+151-200 对恶魔的攻击准确率",
+        "displayString": "+151-200 对恶魔的攻击命中值",
         "property": "att-demon",
         "min": 151,
         "max": 200
@@ -7071,7 +7071,7 @@
         "max": 200
       },
       {
-        "displayString": "+201-300 对恶魔的攻击准确率",
+        "displayString": "+201-300 对恶魔的攻击命中值",
         "property": "att-demon",
         "min": 201,
         "max": 300
@@ -7106,7 +7106,7 @@
         "max": 300
       },
       {
-        "displayString": "+301-400 对恶魔的攻击准确率",
+        "displayString": "+301-400 对恶魔的攻击命中值",
         "property": "att-demon",
         "min": 301,
         "max": 400
@@ -7141,7 +7141,7 @@
         "max": 40
       },
       {
-        "displayString": "+25-50 对恶魔的攻击准确率",
+        "displayString": "+25-50 对恶魔的攻击命中值",
         "property": "att-demon",
         "min": 25,
         "max": 50
@@ -7512,7 +7512,7 @@
     "suffix": false
   },
   {
-    "name": "火星的",
+    "name": "闪耀",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -7538,7 +7538,7 @@
     "suffix": false
   },
   {
-    "name": "冰寒的",
+    "name": "霜冻",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -7620,7 +7620,7 @@
     "suffix": false
   },
   {
-    "name": "火山的",
+    "name": "火山",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -7648,7 +7648,7 @@
     "suffix": false
   },
   {
-    "name": "火星的",
+    "name": "闪耀",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -7732,7 +7732,7 @@
     "suffix": false
   },
   {
-    "name": "冰寒的",
+    "name": "霜冻",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -7788,7 +7788,7 @@
     "suffix": false
   },
   {
-    "name": "冰川的",
+    "name": "冰河",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -8882,7 +8882,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+1 召唤系技能（德鲁伊专用）",
+        "displayString": "+1 召唤系技能（德鲁依专用）",
         "property": "skilltab",
         "min": 1,
         "max": 1
@@ -8908,7 +8908,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+1 变形系技能（德鲁伊专用）",
+        "displayString": "+1 变形系技能（德鲁依专用）",
         "property": "skilltab",
         "min": 1,
         "max": 1
@@ -8934,7 +8934,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+1 元素技能（德鲁伊专用）",
+        "displayString": "+1 元素技能（德鲁依专用）",
         "property": "skilltab",
         "min": 1,
         "max": 1
@@ -8960,7 +8960,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+1 召唤系技能（德鲁伊专用）",
+        "displayString": "+1 召唤系技能（德鲁依专用）",
         "property": "skilltab",
         "min": 1,
         "max": 1
@@ -8988,7 +8988,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+2 召唤系技能（德鲁伊专用）",
+        "displayString": "+2 召唤系技能（德鲁依专用）",
         "property": "skilltab",
         "min": 2,
         "max": 2
@@ -9016,7 +9016,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+3 召唤系技能（德鲁伊专用）",
+        "displayString": "+3 召唤系技能（德鲁依专用）",
         "property": "skilltab",
         "min": 3,
         "max": 3
@@ -9044,7 +9044,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+1 变形系技能（德鲁伊专用）",
+        "displayString": "+1 变形系技能（德鲁依专用）",
         "property": "skilltab",
         "min": 1,
         "max": 1
@@ -9072,7 +9072,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+2 变形系技能（德鲁伊专用）",
+        "displayString": "+2 变形系技能（德鲁依专用）",
         "property": "skilltab",
         "min": 2,
         "max": 2
@@ -9101,7 +9101,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+3 变形系技能（德鲁伊专用）",
+        "displayString": "+3 变形系技能（德鲁依专用）",
         "property": "skilltab",
         "min": 3,
         "max": 3
@@ -9130,7 +9130,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+1 元素技能（德鲁伊专用）",
+        "displayString": "+1 元素技能（德鲁依专用）",
         "property": "skilltab",
         "min": 1,
         "max": 1
@@ -9158,7 +9158,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+2 元素技能（德鲁伊专用）",
+        "displayString": "+2 元素技能（德鲁依专用）",
         "property": "skilltab",
         "min": 2,
         "max": 2
@@ -9186,7 +9186,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+3 元素技能（德鲁伊专用）",
+        "displayString": "+3 元素技能（德鲁依专用）",
         "property": "skilltab",
         "min": 3,
         "max": 3
@@ -9627,7 +9627,7 @@
         "max": null
       },
       {
-        "displayString": "+（每级 4.125）4-408 攻击准确率（以角色等级决定）",
+        "displayString": "+（每级 4.125）4-408 攻击命中值（以角色等级决定）",
         "property": "att/lvl",
         "min": null,
         "max": null
@@ -9685,7 +9685,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "+（每级 1.5）1-148 攻击准确率（以角色等级决定）",
+        "displayString": "+（每级 1.5）1-148 攻击命中值（以角色等级决定）",
         "property": "att/lvl",
         "min": null,
         "max": null
@@ -9714,7 +9714,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "（每级 0.25%）0-24 加成攻击准确率（以角色等级决定）",
+        "displayString": "（每级 0.25%）0-24 加成攻击命中值（以角色等级决定）",
         "property": "att%/lvl",
         "min": null,
         "max": null
@@ -9765,7 +9765,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [20-30] 至 [64-101] 冰冷伤害",
+        "displayString": "增加 [20-30] 至 [64-101] 冰霜伤害",
         "property": "eledam",
         "min": 20,
         "max": 64
@@ -9795,7 +9795,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [37-56] 至 [115-166] 冰冷伤害",
+        "displayString": "增加 [37-56] 至 [115-166] 冰霜伤害",
         "property": "eledam",
         "min": 37,
         "max": 115
@@ -9825,7 +9825,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [46-62] 至 [131-256] 冰冷伤害",
+        "displayString": "增加 [46-62] 至 [131-256] 冰霜伤害",
         "property": "eledam",
         "min": 46,
         "max": 131
@@ -9855,7 +9855,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [60-112] 至 [226-348] 冰冷伤害",
+        "displayString": "增加 [60-112] 至 [226-348] 冰霜伤害",
         "property": "eledam",
         "min": 60,
         "max": 226
@@ -10326,7 +10326,7 @@
     "suffix": false
   },
   {
-    "name": "少女的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -10352,7 +10352,7 @@
     "suffix": false
   },
   {
-    "name": "瓦尔基里的",
+    "name": "女武神的",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -10378,7 +10378,7 @@
     "suffix": false
   },
   {
-    "name": "少女的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -10404,7 +10404,7 @@
     "suffix": false
   },
   {
-    "name": "瓦尔基里的",
+    "name": "女武神的",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -10983,7 +10983,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+1 德鲁伊技能等级",
+        "displayString": "+1 德鲁依技能等级",
         "property": "dru",
         "min": 1,
         "max": 1
@@ -11009,7 +11009,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+2 德鲁伊技能等级",
+        "displayString": "+2 德鲁依技能等级",
         "property": "dru",
         "min": 2,
         "max": 2
@@ -11035,7 +11035,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+1 德鲁伊技能等级",
+        "displayString": "+1 德鲁依技能等级",
         "property": "dru",
         "min": 1,
         "max": 1
@@ -11061,7 +11061,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+2 德鲁伊技能等级",
+        "displayString": "+2 德鲁依技能等级",
         "property": "dru",
         "min": 2,
         "max": 2
@@ -11195,13 +11195,13 @@
     "group": 142,
     "displayProperties": [
       {
-        "displayString": "+25-75% 对不死生物的伤害",
+        "displayString": "+25-75% 对亡灵的伤害",
         "property": "dmg-undead",
         "min": 25,
         "max": 75
       },
       {
-        "displayString": "+25-75 对不死生物的攻击准确率",
+        "displayString": "+25-75 对亡灵的攻击命中值",
         "property": "att-undead",
         "min": 25,
         "max": 75
@@ -11230,13 +11230,13 @@
     "group": 142,
     "displayProperties": [
       {
-        "displayString": "+76-125% 对不死生物的伤害",
+        "displayString": "+76-125% 对亡灵的伤害",
         "property": "dmg-undead",
         "min": 76,
         "max": 125
       },
       {
-        "displayString": "+76-175 对不死生物的攻击准确率",
+        "displayString": "+76-175 对亡灵的攻击命中值",
         "property": "att-undead",
         "min": 76,
         "max": 175
@@ -11254,7 +11254,7 @@
     "suffix": false
   },
   {
-    "name": "神圣的",
+    "name": "圣化",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -11265,13 +11265,13 @@
     "group": 142,
     "displayProperties": [
       {
-        "displayString": "+126-200% 对不死生物的伤害",
+        "displayString": "+126-200% 对亡灵的伤害",
         "property": "dmg-undead",
         "min": 126,
         "max": 200
       },
       {
-        "displayString": "+175-250 对不死生物的攻击准确率",
+        "displayString": "+175-250 对亡灵的攻击命中值",
         "property": "att-undead",
         "min": 175,
         "max": 250
@@ -11300,13 +11300,13 @@
     "group": 142,
     "displayProperties": [
       {
-        "displayString": "+201-275% 对不死生物的伤害",
+        "displayString": "+201-275% 对亡灵的伤害",
         "property": "dmg-undead",
         "min": 201,
         "max": 275
       },
       {
-        "displayString": "+251-325 对不死生物的攻击准确率",
+        "displayString": "+251-325 对亡灵的攻击命中值",
         "property": "att-undead",
         "min": 251,
         "max": 325
@@ -11335,13 +11335,13 @@
     "group": 142,
     "displayProperties": [
       {
-        "displayString": "+276-350% 对不死生物的伤害",
+        "displayString": "+276-350% 对亡灵的伤害",
         "property": "dmg-undead",
         "min": 276,
         "max": 350
       },
       {
-        "displayString": "+326-450 对不死生物的攻击准确率",
+        "displayString": "+326-450 对亡灵的攻击命中值",
         "property": "att-undead",
         "min": 326,
         "max": 450
@@ -11370,13 +11370,13 @@
     "group": 142,
     "displayProperties": [
       {
-        "displayString": "+25-50% 对不死生物的伤害",
+        "displayString": "+25-50% 对亡灵的伤害",
         "property": "dmg-undead",
         "min": 25,
         "max": 50
       },
       {
-        "displayString": "+25-50 对不死生物的攻击准确率",
+        "displayString": "+25-50 对亡灵的攻击命中值",
         "property": "att-undead",
         "min": 25,
         "max": 50
@@ -11448,7 +11448,7 @@
     "suffix": false
   },
   {
-    "name": "血腥的",
+    "name": "流血的",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -11474,7 +11474,7 @@
     "suffix": false
   },
   {
-    "name": "血腥的",
+    "name": "血腥",
     "spawnable": "1",
     "rare": "",
     "level": 75,
@@ -11525,7 +11525,7 @@
     "suffix": false
   },
   {
-    "name": "血腥的",
+    "name": "流血的",
     "spawnable": "1",
     "rare": "",
     "level": 60,
@@ -11739,7 +11739,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [3-5] 至 [5-11] 冰冷伤害",
+        "displayString": "增加 [3-5] 至 [5-11] 冰霜伤害",
         "property": "eledam",
         "min": 3,
         "max": 5
@@ -11765,7 +11765,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [8-11] 至 [12-22] 冰冷伤害",
+        "displayString": "增加 [8-11] 至 [12-22] 冰霜伤害",
         "property": "eledam",
         "min": 8,
         "max": 12
@@ -11791,7 +11791,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [11-16] 至 [27-43] 冰冷伤害",
+        "displayString": "增加 [11-16] 至 [27-43] 冰霜伤害",
         "property": "eledam",
         "min": 11,
         "max": 27
@@ -11817,7 +11817,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [30-35] 至 [54-73] 冰冷伤害",
+        "displayString": "增加 [30-35] 至 [54-73] 冰霜伤害",
         "property": "eledam",
         "min": 30,
         "max": 54
@@ -11843,7 +11843,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [2-4] 至 [4-8] 冰冷伤害",
+        "displayString": "增加 [2-4] 至 [4-8] 冰霜伤害",
         "property": "eledam",
         "min": 2,
         "max": 4
@@ -11868,7 +11868,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [6-8] 至 [10-16] 冰冷伤害",
+        "displayString": "增加 [6-8] 至 [10-16] 冰霜伤害",
         "property": "eledam",
         "min": 6,
         "max": 10
@@ -11893,7 +11893,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [12-16] 至 [20-30] 冰冷伤害",
+        "displayString": "增加 [12-16] 至 [20-30] 冰霜伤害",
         "property": "eledam",
         "min": 12,
         "max": 20
@@ -11918,7 +11918,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [22-26] 至 [40-54] 冰冷伤害",
+        "displayString": "增加 [22-26] 至 [40-54] 冰霜伤害",
         "property": "eledam",
         "min": 22,
         "max": 40
@@ -11943,7 +11943,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [1-2] 至 [2-4] 冰冷伤害",
+        "displayString": "增加 [1-2] 至 [2-4] 冰霜伤害",
         "property": "eledam",
         "min": 1,
         "max": 2
@@ -11968,7 +11968,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [3-4] 至 [5-8] 冰冷伤害",
+        "displayString": "增加 [3-4] 至 [5-8] 冰霜伤害",
         "property": "eledam",
         "min": 3,
         "max": 5
@@ -11993,7 +11993,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [6-8] 至 [10-16] 冰冷伤害",
+        "displayString": "增加 [6-8] 至 [10-16] 冰霜伤害",
         "property": "eledam",
         "min": 6,
         "max": 10
@@ -12018,7 +12018,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [11-13] 至 [20-27] 冰冷伤害",
+        "displayString": "增加 [11-13] 至 [20-27] 冰霜伤害",
         "property": "eledam",
         "min": 11,
         "max": 20
@@ -13166,7 +13166,7 @@
         "max": 18
       },
       {
-        "displayString": "怪物拥有 5-10% 火焰技能伤害",
+        "displayString": "怪物获得 5-10% 火焰技能伤害",
         "property": "map-mon-extra-fire",
         "min": 5,
         "max": 10
@@ -13204,7 +13204,7 @@
         "max": 23
       },
       {
-        "displayString": "怪物拥有 10-15% 火焰技能伤害",
+        "displayString": "怪物获得 10-15% 火焰技能伤害",
         "property": "map-mon-extra-fire",
         "min": 10,
         "max": 15
@@ -13242,7 +13242,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 15-20% 火焰技能伤害",
+        "displayString": "怪物获得 15-20% 火焰技能伤害",
         "property": "map-mon-extra-fire",
         "min": 15,
         "max": 20
@@ -13287,7 +13287,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 5-10% 冰冷技能伤害",
+        "displayString": "怪物获得 5-10% 冰冷技能伤害",
         "property": "map-mon-extra-cold",
         "min": 5,
         "max": 10
@@ -13331,7 +13331,7 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 10-15% 冰冷技能伤害",
+        "displayString": "怪物获得 10-15% 冰冷技能伤害",
         "property": "map-mon-extra-cold",
         "min": 10,
         "max": 15
@@ -13375,7 +13375,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 15-20% 冰冷技能伤害",
+        "displayString": "怪物获得 15-20% 冰冷技能伤害",
         "property": "map-mon-extra-cold",
         "min": 15,
         "max": 20
@@ -13414,7 +13414,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 5-10% 闪电技能伤害",
+        "displayString": "怪物获得 5-10% 闪电技能伤害",
         "property": "map-mon-extra-ltng",
         "min": 5,
         "max": 10
@@ -13452,7 +13452,7 @@
         "max": 23
       },
       {
-        "displayString": "怪物拥有 10-15% 闪电技能伤害",
+        "displayString": "怪物获得 10-15% 闪电技能伤害",
         "property": "map-mon-extra-ltng",
         "min": 10,
         "max": 15
@@ -13490,7 +13490,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 15-20% 闪电技能伤害",
+        "displayString": "怪物获得 15-20% 闪电技能伤害",
         "property": "map-mon-extra-ltng",
         "min": 15,
         "max": 20
@@ -13535,7 +13535,7 @@
         "max": 10
       },
       {
-        "displayString": "怪物拥有 5-10% 毒素技能伤害",
+        "displayString": "怪物获得 5-10% 毒素技能伤害",
         "property": "map-mon-extra-pois",
         "min": 5,
         "max": 10
@@ -13579,7 +13579,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 10-15% 毒素技能伤害",
+        "displayString": "怪物获得 10-15% 毒素技能伤害",
         "property": "map-mon-extra-pois",
         "min": 10,
         "max": 15
@@ -13623,7 +13623,7 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 15-20% 毒素技能伤害",
+        "displayString": "怪物获得 15-20% 毒素技能伤害",
         "property": "map-mon-extra-pois",
         "min": 15,
         "max": 20
@@ -13639,7 +13639,7 @@
     "suffix": false
   },
   {
-    "name": "银的",
+    "name": "银",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13668,13 +13668,13 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 30-50% 几率穿刺",
+        "displayString": "怪物获得 30-50% 几率刺骨",
         "property": "map-mon-att-pierce",
         "min": 30,
         "max": 50
       },
       {
-        "displayString": "怪物拥有 30-50% 攻击准确率",
+        "displayString": "怪物获得 30-50% 攻击命中值",
         "property": "map-mon-att-pierce",
         "min": 30,
         "max": 50
@@ -13718,13 +13718,13 @@
         "max": 35
       },
       {
-        "displayString": "怪物拥有 50-70% 几率穿刺",
+        "displayString": "怪物获得 50-70% 几率刺骨",
         "property": "map-mon-att-pierce",
         "min": 50,
         "max": 70
       },
       {
-        "displayString": "怪物拥有 50-70% 攻击准确率",
+        "displayString": "怪物获得 50-70% 攻击命中值",
         "property": "map-mon-att-pierce",
         "min": 50,
         "max": 70
@@ -13739,7 +13739,7 @@
     "suffix": false
   },
   {
-    "name": "华丽的",
+    "name": "丰富的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13768,13 +13768,13 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 70-90% 几率穿刺",
+        "displayString": "怪物获得 70-90% 几率刺骨",
         "property": "map-mon-att-pierce",
         "min": 70,
         "max": 90
       },
       {
-        "displayString": "怪物拥有 70-90% 攻击准确率",
+        "displayString": "怪物获得 70-90% 攻击命中值",
         "property": "map-mon-att-pierce",
         "min": 70,
         "max": 90
@@ -13790,7 +13790,7 @@
     "suffix": false
   },
   {
-    "name": "快速的",
+    "name": "快速",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13813,13 +13813,13 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 40-60% 攻击速度",
+        "displayString": "怪物获得 40-60% 攻击速度",
         "property": "map-mon-att-cast-speed",
         "min": 40,
         "max": 60
       },
       {
-        "displayString": "怪物拥有 40-60% 施法速度",
+        "displayString": "怪物获得 40-60% 施法速度",
         "property": "map-mon-att-cast-speed",
         "min": 40,
         "max": 60
@@ -13834,7 +13834,7 @@
     "suffix": false
   },
   {
-    "name": "神速的",
+    "name": "迅速",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13857,13 +13857,13 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 60-80% 攻击速度",
+        "displayString": "怪物获得 60-80% 攻击速度",
         "property": "map-mon-att-cast-speed",
         "min": 60,
         "max": 80
       },
       {
-        "displayString": "怪物拥有 60-80% 施法速度",
+        "displayString": "怪物获得 60-80% 施法速度",
         "property": "map-mon-att-cast-speed",
         "min": 60,
         "max": 80
@@ -13878,7 +13878,7 @@
     "suffix": false
   },
   {
-    "name": "荒唐的",
+    "name": "荒谬的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13901,13 +13901,13 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 80-100% 攻击速度",
+        "displayString": "怪物获得 80-100% 攻击速度",
         "property": "map-mon-att-cast-speed",
         "min": 80,
         "max": 100
       },
       {
-        "displayString": "怪物拥有 80-100% 施法速度",
+        "displayString": "怪物获得 80-100% 施法速度",
         "property": "map-mon-att-cast-speed",
         "min": 80,
         "max": 100
@@ -13923,7 +13923,7 @@
     "suffix": false
   },
   {
-    "name": "大型的",
+    "name": "广大",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13946,7 +13946,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 5-10% 增加最大生命",
+        "displayString": "怪物获得 5-10% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 5,
         "max": 10
@@ -13961,7 +13961,7 @@
     "suffix": false
   },
   {
-    "name": "巨大的",
+    "name": "巨大",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13984,7 +13984,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 10-15% 增加最大生命",
+        "displayString": "怪物获得 10-15% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 10,
         "max": 15
@@ -13999,7 +13999,7 @@
     "suffix": false
   },
   {
-    "name": "巨型的",
+    "name": "庞大",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14022,7 +14022,7 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 15-20% 增加最大生命",
+        "displayString": "怪物获得 15-20% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 15,
         "max": 20
@@ -14038,7 +14038,7 @@
     "suffix": false
   },
   {
-    "name": "强壮的",
+    "name": "强壮",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14067,7 +14067,7 @@
         "max": 15
       },
       {
-        "displayString": "怪物拥有 10-15% 增强物理伤害",
+        "displayString": "怪物获得 10-15% 增强物理伤害",
         "property": "map-mon-ed%",
         "min": 10,
         "max": 15
@@ -14082,7 +14082,7 @@
     "suffix": false
   },
   {
-    "name": "强力的",
+    "name": "威武的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14111,7 +14111,7 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 15-20% 增强物理伤害",
+        "displayString": "怪物获得 15-20% 增强物理伤害",
         "property": "map-mon-ed%",
         "min": 15,
         "max": 20
@@ -14126,7 +14126,7 @@
     "suffix": false
   },
   {
-    "name": "惊人的",
+    "name": "强大",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14155,7 +14155,7 @@
         "max": 45
       },
       {
-        "displayString": "怪物拥有 20-25% 增强物理伤害",
+        "displayString": "怪物获得 20-25% 增强物理伤害",
         "property": "map-mon-ed%",
         "min": 20,
         "max": 25
@@ -14171,7 +14171,7 @@
     "suffix": false
   },
   {
-    "name": "溅射的",
+    "name": "泼溅",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14215,7 +14215,7 @@
     "suffix": false
   },
   {
-    "name": "溅射的",
+    "name": "泼溅",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14259,7 +14259,7 @@
     "suffix": false
   },
   {
-    "name": "溅射的",
+    "name": "泼溅",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14304,7 +14304,7 @@
     "suffix": false
   },
   {
-    "name": "血腥的",
+    "name": "血腥",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14333,7 +14333,7 @@
         "max": 10
       },
       {
-        "displayString": "怪物拥有 5-10% 几率造成 撕裂伤口",
+        "displayString": "怪物获得 5-10% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 5,
         "max": 10
@@ -14377,7 +14377,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 10-15% 几率造成 撕裂伤口",
+        "displayString": "怪物获得 10-15% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 10,
         "max": 15
@@ -14392,7 +14392,7 @@
     "suffix": false
   },
   {
-    "name": "血腥的",
+    "name": "流血的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14421,7 +14421,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 15-20% 几率造成 撕裂伤口",
+        "displayString": "怪物获得 15-20% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 15,
         "max": 20
@@ -14437,7 +14437,7 @@
     "suffix": false
   },
   {
-    "name": "不健康的",
+    "name": "不良",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14466,7 +14466,7 @@
         "max": 10
       },
       {
-        "displayString": "玩家拥有 -40 至 -30 消耗生命",
+        "displayString": "玩家获得 -40 至 -30 消耗生命",
         "property": "map-play-regen",
         "min": -40,
         "max": -30
@@ -14481,7 +14481,7 @@
     "suffix": false
   },
   {
-    "name": "病弱的",
+    "name": "病态的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14510,7 +14510,7 @@
         "max": 25
       },
       {
-        "displayString": "玩家拥有 -60 至 -50 消耗生命",
+        "displayString": "玩家获得 -60 至 -50 消耗生命",
         "property": "map-play-regen",
         "min": -60,
         "max": -50
@@ -14554,7 +14554,7 @@
         "max": 40
       },
       {
-        "displayString": "玩家拥有 -80 至 -70 消耗生命",
+        "displayString": "玩家获得 -80 至 -70 消耗生命",
         "property": "map-play-regen",
         "min": -80,
         "max": -70
@@ -14570,7 +14570,7 @@
     "suffix": false
   },
   {
-    "name": "碾压的",
+    "name": "压碎",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14599,7 +14599,7 @@
         "max": 10
       },
       {
-        "displayString": "怪物拥有 15-25% 几率造成 压碎性打击",
+        "displayString": "怪物获得 15-25% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 15,
         "max": 25
@@ -14614,7 +14614,7 @@
     "suffix": false
   },
   {
-    "name": "猛击的",
+    "name": "粉碎",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14643,7 +14643,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 25-35% 几率造成 压碎性打击",
+        "displayString": "怪物获得 25-35% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 25,
         "max": 35
@@ -14658,7 +14658,7 @@
     "suffix": false
   },
   {
-    "name": "湮灭的",
+    "name": "消灭",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14687,7 +14687,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 35-45% 几率造成 压碎性打击",
+        "displayString": "怪物获得 35-45% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 35,
         "max": 45
@@ -14703,7 +14703,7 @@
     "suffix": false
   },
   {
-    "name": "火星的",
+    "name": "闪耀",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14732,7 +14732,7 @@
         "max": 10
       },
       {
-        "displayString": "怪物拥有 60-80% 之物理伤害作为额外闪电伤害",
+        "displayString": "怪物获得 60-80% 之物理伤害作为额外闪电伤害",
         "property": "map-mon-phys-as-extra-ltng",
         "min": 60,
         "max": 80
@@ -14776,7 +14776,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 70-90% 之物理伤害作为额外闪电伤害",
+        "displayString": "怪物获得 70-90% 之物理伤害作为额外闪电伤害",
         "property": "map-mon-phys-as-extra-ltng",
         "min": 70,
         "max": 90
@@ -14791,7 +14791,7 @@
     "suffix": false
   },
   {
-    "name": "雷鸣的",
+    "name": "雷霆",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14820,7 +14820,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 80-100% 之物理伤害作为额外闪电伤害",
+        "displayString": "怪物获得 80-100% 之物理伤害作为额外闪电伤害",
         "property": "map-mon-phys-as-extra-ltng",
         "min": 80,
         "max": 100
@@ -14836,7 +14836,7 @@
     "suffix": false
   },
   {
-    "name": "冰寒的",
+    "name": "霜冻",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14865,7 +14865,7 @@
         "max": 10
       },
       {
-        "displayString": "怪物拥有 60-80% 之物理伤害作为额外冰冷伤害",
+        "displayString": "怪物获得 60-80% 之物理伤害作为额外冰霜伤害",
         "property": "map-mon-phys-as-extra-cold",
         "min": 60,
         "max": 80
@@ -14909,7 +14909,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 70-90% 之物理伤害作为额外冰冷伤害",
+        "displayString": "怪物获得 70-90% 之物理伤害作为额外冰霜伤害",
         "property": "map-mon-phys-as-extra-cold",
         "min": 70,
         "max": 90
@@ -14924,7 +14924,7 @@
     "suffix": false
   },
   {
-    "name": "冰川的",
+    "name": "冰河",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14953,7 +14953,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 80-100% 之物理伤害作为额外冰冷伤害",
+        "displayString": "怪物获得 80-100% 之物理伤害作为额外冰霜伤害",
         "property": "map-mon-phys-as-extra-cold",
         "min": 80,
         "max": 100
@@ -14998,7 +14998,7 @@
         "max": 10
       },
       {
-        "displayString": "怪物拥有 60-80% 之物理伤害作为额外火焰伤害",
+        "displayString": "怪物获得 60-80% 之物理伤害作为额外火焰伤害",
         "property": "map-mon-phys-as-extra-fire",
         "min": 60,
         "max": 80
@@ -15013,7 +15013,7 @@
     "suffix": false
   },
   {
-    "name": "熔化的",
+    "name": "熔火",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15042,7 +15042,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 70-90% 之物理伤害作为额外火焰伤害",
+        "displayString": "怪物获得 70-90% 之物理伤害作为额外火焰伤害",
         "property": "map-mon-phys-as-extra-fire",
         "min": 70,
         "max": 90
@@ -15057,7 +15057,7 @@
     "suffix": false
   },
   {
-    "name": "火山的",
+    "name": "火山",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15086,7 +15086,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 80-100% 之物理伤害作为额外火焰伤害",
+        "displayString": "怪物获得 80-100% 之物理伤害作为额外火焰伤害",
         "property": "map-mon-phys-as-extra-fire",
         "min": 80,
         "max": 100
@@ -15102,7 +15102,7 @@
     "suffix": false
   },
   {
-    "name": "剧毒的",
+    "name": "恶毒",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15131,7 +15131,7 @@
         "max": 10
       },
       {
-        "displayString": "怪物拥有 123-163% 之物理伤害作为额外毒素伤害持续 5 秒",
+        "displayString": "怪物获得 123-163% 之物理伤害作为额外毒素伤害持续 5 秒",
         "property": "map-mon-phys-as-extra-pois",
         "min": 123,
         "max": 163
@@ -15175,7 +15175,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 143-184% 之物理伤害作为额外毒素伤害持续 5 秒",
+        "displayString": "怪物获得 143-184% 之物理伤害作为额外毒素伤害持续 5 秒",
         "property": "map-mon-phys-as-extra-pois",
         "min": 143,
         "max": 184
@@ -15190,7 +15190,7 @@
     "suffix": false
   },
   {
-    "name": "染疫的",
+    "name": "困厄",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15219,7 +15219,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 163-205% 之物理伤害作为额外毒素伤害持续 5 秒",
+        "displayString": "怪物获得 163-205% 之物理伤害作为额外毒素伤害持续 5 秒",
         "property": "map-mon-phys-as-extra-pois",
         "min": 163,
         "max": 205
@@ -15235,7 +15235,7 @@
     "suffix": false
   },
   {
-    "name": "符文的",
+    "name": "符文",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15264,7 +15264,7 @@
         "max": 10
       },
       {
-        "displayString": "怪物拥有 8-10% 之物理伤害作为额外魔法伤害",
+        "displayString": "怪物获得 8-10% 之物理伤害作为额外魔法伤害",
         "property": "map-mon-phys-as-extra-mag",
         "min": 8,
         "max": 10
@@ -15279,7 +15279,7 @@
     "suffix": false
   },
   {
-    "name": "禁忌的",
+    "name": "忌讳",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15308,7 +15308,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 10-12% 之物理伤害作为额外魔法伤害",
+        "displayString": "怪物获得 10-12% 之物理伤害作为额外魔法伤害",
         "property": "map-mon-phys-as-extra-mag",
         "min": 10,
         "max": 12
@@ -15323,7 +15323,7 @@
     "suffix": false
   },
   {
-    "name": "玄秘的",
+    "name": "隐秘",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15352,7 +15352,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 12-14% 之物理伤害作为额外魔法伤害",
+        "displayString": "怪物获得 12-14% 之物理伤害作为额外魔法伤害",
         "property": "map-mon-phys-as-extra-mag",
         "min": 12,
         "max": 14
@@ -15368,7 +15368,7 @@
     "suffix": false
   },
   {
-    "name": "放血的",
+    "name": "放血",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -15399,7 +15399,7 @@
     "suffix": false
   },
   {
-    "name": "凶残的",
+    "name": "凶残",
     "spawnable": "1",
     "rare": "1",
     "level": 51,
@@ -15430,7 +15430,7 @@
     "suffix": false
   },
   {
-    "name": "吸血的",
+    "name": "吮血",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -15462,7 +15462,7 @@
     "suffix": false
   },
   {
-    "name": "引导的",
+    "name": "通灵",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -15487,7 +15487,7 @@
     "suffix": false
   },
   {
-    "name": "寒冷的",
+    "name": "冰冷",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -15512,7 +15512,7 @@
     "suffix": false
   },
   {
-    "name": "余烬的",
+    "name": "灰烬",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -15537,7 +15537,7 @@
     "suffix": false
   },
   {
-    "name": "病态的",
+    "name": "病态",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -15562,7 +15562,7 @@
     "suffix": false
   },
   {
-    "name": "闪耀的",
+    "name": "闪耀",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -15587,7 +15587,7 @@
     "suffix": false
   },
   {
-    "name": "释放的",
+    "name": "放电",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -15612,7 +15612,7 @@
     "suffix": false
   },
   {
-    "name": "严寒的",
+    "name": "严寒",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -15637,7 +15637,7 @@
     "suffix": false
   },
   {
-    "name": "野火的",
+    "name": "野火",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -15662,7 +15662,7 @@
     "suffix": false
   },
   {
-    "name": "恶意的",
+    "name": "预谋",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -15687,7 +15687,7 @@
     "suffix": false
   },
   {
-    "name": "冒泡的",
+    "name": "兴奋",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -15712,7 +15712,7 @@
     "suffix": false
   },
   {
-    "name": "传导的",
+    "name": "介质",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -15737,7 +15737,7 @@
     "suffix": false
   },
   {
-    "name": "麻木的",
+    "name": "麻木",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -15762,7 +15762,7 @@
     "suffix": false
   },
   {
-    "name": "炼狱的",
+    "name": "炼狱",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -15787,7 +15787,7 @@
     "suffix": false
   },
   {
-    "name": "传染的",
+    "name": "传染",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -15837,7 +15837,7 @@
     "suffix": false
   },
   {
-    "name": "暴虐的",
+    "name": "本能",
     "spawnable": "1",
     "rare": "1",
     "level": 75,
@@ -15878,13 +15878,13 @@
     "group": 142,
     "displayProperties": [
       {
-        "displayString": "+276-350% 对不死生物的伤害",
+        "displayString": "+276-350% 对亡灵的伤害",
         "property": "dmg-undead",
         "min": 276,
         "max": 350
       },
       {
-        "displayString": "+326-450 对不死生物的攻击准确率",
+        "displayString": "+326-450 对亡灵的攻击命中值",
         "property": "att-undead",
         "min": 326,
         "max": 450
@@ -15915,7 +15915,7 @@
         "max": 300
       },
       {
-        "displayString": "+301-400 对恶魔的攻击准确率",
+        "displayString": "+301-400 对恶魔的攻击命中值",
         "property": "att-demon",
         "min": 301,
         "max": 400
@@ -15946,7 +15946,7 @@
         "max": 200
       },
       {
-        "displayString": "+251-300 攻击准确率",
+        "displayString": "+251-300 攻击命中值",
         "property": "att",
         "min": 251,
         "max": 300
@@ -15960,7 +15960,7 @@
     "suffix": false
   },
   {
-    "name": "支援的",
+    "name": "支撑",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -15986,7 +15986,7 @@
     "suffix": false
   },
   {
-    "name": "加固的",
+    "name": "加固",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -16012,7 +16012,7 @@
     "suffix": false
   },
   {
-    "name": "强化的",
+    "name": "赋能",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -16038,7 +16038,7 @@
     "suffix": false
   },
   {
-    "name": "巩固的",
+    "name": "强化",
     "spawnable": "1",
     "rare": "1",
     "level": 55,
@@ -16064,7 +16064,7 @@
     "suffix": false
   },
   {
-    "name": "坚固的",
+    "name": "坚定",
     "spawnable": "1",
     "rare": "1",
     "level": 65,
@@ -16090,7 +16090,7 @@
     "suffix": false
   },
   {
-    "name": "临战的",
+    "name": "困厄",
     "spawnable": "1",
     "rare": "1",
     "level": 75,
@@ -16116,7 +16116,7 @@
     "suffix": false
   },
   {
-    "name": "肆虐的",
+    "name": "暴怒",
     "spawnable": "1",
     "rare": "1",
     "level": 85,
@@ -16247,7 +16247,7 @@
     "suffix": false
   },
   {
-    "name": "少女的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -16393,7 +16393,7 @@
     "group": 125,
     "displayProperties": [
       {
-        "displayString": "+1 德鲁伊技能等级",
+        "displayString": "+1 德鲁依技能等级",
         "property": "dru",
         "min": 1,
         "max": 1
@@ -16498,7 +16498,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+151-300 攻击准确率",
+        "displayString": "+151-300 攻击命中值",
         "property": "att",
         "min": 151,
         "max": 300
@@ -16529,7 +16529,7 @@
         "max": 100
       },
       {
-        "displayString": "+101-150 对恶魔的攻击准确率",
+        "displayString": "+101-150 对恶魔的攻击命中值",
         "property": "att-demon",
         "min": 101,
         "max": 150
@@ -16598,7 +16598,7 @@
     "suffix": false
   },
   {
-    "name": "绯红的",
+    "name": "深红",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -16625,7 +16625,7 @@
     "suffix": false
   },
   {
-    "name": "穿透的",
+    "name": "尖锐",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -16636,7 +16636,7 @@
     "group": 143,
     "displayProperties": [
       {
-        "displayString": "+5-10% 几率穿刺",
+        "displayString": "+5-10% 几率刺骨",
         "property": "pierce",
         "min": 5,
         "max": 10
@@ -16650,7 +16650,7 @@
     "suffix": false
   },
   {
-    "name": "刺破的",
+    "name": "穿刺",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -16661,7 +16661,7 @@
     "group": 143,
     "displayProperties": [
       {
-        "displayString": "+11-20% 几率穿刺",
+        "displayString": "+11-20% 几率刺骨",
         "property": "pierce",
         "min": 11,
         "max": 20
@@ -16675,7 +16675,7 @@
     "suffix": false
   },
   {
-    "name": "刺穿的",
+    "name": "刺骨",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -16686,7 +16686,7 @@
     "group": 143,
     "displayProperties": [
       {
-        "displayString": "+21-30% 几率穿刺",
+        "displayString": "+21-30% 几率刺骨",
         "property": "pierce",
         "min": 21,
         "max": 30
@@ -16700,7 +16700,7 @@
     "suffix": false
   },
   {
-    "name": "穿刺的",
+    "name": "突刺",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -16711,7 +16711,7 @@
     "group": 143,
     "displayProperties": [
       {
-        "displayString": "+31-40% 几率穿刺",
+        "displayString": "+31-40% 几率刺骨",
         "property": "pierce",
         "min": 31,
         "max": 40
@@ -16725,7 +16725,7 @@
     "suffix": false
   },
   {
-    "name": "虔诚的",
+    "name": "虔诚",
     "spawnable": "1",
     "rare": "1",
     "level": 3,
@@ -16736,13 +16736,13 @@
     "group": 142,
     "displayProperties": [
       {
-        "displayString": "+10-25% 对不死生物的伤害",
+        "displayString": "+10-25% 对亡灵的伤害",
         "property": "dmg-undead",
         "min": 10,
         "max": 25
       },
       {
-        "displayString": "+25-50 对不死生物的攻击准确率",
+        "displayString": "+25-50 对亡灵的攻击命中值",
         "property": "att-undead",
         "min": 25,
         "max": 50
@@ -16767,13 +16767,13 @@
     "group": 142,
     "displayProperties": [
       {
-        "displayString": "+25-75% 对不死生物的伤害",
+        "displayString": "+25-75% 对亡灵的伤害",
         "property": "dmg-undead",
         "min": 25,
         "max": 75
       },
       {
-        "displayString": "+25-75 对不死生物的攻击准确率",
+        "displayString": "+25-75 对亡灵的攻击命中值",
         "property": "att-undead",
         "min": 25,
         "max": 75
@@ -16798,13 +16798,13 @@
     "group": 142,
     "displayProperties": [
       {
-        "displayString": "+76-125% 对不死生物的伤害",
+        "displayString": "+76-125% 对亡灵的伤害",
         "property": "dmg-undead",
         "min": 76,
         "max": 125
       },
       {
-        "displayString": "+76-175 对不死生物的攻击准确率",
+        "displayString": "+76-175 对亡灵的攻击命中值",
         "property": "att-undead",
         "min": 76,
         "max": 175
@@ -17110,7 +17110,7 @@
         "max": 25
       },
       {
-        "displayString": "+25-50 对恶魔的攻击准确率",
+        "displayString": "+25-50 对恶魔的攻击命中值",
         "property": "att-demon",
         "min": 25,
         "max": 50
@@ -17144,7 +17144,7 @@
         "max": 50
       },
       {
-        "displayString": "+51-100 对恶魔的攻击准确率",
+        "displayString": "+51-100 对恶魔的攻击命中值",
         "property": "att-demon",
         "min": 51,
         "max": 100
@@ -17161,7 +17161,7 @@
     "suffix": false
   },
   {
-    "name": "邪教徒的",
+    "name": "教徒的",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -17197,7 +17197,7 @@
     "suffix": false
   },
   {
-    "name": "嗜血者的",
+    "name": "噬血者的",
     "spawnable": "1",
     "rare": "1",
     "level": 48,
@@ -17233,7 +17233,7 @@
     "suffix": false
   },
   {
-    "name": "屠戮者的",
+    "name": "血腥欲望者的",
     "spawnable": "1",
     "rare": "1",
     "level": 68,
@@ -17269,7 +17269,7 @@
     "suffix": false
   },
   {
-    "name": "邪教徒的",
+    "name": "教徒的",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -17301,7 +17301,7 @@
     "suffix": false
   },
   {
-    "name": "嗜血者的",
+    "name": "噬血者的",
     "spawnable": "1",
     "rare": "1",
     "level": 48,
@@ -17333,7 +17333,7 @@
     "suffix": false
   },
   {
-    "name": "屠戮者的",
+    "name": "血腥欲望者的",
     "spawnable": "1",
     "rare": "1",
     "level": 68,
@@ -17401,7 +17401,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [6-9] 至 [19-30] 冰冷伤害",
+        "displayString": "增加 [6-9] 至 [19-30] 冰霜伤害",
         "property": "eledam",
         "min": 6,
         "max": 19
@@ -17415,7 +17415,7 @@
     "suffix": false
   },
   {
-    "name": "烈性的",
+    "name": "剧毒",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -17445,7 +17445,7 @@
     "suffix": false
   },
   {
-    "name": "传染的",
+    "name": "传染",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -17490,7 +17490,7 @@
         "max": 2
       },
       {
-        "displayString": "+10 攻击准确率",
+        "displayString": "+10 攻击命中值",
         "property": "att",
         "min": 10,
         "max": 10
@@ -17617,7 +17617,7 @@
     "suffix": false
   },
   {
-    "name": "嘶嘶的",
+    "name": "酷热的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -17677,7 +17677,7 @@
     "suffix": false
   },
   {
-    "name": "地狱的",
+    "name": "炼狱的",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -17707,7 +17707,7 @@
     "suffix": false
   },
   {
-    "name": "严寒的",
+    "name": "严寒",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -17737,7 +17737,7 @@
     "suffix": false
   },
   {
-    "name": "冻伤的",
+    "name": "霜冻的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -17767,7 +17767,7 @@
     "suffix": false
   },
   {
-    "name": "酷寒的",
+    "name": "冰封的",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -17797,7 +17797,7 @@
     "suffix": false
   },
   {
-    "name": "噼啪的",
+    "name": "爆裂的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -17826,7 +17826,7 @@
     "suffix": false
   },
   {
-    "name": "震击的",
+    "name": "震荡的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -17884,7 +17884,7 @@
     "suffix": false
   },
   {
-    "name": "腐烂的",
+    "name": "破败的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -17911,7 +17911,7 @@
     "suffix": false
   },
   {
-    "name": "化脓的",
+    "name": "溃烂的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -17938,7 +17938,7 @@
     "suffix": false
   },
   {
-    "name": "坏死的",
+    "name": "腐败的",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -17965,7 +17965,7 @@
     "suffix": false
   },
   {
-    "name": "嘶嘶的",
+    "name": "酷热的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -18015,7 +18015,7 @@
     "suffix": false
   },
   {
-    "name": "地狱的",
+    "name": "炼狱的",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -18040,7 +18040,7 @@
     "suffix": false
   },
   {
-    "name": "严寒的",
+    "name": "严寒",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -18065,7 +18065,7 @@
     "suffix": false
   },
   {
-    "name": "冻伤的",
+    "name": "霜冻的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -18090,7 +18090,7 @@
     "suffix": false
   },
   {
-    "name": "酷寒的",
+    "name": "冰封的",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -18115,7 +18115,7 @@
     "suffix": false
   },
   {
-    "name": "噼啪的",
+    "name": "爆裂的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -18141,7 +18141,7 @@
     "suffix": false
   },
   {
-    "name": "震击的",
+    "name": "震荡的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -18295,7 +18295,7 @@
         "max": 36
       },
       {
-        "displayString": "怪物拥有 8-15% 火焰技能伤害",
+        "displayString": "怪物获得 8-15% 火焰技能伤害",
         "property": "map-mon-extra-fire",
         "min": 8,
         "max": 15
@@ -18333,7 +18333,7 @@
         "max": 46
       },
       {
-        "displayString": "怪物拥有 15-23% 火焰技能伤害",
+        "displayString": "怪物获得 15-23% 火焰技能伤害",
         "property": "map-mon-extra-fire",
         "min": 15,
         "max": 23
@@ -18371,7 +18371,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 23-30% 火焰技能伤害",
+        "displayString": "怪物获得 23-30% 火焰技能伤害",
         "property": "map-mon-extra-fire",
         "min": 23,
         "max": 30
@@ -18416,7 +18416,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 8-15% 冰冷技能伤害",
+        "displayString": "怪物获得 8-15% 冰冷技能伤害",
         "property": "map-mon-extra-cold",
         "min": 8,
         "max": 15
@@ -18460,7 +18460,7 @@
         "max": 60
       },
       {
-        "displayString": "怪物拥有 15-23% 冰冷技能伤害",
+        "displayString": "怪物获得 15-23% 冰冷技能伤害",
         "property": "map-mon-extra-cold",
         "min": 15,
         "max": 23
@@ -18504,7 +18504,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 23-30% 冰冷技能伤害",
+        "displayString": "怪物获得 23-30% 冰冷技能伤害",
         "property": "map-mon-extra-cold",
         "min": 23,
         "max": 30
@@ -18543,7 +18543,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 8-15% 闪电技能伤害",
+        "displayString": "怪物获得 8-15% 闪电技能伤害",
         "property": "map-mon-extra-ltng",
         "min": 8,
         "max": 15
@@ -18581,7 +18581,7 @@
         "max": 46
       },
       {
-        "displayString": "怪物拥有 15-23% 闪电技能伤害",
+        "displayString": "怪物获得 15-23% 闪电技能伤害",
         "property": "map-mon-extra-ltng",
         "min": 15,
         "max": 23
@@ -18619,7 +18619,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 23-30% 闪电技能伤害",
+        "displayString": "怪物获得 23-30% 闪电技能伤害",
         "property": "map-mon-extra-ltng",
         "min": 23,
         "max": 30
@@ -18664,7 +18664,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 8-15% 毒素技能伤害",
+        "displayString": "怪物获得 8-15% 毒素技能伤害",
         "property": "map-mon-extra-pois",
         "min": 8,
         "max": 15
@@ -18708,7 +18708,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 15-23% 毒素技能伤害",
+        "displayString": "怪物获得 15-23% 毒素技能伤害",
         "property": "map-mon-extra-pois",
         "min": 15,
         "max": 23
@@ -18752,7 +18752,7 @@
         "max": 60
       },
       {
-        "displayString": "怪物拥有 23-30% 毒素技能伤害",
+        "displayString": "怪物获得 23-30% 毒素技能伤害",
         "property": "map-mon-extra-pois",
         "min": 23,
         "max": 30
@@ -18768,7 +18768,7 @@
     "suffix": false
   },
   {
-    "name": "银的",
+    "name": "银",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18797,13 +18797,13 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 45-75% 几率穿刺",
+        "displayString": "怪物获得 45-75% 几率刺骨",
         "property": "map-mon-att-pierce",
         "min": 45,
         "max": 75
       },
       {
-        "displayString": "怪物拥有 45-75% 攻击准确率",
+        "displayString": "怪物获得 45-75% 攻击命中值",
         "property": "map-mon-att-pierce",
         "min": 45,
         "max": 75
@@ -18847,13 +18847,13 @@
         "max": 70
       },
       {
-        "displayString": "怪物拥有 75-105% 几率穿刺",
+        "displayString": "怪物获得 75-105% 几率刺骨",
         "property": "map-mon-att-pierce",
         "min": 75,
         "max": 105
       },
       {
-        "displayString": "怪物拥有 75-105% 攻击准确率",
+        "displayString": "怪物获得 75-105% 攻击命中值",
         "property": "map-mon-att-pierce",
         "min": 75,
         "max": 105
@@ -18868,7 +18868,7 @@
     "suffix": false
   },
   {
-    "name": "华丽的",
+    "name": "丰富的",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18897,13 +18897,13 @@
         "max": 100
       },
       {
-        "displayString": "怪物拥有 105-135% 几率穿刺",
+        "displayString": "怪物获得 105-135% 几率刺骨",
         "property": "map-mon-att-pierce",
         "min": 105,
         "max": 135
       },
       {
-        "displayString": "怪物拥有 105-135% 攻击准确率",
+        "displayString": "怪物获得 105-135% 攻击命中值",
         "property": "map-mon-att-pierce",
         "min": 105,
         "max": 135
@@ -18919,7 +18919,7 @@
     "suffix": false
   },
   {
-    "name": "快速的",
+    "name": "快速",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18942,13 +18942,13 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 60-90% 攻击速度",
+        "displayString": "怪物获得 60-90% 攻击速度",
         "property": "map-mon-att-cast-speed",
         "min": 60,
         "max": 90
       },
       {
-        "displayString": "怪物拥有 60-90% 施法速度",
+        "displayString": "怪物获得 60-90% 施法速度",
         "property": "map-mon-att-cast-speed",
         "min": 60,
         "max": 90
@@ -18963,7 +18963,7 @@
     "suffix": false
   },
   {
-    "name": "神速的",
+    "name": "迅速",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18986,13 +18986,13 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 90-120% 攻击速度",
+        "displayString": "怪物获得 90-120% 攻击速度",
         "property": "map-mon-att-cast-speed",
         "min": 90,
         "max": 120
       },
       {
-        "displayString": "怪物拥有 90-120% 施法速度",
+        "displayString": "怪物获得 90-120% 施法速度",
         "property": "map-mon-att-cast-speed",
         "min": 90,
         "max": 120
@@ -19007,7 +19007,7 @@
     "suffix": false
   },
   {
-    "name": "荒唐的",
+    "name": "荒谬的",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19030,13 +19030,13 @@
         "max": 60
       },
       {
-        "displayString": "怪物拥有 120-150% 攻击速度",
+        "displayString": "怪物获得 120-150% 攻击速度",
         "property": "map-mon-att-cast-speed",
         "min": 120,
         "max": 150
       },
       {
-        "displayString": "怪物拥有 120-150% 施法速度",
+        "displayString": "怪物获得 120-150% 施法速度",
         "property": "map-mon-att-cast-speed",
         "min": 120,
         "max": 150
@@ -19052,7 +19052,7 @@
     "suffix": false
   },
   {
-    "name": "大型的",
+    "name": "广大",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19075,7 +19075,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 10-20% 增加最大生命",
+        "displayString": "怪物获得 10-20% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 10,
         "max": 20
@@ -19090,7 +19090,7 @@
     "suffix": false
   },
   {
-    "name": "巨大的",
+    "name": "巨大",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19113,7 +19113,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 20-30% 增加最大生命",
+        "displayString": "怪物获得 20-30% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 20,
         "max": 30
@@ -19128,7 +19128,7 @@
     "suffix": false
   },
   {
-    "name": "巨型的",
+    "name": "庞大",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19151,7 +19151,7 @@
         "max": 60
       },
       {
-        "displayString": "怪物拥有 30-40% 增加最大生命",
+        "displayString": "怪物获得 30-40% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 30,
         "max": 40
@@ -19167,7 +19167,7 @@
     "suffix": false
   },
   {
-    "name": "强壮的",
+    "name": "强壮",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19196,7 +19196,7 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 15-23% 增强物理伤害",
+        "displayString": "怪物获得 15-23% 增强物理伤害",
         "property": "map-mon-ed%",
         "min": 15,
         "max": 23
@@ -19211,7 +19211,7 @@
     "suffix": false
   },
   {
-    "name": "强力的",
+    "name": "威武的",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19240,7 +19240,7 @@
         "max": 60
       },
       {
-        "displayString": "怪物拥有 23-30% 增强物理伤害",
+        "displayString": "怪物获得 23-30% 增强物理伤害",
         "property": "map-mon-ed%",
         "min": 23,
         "max": 30
@@ -19255,7 +19255,7 @@
     "suffix": false
   },
   {
-    "name": "惊人的",
+    "name": "强大",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19284,7 +19284,7 @@
         "max": 90
       },
       {
-        "displayString": "怪物拥有 30-38% 增强物理伤害",
+        "displayString": "怪物获得 30-38% 增强物理伤害",
         "property": "map-mon-ed%",
         "min": 30,
         "max": 38
@@ -19300,7 +19300,7 @@
     "suffix": false
   },
   {
-    "name": "溅射的",
+    "name": "泼溅",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19344,7 +19344,7 @@
     "suffix": false
   },
   {
-    "name": "溅射的",
+    "name": "泼溅",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19388,7 +19388,7 @@
     "suffix": false
   },
   {
-    "name": "溅射的",
+    "name": "泼溅",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19433,7 +19433,7 @@
     "suffix": false
   },
   {
-    "name": "血腥的",
+    "name": "血腥",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19462,7 +19462,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 8-15% 几率造成 撕裂伤口",
+        "displayString": "怪物获得 8-15% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 8,
         "max": 15
@@ -19506,7 +19506,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 15-23% 几率造成 撕裂伤口",
+        "displayString": "怪物获得 15-23% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 15,
         "max": 23
@@ -19521,7 +19521,7 @@
     "suffix": false
   },
   {
-    "name": "血腥的",
+    "name": "流血的",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19550,7 +19550,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 23-30% 几率造成 撕裂伤口",
+        "displayString": "怪物获得 23-30% 几率造成 撕裂伤口",
         "property": "map-mon-openwounds",
         "min": 23,
         "max": 30
@@ -19566,7 +19566,7 @@
     "suffix": false
   },
   {
-    "name": "不健康的",
+    "name": "不良",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19595,7 +19595,7 @@
         "max": 20
       },
       {
-        "displayString": "玩家拥有 -60 至 -45 消耗生命",
+        "displayString": "玩家获得 -60 至 -45 消耗生命",
         "property": "map-play-regen",
         "min": -60,
         "max": -45
@@ -19610,7 +19610,7 @@
     "suffix": false
   },
   {
-    "name": "病弱的",
+    "name": "病态的",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19639,7 +19639,7 @@
         "max": 50
       },
       {
-        "displayString": "玩家拥有 -90 至 -75 消耗生命",
+        "displayString": "玩家获得 -90 至 -75 消耗生命",
         "property": "map-play-regen",
         "min": -90,
         "max": -75
@@ -19683,7 +19683,7 @@
         "max": 80
       },
       {
-        "displayString": "玩家拥有 -120 至 -105 消耗生命",
+        "displayString": "玩家获得 -120 至 -105 消耗生命",
         "property": "map-play-regen",
         "min": -120,
         "max": -105
@@ -19699,7 +19699,7 @@
     "suffix": false
   },
   {
-    "name": "碾压的",
+    "name": "压碎",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19728,7 +19728,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 23-38% 几率造成 压碎性打击",
+        "displayString": "怪物获得 23-38% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 23,
         "max": 38
@@ -19743,7 +19743,7 @@
     "suffix": false
   },
   {
-    "name": "猛击的",
+    "name": "粉碎",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19772,7 +19772,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 38-53% 几率造成 压碎性打击",
+        "displayString": "怪物获得 38-53% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 38,
         "max": 53
@@ -19787,7 +19787,7 @@
     "suffix": false
   },
   {
-    "name": "湮灭的",
+    "name": "消灭",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19816,7 +19816,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 53-68% 几率造成 压碎性打击",
+        "displayString": "怪物获得 53-68% 几率造成 压碎性打击",
         "property": "map-mon-crush",
         "min": 53,
         "max": 68
@@ -19832,7 +19832,7 @@
     "suffix": false
   },
   {
-    "name": "火星的",
+    "name": "闪耀",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19861,7 +19861,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 90-120% 之物理伤害作为额外闪电伤害",
+        "displayString": "怪物获得 90-120% 之物理伤害作为额外闪电伤害",
         "property": "map-mon-phys-as-extra-ltng",
         "min": 90,
         "max": 120
@@ -19905,7 +19905,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 105-135% 之物理伤害作为额外闪电伤害",
+        "displayString": "怪物获得 105-135% 之物理伤害作为额外闪电伤害",
         "property": "map-mon-phys-as-extra-ltng",
         "min": 105,
         "max": 135
@@ -19920,7 +19920,7 @@
     "suffix": false
   },
   {
-    "name": "雷鸣的",
+    "name": "雷霆",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19949,7 +19949,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 120-150% 之物理伤害作为额外闪电伤害",
+        "displayString": "怪物获得 120-150% 之物理伤害作为额外闪电伤害",
         "property": "map-mon-phys-as-extra-ltng",
         "min": 120,
         "max": 150
@@ -19965,7 +19965,7 @@
     "suffix": false
   },
   {
-    "name": "冰寒的",
+    "name": "霜冻",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19994,7 +19994,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 90-120% 之物理伤害作为额外冰冷伤害",
+        "displayString": "怪物获得 90-120% 之物理伤害作为额外冰霜伤害",
         "property": "map-mon-phys-as-extra-cold",
         "min": 90,
         "max": 120
@@ -20038,7 +20038,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 105-135% 之物理伤害作为额外冰冷伤害",
+        "displayString": "怪物获得 105-135% 之物理伤害作为额外冰霜伤害",
         "property": "map-mon-phys-as-extra-cold",
         "min": 105,
         "max": 135
@@ -20053,7 +20053,7 @@
     "suffix": false
   },
   {
-    "name": "冰川的",
+    "name": "冰河",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20082,7 +20082,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 120-150% 之物理伤害作为额外冰冷伤害",
+        "displayString": "怪物获得 120-150% 之物理伤害作为额外冰霜伤害",
         "property": "map-mon-phys-as-extra-cold",
         "min": 120,
         "max": 150
@@ -20127,7 +20127,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 90-120% 之物理伤害作为额外火焰伤害",
+        "displayString": "怪物获得 90-120% 之物理伤害作为额外火焰伤害",
         "property": "map-mon-phys-as-extra-fire",
         "min": 90,
         "max": 120
@@ -20142,7 +20142,7 @@
     "suffix": false
   },
   {
-    "name": "熔化的",
+    "name": "熔火",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20171,7 +20171,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 105-135% 之物理伤害作为额外火焰伤害",
+        "displayString": "怪物获得 105-135% 之物理伤害作为额外火焰伤害",
         "property": "map-mon-phys-as-extra-fire",
         "min": 105,
         "max": 135
@@ -20186,7 +20186,7 @@
     "suffix": false
   },
   {
-    "name": "火山的",
+    "name": "火山",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20215,7 +20215,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 120-150% 之物理伤害作为额外火焰伤害",
+        "displayString": "怪物获得 120-150% 之物理伤害作为额外火焰伤害",
         "property": "map-mon-phys-as-extra-fire",
         "min": 120,
         "max": 150
@@ -20231,7 +20231,7 @@
     "suffix": false
   },
   {
-    "name": "剧毒的",
+    "name": "恶毒",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20260,7 +20260,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 185-245% 之物理伤害作为额外毒素伤害持续 5 秒",
+        "displayString": "怪物获得 185-245% 之物理伤害作为额外毒素伤害持续 5 秒",
         "property": "map-mon-phys-as-extra-pois",
         "min": 185,
         "max": 245
@@ -20304,7 +20304,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 215-276% 之物理伤害作为额外毒素伤害持续 5 秒",
+        "displayString": "怪物获得 215-276% 之物理伤害作为额外毒素伤害持续 5 秒",
         "property": "map-mon-phys-as-extra-pois",
         "min": 215,
         "max": 276
@@ -20319,7 +20319,7 @@
     "suffix": false
   },
   {
-    "name": "染疫的",
+    "name": "困厄",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20348,7 +20348,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 245-308% 之物理伤害作为额外毒素伤害持续 5 秒",
+        "displayString": "怪物获得 245-308% 之物理伤害作为额外毒素伤害持续 5 秒",
         "property": "map-mon-phys-as-extra-pois",
         "min": 245,
         "max": 308
@@ -20364,7 +20364,7 @@
     "suffix": false
   },
   {
-    "name": "符文的",
+    "name": "符文",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20393,7 +20393,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 12-15% 之物理伤害作为额外魔法伤害",
+        "displayString": "怪物获得 12-15% 之物理伤害作为额外魔法伤害",
         "property": "map-mon-phys-as-extra-mag",
         "min": 12,
         "max": 15
@@ -20408,7 +20408,7 @@
     "suffix": false
   },
   {
-    "name": "禁忌的",
+    "name": "忌讳",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20437,7 +20437,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 15-18% 之物理伤害作为额外魔法伤害",
+        "displayString": "怪物获得 15-18% 之物理伤害作为额外魔法伤害",
         "property": "map-mon-phys-as-extra-mag",
         "min": 15,
         "max": 18
@@ -20452,7 +20452,7 @@
     "suffix": false
   },
   {
-    "name": "玄秘的",
+    "name": "隐秘",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20481,7 +20481,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 18-21% 之物理伤害作为额外魔法伤害",
+        "displayString": "怪物获得 18-21% 之物理伤害作为额外魔法伤害",
         "property": "map-mon-phys-as-extra-mag",
         "min": 18,
         "max": 21
@@ -20575,7 +20575,7 @@
     "suffix": false
   },
   {
-    "name": "狡猾的",
+    "name": "诡计",
     "spawnable": "1",
     "rare": "1",
     "level": 29,
@@ -20586,7 +20586,7 @@
     "group": 107,
     "displayProperties": [
       {
-        "displayString": "13-20% 受击时承受伤害的百分比转化为法力",
+        "displayString": "13-20% 受到的伤害转换为法力",
         "property": "dmg-to-mana",
         "min": 13,
         "max": 20
@@ -20603,7 +20603,7 @@
     "suffix": false
   },
   {
-    "name": "阴险的",
+    "name": "狡猾",
     "spawnable": "1",
     "rare": "1",
     "level": 49,
@@ -20614,7 +20614,7 @@
     "group": 107,
     "displayProperties": [
       {
-        "displayString": "21-30% 受击时承受伤害的百分比转化为法力",
+        "displayString": "21-30% 受到的伤害转换为法力",
         "property": "dmg-to-mana",
         "min": 21,
         "max": 30
@@ -20656,7 +20656,7 @@
     "suffix": false
   },
   {
-    "name": "迅捷的",
+    "name": "快速的",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -20681,7 +20681,7 @@
     "suffix": false
   },
   {
-    "name": "秘法的",
+    "name": "奥术",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -20731,7 +20731,7 @@
     "suffix": false
   },
   {
-    "name": "汲取的",
+    "name": "虹吸",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -20758,7 +20758,7 @@
     "suffix": false
   },
   {
-    "name": "生命铸就的",
+    "name": "血铸",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -20885,7 +20885,7 @@
     "suffix": false
   },
   {
-    "name": "无情的",
+    "name": "不懈",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -20910,7 +20910,7 @@
     "suffix": false
   },
   {
-    "name": "撕裂的",
+    "name": "撕裂",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -20935,7 +20935,7 @@
     "suffix": false
   },
   {
-    "name": "撕裂的",
+    "name": "撕裂",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -20960,7 +20960,7 @@
     "suffix": false
   },
   {
-    "name": "残忍的",
+    "name": "无情",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -20985,7 +20985,7 @@
     "suffix": false
   },
   {
-    "name": "残忍的",
+    "name": "无情",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -21010,7 +21010,7 @@
     "suffix": false
   },
   {
-    "name": "爆裂的",
+    "name": "破裂",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -21035,7 +21035,7 @@
     "suffix": false
   },
   {
-    "name": "粉碎的",
+    "name": "粉碎",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -21060,7 +21060,7 @@
     "suffix": false
   },
   {
-    "name": "粉碎的",
+    "name": "粉碎",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -21085,7 +21085,7 @@
     "suffix": false
   },
   {
-    "name": "撕裂的",
+    "name": "分裂",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -21110,7 +21110,7 @@
     "suffix": false
   },
   {
-    "name": "撕裂的",
+    "name": "分裂",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -21263,7 +21263,7 @@
     "suffix": false
   },
   {
-    "name": "放血的",
+    "name": "放血",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -21289,7 +21289,7 @@
     "suffix": false
   },
   {
-    "name": "凶残的",
+    "name": "凶残",
     "spawnable": "1",
     "rare": "1",
     "level": 51,
@@ -21315,7 +21315,7 @@
     "suffix": false
   },
   {
-    "name": "吸血的",
+    "name": "吮血",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -21552,7 +21552,7 @@
     "group": 107,
     "displayProperties": [
       {
-        "displayString": "13-18% 受击时承受伤害的百分比转化为法力",
+        "displayString": "13-18% 受到的伤害转换为法力",
         "property": "dmg-to-mana",
         "min": 13,
         "max": 18
@@ -21577,7 +21577,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+140-179 攻击准确率",
+        "displayString": "+140-179 攻击命中值",
         "property": "att",
         "min": 140,
         "max": 179
@@ -21833,7 +21833,7 @@
     "group": 316,
     "displayProperties": [
       {
-        "displayString": "增加最大生命 4-5%",
+        "displayString": "最大生命值加成 4-5%",
         "property": "hp%",
         "min": 4,
         "max": 5
@@ -21933,7 +21933,7 @@
     "group": 110,
     "displayProperties": [
       {
-        "displayString": "+133-147 攻击准确率",
+        "displayString": "+133-147 攻击命中值",
         "property": "att",
         "min": 133,
         "max": 147
@@ -21964,7 +21964,7 @@
         "max": 14
       },
       {
-        "displayString": "+77-104 攻击准确率",
+        "displayString": "+77-104 攻击命中值",
         "property": "att",
         "min": 77,
         "max": 104
@@ -22139,7 +22139,7 @@
     "group": 137,
     "displayProperties": [
       {
-        "displayString": "增加 [36-41] 至 [74-93] 冰冷伤害",
+        "displayString": "增加 [36-41] 至 [74-93] 冰霜伤害",
         "property": "eledam",
         "min": 36,
         "max": 74
@@ -22178,7 +22178,7 @@
     "suffix": false
   },
   {
-    "name": "释放的",
+    "name": "放电",
     "spawnable": "1",
     "rare": "1",
     "level": 91,
@@ -22278,7 +22278,7 @@
     "suffix": false
   },
   {
-    "name": "生命之",
+    "name": "健康之",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -22289,7 +22289,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 1",
+        "displayString": "受到的物理伤害减免 1",
         "property": "red-dmg",
         "min": 1,
         "max": 1
@@ -22319,7 +22319,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 2",
+        "displayString": "受到的物理伤害减免 2",
         "property": "red-dmg",
         "min": 2,
         "max": 2
@@ -22347,7 +22347,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 3",
+        "displayString": "受到的物理伤害减免 3",
         "property": "red-dmg",
         "min": 3,
         "max": 3
@@ -22374,7 +22374,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 4",
+        "displayString": "受到的物理伤害减免 4",
         "property": "red-dmg",
         "min": 4,
         "max": 4
@@ -22401,7 +22401,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 10-25",
+        "displayString": "受到的物理伤害减免 10-25",
         "property": "red-dmg",
         "min": 10,
         "max": 25
@@ -22427,7 +22427,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 2",
+        "displayString": "受到的物理伤害减免 2",
         "property": "red-dmg",
         "min": 2,
         "max": 2
@@ -22454,7 +22454,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 3",
+        "displayString": "受到的物理伤害减免 3",
         "property": "red-dmg",
         "min": 3,
         "max": 3
@@ -22482,7 +22482,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 4-7",
+        "displayString": "受到的物理伤害减免 4-7",
         "property": "red-dmg",
         "min": 4,
         "max": 7
@@ -22510,7 +22510,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 8-15",
+        "displayString": "受到的物理伤害减免 8-15",
         "property": "red-dmg",
         "min": 8,
         "max": 15
@@ -22526,7 +22526,7 @@
     "suffix": true
   },
   {
-    "name": "守护之",
+    "name": "结界之",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -22586,7 +22586,7 @@
     "suffix": true
   },
   {
-    "name": "守卫之",
+    "name": "御魔之",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -22669,7 +22669,7 @@
     "suffix": true
   },
   {
-    "name": "守卫之",
+    "name": "御魔之",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -22981,7 +22981,7 @@
     "suffix": true
   },
   {
-    "name": "迅捷之",
+    "name": "敏捷之",
     "spawnable": "1",
     "rare": "1",
     "level": 46,
@@ -23189,7 +23189,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [1-null] 至 [1-2] 冰冷伤害",
+        "displayString": "增加 [1-null] 至 [1-2] 冰霜伤害",
         "property": "eledam",
         "min": 1,
         "max": 1
@@ -23219,7 +23219,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [3-4] 至 [12-16] 冰冷伤害",
+        "displayString": "增加 [3-4] 至 [12-16] 冰霜伤害",
         "property": "eledam",
         "min": 3,
         "max": 12
@@ -23249,7 +23249,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [14-21] 至 [45-71] 冰冷伤害",
+        "displayString": "增加 [14-21] 至 [45-71] 冰霜伤害",
         "property": "eledam",
         "min": 14,
         "max": 45
@@ -23279,7 +23279,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [44-60] 至 [126-246] 冰冷伤害",
+        "displayString": "增加 [44-60] 至 [126-246] 冰霜伤害",
         "property": "eledam",
         "min": 44,
         "max": 126
@@ -23309,7 +23309,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [1-null] 至 [3-6] 冰冷伤害",
+        "displayString": "增加 [1-null] 至 [3-6] 冰霜伤害",
         "property": "eledam",
         "min": 1,
         "max": 3
@@ -23335,7 +23335,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [1-null] 至 [3-5] 冰冷伤害",
+        "displayString": "增加 [1-null] 至 [3-5] 冰霜伤害",
         "property": "eledam",
         "min": 1,
         "max": 3
@@ -23557,7 +23557,7 @@
     "suffix": true
   },
   {
-    "name": "闪电之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -23934,7 +23934,7 @@
     "suffix": true
   },
   {
-    "name": "开膛之",
+    "name": "剜空之",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -26652,7 +26652,7 @@
     "group": 25,
     "displayProperties": [
       {
-        "displayString": "+15-30 攻击准确率",
+        "displayString": "+15-30 攻击命中值",
         "property": "att",
         "min": 15,
         "max": 30
@@ -26687,7 +26687,7 @@
     "group": 25,
     "displayProperties": [
       {
-        "displayString": "+30-60 攻击准确率",
+        "displayString": "+30-60 攻击命中值",
         "property": "att",
         "min": 30,
         "max": 60
@@ -26719,7 +26719,7 @@
     "group": 25,
     "displayProperties": [
       {
-        "displayString": "10-20% 加成攻击准确率",
+        "displayString": "10-20% 加成攻击命中值",
         "property": "att%",
         "min": 10,
         "max": 20
@@ -27790,7 +27790,7 @@
     "suffix": true
   },
   {
-    "name": "血蛭之",
+    "name": "水蛭之",
     "spawnable": "1",
     "rare": "1",
     "level": 6,
@@ -27879,7 +27879,7 @@
     "suffix": true
   },
   {
-    "name": "血蛭之",
+    "name": "水蛭之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -27959,7 +27959,7 @@
     "suffix": true
   },
   {
-    "name": "血蛭之",
+    "name": "水蛭之",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -28014,7 +28014,7 @@
     "suffix": true
   },
   {
-    "name": "幽魂之",
+    "name": "怨魂之",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -28100,7 +28100,7 @@
     "suffix": true
   },
   {
-    "name": "幽魂之",
+    "name": "怨魂之",
     "spawnable": "1",
     "rare": "1",
     "level": 58,
@@ -29501,7 +29501,7 @@
     "suffix": true
   },
   {
-    "name": "新星之",
+    "name": "新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -29531,7 +29531,7 @@
     "suffix": true
   },
   {
-    "name": "新星之",
+    "name": "新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -29884,7 +29884,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [2-3] 至 [6-10] 冰冷伤害",
+        "displayString": "增加 [2-3] 至 [6-10] 冰霜伤害",
         "property": "eledam",
         "min": 2,
         "max": 6
@@ -29910,7 +29910,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [4-5] 至 [11-15] 冰冷伤害",
+        "displayString": "增加 [4-5] 至 [11-15] 冰霜伤害",
         "property": "eledam",
         "min": 4,
         "max": 11
@@ -29977,7 +29977,7 @@
     "suffix": true
   },
   {
-    "name": "闪电之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -30678,7 +30678,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [3-null] 至 [4-5] 冰冷伤害",
+        "displayString": "增加 [3-null] 至 [4-5] 冰霜伤害",
         "property": "eledam",
         "min": 3,
         "max": 4
@@ -30704,7 +30704,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [5-null] 至 [8-13] 冰冷伤害",
+        "displayString": "增加 [5-null] 至 [8-13] 冰霜伤害",
         "property": "eledam",
         "min": 5,
         "max": 8
@@ -30730,7 +30730,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [11-null] 至 [16-22] 冰冷伤害",
+        "displayString": "增加 [11-null] 至 [16-22] 冰霜伤害",
         "property": "eledam",
         "min": 11,
         "max": 16
@@ -30756,7 +30756,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [16-19] 至 [27-35] 冰冷伤害",
+        "displayString": "增加 [16-19] 至 [27-35] 冰霜伤害",
         "property": "eledam",
         "min": 16,
         "max": 27
@@ -30782,7 +30782,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [2-null] 至 [3-4] 冰冷伤害",
+        "displayString": "增加 [2-null] 至 [3-4] 冰霜伤害",
         "property": "eledam",
         "min": 2,
         "max": 3
@@ -30807,7 +30807,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [4-null] 至 [6-10] 冰冷伤害",
+        "displayString": "增加 [4-null] 至 [6-10] 冰霜伤害",
         "property": "eledam",
         "min": 4,
         "max": 6
@@ -30832,7 +30832,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [8-null] 至 [12-16] 冰冷伤害",
+        "displayString": "增加 [8-null] 至 [12-16] 冰霜伤害",
         "property": "eledam",
         "min": 8,
         "max": 12
@@ -30857,7 +30857,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [12-14] 至 [20-26] 冰冷伤害",
+        "displayString": "增加 [12-14] 至 [20-26] 冰霜伤害",
         "property": "eledam",
         "min": 12,
         "max": 20
@@ -30882,7 +30882,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 1-2 冰冷伤害",
+        "displayString": "增加 1-2 冰霜伤害",
         "property": "eledam",
         "min": 1,
         "max": 2
@@ -30907,7 +30907,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [2-null] 至 [3-5] 冰冷伤害",
+        "displayString": "增加 [2-null] 至 [3-5] 冰霜伤害",
         "property": "eledam",
         "min": 2,
         "max": 3
@@ -30932,7 +30932,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [4-null] 至 [6-8] 冰冷伤害",
+        "displayString": "增加 [4-null] 至 [6-8] 冰霜伤害",
         "property": "eledam",
         "min": 4,
         "max": 6
@@ -30957,7 +30957,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [6-7] 至 [10-13] 冰冷伤害",
+        "displayString": "增加 [6-7] 至 [10-13] 冰霜伤害",
         "property": "eledam",
         "min": 6,
         "max": 10
@@ -31301,7 +31301,7 @@
     "suffix": true
   },
   {
-    "name": "闪电之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -31404,7 +31404,7 @@
     "suffix": true
   },
   {
-    "name": "闪电之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -31504,7 +31504,7 @@
     "suffix": true
   },
   {
-    "name": "闪电之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -31718,7 +31718,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 1-1 冰冷伤害",
+        "displayString": "增加 1-1 冰霜伤害",
         "property": "eledam",
         "min": 1,
         "max": 1
@@ -31892,7 +31892,7 @@
     "group": 25,
     "displayProperties": [
       {
-        "displayString": "+10 攻击准确率",
+        "displayString": "+10 攻击命中值",
         "property": "att",
         "min": 10,
         "max": 10
@@ -31913,7 +31913,7 @@
     "suffix": true
   },
   {
-    "name": "血蛭之",
+    "name": "水蛭之",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -32013,7 +32013,7 @@
     "suffix": true
   },
   {
-    "name": "幽魂之",
+    "name": "怨魂之",
     "spawnable": "1",
     "rare": "1",
     "level": 58,
@@ -32092,7 +32092,7 @@
         "max": 15
       },
       {
-        "displayString": "怪物拥有 50-100% 增强防御",
+        "displayString": "怪物获得 50-100% 增强防御",
         "property": "map-mon-ac%",
         "min": 50,
         "max": 100
@@ -32136,7 +32136,7 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 100-150% 增强防御",
+        "displayString": "怪物获得 100-150% 增强防御",
         "property": "map-mon-ac%",
         "min": 100,
         "max": 150
@@ -32180,7 +32180,7 @@
         "max": 45
       },
       {
-        "displayString": "怪物拥有 150-200% 增强防御",
+        "displayString": "怪物获得 150-200% 增强防御",
         "property": "map-mon-ac%",
         "min": 150,
         "max": 200
@@ -32196,7 +32196,7 @@
     "suffix": true
   },
   {
-    "name": "深红之",
+    "name": "深红色之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32219,7 +32219,7 @@
         "max": 18
       },
       {
-        "displayString": "怪物拥有 4-6% 冰冷吸收",
+        "displayString": "怪物获得 4-6% 冰冷吸收",
         "property": "map-mon-abs-fire%",
         "min": 4,
         "max": 6
@@ -32234,7 +32234,7 @@
     "suffix": true
   },
   {
-    "name": "深红之",
+    "name": "深红色之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32257,7 +32257,7 @@
         "max": 23
       },
       {
-        "displayString": "怪物拥有 6-8% 冰冷吸收",
+        "displayString": "怪物获得 6-8% 冰冷吸收",
         "property": "map-mon-abs-fire%",
         "min": 6,
         "max": 8
@@ -32272,7 +32272,7 @@
     "suffix": true
   },
   {
-    "name": "深红之",
+    "name": "深红色之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32295,7 +32295,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 8-10% 冰冷吸收",
+        "displayString": "怪物获得 8-10% 冰冷吸收",
         "property": "map-mon-abs-fire%",
         "min": 8,
         "max": 10
@@ -32311,7 +32311,7 @@
     "suffix": true
   },
   {
-    "name": "橘红之",
+    "name": "桔红之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32334,7 +32334,7 @@
         "max": 18
       },
       {
-        "displayString": "怪物拥有 4-6% 魔法吸收",
+        "displayString": "怪物获得 4-6% 魔法吸收",
         "property": "map-mon-abs-ltng%",
         "min": 4,
         "max": 6
@@ -32349,7 +32349,7 @@
     "suffix": true
   },
   {
-    "name": "橘红之",
+    "name": "桔红之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32372,7 +32372,7 @@
         "max": 23
       },
       {
-        "displayString": "怪物拥有 6-8% 魔法吸收",
+        "displayString": "怪物获得 6-8% 魔法吸收",
         "property": "map-mon-abs-ltng%",
         "min": 6,
         "max": 8
@@ -32387,7 +32387,7 @@
     "suffix": true
   },
   {
-    "name": "橘红之",
+    "name": "桔红之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32410,7 +32410,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 8-10% 魔法吸收",
+        "displayString": "怪物获得 8-10% 魔法吸收",
         "property": "map-mon-abs-ltng%",
         "min": 8,
         "max": 10
@@ -32426,7 +32426,7 @@
     "suffix": true
   },
   {
-    "name": "蛋白石之",
+    "name": "乳白之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32449,7 +32449,7 @@
         "max": 18
       },
       {
-        "displayString": "怪物拥有 4-6% 闪电吸收",
+        "displayString": "怪物获得 4-6% 闪电吸收",
         "property": "map-mon-abs-mag%",
         "min": 4,
         "max": 6
@@ -32464,7 +32464,7 @@
     "suffix": true
   },
   {
-    "name": "蛋白石之",
+    "name": "乳白之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32487,7 +32487,7 @@
         "max": 23
       },
       {
-        "displayString": "怪物拥有 6-8% 闪电吸收",
+        "displayString": "怪物获得 6-8% 闪电吸收",
         "property": "map-mon-abs-mag%",
         "min": 6,
         "max": 8
@@ -32502,7 +32502,7 @@
     "suffix": true
   },
   {
-    "name": "蛋白石之",
+    "name": "乳白之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32525,7 +32525,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 8-10% 闪电吸收",
+        "displayString": "怪物获得 8-10% 闪电吸收",
         "property": "map-mon-abs-mag%",
         "min": 8,
         "max": 10
@@ -32564,7 +32564,7 @@
         "max": 18
       },
       {
-        "displayString": "怪物拥有 4-6% 火焰吸收",
+        "displayString": "怪物获得 4-6% 火焰吸收",
         "property": "map-mon-abs-cold%",
         "min": 4,
         "max": 6
@@ -32602,7 +32602,7 @@
         "max": 23
       },
       {
-        "displayString": "怪物拥有 6-8% 火焰吸收",
+        "displayString": "怪物获得 6-8% 火焰吸收",
         "property": "map-mon-abs-cold%",
         "min": 6,
         "max": 8
@@ -32640,7 +32640,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 8-10% 火焰吸收",
+        "displayString": "怪物获得 8-10% 火焰吸收",
         "property": "map-mon-abs-cold%",
         "min": 8,
         "max": 10
@@ -32700,7 +32700,7 @@
     "suffix": true
   },
   {
-    "name": "守护之",
+    "name": "保障之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32812,7 +32812,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 20-30% 增加速度",
+        "displayString": "怪物获得 20-30% 增加速度",
         "property": "map-mon-velocity%",
         "min": 20,
         "max": 30
@@ -32827,7 +32827,7 @@
     "suffix": true
   },
   {
-    "name": "迅捷之",
+    "name": "敏捷之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32850,7 +32850,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 30-40% 增加速度",
+        "displayString": "怪物获得 30-40% 增加速度",
         "property": "map-mon-velocity%",
         "min": 30,
         "max": 40
@@ -32865,7 +32865,7 @@
     "suffix": true
   },
   {
-    "name": "高速之",
+    "name": "速度之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32888,7 +32888,7 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 40-50% 增加速度",
+        "displayString": "怪物获得 40-50% 增加速度",
         "property": "map-mon-velocity%",
         "min": 40,
         "max": 50
@@ -32933,7 +32933,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 1024-1560 生命回复",
+        "displayString": "怪物获得 1024-1560 生命回复",
         "property": "map-mon-regen",
         "min": 1024,
         "max": 1560
@@ -32948,7 +32948,7 @@
     "suffix": true
   },
   {
-    "name": "焕新之",
+    "name": "更新之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32977,7 +32977,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 1560-2048 生命回复",
+        "displayString": "怪物获得 1560-2048 生命回复",
         "property": "map-mon-regen",
         "min": 1560,
         "max": 2048
@@ -33021,7 +33021,7 @@
         "max": 55
       },
       {
-        "displayString": "怪物拥有 2048-2560 生命回复",
+        "displayString": "怪物获得 2048-2560 生命回复",
         "property": "map-mon-regen",
         "min": 2048,
         "max": 2560
@@ -33037,7 +33037,7 @@
     "suffix": true
   },
   {
-    "name": "血蛭之",
+    "name": "水蛭之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33060,13 +33060,13 @@
         "max": 15
       },
       {
-        "displayString": "怪物拥有 4-8% 每次命中偷取生命",
+        "displayString": "怪物获得 4-8% 每次命中偷取生命",
         "property": "map-mon-lifesteal-hp%",
         "min": 4,
         "max": 8
       },
       {
-        "displayString": "怪物拥有 4-8% 增加最大生命",
+        "displayString": "怪物获得 4-8% 最大生命值加成",
         "property": "map-mon-lifesteal-hp%",
         "min": 4,
         "max": 8
@@ -33081,7 +33081,7 @@
     "suffix": true
   },
   {
-    "name": "寄生虫之",
+    "name": "寄生之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33104,13 +33104,13 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 8-12% 每次命中偷取生命",
+        "displayString": "怪物获得 8-12% 每次命中偷取生命",
         "property": "map-mon-lifesteal-hp%",
         "min": 8,
         "max": 12
       },
       {
-        "displayString": "怪物拥有 8-12% 增加最大生命",
+        "displayString": "怪物获得 8-12% 最大生命值加成",
         "property": "map-mon-lifesteal-hp%",
         "min": 8,
         "max": 12
@@ -33125,7 +33125,7 @@
     "suffix": true
   },
   {
-    "name": "吸血者之",
+    "name": "吸血鬼之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33148,13 +33148,13 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 12-16% 每次命中偷取生命",
+        "displayString": "怪物获得 12-16% 每次命中偷取生命",
         "property": "map-mon-lifesteal-hp%",
         "min": 12,
         "max": 16
       },
       {
-        "displayString": "怪物拥有 12-16% 增加最大生命",
+        "displayString": "怪物获得 12-16% 最大生命值加成",
         "property": "map-mon-lifesteal-hp%",
         "min": 12,
         "max": 16
@@ -33170,7 +33170,7 @@
     "suffix": true
   },
   {
-    "name": "韧性之",
+    "name": "弹性之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33199,7 +33199,7 @@
         "max": 15
       },
       {
-        "displayString": "怪物拥有 40-60% 快速打击恢复",
+        "displayString": "怪物获得 40-60% 快速打击恢复",
         "property": "map-mon-balance1",
         "min": 40,
         "max": 60
@@ -33243,7 +33243,7 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 60-80% 快速打击恢复",
+        "displayString": "怪物获得 60-80% 快速打击恢复",
         "property": "map-mon-balance1",
         "min": 60,
         "max": 80
@@ -33258,7 +33258,7 @@
     "suffix": true
   },
   {
-    "name": "坚毅之",
+    "name": "刚毅之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33287,7 +33287,7 @@
         "max": 45
       },
       {
-        "displayString": "怪物拥有 80-100% 快速打击恢复",
+        "displayString": "怪物获得 80-100% 快速打击恢复",
         "property": "map-mon-balance1",
         "min": 80,
         "max": 100
@@ -33303,7 +33303,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "健康之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33326,7 +33326,7 @@
         "max": 20
       },
       {
-        "displayString": "怪物拥有 5-10% 增加最大生命",
+        "displayString": "怪物获得 5-10% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 5,
         "max": 10
@@ -33341,7 +33341,7 @@
     "suffix": true
   },
   {
-    "name": "活力之",
+    "name": "生命之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33364,7 +33364,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 10-15% 增加最大生命",
+        "displayString": "怪物获得 10-15% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 10,
         "max": 15
@@ -33379,7 +33379,7 @@
     "suffix": true
   },
   {
-    "name": "精力之",
+    "name": "力气之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33402,7 +33402,7 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 15-20% 增加最大生命",
+        "displayString": "怪物获得 15-20% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 15,
         "max": 20
@@ -33441,7 +33441,7 @@
         "max": 20
       },
       {
-        "displayString": "玩家拥有 -20 至 -10% 快速打击恢复",
+        "displayString": "玩家获得 -20 至 -10% 快速打击恢复",
         "property": "map-play-balance1",
         "min": -20,
         "max": -10
@@ -33456,7 +33456,7 @@
     "suffix": true
   },
   {
-    "name": "不平等之",
+    "name": "不平之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33479,7 +33479,7 @@
         "max": 25
       },
       {
-        "displayString": "玩家拥有 -30 至 -20% 快速打击恢复",
+        "displayString": "玩家获得 -30 至 -20% 快速打击恢复",
         "property": "map-play-balance1",
         "min": -30,
         "max": -20
@@ -33494,7 +33494,7 @@
     "suffix": true
   },
   {
-    "name": "崎岖之",
+    "name": "参差不齐之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33517,7 +33517,7 @@
         "max": 30
       },
       {
-        "displayString": "玩家拥有 -40 至 -30% 快速打击恢复",
+        "displayString": "玩家获得 -40 至 -30% 快速打击恢复",
         "property": "map-play-balance1",
         "min": -40,
         "max": -30
@@ -33533,7 +33533,7 @@
     "suffix": true
   },
   {
-    "name": "守护之",
+    "name": "结界之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33562,7 +33562,7 @@
         "max": 25
       },
       {
-        "displayString": "怪物拥有 20-40% 诅咒持续时间减少",
+        "displayString": "怪物获得 20-40% 诅咒持续时间减少",
         "property": "map-mon-curseresist-hp%",
         "min": 20,
         "max": 40
@@ -33577,7 +33577,7 @@
     "suffix": true
   },
   {
-    "name": "守卫之",
+    "name": "御魔之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33606,7 +33606,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 40-60% 诅咒持续时间减少",
+        "displayString": "怪物获得 40-60% 诅咒持续时间减少",
         "property": "map-mon-curseresist-hp%",
         "min": 40,
         "max": 60
@@ -33650,7 +33650,7 @@
         "max": 55
       },
       {
-        "displayString": "怪物拥有 60-80% 诅咒持续时间减少",
+        "displayString": "怪物获得 60-80% 诅咒持续时间减少",
         "property": "map-mon-curseresist-hp%",
         "min": 60,
         "max": 80
@@ -33693,25 +33693,25 @@
         "max": 20
       },
       {
-        "displayString": "玩家拥有 -15 至 -10% 火焰抗性",
+        "displayString": "玩家获得 -15 至 -10% 火焰抗性",
         "property": "map-play-res-all",
         "min": -15,
         "max": -10
       },
       {
-        "displayString": "玩家拥有 -15 至 -10% 闪电抗性",
+        "displayString": "玩家获得 -15 至 -10% 闪电抗性",
         "property": "map-play-res-all",
         "min": -15,
         "max": -10
       },
       {
-        "displayString": "玩家拥有 -15 至 -10% 冰冷抗性",
+        "displayString": "玩家获得 -15 至 -10% 冰冷抗性",
         "property": "map-play-res-all",
         "min": -15,
         "max": -10
       },
       {
-        "displayString": "玩家拥有 -15 至 -10% 毒素抗性",
+        "displayString": "玩家获得 -15 至 -10% 毒素抗性",
         "property": "map-play-res-all",
         "min": -15,
         "max": -10
@@ -33755,25 +33755,25 @@
         "max": 35
       },
       {
-        "displayString": "玩家拥有 -20 至 -15% 火焰抗性",
+        "displayString": "玩家获得 -20 至 -15% 火焰抗性",
         "property": "map-play-res-all",
         "min": -20,
         "max": -15
       },
       {
-        "displayString": "玩家拥有 -20 至 -15% 闪电抗性",
+        "displayString": "玩家获得 -20 至 -15% 闪电抗性",
         "property": "map-play-res-all",
         "min": -20,
         "max": -15
       },
       {
-        "displayString": "玩家拥有 -20 至 -15% 冰冷抗性",
+        "displayString": "玩家获得 -20 至 -15% 冰冷抗性",
         "property": "map-play-res-all",
         "min": -20,
         "max": -15
       },
       {
-        "displayString": "玩家拥有 -20 至 -15% 毒素抗性",
+        "displayString": "玩家获得 -20 至 -15% 毒素抗性",
         "property": "map-play-res-all",
         "min": -20,
         "max": -15
@@ -33817,25 +33817,25 @@
         "max": 55
       },
       {
-        "displayString": "玩家拥有 -25 至 -20% 火焰抗性",
+        "displayString": "玩家获得 -25 至 -20% 火焰抗性",
         "property": "map-play-res-all",
         "min": -25,
         "max": -20
       },
       {
-        "displayString": "玩家拥有 -25 至 -20% 闪电抗性",
+        "displayString": "玩家获得 -25 至 -20% 闪电抗性",
         "property": "map-play-res-all",
         "min": -25,
         "max": -20
       },
       {
-        "displayString": "玩家拥有 -25 至 -20% 冰冷抗性",
+        "displayString": "玩家获得 -25 至 -20% 冰冷抗性",
         "property": "map-play-res-all",
         "min": -25,
         "max": -20
       },
       {
-        "displayString": "玩家拥有 -25 至 -20% 毒素抗性",
+        "displayString": "玩家获得 -25 至 -20% 毒素抗性",
         "property": "map-play-res-all",
         "min": -25,
         "max": -20
@@ -33851,7 +33851,7 @@
     "suffix": true
   },
   {
-    "name": "爆裂之",
+    "name": "裂痕之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33880,7 +33880,7 @@
         "max": 20
       },
       {
-        "displayString": "玩家拥有 -30 至 -20% 增强防御",
+        "displayString": "玩家获得 -30 至 -20% 增强防御",
         "property": "map-play-ac%",
         "min": -30,
         "max": -20
@@ -33895,7 +33895,7 @@
     "suffix": true
   },
   {
-    "name": "崩塌之",
+    "name": "粉碎之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33924,7 +33924,7 @@
         "max": 35
       },
       {
-        "displayString": "玩家拥有 -40 至 -30% 增强防御",
+        "displayString": "玩家获得 -40 至 -30% 增强防御",
         "property": "map-play-ac%",
         "min": -40,
         "max": -30
@@ -33968,7 +33968,7 @@
         "max": 50
       },
       {
-        "displayString": "玩家拥有 -50 至 -40% 增强防御",
+        "displayString": "玩家获得 -50 至 -40% 增强防御",
         "property": "map-play-ac%",
         "min": -50,
         "max": -40
@@ -34013,7 +34013,7 @@
         "max": 20
       },
       {
-        "displayString": "玩家拥有 -20 至 -10% 格挡几率",
+        "displayString": "玩家获得 -20 至 -10% 格挡几率",
         "property": "map-play-block",
         "min": -20,
         "max": -10
@@ -34057,7 +34057,7 @@
         "max": 35
       },
       {
-        "displayString": "玩家拥有 -30 至 -20% 格挡几率",
+        "displayString": "玩家获得 -30 至 -20% 格挡几率",
         "property": "map-play-block",
         "min": -30,
         "max": -20
@@ -34072,7 +34072,7 @@
     "suffix": true
   },
   {
-    "name": "莽撞之",
+    "name": "失误之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -34101,7 +34101,7 @@
         "max": 50
       },
       {
-        "displayString": "玩家拥有 -40 至 -30% 格挡几率",
+        "displayString": "玩家获得 -40 至 -30% 格挡几率",
         "property": "map-play-block",
         "min": -40,
         "max": -30
@@ -34128,7 +34128,7 @@
     "group": 251,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 8-14%",
+        "displayString": "受到的物理伤害减免 8-14%",
         "property": "red-dmg%",
         "min": 8,
         "max": 14
@@ -34154,7 +34154,7 @@
     "group": 251,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 5-10%",
+        "displayString": "受到的物理伤害减免 5-10%",
         "property": "red-dmg%",
         "min": 5,
         "max": 10
@@ -34169,7 +34169,7 @@
     "suffix": true
   },
   {
-    "name": "防护之",
+    "name": "保护之",
     "spawnable": "1",
     "rare": "1",
     "level": 65,
@@ -34180,7 +34180,7 @@
     "group": 251,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 14-20%",
+        "displayString": "受到的物理伤害减免 14-20%",
         "property": "red-dmg%",
         "min": 14,
         "max": 20
@@ -34206,7 +34206,7 @@
     "group": 251,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 20-25%",
+        "displayString": "受到的物理伤害减免 20-25%",
         "property": "red-dmg%",
         "min": 20,
         "max": 25
@@ -34221,7 +34221,7 @@
     "suffix": true
   },
   {
-    "name": "野蛮之",
+    "name": "野性之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -34251,7 +34251,7 @@
     "suffix": true
   },
   {
-    "name": "破坏之",
+    "name": "灾难之",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -34407,7 +34407,7 @@
     "suffix": true
   },
   {
-    "name": "汲取之",
+    "name": "吸血之",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -34443,7 +34443,7 @@
     "suffix": true
   },
   {
-    "name": "血淋淋之",
+    "name": "血腥之",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -34479,7 +34479,7 @@
     "suffix": true
   },
   {
-    "name": "血腥之",
+    "name": "嗜杀之",
     "spawnable": "1",
     "rare": "1",
     "level": 48,
@@ -34515,7 +34515,7 @@
     "suffix": true
   },
   {
-    "name": "血液之",
+    "name": "血之",
     "spawnable": "1",
     "rare": "1",
     "level": 58,
@@ -34551,7 +34551,7 @@
     "suffix": true
   },
   {
-    "name": "碎裂之",
+    "name": "残缺之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -34581,7 +34581,7 @@
     "suffix": true
   },
   {
-    "name": "崩塌之",
+    "name": "粉碎之",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -34611,7 +34611,7 @@
     "suffix": true
   },
   {
-    "name": "破坏之",
+    "name": "破裂之",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -34641,7 +34641,7 @@
     "suffix": true
   },
   {
-    "name": "碾压之",
+    "name": "压碎之",
     "spawnable": "1",
     "rare": "1",
     "level": 48,
@@ -34871,7 +34871,7 @@
     "suffix": true
   },
   {
-    "name": "明晰之",
+    "name": "清晰之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -34882,7 +34882,7 @@
     "group": 25,
     "displayProperties": [
       {
-        "displayString": "+60-120 攻击准确率",
+        "displayString": "+60-120 攻击命中值",
         "property": "att",
         "min": 60,
         "max": 120
@@ -34910,7 +34910,7 @@
     "suffix": true
   },
   {
-    "name": "神性之",
+    "name": "神圣之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -34921,7 +34921,7 @@
     "group": 25,
     "displayProperties": [
       {
-        "displayString": "+120-240 攻击准确率",
+        "displayString": "+120-240 攻击命中值",
         "property": "att",
         "min": 120,
         "max": 240
@@ -34947,7 +34947,7 @@
     "suffix": true
   },
   {
-    "name": "黎明之",
+    "name": "晨曦的",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -34958,7 +34958,7 @@
     "group": 25,
     "displayProperties": [
       {
-        "displayString": "10% 加成攻击准确率",
+        "displayString": "10% 加成攻击命中值",
         "property": "att%",
         "min": 10,
         "max": 10
@@ -35039,7 +35039,7 @@
     "suffix": true
   },
   {
-    "name": "开膛之",
+    "name": "剜空之",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -35169,7 +35169,7 @@
     "suffix": true
   },
   {
-    "name": "铁匠之",
+    "name": "铁匠的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -35188,7 +35188,7 @@
     "suffix": true
   },
   {
-    "name": "铁匠之",
+    "name": "铁匠的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -35207,7 +35207,7 @@
     "suffix": true
   },
   {
-    "name": "铁匠之",
+    "name": "铁匠的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -35226,7 +35226,7 @@
     "suffix": true
   },
   {
-    "name": "甲胄匠之",
+    "name": "装甲师的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -35245,7 +35245,7 @@
     "suffix": true
   },
   {
-    "name": "甲胄匠之",
+    "name": "装甲师的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -35264,7 +35264,7 @@
     "suffix": true
   },
   {
-    "name": "甲胄匠之",
+    "name": "装甲师的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -35294,7 +35294,7 @@
     "group": 25,
     "displayProperties": [
       {
-        "displayString": "+30-60 攻击准确率",
+        "displayString": "+30-60 攻击命中值",
         "property": "att",
         "min": 30,
         "max": 60
@@ -35424,7 +35424,7 @@
     "suffix": true
   },
   {
-    "name": "黎明之",
+    "name": "晨曦的",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -35435,7 +35435,7 @@
     "group": 25,
     "displayProperties": [
       {
-        "displayString": "10% 加成攻击准确率",
+        "displayString": "10% 加成攻击命中值",
         "property": "att%",
         "min": 10,
         "max": 10
@@ -35465,7 +35465,7 @@
     "suffix": true
   },
   {
-    "name": "火球之",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -35490,7 +35490,7 @@
     "suffix": true
   },
   {
-    "name": "火球之",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -35515,7 +35515,7 @@
     "suffix": true
   },
   {
-    "name": "火球之",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -35540,7 +35540,7 @@
     "suffix": true
   },
   {
-    "name": "火球之",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -35569,7 +35569,7 @@
     "suffix": true
   },
   {
-    "name": "火球之",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -35598,7 +35598,7 @@
     "suffix": true
   },
   {
-    "name": "火球之",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -35627,7 +35627,7 @@
     "suffix": true
   },
   {
-    "name": "闪电之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -35652,7 +35652,7 @@
     "suffix": true
   },
   {
-    "name": "闪电之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -35677,7 +35677,7 @@
     "suffix": true
   },
   {
-    "name": "闪电之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -35702,7 +35702,7 @@
     "suffix": true
   },
   {
-    "name": "闪电之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -35731,7 +35731,7 @@
     "suffix": true
   },
   {
-    "name": "闪电之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -35760,7 +35760,7 @@
     "suffix": true
   },
   {
-    "name": "闪电之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -35789,7 +35789,7 @@
     "suffix": true
   },
   {
-    "name": "新星之",
+    "name": "新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -35814,7 +35814,7 @@
     "suffix": true
   },
   {
-    "name": "新星之",
+    "name": "新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -35839,7 +35839,7 @@
     "suffix": true
   },
   {
-    "name": "新星之",
+    "name": "新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -35864,7 +35864,7 @@
     "suffix": true
   },
   {
-    "name": "新星之",
+    "name": "新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -35893,7 +35893,7 @@
     "suffix": true
   },
   {
-    "name": "新星之",
+    "name": "新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -35922,7 +35922,7 @@
     "suffix": true
   },
   {
-    "name": "新星之",
+    "name": "新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -35951,7 +35951,7 @@
     "suffix": true
   },
   {
-    "name": "连锁闪电之",
+    "name": "闪电链的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -35976,7 +35976,7 @@
     "suffix": true
   },
   {
-    "name": "连锁闪电之",
+    "name": "闪电链的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36001,7 +36001,7 @@
     "suffix": true
   },
   {
-    "name": "连锁闪电之",
+    "name": "闪电链的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36026,7 +36026,7 @@
     "suffix": true
   },
   {
-    "name": "连锁闪电之",
+    "name": "闪电链的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36055,7 +36055,7 @@
     "suffix": true
   },
   {
-    "name": "连锁闪电之",
+    "name": "闪电链的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36084,7 +36084,7 @@
     "suffix": true
   },
   {
-    "name": "连锁闪电之",
+    "name": "闪电链的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36113,7 +36113,7 @@
     "suffix": true
   },
   {
-    "name": "充能弹之",
+    "name": "充能的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36138,7 +36138,7 @@
     "suffix": true
   },
   {
-    "name": "充能弹之",
+    "name": "充能的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36163,7 +36163,7 @@
     "suffix": true
   },
   {
-    "name": "充能弹之",
+    "name": "充能的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36188,7 +36188,7 @@
     "suffix": true
   },
   {
-    "name": "充能弹之",
+    "name": "充能的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36217,7 +36217,7 @@
     "suffix": true
   },
   {
-    "name": "充能弹之",
+    "name": "充能的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36246,7 +36246,7 @@
     "suffix": true
   },
   {
-    "name": "充能弹之",
+    "name": "充能的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36275,7 +36275,7 @@
     "suffix": true
   },
   {
-    "name": "霜冻新星之",
+    "name": "冰霜新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36300,7 +36300,7 @@
     "suffix": true
   },
   {
-    "name": "霜冻新星之",
+    "name": "冰霜新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36325,7 +36325,7 @@
     "suffix": true
   },
   {
-    "name": "霜冻新星之",
+    "name": "冰霜新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36350,7 +36350,7 @@
     "suffix": true
   },
   {
-    "name": "霜冻新星之",
+    "name": "冰霜新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36379,7 +36379,7 @@
     "suffix": true
   },
   {
-    "name": "霜冻新星之",
+    "name": "冰霜新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36408,7 +36408,7 @@
     "suffix": true
   },
   {
-    "name": "霜冻新星之",
+    "name": "冰霜新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36437,7 +36437,7 @@
     "suffix": true
   },
   {
-    "name": "冰弹幕之",
+    "name": "连串冰枪的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36462,7 +36462,7 @@
     "suffix": true
   },
   {
-    "name": "冰弹幕之",
+    "name": "连串冰枪的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36487,7 +36487,7 @@
     "suffix": true
   },
   {
-    "name": "冰弹幕之",
+    "name": "连串冰枪的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36512,7 +36512,7 @@
     "suffix": true
   },
   {
-    "name": "冰弹幕之",
+    "name": "连串冰枪的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36541,7 +36541,7 @@
     "suffix": true
   },
   {
-    "name": "冰弹幕之",
+    "name": "连串冰枪的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36570,7 +36570,7 @@
     "suffix": true
   },
   {
-    "name": "冰弹幕之",
+    "name": "连串冰枪的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36921,7 +36921,7 @@
     "suffix": true
   },
   {
-    "name": "低温症之",
+    "name": "低温的",
     "spawnable": "1",
     "rare": "1",
     "level": 70,
@@ -36932,7 +36932,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [63-118] 至 [238-365] 冰冷伤害",
+        "displayString": "增加 [63-118] 至 [238-365] 冰霜伤害",
         "property": "eledam",
         "min": 63,
         "max": 238
@@ -36951,7 +36951,7 @@
     "suffix": true
   },
   {
-    "name": "灰烬之",
+    "name": "灰烬的",
     "spawnable": "1",
     "rare": "1",
     "level": 70,
@@ -36981,7 +36981,7 @@
     "suffix": true
   },
   {
-    "name": "漩涡之",
+    "name": "漩涡的",
     "spawnable": "1",
     "rare": "1",
     "level": 70,
@@ -37132,7 +37132,7 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 75-150% 增强防御",
+        "displayString": "怪物获得 75-150% 增强防御",
         "property": "map-mon-ac%",
         "min": 75,
         "max": 150
@@ -37176,7 +37176,7 @@
         "max": 60
       },
       {
-        "displayString": "怪物拥有 150-225% 增强防御",
+        "displayString": "怪物获得 150-225% 增强防御",
         "property": "map-mon-ac%",
         "min": 150,
         "max": 225
@@ -37220,7 +37220,7 @@
         "max": 90
       },
       {
-        "displayString": "怪物拥有 225-300% 增强防御",
+        "displayString": "怪物获得 225-300% 增强防御",
         "property": "map-mon-ac%",
         "min": 225,
         "max": 300
@@ -37236,7 +37236,7 @@
     "suffix": true
   },
   {
-    "name": "深红之",
+    "name": "深红色之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37259,7 +37259,7 @@
         "max": 36
       },
       {
-        "displayString": "怪物拥有 6-9% 冰冷吸收",
+        "displayString": "怪物获得 6-9% 冰冷吸收",
         "property": "map-mon-abs-fire%",
         "min": 6,
         "max": 9
@@ -37274,7 +37274,7 @@
     "suffix": true
   },
   {
-    "name": "深红之",
+    "name": "深红色之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37297,7 +37297,7 @@
         "max": 46
       },
       {
-        "displayString": "怪物拥有 9-12% 冰冷吸收",
+        "displayString": "怪物获得 9-12% 冰冷吸收",
         "property": "map-mon-abs-fire%",
         "min": 9,
         "max": 12
@@ -37312,7 +37312,7 @@
     "suffix": true
   },
   {
-    "name": "深红之",
+    "name": "深红色之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37335,7 +37335,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 12-15% 冰冷吸收",
+        "displayString": "怪物获得 12-15% 冰冷吸收",
         "property": "map-mon-abs-fire%",
         "min": 12,
         "max": 15
@@ -37351,7 +37351,7 @@
     "suffix": true
   },
   {
-    "name": "橘红之",
+    "name": "桔红之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37374,7 +37374,7 @@
         "max": 36
       },
       {
-        "displayString": "怪物拥有 6-9% 魔法吸收",
+        "displayString": "怪物获得 6-9% 魔法吸收",
         "property": "map-mon-abs-ltng%",
         "min": 6,
         "max": 9
@@ -37389,7 +37389,7 @@
     "suffix": true
   },
   {
-    "name": "橘红之",
+    "name": "桔红之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37412,7 +37412,7 @@
         "max": 46
       },
       {
-        "displayString": "怪物拥有 9-12% 魔法吸收",
+        "displayString": "怪物获得 9-12% 魔法吸收",
         "property": "map-mon-abs-ltng%",
         "min": 9,
         "max": 12
@@ -37427,7 +37427,7 @@
     "suffix": true
   },
   {
-    "name": "橘红之",
+    "name": "桔红之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37450,7 +37450,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 12-15% 魔法吸收",
+        "displayString": "怪物获得 12-15% 魔法吸收",
         "property": "map-mon-abs-ltng%",
         "min": 12,
         "max": 15
@@ -37466,7 +37466,7 @@
     "suffix": true
   },
   {
-    "name": "蛋白石之",
+    "name": "乳白之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37489,7 +37489,7 @@
         "max": 36
       },
       {
-        "displayString": "怪物拥有 6-9% 闪电吸收",
+        "displayString": "怪物获得 6-9% 闪电吸收",
         "property": "map-mon-abs-mag%",
         "min": 6,
         "max": 9
@@ -37504,7 +37504,7 @@
     "suffix": true
   },
   {
-    "name": "蛋白石之",
+    "name": "乳白之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37527,7 +37527,7 @@
         "max": 46
       },
       {
-        "displayString": "怪物拥有 9-12% 闪电吸收",
+        "displayString": "怪物获得 9-12% 闪电吸收",
         "property": "map-mon-abs-mag%",
         "min": 9,
         "max": 12
@@ -37542,7 +37542,7 @@
     "suffix": true
   },
   {
-    "name": "蛋白石之",
+    "name": "乳白之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37565,7 +37565,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 12-15% 闪电吸收",
+        "displayString": "怪物获得 12-15% 闪电吸收",
         "property": "map-mon-abs-mag%",
         "min": 12,
         "max": 15
@@ -37604,7 +37604,7 @@
         "max": 36
       },
       {
-        "displayString": "怪物拥有 6-9% 火焰吸收",
+        "displayString": "怪物获得 6-9% 火焰吸收",
         "property": "map-mon-abs-cold%",
         "min": 6,
         "max": 9
@@ -37642,7 +37642,7 @@
         "max": 46
       },
       {
-        "displayString": "怪物拥有 9-12% 火焰吸收",
+        "displayString": "怪物获得 9-12% 火焰吸收",
         "property": "map-mon-abs-cold%",
         "min": 9,
         "max": 12
@@ -37680,7 +37680,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 12-15% 火焰吸收",
+        "displayString": "怪物获得 12-15% 火焰吸收",
         "property": "map-mon-abs-cold%",
         "min": 12,
         "max": 15
@@ -37740,7 +37740,7 @@
     "suffix": true
   },
   {
-    "name": "守护之",
+    "name": "保障之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37852,7 +37852,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 30-45% 增加速度",
+        "displayString": "怪物获得 30-45% 增加速度",
         "property": "map-mon-velocity%",
         "min": 30,
         "max": 45
@@ -37867,7 +37867,7 @@
     "suffix": true
   },
   {
-    "name": "迅捷之",
+    "name": "敏捷之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37890,7 +37890,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 45-60% 增加速度",
+        "displayString": "怪物获得 45-60% 增加速度",
         "property": "map-mon-velocity%",
         "min": 45,
         "max": 60
@@ -37905,7 +37905,7 @@
     "suffix": true
   },
   {
-    "name": "高速之",
+    "name": "速度之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37928,7 +37928,7 @@
         "max": 60
       },
       {
-        "displayString": "怪物拥有 60-75% 增加速度",
+        "displayString": "怪物获得 60-75% 增加速度",
         "property": "map-mon-velocity%",
         "min": 60,
         "max": 75
@@ -37973,7 +37973,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 1536-2340 生命回复",
+        "displayString": "怪物获得 1536-2340 生命回复",
         "property": "map-mon-regen",
         "min": 1536,
         "max": 2340
@@ -37988,7 +37988,7 @@
     "suffix": true
   },
   {
-    "name": "焕新之",
+    "name": "更新之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38017,7 +38017,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 2340-3072 生命回复",
+        "displayString": "怪物获得 2340-3072 生命回复",
         "property": "map-mon-regen",
         "min": 2340,
         "max": 3072
@@ -38061,7 +38061,7 @@
         "max": 110
       },
       {
-        "displayString": "怪物拥有 3072-3840 生命回复",
+        "displayString": "怪物获得 3072-3840 生命回复",
         "property": "map-mon-regen",
         "min": 3072,
         "max": 3840
@@ -38077,7 +38077,7 @@
     "suffix": true
   },
   {
-    "name": "血蛭之",
+    "name": "水蛭之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38100,13 +38100,13 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 8-16% 每次命中偷取生命",
+        "displayString": "怪物获得 8-16% 每次命中偷取生命",
         "property": "map-mon-lifesteal-hp%",
         "min": 8,
         "max": 16
       },
       {
-        "displayString": "怪物拥有 8-16% 增加最大生命",
+        "displayString": "怪物获得 8-16% 最大生命值加成",
         "property": "map-mon-lifesteal-hp%",
         "min": 8,
         "max": 16
@@ -38121,7 +38121,7 @@
     "suffix": true
   },
   {
-    "name": "寄生虫之",
+    "name": "寄生之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38144,13 +38144,13 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 16-24% 每次命中偷取生命",
+        "displayString": "怪物获得 16-24% 每次命中偷取生命",
         "property": "map-mon-lifesteal-hp%",
         "min": 16,
         "max": 24
       },
       {
-        "displayString": "怪物拥有 16-24% 增加最大生命",
+        "displayString": "怪物获得 16-24% 最大生命值加成",
         "property": "map-mon-lifesteal-hp%",
         "min": 16,
         "max": 24
@@ -38165,7 +38165,7 @@
     "suffix": true
   },
   {
-    "name": "吸血者之",
+    "name": "吸血鬼之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38188,13 +38188,13 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 24-32% 每次命中偷取生命",
+        "displayString": "怪物获得 24-32% 每次命中偷取生命",
         "property": "map-mon-lifesteal-hp%",
         "min": 24,
         "max": 32
       },
       {
-        "displayString": "怪物拥有 24-32% 增加最大生命",
+        "displayString": "怪物获得 24-32% 最大生命值加成",
         "property": "map-mon-lifesteal-hp%",
         "min": 24,
         "max": 32
@@ -38210,7 +38210,7 @@
     "suffix": true
   },
   {
-    "name": "韧性之",
+    "name": "弹性之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38239,7 +38239,7 @@
         "max": 30
       },
       {
-        "displayString": "怪物拥有 60-90% 快速打击恢复",
+        "displayString": "怪物获得 60-90% 快速打击恢复",
         "property": "map-mon-balance1",
         "min": 60,
         "max": 90
@@ -38283,7 +38283,7 @@
         "max": 60
       },
       {
-        "displayString": "怪物拥有 90-120% 快速打击恢复",
+        "displayString": "怪物获得 90-120% 快速打击恢复",
         "property": "map-mon-balance1",
         "min": 90,
         "max": 120
@@ -38298,7 +38298,7 @@
     "suffix": true
   },
   {
-    "name": "坚毅之",
+    "name": "刚毅之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38327,7 +38327,7 @@
         "max": 90
       },
       {
-        "displayString": "怪物拥有 120-150% 快速打击恢复",
+        "displayString": "怪物获得 120-150% 快速打击恢复",
         "property": "map-mon-balance1",
         "min": 120,
         "max": 150
@@ -38343,7 +38343,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "健康之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38366,7 +38366,7 @@
         "max": 40
       },
       {
-        "displayString": "怪物拥有 10-20% 增加最大生命",
+        "displayString": "怪物获得 10-20% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 10,
         "max": 20
@@ -38381,7 +38381,7 @@
     "suffix": true
   },
   {
-    "name": "活力之",
+    "name": "生命之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38404,7 +38404,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 20-30% 增加最大生命",
+        "displayString": "怪物获得 20-30% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 20,
         "max": 30
@@ -38419,7 +38419,7 @@
     "suffix": true
   },
   {
-    "name": "精力之",
+    "name": "力气之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38442,7 +38442,7 @@
         "max": 60
       },
       {
-        "displayString": "怪物拥有 30-40% 增加最大生命",
+        "displayString": "怪物获得 30-40% 最大生命值加成",
         "property": "map-mon-hp%",
         "min": 30,
         "max": 40
@@ -38481,7 +38481,7 @@
         "max": 40
       },
       {
-        "displayString": "玩家拥有 -30 至 -15% 快速打击恢复",
+        "displayString": "玩家获得 -30 至 -15% 快速打击恢复",
         "property": "map-play-balance1",
         "min": -30,
         "max": -15
@@ -38496,7 +38496,7 @@
     "suffix": true
   },
   {
-    "name": "不平等之",
+    "name": "不平之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38519,7 +38519,7 @@
         "max": 50
       },
       {
-        "displayString": "玩家拥有 -45 至 -30% 快速打击恢复",
+        "displayString": "玩家获得 -45 至 -30% 快速打击恢复",
         "property": "map-play-balance1",
         "min": -45,
         "max": -30
@@ -38534,7 +38534,7 @@
     "suffix": true
   },
   {
-    "name": "崎岖之",
+    "name": "参差不齐之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38557,7 +38557,7 @@
         "max": 60
       },
       {
-        "displayString": "玩家拥有 -60 至 -45% 快速打击恢复",
+        "displayString": "玩家获得 -60 至 -45% 快速打击恢复",
         "property": "map-play-balance1",
         "min": -60,
         "max": -45
@@ -38573,7 +38573,7 @@
     "suffix": true
   },
   {
-    "name": "守护之",
+    "name": "结界之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38602,7 +38602,7 @@
         "max": 50
       },
       {
-        "displayString": "怪物拥有 30-60% 诅咒持续时间减少",
+        "displayString": "怪物获得 30-60% 诅咒持续时间减少",
         "property": "map-mon-curseresist-hp%",
         "min": 30,
         "max": 60
@@ -38617,7 +38617,7 @@
     "suffix": true
   },
   {
-    "name": "守卫之",
+    "name": "御魔之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38646,7 +38646,7 @@
         "max": 80
       },
       {
-        "displayString": "怪物拥有 60-90% 诅咒持续时间减少",
+        "displayString": "怪物获得 60-90% 诅咒持续时间减少",
         "property": "map-mon-curseresist-hp%",
         "min": 60,
         "max": 90
@@ -38690,7 +38690,7 @@
         "max": 110
       },
       {
-        "displayString": "怪物拥有 90-120% 诅咒持续时间减少",
+        "displayString": "怪物获得 90-120% 诅咒持续时间减少",
         "property": "map-mon-curseresist-hp%",
         "min": 90,
         "max": 120
@@ -38733,25 +38733,25 @@
         "max": 40
       },
       {
-        "displayString": "玩家拥有 -23 至 -15% 火焰抗性",
+        "displayString": "玩家获得 -23 至 -15% 火焰抗性",
         "property": "map-play-res-all",
         "min": -23,
         "max": -15
       },
       {
-        "displayString": "玩家拥有 -23 至 -15% 闪电抗性",
+        "displayString": "玩家获得 -23 至 -15% 闪电抗性",
         "property": "map-play-res-all",
         "min": -23,
         "max": -15
       },
       {
-        "displayString": "玩家拥有 -23 至 -15% 冰冷抗性",
+        "displayString": "玩家获得 -23 至 -15% 冰冷抗性",
         "property": "map-play-res-all",
         "min": -23,
         "max": -15
       },
       {
-        "displayString": "玩家拥有 -23 至 -15% 毒素抗性",
+        "displayString": "玩家获得 -23 至 -15% 毒素抗性",
         "property": "map-play-res-all",
         "min": -23,
         "max": -15
@@ -38795,25 +38795,25 @@
         "max": 70
       },
       {
-        "displayString": "玩家拥有 -30 至 -23% 火焰抗性",
+        "displayString": "玩家获得 -30 至 -23% 火焰抗性",
         "property": "map-play-res-all",
         "min": -30,
         "max": -23
       },
       {
-        "displayString": "玩家拥有 -30 至 -23% 闪电抗性",
+        "displayString": "玩家获得 -30 至 -23% 闪电抗性",
         "property": "map-play-res-all",
         "min": -30,
         "max": -23
       },
       {
-        "displayString": "玩家拥有 -30 至 -23% 冰冷抗性",
+        "displayString": "玩家获得 -30 至 -23% 冰冷抗性",
         "property": "map-play-res-all",
         "min": -30,
         "max": -23
       },
       {
-        "displayString": "玩家拥有 -30 至 -23% 毒素抗性",
+        "displayString": "玩家获得 -30 至 -23% 毒素抗性",
         "property": "map-play-res-all",
         "min": -30,
         "max": -23
@@ -38857,25 +38857,25 @@
         "max": 110
       },
       {
-        "displayString": "玩家拥有 -38 至 -30% 火焰抗性",
+        "displayString": "玩家获得 -38 至 -30% 火焰抗性",
         "property": "map-play-res-all",
         "min": -38,
         "max": -30
       },
       {
-        "displayString": "玩家拥有 -38 至 -30% 闪电抗性",
+        "displayString": "玩家获得 -38 至 -30% 闪电抗性",
         "property": "map-play-res-all",
         "min": -38,
         "max": -30
       },
       {
-        "displayString": "玩家拥有 -38 至 -30% 冰冷抗性",
+        "displayString": "玩家获得 -38 至 -30% 冰冷抗性",
         "property": "map-play-res-all",
         "min": -38,
         "max": -30
       },
       {
-        "displayString": "玩家拥有 -38 至 -30% 毒素抗性",
+        "displayString": "玩家获得 -38 至 -30% 毒素抗性",
         "property": "map-play-res-all",
         "min": -38,
         "max": -30
@@ -38891,7 +38891,7 @@
     "suffix": true
   },
   {
-    "name": "爆裂之",
+    "name": "裂痕之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38920,7 +38920,7 @@
         "max": 40
       },
       {
-        "displayString": "玩家拥有 -45 至 -30% 增强防御",
+        "displayString": "玩家获得 -45 至 -30% 增强防御",
         "property": "map-play-ac%",
         "min": -45,
         "max": -30
@@ -38935,7 +38935,7 @@
     "suffix": true
   },
   {
-    "name": "崩塌之",
+    "name": "粉碎之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38964,7 +38964,7 @@
         "max": 70
       },
       {
-        "displayString": "玩家拥有 -60 至 -45% 增强防御",
+        "displayString": "玩家获得 -60 至 -45% 增强防御",
         "property": "map-play-ac%",
         "min": -60,
         "max": -45
@@ -39008,7 +39008,7 @@
         "max": 100
       },
       {
-        "displayString": "玩家拥有 -75 至 -60% 增强防御",
+        "displayString": "玩家获得 -75 至 -60% 增强防御",
         "property": "map-play-ac%",
         "min": -75,
         "max": -60
@@ -39053,7 +39053,7 @@
         "max": 40
       },
       {
-        "displayString": "玩家拥有 -30 至 -15% 格挡几率",
+        "displayString": "玩家获得 -30 至 -15% 格挡几率",
         "property": "map-play-block",
         "min": -30,
         "max": -15
@@ -39097,7 +39097,7 @@
         "max": 70
       },
       {
-        "displayString": "玩家拥有 -45 至 -30% 格挡几率",
+        "displayString": "玩家获得 -45 至 -30% 格挡几率",
         "property": "map-play-block",
         "min": -45,
         "max": -30
@@ -39112,7 +39112,7 @@
     "suffix": true
   },
   {
-    "name": "莽撞之",
+    "name": "失误之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39141,7 +39141,7 @@
         "max": 100
       },
       {
-        "displayString": "玩家拥有 -60 至 -45% 格挡几率",
+        "displayString": "玩家获得 -60 至 -45% 格挡几率",
         "property": "map-play-block",
         "min": -60,
         "max": -45
@@ -39157,7 +39157,7 @@
     "suffix": true
   },
   {
-    "name": "铁匠之",
+    "name": "铁匠的",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39176,7 +39176,7 @@
     "suffix": true
   },
   {
-    "name": "铁匠之",
+    "name": "铁匠的",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39195,7 +39195,7 @@
     "suffix": true
   },
   {
-    "name": "铁匠之",
+    "name": "铁匠的",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39214,7 +39214,7 @@
     "suffix": true
   },
   {
-    "name": "甲胄匠之",
+    "name": "装甲师的",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39233,7 +39233,7 @@
     "suffix": true
   },
   {
-    "name": "甲胄匠之",
+    "name": "装甲师的",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39252,7 +39252,7 @@
     "suffix": true
   },
   {
-    "name": "甲胄匠之",
+    "name": "装甲师的",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39271,7 +39271,7 @@
     "suffix": true
   },
   {
-    "name": "大法师之",
+    "name": "大法师的",
     "spawnable": "1",
     "rare": "1",
     "level": 49,
@@ -39310,7 +39310,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 10-25",
+        "displayString": "受到的物理伤害减免 10-25",
         "property": "red-dmg",
         "min": 10,
         "max": 25
@@ -39325,7 +39325,7 @@
     "suffix": true
   },
   {
-    "name": "加固之",
+    "name": "要塞的",
     "spawnable": "1",
     "rare": "1",
     "level": 61,
@@ -39351,7 +39351,7 @@
     "suffix": true
   },
   {
-    "name": "大法师之",
+    "name": "大法师的",
     "spawnable": "1",
     "rare": "1",
     "level": 49,
@@ -39629,7 +39629,7 @@
     "suffix": true
   },
   {
-    "name": "漩涡之",
+    "name": "涡流之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -39704,7 +39704,7 @@
     "suffix": true
   },
   {
-    "name": "白霜之",
+    "name": "霜冻之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -39729,7 +39729,7 @@
     "suffix": true
   },
   {
-    "name": "灰烬之",
+    "name": "灰烬的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -39781,7 +39781,7 @@
     "suffix": true
   },
   {
-    "name": "地狱火之",
+    "name": "狱火之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -39857,7 +39857,7 @@
     "suffix": true
   },
   {
-    "name": "漩涡之",
+    "name": "涡流之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -39932,7 +39932,7 @@
     "suffix": true
   },
   {
-    "name": "白霜之",
+    "name": "霜冻之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -39957,7 +39957,7 @@
     "suffix": true
   },
   {
-    "name": "灰烬之",
+    "name": "灰烬的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -40007,7 +40007,7 @@
     "suffix": true
   },
   {
-    "name": "地狱火之",
+    "name": "狱火之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40082,7 +40082,7 @@
     "suffix": true
   },
   {
-    "name": "痘疫之",
+    "name": "瘟疫之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40107,7 +40107,7 @@
     "suffix": true
   },
   {
-    "name": "神谕者之",
+    "name": "神谕之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -40157,7 +40157,7 @@
     "suffix": true
   },
   {
-    "name": "诡异之",
+    "name": "怪异之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40310,7 +40310,7 @@
     "suffix": true
   },
   {
-    "name": "专注之",
+    "name": "清晰之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -40336,7 +40336,7 @@
     "suffix": true
   },
   {
-    "name": "宁静之",
+    "name": "平静之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40387,7 +40387,7 @@
     "suffix": true
   },
   {
-    "name": "专注之",
+    "name": "清晰之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -40412,7 +40412,7 @@
     "suffix": true
   },
   {
-    "name": "宁静之",
+    "name": "平静之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40590,7 +40590,7 @@
     "suffix": true
   },
   {
-    "name": "掌控之",
+    "name": "控制之",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -40615,7 +40615,7 @@
     "suffix": true
   },
   {
-    "name": "纪律之",
+    "name": "有序之",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -40640,7 +40640,7 @@
     "suffix": true
   },
   {
-    "name": "动量之",
+    "name": "冲击之",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -40665,7 +40665,7 @@
     "suffix": true
   },
   {
-    "name": "闪避之",
+    "name": "规避之",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -40690,7 +40690,7 @@
     "suffix": true
   },
   {
-    "name": "防护之",
+    "name": "保护之",
     "spawnable": "1",
     "rare": "1",
     "level": 65,
@@ -40701,7 +40701,7 @@
     "group": 251,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减少 10-15%",
+        "displayString": "受到的物理伤害减免 10-15%",
         "property": "red-dmg%",
         "min": 10,
         "max": 15
@@ -40951,7 +40951,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [7-8] 至 [21-25] 冰冷伤害",
+        "displayString": "增加 [7-8] 至 [21-25] 冰霜伤害",
         "property": "eledam",
         "min": 7,
         "max": 21
@@ -41101,7 +41101,7 @@
     "group": 403,
     "displayProperties": [
       {
-        "displayString": "+3-5% 几率穿刺",
+        "displayString": "+3-5% 几率刺骨",
         "property": "pierce",
         "min": 3,
         "max": 5
@@ -41276,7 +41276,7 @@
     "group": 10,
     "displayProperties": [
       {
-        "displayString": "增加 [20-24] 至 [36-44] 冰冷伤害",
+        "displayString": "增加 [20-24] 至 [36-44] 冰霜伤害",
         "property": "eledam",
         "min": 20,
         "max": 36

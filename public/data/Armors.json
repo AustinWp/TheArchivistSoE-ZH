@@ -3550,7 +3550,7 @@
     "highlight": false
   },
   {
-    "name": "战手套",
+    "name": "战争护手",
     "minDefense": 43,
     "maxDefense": 53,
     "requiredStrength": "110",
@@ -8868,7 +8868,7 @@
     "highlight": false
   },
   {
-    "name": "地狱之子之首",
+    "name": "地狱爪牙之骨",
     "minDefense": 96,
     "maxDefense": 141,
     "requiredStrength": "82",
@@ -8898,7 +8898,7 @@
     },
     "secondItemType": null,
     "itemTier": "精英",
-    "displayName": "地狱之子之首",
+    "displayName": "地狱爪牙之骨",
     "onlyClassDisplayText": "仅死灵法师",
     "normalItemDisplayName": "僵尸之首",
     "exceptionalItemDisplayName": "图腾面具",
@@ -9086,7 +9086,7 @@
     },
     "secondItemType": null,
     "itemTier": "精英",
-    "displayName": "带孔骨织甲",
+    "displayName": "镶孔骸骨链甲",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "",
     "exceptionalItemDisplayName": "",
@@ -9131,7 +9131,7 @@
     },
     "secondItemType": null,
     "itemTier": "精英",
-    "displayName": "带孔巨魔腰带",
+    "displayName": "镶孔巨魔腰带",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "",
     "exceptionalItemDisplayName": "",
@@ -9146,7 +9146,7 @@
     "highlight": false
   },
   {
-    "name": "乡村腰带",
+    "name": "朴素腰带",
     "minDefense": 8,
     "maxDefense": 11,
     "requiredStrength": "25",
@@ -9176,7 +9176,7 @@
     },
     "secondItemType": null,
     "itemTier": "普通",
-    "displayName": "乡村腰带",
+    "displayName": "朴素腰带",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "乡村腰带",
     "exceptionalItemDisplayName": "先锋腰带",
@@ -9283,7 +9283,7 @@
     "highlight": true
   },
   {
-    "name": "华丽圆盾",
+    "name": "华美圆盾",
     "minDefense": 33,
     "maxDefense": 38,
     "requiredStrength": "70",
@@ -9313,7 +9313,7 @@
     },
     "secondItemType": null,
     "itemTier": "普通",
-    "displayName": "华丽圆盾",
+    "displayName": "华美圆盾",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "华丽圆盾",
     "exceptionalItemDisplayName": "巴洛克圆盾",
@@ -9368,7 +9368,7 @@
     "highlight": true
   },
   {
-    "name": "优雅圆盾",
+    "name": "雅致圆盾",
     "minDefense": 165,
     "maxDefense": 180,
     "requiredStrength": "230",
@@ -9398,7 +9398,7 @@
     },
     "secondItemType": null,
     "itemTier": "精英",
-    "displayName": "优雅圆盾",
+    "displayName": "雅致圆盾",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "华丽圆盾",
     "exceptionalItemDisplayName": "巴洛克圆盾",
@@ -9417,7 +9417,7 @@
     "highlight": true
   },
   {
-    "name": "祝福头盔",
+    "name": "受福头盔",
     "minDefense": 35,
     "maxDefense": 55,
     "requiredStrength": "65",
@@ -9447,7 +9447,7 @@
     },
     "secondItemType": null,
     "itemTier": "普通",
-    "displayName": "祝福头盔",
+    "displayName": "受福头盔",
     "onlyClassDisplayText": "仅圣骑士",
     "normalItemDisplayName": "祝福头盔",
     "exceptionalItemDisplayName": "圣洁头盔",
@@ -9457,7 +9457,7 @@
     "highlight": true
   },
   {
-    "name": "圣洁头盔",
+    "name": "圣化头盔",
     "minDefense": 90,
     "maxDefense": 130,
     "requiredStrength": "120",
@@ -9487,7 +9487,7 @@
     },
     "secondItemType": null,
     "itemTier": "扩展",
-    "displayName": "圣洁头盔",
+    "displayName": "圣化头盔",
     "onlyClassDisplayText": "仅圣骑士",
     "normalItemDisplayName": "祝福头盔",
     "exceptionalItemDisplayName": "圣洁头盔",
@@ -9497,7 +9497,7 @@
     "highlight": true
   },
   {
-    "name": "虔诚头盔",
+    "name": "虔敬头盔",
     "minDefense": 140,
     "maxDefense": 190,
     "requiredStrength": "190",
@@ -9527,7 +9527,7 @@
     },
     "secondItemType": null,
     "itemTier": "精英",
-    "displayName": "虔诚头盔",
+    "displayName": "虔敬头盔",
     "onlyClassDisplayText": "仅圣骑士",
     "normalItemDisplayName": "祝福头盔",
     "exceptionalItemDisplayName": "圣洁头盔",
@@ -9546,7 +9546,7 @@
     "highlight": true
   },
   {
-    "name": "破旧头罩",
+    "name": "破旧兜帽",
     "minDefense": 42,
     "maxDefense": 45,
     "requiredStrength": "30",
@@ -9576,7 +9576,7 @@
     },
     "secondItemType": null,
     "itemTier": "普通",
-    "displayName": "破旧头罩",
+    "displayName": "破旧兜帽",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "破旧头罩",
     "exceptionalItemDisplayName": "皮头罩",
@@ -9591,7 +9591,7 @@
     "highlight": true
   },
   {
-    "name": "皮头罩",
+    "name": "皮革兜帽",
     "minDefense": 80,
     "maxDefense": 145,
     "requiredStrength": "70",
@@ -9621,7 +9621,7 @@
     },
     "secondItemType": null,
     "itemTier": "扩展",
-    "displayName": "皮头罩",
+    "displayName": "皮革兜帽",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "破旧头罩",
     "exceptionalItemDisplayName": "皮头罩",
@@ -9631,7 +9631,7 @@
     "highlight": true
   },
   {
-    "name": "猎人头罩",
+    "name": "猎手兜帽",
     "minDefense": 120,
     "maxDefense": 170,
     "requiredStrength": "125",
@@ -9661,7 +9661,7 @@
     },
     "secondItemType": null,
     "itemTier": "精英",
-    "displayName": "猎人头罩",
+    "displayName": "猎手兜帽",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "破旧头罩",
     "exceptionalItemDisplayName": "皮头罩",
@@ -9676,7 +9676,7 @@
     "highlight": true
   },
   {
-    "name": "破旧长袍",
+    "name": "褴褛长袍",
     "minDefense": 35,
     "maxDefense": 40,
     "requiredStrength": "0",
@@ -9706,7 +9706,7 @@
     },
     "secondItemType": null,
     "itemTier": "普通",
-    "displayName": "破旧长袍",
+    "displayName": "褴褛长袍",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "破旧长袍",
     "exceptionalItemDisplayName": "丝绸长袍",
@@ -9756,7 +9756,7 @@
     "highlight": true
   },
   {
-    "name": "开明长袍",
+    "name": "启迪长袍",
     "minDefense": 150,
     "maxDefense": 200,
     "requiredStrength": "0",
@@ -9786,7 +9786,7 @@
     },
     "secondItemType": null,
     "itemTier": "精英",
-    "displayName": "开明长袍",
+    "displayName": "启迪长袍",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "破旧长袍",
     "exceptionalItemDisplayName": "丝绸长袍",
@@ -9801,7 +9801,7 @@
     "highlight": true
   },
   {
-    "name": "简朴长袍",
+    "name": "朴素长袍",
     "minDefense": 0,
     "maxDefense": 0,
     "requiredStrength": "0",
@@ -9831,7 +9831,7 @@
     },
     "secondItemType": null,
     "itemTier": "普通",
-    "displayName": "简朴长袍",
+    "displayName": "朴素长袍",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "简朴长袍",
     "exceptionalItemDisplayName": "",
@@ -9846,7 +9846,7 @@
     "highlight": false
   },
   {
-    "name": "战场腰带",
+    "name": "野战腰带",
     "minDefense": 5,
     "maxDefense": 8,
     "requiredStrength": "20",
@@ -9876,7 +9876,7 @@
     },
     "secondItemType": null,
     "itemTier": "普通",
-    "displayName": "战场腰带",
+    "displayName": "野战腰带",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "战场腰带",
     "exceptionalItemDisplayName": "战斗腰带",
