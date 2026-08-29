@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29",
+  "updatedAt": "2026-08-30",
   "classes": [
     {
       "id": "amazon",
@@ -13,18 +13,52 @@
           "enName": "Endgame Physical Tornado Shot Amazon",
           "author": "花颜",
           "version": "v13.0.2 · SoE 国服联机版",
-          "tags": ["核心 BD", "物理", "远程", "弓弩", "高造价", "T4 图毕业"],
+          "tags": [
+            "核心 BD",
+            "物理",
+            "远程",
+            "弓弩",
+            "高造价",
+            "T4 图毕业"
+          ],
           "summary": "以龙卷射击（Tornado Shot）的多重弹道叠乘机制为核心：每支箭矢都能触发致命打击（DS）、压碎打击（CB）、吸血吸蓝与穿透，配合圣化「荒芜」恶魔机器与珠宝堆叠，拥有本 Mod 中顶级的伤害放大天花板。流程从通关地狱开始，一路过渡到 T4 图圣化毕业。",
           "facts": [
-            ["职业", "亚马逊 Amazon"],
-            ["定位", "远程物理输出（多弹道霰弹）"],
-            ["核心技能", "龙卷射击 Tornado Shot（TS）"],
-            ["前期升华", "锐眼 Deadeye（多次触发）"],
-            ["后期升华", "狂战士 Berserker（续航 / 伤害）"],
-            ["核心武器", "恶魔机器（小炮）→ 圣化荒芜"],
-            ["造价", "中高（机遇宝珠 → 圣化荒芜）"],
-            ["适用场景", "T1→T4 刷图 / Boss 攻坚"],
-            ["流程起点", "通关地狱后"]
+            [
+              "职业",
+              "亚马逊 Amazon"
+            ],
+            [
+              "定位",
+              "远程物理输出（多弹道霰弹）"
+            ],
+            [
+              "核心技能",
+              "龙卷射击 Tornado Shot（TS）"
+            ],
+            [
+              "前期升华",
+              "锐眼 Deadeye（多次触发）"
+            ],
+            [
+              "后期升华",
+              "狂战士 Berserker（续航 / 伤害）"
+            ],
+            [
+              "核心武器",
+              "恶魔机器（小炮）→ 圣化荒芜"
+            ],
+            [
+              "造价",
+              "中高（机遇宝珠 → 圣化荒芜）"
+            ],
+            [
+              "适用场景",
+              "T1→T4 刷图 / Boss 攻坚"
+            ],
+            [
+              "流程起点",
+              "通关地狱后"
+            ]
           ],
           "sections": [
             {
@@ -87,7 +121,9 @@
             },
             {
               "type": "ul",
-              "items": ["**躲避 Dodge**"]
+              "items": [
+                "**躲避 Dodge**"
+              ]
             },
             {
               "type": "note",
@@ -100,8 +136,14 @@
             {
               "type": "kv",
               "rows": [
-                ["有华丽护符前", "属性点够穿装备，其余加体力"],
-                ["有华丽护符后", "**敏捷（Dexterity）**：剩余所有点数\n**体力（Vitality）**：投入足够的点数以保证吃完 bo 后血量能到 2000，避免刷 T4 图暴毙"]
+                [
+                  "有华丽护符前",
+                  "属性点够穿装备，其余加体力"
+                ],
+                [
+                  "有华丽护符后",
+                  "**敏捷（Dexterity）**：剩余所有点数\n**体力（Vitality）**：投入足够的点数以保证吃完 bo 后血量能到 2000，避免刷 T4 图暴毙"
+                ]
               ]
             },
             {
@@ -111,8 +153,14 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/01-one-with-nothing.webp", "caption": "万物归一 One With Nothing（华丽护符）：每 30 点敏捷获得 1% 致命攻击几率上限，每 15 点敏捷 1% 致命攻击几率"},
-                {"src": "phys-ts-amazon/02-empowered-spirit.webp", "caption": "赋能灵魂 / 赋能之魂 Empowered Spirit（华丽护符）：基础攻击准确率高于 2000 时，每 10 点基础攻击准确率获得 1 点伤害"}
+                {
+                  "src": "phys-ts-amazon/01-one-with-nothing.webp",
+                  "caption": "万物归一 One With Nothing（华丽护符）：每 30 点敏捷获得 1% 致命攻击几率上限，每 15 点敏捷 1% 致命攻击几率"
+                },
+                {
+                  "src": "phys-ts-amazon/02-empowered-spirit.webp",
+                  "caption": "赋能灵魂 / 赋能之魂 Empowered Spirit（华丽护符）：基础攻击准确率高于 2000 时，每 10 点基础攻击准确率获得 1 点伤害"
+                }
               ]
             },
             {
@@ -130,8 +178,14 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/03-soulstone-deadeye.webp", "caption": "力量灵魂石·锐眼：+1 攻击投射物上限，每点攻击投射物上限 +125% 增强伤害；击中时 50% 几率获得烈风之力"},
-                {"src": "phys-ts-amazon/04-soulstone-berserker.webp", "caption": "力量灵魂石·狂战士：+1 攻击打击次数上限；10% 生命偷取，每 1% 生命偷取为近战攻击增加 4-10 点物理伤害"}
+                {
+                  "src": "phys-ts-amazon/03-soulstone-deadeye.webp",
+                  "caption": "力量灵魂石·锐眼：+1 攻击投射物上限，每点攻击投射物上限 +125% 增强伤害；击中时 50% 几率获得烈风之力"
+                },
+                {
+                  "src": "phys-ts-amazon/04-soulstone-berserker.webp",
+                  "caption": "力量灵魂石·狂战士：+1 攻击打击次数上限；10% 生命偷取，每 1% 生命偷取为近战攻击增加 4-10 点物理伤害"
+                }
               ]
             },
             {
@@ -149,8 +203,14 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/05-bow-skycast.webp", "caption": "天击（锋利弓）：过渡弓选择之一"},
-                {"src": "phys-ts-amazon/06-bow-endlesshail.webp", "caption": "无尽冰雹（双弓）：过渡弓选择之一"}
+                {
+                  "src": "phys-ts-amazon/05-bow-skycast.webp",
+                  "caption": "天击（锋利弓）：过渡弓选择之一"
+                },
+                {
+                  "src": "phys-ts-amazon/06-bow-endlesshail.webp",
+                  "caption": "无尽冰雹（双弓）：过渡弓选择之一"
+                }
               ]
             },
             {
@@ -169,8 +229,14 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/08-rw-principle.webp", "caption": "原则（拉尔 8 · 古尔 25 · 艾德 2）：40% 几率施放 30 级圣光弹，与金击之弓高触发搭配"},
-                {"src": "phys-ts-amazon/09-rw-bone.webp", "caption": "白骨（索尔 12 · 乌姆 22 · 乌姆 22）：没有 25 号符文时的替代衣服"}
+                {
+                  "src": "phys-ts-amazon/08-rw-principle.webp",
+                  "caption": "原则（拉尔 8 · 古尔 25 · 艾德 2）：40% 几率施放 30 级圣光弹，与金击之弓高触发搭配"
+                },
+                {
+                  "src": "phys-ts-amazon/09-rw-bone.webp",
+                  "caption": "白骨（索尔 12 · 乌姆 22 · 乌姆 22）：没有 25 号符文时的替代衣服"
+                }
               ]
             },
             {
@@ -184,8 +250,14 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/10-fortune-shard.webp", "caption": "机遇碎片：10 枚碎片叠满合成 = 机遇宝珠"},
-                {"src": "phys-ts-amazon/11-fortune-orb.webp", "caption": "机遇宝珠：与普通/魔法/稀有物品合成，可能升级为同底材暗金，也可能摧毁"}
+                {
+                  "src": "phys-ts-amazon/10-fortune-shard.webp",
+                  "caption": "机遇碎片：10 枚碎片叠满合成 = 机遇宝珠"
+                },
+                {
+                  "src": "phys-ts-amazon/11-fortune-orb.webp",
+                  "caption": "机遇宝珠：与普通/魔法/稀有物品合成，可能升级为同底材暗金，也可能摧毁"
+                }
               ]
             },
             {
@@ -230,12 +302,30 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/14-ghost-skin.webp", "caption": "幽灵之肤（钻石锁子甲）：中期衣服"},
-                {"src": "phys-ts-amazon/15-rw-fortitude.webp", "caption": "刚毅（艾尔 1 · 索尔 12 · 多尔 14 · 罗 28）：中期衣服替代"},
-                {"src": "phys-ts-amazon/16-laying-of-hands.webp", "caption": "手掌的安置（荆棘连指手套）：过渡手套，+160% 对恶魔伤害"},
-                {"src": "phys-ts-amazon/17-gore-rider.webp", "caption": "蚀肉骑士（巨战之靴）：15% 压碎性打击 / 20% 致命一击"},
-                {"src": "phys-ts-amazon/18-goblin-toe.webp", "caption": "哥布林脚趾（轻板靴）：15-25% 压碎性打击"},
-                {"src": "phys-ts-amazon/19-gloom-treads.webp", "caption": "冥土之履（锁链靴）：20% 几率刺骨（穿刺），补穿刺的鞋子备选"}
+                {
+                  "src": "phys-ts-amazon/14-ghost-skin.webp",
+                  "caption": "幽灵之肤（钻石锁子甲）：中期衣服"
+                },
+                {
+                  "src": "phys-ts-amazon/15-rw-fortitude.webp",
+                  "caption": "刚毅（艾尔 1 · 索尔 12 · 多尔 14 · 罗 28）：中期衣服替代"
+                },
+                {
+                  "src": "phys-ts-amazon/16-laying-of-hands.webp",
+                  "caption": "手掌的安置（荆棘连指手套）：过渡手套，+160% 对恶魔伤害"
+                },
+                {
+                  "src": "phys-ts-amazon/17-gore-rider.webp",
+                  "caption": "蚀肉骑士（巨战之靴）：15% 压碎性打击 / 20% 致命一击"
+                },
+                {
+                  "src": "phys-ts-amazon/18-goblin-toe.webp",
+                  "caption": "哥布林脚趾（轻板靴）：15-25% 压碎性打击"
+                },
+                {
+                  "src": "phys-ts-amazon/19-gloom-treads.webp",
+                  "caption": "冥土之履（锁链靴）：20% 几率刺骨（穿刺），补穿刺的鞋子备选"
+                }
               ]
             },
             {
@@ -245,8 +335,14 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/20-fate-card-hate.webp", "caption": "命运卡「仇恨」宝珠：每张地图最多可施加 5 枚，怪物额外掉落命运卡几率 +1%"},
-                {"src": "phys-ts-amazon/21-fate-card-seraphim.webp", "caption": "T0 命运卡「炽天使之恩」×5 = 泰瑞尔的力量（鸟甲）"}
+                {
+                  "src": "phys-ts-amazon/20-fate-card-hate.webp",
+                  "caption": "命运卡「仇恨」宝珠：每张地图最多可施加 5 枚，怪物额外掉落命运卡几率 +1%"
+                },
+                {
+                  "src": "phys-ts-amazon/21-fate-card-seraphim.webp",
+                  "caption": "T0 命运卡「炽天使之恩」×5 = 泰瑞尔的力量（鸟甲）"
+                }
               ]
             },
             {
@@ -282,10 +378,22 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/24-sacred-orb.webp", "caption": "圣化宝珠：与构成符文之语的符文一同合成，制作对应的符文之语印记"},
-                {"src": "phys-ts-amazon/25-recipe-desolation-orb.webp", "caption": "配方①：圣化宝珠 + 贝(30#) + 伐克斯(26#) + 贝(30#) = 荒芜圣化宝珠"},
-                {"src": "phys-ts-amazon/26-recipe-sacred-weapon.webp", "caption": "配方②：荒芜圣化宝珠 + 恶魔机器（小炮）= 圣化小炮"},
-                {"src": "phys-ts-amazon/27-demon-machine-sacred.webp", "caption": "圣化后的恶魔机器（5 孔）：赋予 16 级脆弱灵气，-20% 敌人物理抗性，469% ED（参考 Roll）"}
+                {
+                  "src": "phys-ts-amazon/24-sacred-orb.webp",
+                  "caption": "圣化宝珠：与构成符文之语的符文一同合成，制作对应的符文之语印记"
+                },
+                {
+                  "src": "phys-ts-amazon/25-recipe-desolation-orb.webp",
+                  "caption": "配方①：圣化宝珠 + 贝(30#) + 伐克斯(26#) + 贝(30#) = 荒芜圣化宝珠"
+                },
+                {
+                  "src": "phys-ts-amazon/26-recipe-sacred-weapon.webp",
+                  "caption": "配方②：荒芜圣化宝珠 + 恶魔机器（小炮）= 圣化小炮"
+                },
+                {
+                  "src": "phys-ts-amazon/27-demon-machine-sacred.webp",
+                  "caption": "圣化后的恶魔机器（5 孔）：赋予 16 级脆弱灵气，-20% 敌人物理抗性，469% ED（参考 Roll）"
+                }
               ]
             },
             {
@@ -325,8 +433,14 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/30-recipe-tyraels-4s.webp", "caption": "地狱锻造：泰瑞尔的力量打 4 孔"},
-                {"src": "phys-ts-amazon/31-tyraels-might-sacred.webp", "caption": "地狱锻铸·泰瑞尔的力量[精]（4 孔）：圣化荣耀之链，+2 所有技能，393% ED，+45% 跑步/行走"}
+                {
+                  "src": "phys-ts-amazon/30-recipe-tyraels-4s.webp",
+                  "caption": "地狱锻造：泰瑞尔的力量打 4 孔"
+                },
+                {
+                  "src": "phys-ts-amazon/31-tyraels-might-sacred.webp",
+                  "caption": "地狱锻铸·泰瑞尔的力量[精]（4 孔）：圣化荣耀之链，+2 所有技能，393% ED，+45% 跑步/行走"
+                }
               ]
             },
             {
@@ -336,8 +450,14 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/32-kashyas-sorrow.webp", "caption": "卡夏之殇[精]（猎手兜帽，3 孔）：圣化天使幻象，+1 攻击投射物，赋予 5 级审判灵气"},
-                {"src": "phys-ts-amazon/33-rw-visions.webp", "caption": "天使幻象（查姆 32 · 欧姆 27 · 贝 30）：赋予 4-5 级信念灵气，35-40% ED"}
+                {
+                  "src": "phys-ts-amazon/32-kashyas-sorrow.webp",
+                  "caption": "卡夏之殇[精]（猎手兜帽，3 孔）：圣化天使幻象，+1 攻击投射物，赋予 5 级审判灵气"
+                },
+                {
+                  "src": "phys-ts-amazon/33-rw-visions.webp",
+                  "caption": "天使幻象（查姆 32 · 欧姆 27 · 贝 30）：赋予 4-5 级信念灵气，35-40% ED"
+                }
               ]
             },
             {
@@ -347,14 +467,38 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/34-shrine-belt.webp", "caption": "枯槁者之哀嚎（实用腰带）：100% 基底防御受到的物理伤害减免 25%，50% 致命攻击倍率"},
-                {"src": "phys-ts-amazon/35-deaths-poise.webp", "caption": "死亡的平衡（戒指）：获得相当于压碎性打击几率 50% 的致命攻击几率（2 枚）"},
-                {"src": "phys-ts-amazon/36-abyssal-ward.webp", "caption": "深渊结界[精]（战争弩矢箭筒）：圣化暴怒，-14% 敌人物理抗性，214% ED"},
-                {"src": "phys-ts-amazon/37-rw-tantrum.webp", "caption": "暴怒（乔 31 · 贝 30）：+2 所有技能，50-60% 攻击速度（箭筒圣化来源）"},
-                {"src": "phys-ts-amazon/38-astramentis.webp", "caption": "阿斯特拉门蒂斯（均衡之符）：力量、敏捷与精力提高 +30%（已亵渎）"},
-                {"src": "phys-ts-amazon/39-rw-resonance.webp", "caption": "共鸣（萨德 33 · 埃欧 16 · 海尔 15）：8-10% 灵气效果，+1 所有技能"},
-                {"src": "phys-ts-amazon/40-rw-tailwind.webp", "caption": "顺风（罗 28 · 伊司特 24 · 瑟 29）：60-80% ED，10-15% 技能频率"},
-                {"src": "phys-ts-amazon/41-treads-of-cthon.webp", "caption": "凯松的征服 Treads of Cthon（骸骨靴，3 孔）：圣化共鸣，+85% 高速跑步/行走，20% 穿刺几率"}
+                {
+                  "src": "phys-ts-amazon/34-shrine-belt.webp",
+                  "caption": "枯槁者之哀嚎（实用腰带）：100% 基底防御受到的物理伤害减免 25%，50% 致命攻击倍率"
+                },
+                {
+                  "src": "phys-ts-amazon/35-deaths-poise.webp",
+                  "caption": "死亡的平衡（戒指）：获得相当于压碎性打击几率 50% 的致命攻击几率（2 枚）"
+                },
+                {
+                  "src": "phys-ts-amazon/36-abyssal-ward.webp",
+                  "caption": "深渊结界[精]（战争弩矢箭筒）：圣化暴怒，-14% 敌人物理抗性，214% ED"
+                },
+                {
+                  "src": "phys-ts-amazon/37-rw-tantrum.webp",
+                  "caption": "暴怒（乔 31 · 贝 30）：+2 所有技能，50-60% 攻击速度（箭筒圣化来源）"
+                },
+                {
+                  "src": "phys-ts-amazon/38-astramentis.webp",
+                  "caption": "阿斯特拉门蒂斯（均衡之符）：力量、敏捷与精力提高 +30%（已亵渎）"
+                },
+                {
+                  "src": "phys-ts-amazon/39-rw-resonance.webp",
+                  "caption": "共鸣（萨德 33 · 埃欧 16 · 海尔 15）：8-10% 灵气效果，+1 所有技能"
+                },
+                {
+                  "src": "phys-ts-amazon/40-rw-tailwind.webp",
+                  "caption": "顺风（罗 28 · 伊司特 24 · 瑟 29）：60-80% ED，10-15% 技能频率"
+                },
+                {
+                  "src": "phys-ts-amazon/41-treads-of-cthon.webp",
+                  "caption": "凯松的征服 Treads of Cthon（骸骨靴，3 孔）：圣化共鸣，+85% 高速跑步/行走，20% 穿刺几率"
+                }
               ]
             },
             {
@@ -364,17 +508,67 @@
             {
               "type": "table",
               "caption": "终局毕业 BIS / 圣化终极毕业（Sacred BIS）对照表",
-              "headers": ["装备位", "终局毕业 BIS", "圣化终极毕业 Sacred BIS", "备注"],
+              "headers": [
+                "装备位",
+                "终局毕业 BIS",
+                "圣化终极毕业 Sacred BIS",
+                "备注"
+              ],
               "rows": [
-                ["箭矢 Arrows", "深渊结界 (Abyssal Ward)（搭配恶魔机器）", "暴怒 (Tantrum)", "—"],
-                ["头盔 Helm", "卡夏的悲伤 (Kashya's Sorrow)（3孔）", "天使幻象 (Visions of the Angel)", "—"],
-                ["衣服 Chest", "泰瑞尔的力量 (Tyrael's Might)（4孔）", "荣耀之链 (Chains of Honor)", "—"],
-                ["手套 Gloves", "碎钢（同左）", "—", "腐化出穿透（Pierce）属性最为理想"],
-                ["腰带 Belt", "猎首 (Headhunter) 或神龛腰带（同左）", "—", "—"],
-                ["鞋子 Boots", "小妖精脚趾 (Goblin Toe) 或凯松的征服（3孔）", "顺风 (Tailwind) 或共鸣", "压碎打击（CB）面对高血量目标依然极其强力"],
-                ["戒指 Rings", "2×死亡的平衡 (Death's Poise)", "—", "—"],
-                ["项链 Amulet", "均衡之符 (Astramentis)（同左）", "—", "—"],
-                ["副手 Swap", "庇护之殇副手圣化 CTA 战争召唤（使用 Orb of Arms）", "—", "提供战斗指挥/战斗号令/战斗怒吼；开团前预读，切换回主手"]
+                [
+                  "箭矢 Arrows",
+                  "深渊结界 (Abyssal Ward)（搭配恶魔机器）",
+                  "暴怒 (Tantrum)",
+                  "—"
+                ],
+                [
+                  "头盔 Helm",
+                  "卡夏的悲伤 (Kashya's Sorrow)（3孔）",
+                  "天使幻象 (Visions of the Angel)",
+                  "—"
+                ],
+                [
+                  "衣服 Chest",
+                  "泰瑞尔的力量 (Tyrael's Might)（4孔）",
+                  "荣耀之链 (Chains of Honor)",
+                  "—"
+                ],
+                [
+                  "手套 Gloves",
+                  "碎钢（同左）",
+                  "—",
+                  "腐化出穿透（Pierce）属性最为理想"
+                ],
+                [
+                  "腰带 Belt",
+                  "猎首 (Headhunter) 或神龛腰带（同左）",
+                  "—",
+                  "—"
+                ],
+                [
+                  "鞋子 Boots",
+                  "小妖精脚趾 (Goblin Toe) 或凯松的征服（3孔）",
+                  "顺风 (Tailwind) 或共鸣",
+                  "压碎打击（CB）面对高血量目标依然极其强力"
+                ],
+                [
+                  "戒指 Rings",
+                  "2×死亡的平衡 (Death's Poise)",
+                  "—",
+                  "—"
+                ],
+                [
+                  "项链 Amulet",
+                  "均衡之符 (Astramentis)（同左）",
+                  "—",
+                  "—"
+                ],
+                [
+                  "副手 Swap",
+                  "庇护之殇副手圣化 CTA 战争召唤（使用 Orb of Arms）",
+                  "—",
+                  "提供战斗指挥/战斗号令/战斗怒吼；开团前预读，切换回主手"
+                ]
               ]
             },
             {
@@ -396,15 +590,42 @@
             {
               "type": "imgs",
               "items": [
-                {"src": "phys-ts-amazon/42-vampire-gaze.webp", "caption": "吸血鬼的凝视[精]（3 × 31号）：圣化天使幻象，赋予 5 级审判灵气"},
-                {"src": "phys-ts-amazon/43-reapers-toll.webp", "caption": "死神的丧钟[精]（5 孔）：圣化骄傲，33% 几率施放 31 级伤害加深，赋予 19 级专注灵气"},
-                {"src": "phys-ts-amazon/44-templars-might.webp", "caption": "鸟乙（圣堂武士的力量，3 × 31号，4 孔）：圣化堡垒，赋予 8 级力量灵气"},
-                {"src": "phys-ts-amazon/45-rw-fortress.webp", "caption": "堡垒（萨德 33 · 索尔 12 · 贝 30 · 索尔 12）：佣兵衣服圣化来源"},
-                {"src": "phys-ts-amazon/46-mageblood.webp", "caption": "法师之血（神话腰带）：每秒恢复 15% 法力 / 10% 生命"},
-                {"src": "phys-ts-amazon/47-draculs-grasp.webp", "caption": "卓古拉之握[精]（吸血鬼骸骨手套）：12% 生命偷取，25% 撕开敌人伤口"},
-                {"src": "phys-ts-amazon/48-sandstorm-trek.webp", "caption": "沙暴之旅[精]（3 孔）：圣化共鸣，赋予 18 级活力灵气"},
-                {"src": "phys-ts-amazon/49-vigor-jewel.webp", "caption": "流体律动（神话珠宝）：赋予等级 6 活力灵气 × 3 = 18 级活力光环"},
-                {"src": "phys-ts-amazon/50-akarat-jewel.webp", "caption": "阿卡拉特之怒（神话珠宝）：+15% 攻击速度，+40% 增强伤害（镶嵌于丧钟）"}
+                {
+                  "src": "phys-ts-amazon/42-vampire-gaze.webp",
+                  "caption": "吸血鬼的凝视[精]（3 × 31号）：圣化天使幻象，赋予 5 级审判灵气"
+                },
+                {
+                  "src": "phys-ts-amazon/43-reapers-toll.webp",
+                  "caption": "死神的丧钟[精]（5 孔）：圣化骄傲，33% 几率施放 31 级伤害加深，赋予 19 级专注灵气"
+                },
+                {
+                  "src": "phys-ts-amazon/44-templars-might.webp",
+                  "caption": "鸟乙（圣堂武士的力量，3 × 31号，4 孔）：圣化堡垒，赋予 8 级力量灵气"
+                },
+                {
+                  "src": "phys-ts-amazon/45-rw-fortress.webp",
+                  "caption": "堡垒（萨德 33 · 索尔 12 · 贝 30 · 索尔 12）：佣兵衣服圣化来源"
+                },
+                {
+                  "src": "phys-ts-amazon/46-mageblood.webp",
+                  "caption": "法师之血（神话腰带）：每秒恢复 15% 法力 / 10% 生命"
+                },
+                {
+                  "src": "phys-ts-amazon/47-draculs-grasp.webp",
+                  "caption": "卓古拉之握[精]（吸血鬼骸骨手套）：12% 生命偷取，25% 撕开敌人伤口"
+                },
+                {
+                  "src": "phys-ts-amazon/48-sandstorm-trek.webp",
+                  "caption": "沙暴之旅[精]（3 孔）：圣化共鸣，赋予 18 级活力灵气"
+                },
+                {
+                  "src": "phys-ts-amazon/49-vigor-jewel.webp",
+                  "caption": "流体律动（神话珠宝）：赋予等级 6 活力灵气 × 3 = 18 级活力光环"
+                },
+                {
+                  "src": "phys-ts-amazon/50-akarat-jewel.webp",
+                  "caption": "阿卡拉特之怒（神话珠宝）：+15% 攻击速度，+40% 增强伤害（镶嵌于丧钟）"
+                }
               ]
             },
             {
@@ -422,12 +643,27 @@
             {
               "type": "table",
               "caption": "珠宝优先级",
-              "headers": ["优先级", "属性词缀"],
+              "headers": [
+                "优先级",
+                "属性词缀"
+              ],
               "rows": [
-                ["1", "50% 增强伤害（ED）"],
-                ["2", "点伤（Flat Damage）"],
-                ["3", "最大伤害（Maximum Damage）"],
-                ["4", "最小伤害（Minimum Damage）"]
+                [
+                  "1",
+                  "50% 增强伤害（ED）"
+                ],
+                [
+                  "2",
+                  "点伤（Flat Damage）"
+                ],
+                [
+                  "3",
+                  "最大伤害（Maximum Damage）"
+                ],
+                [
+                  "4",
+                  "最小伤害（Minimum Damage）"
+                ]
               ]
             },
             {
@@ -475,7 +711,9 @@
             },
             {
               "type": "ul",
-              "items": ["填满 **15+ 最大伤害（Max Damage）**的华丽护身符"]
+              "items": [
+                "填满 **15+ 最大伤害（Max Damage）**的华丽护身符"
+              ]
             },
             {
               "type": "note",
@@ -506,6 +744,352 @@
               "text": "愿好运与你同在，放逐者 —"
             }
           ]
+        },
+        {
+          "id": "amazon-starter",
+          "name": "恶魔机弩萌新过渡流",
+          "enName": "Noob-Friendly Demon Machine Amazon",
+          "author": "暴走的老牛",
+          "version": "SoE 国服联机版",
+          "tags": [
+            "萌新向",
+            "物理",
+            "弩",
+            "低造价",
+            "过渡"
+          ],
+          "summary": "专为萌新设计的亚马逊过渡流：从一把暗金弩「恶魔机弩（小炮）」起步，80 级拿狂战士升华，圣化荒芜后即可畅游 T1-T4、刷圣化宝珠，最终走向毕业。",
+          "facts": [
+            [
+              "职业",
+              "亚马逊 Amazon"
+            ],
+            [
+              "定位",
+              "萌新过渡 · 刷图起步"
+            ],
+            [
+              "核心武器",
+              "恶魔机弩（小炮）· 5 孔"
+            ],
+            [
+              "升华",
+              "狂战士 Berserker（第四阶）"
+            ],
+            [
+              "圣化",
+              "荒芜（30# 26# 30#）"
+            ],
+            [
+              "适合阶段",
+              "通关地狱 → T4 起步"
+            ],
+            [
+              "攻略作者",
+              "暴走的老牛"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 构建思路"
+            },
+            {
+              "type": "p",
+              "text": "该攻略适用于萌新（作者只玩了亚马逊，故以亚马逊为例）；鉴于开荒已快一周，省略前期练级阶段描述，直接进入正题。"
+            },
+            {
+              "type": "h2",
+              "text": "2. 第一步：恶魔机弩（小炮）与狂战士升华"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "搞一个暗金弩——**恶魔机弩（小炮）**，盒子最高 5 孔；前期没盒子头铁瓦 5 孔，或者直接肉（购买）一个 4-5 孔小炮，记得先从**扩展级升到精英**",
+                "人物到 80 级，拿了第四阶升华（搞不定群里肉一个，随便的终极 boss / 火炬 boss 100% 掉落），升华选择**狂战士**：对比锐眼升华，狂战士少了一个投射物，前期手感上差一些；但狂战士主要是伤害高，武器可以直接放 5 颗 11#（安姆），伤害会有很大的提升"
+              ]
+            },
+            {
+              "type": "warn",
+              "text": "狂战士升华的核心联动：每 1% 生命偷取为近战攻击增加 4-10 点物理伤害——5 孔全放安姆（11#）后，吸血直接转化为伤害。"
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {
+                  "src": "amazon-starter/01.webp",
+                  "caption": "安姆（11号）符文：武器获得 7% 击中生命偷取（小炮 5 孔全镶）"
+                },
+                {
+                  "src": "amazon-starter/02.webp",
+                  "caption": "升华石家 · 狂战士：每 1% 生命偷取为近战攻击增加 4-10 点物理伤害，并附 +1 攻击打击次数上限、250% 增强伤害"
+                }
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "3. 第二步：荒芜圣化"
+            },
+            {
+              "type": "p",
+              "text": "搞一颗**圣化宝珠**（低难度图就是炼狱图可以出，高难度图是 T4 图出；因为抗性高、对破免要求高，建议群里换，一颗圣化直接起飞）。"
+            },
+            {
+              "type": "p",
+              "text": "圣化宝珠跟 **30# + 26# + 30#** 放到盒子中合成《荒芜的圣化珠宝》，然后跟小炮在箱子中合成为成品。"
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {
+                  "src": "amazon-starter/03.webp",
+                  "caption": "荒芜的圣化宝珠（贝 30 · 贝 30 · 伐克斯 26）：-15~20% 敌人物理抗性，装备时赋予 12-16 级脆弱灵气"
+                },
+                {
+                  "src": "amazon-starter/04.webp",
+                  "caption": "恶魔机器（5 孔，安姆×5）圣化荒芜：433% 增强伤害（参考 Roll），-15% 敌人物理抗性，赋予 15 级脆弱灵气"
+                }
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "4. 第三步：刷图建议"
+            },
+            {
+              "type": "p",
+              "text": "到此阶段已经可以实现刷 T4 图，畅游 T1-T3 以及炼狱图了。T4 多获取圣化珠宝，毕业攻略可参照攻略群茜夏的毕业装备。"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**T4 图只跟**：放箱子合成两颗，刷圣化珠宝——这个前期提升最大",
+                "**T1-T3 图**：合成 2 颗制图钉，再合成 5 颗刷符文，完成前期装备圣化的需求",
+                "**T1-T3 图刷命运卡**：合成 2 颗制图钉再合成 5 颗，刷命运卡；T5 级别命运卡如泰瑞尔卡、法血卡是硬通货",
+                "装备上去之后去刷 **T4**：也是 2 颗制图钉再 +绝对之怖怪物，掉 boss 材料非常凶，一张图就够刷好久的 boss"
+              ]
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {
+                  "src": "amazon-starter/05.webp",
+                  "caption": "制图钉 · 采购 x37（地图强化用）"
+                },
+                {
+                  "src": "amazon-starter/06.webp",
+                  "caption": "符文仇恨宝珠 x14"
+                },
+                {
+                  "src": "amazon-starter/07.webp",
+                  "caption": "命运卡仇恨宝珠 x7"
+                },
+                {
+                  "src": "amazon-starter/08.webp",
+                  "caption": "绝对恐惧 x2：每张地图只能施加一种恐惧，加入会掉落各种超级首领材料的绝对之怖"
+                }
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "5. Boss 材料用途"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**大黑**可以刷大君头（-15 物抗等）",
+                "**大马**出瓦毁灭护身符的石头，也会掉落一些特定的暗金装备",
+                "**路西安**掉落瓦火炬的材料（可能出投射物 / 攻击次数等 +1）；打完后进的房间里面有个台子可以亵渎项链（对于瓦过的项链 2 次瓦，可能会坏，也可能出极品效果）",
+                "**T 图 boss** 会掉落碎片，4 种形状的，不需要合成，直接任意碎片（类似于开 T 图在 A5，物品栏中就可以开门），可以打最新的 boss，该 boss 会掉落新暗金 / 首饰等"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "6. 结语"
+            },
+            {
+              "type": "p",
+              "text": "到这个阶段，基本的都不缺了，自己慢慢开发属于自己的 BD 吧。"
+            },
+            {
+              "type": "hl",
+              "text": "暴走的老牛敬上！"
+            }
+          ]
+        },
+        {
+          "id": "amazon-ts-leveling",
+          "name": "台风射击（TS）开荒与升级指南",
+          "enName": "Tornado Shot Leveling & Progression",
+          "author": "社区整理",
+          "version": "SoE v13",
+          "tags": [
+            "开荒",
+            "练级",
+            "物理",
+            "弓弩",
+            "低造价",
+            "过渡"
+          ],
+          "summary": "专为刚接触 SoE 且想尝试台风射击（Tornado Shot）的玩家设计，覆盖开荒练级与早期过渡阶段：精准的加点和开荒路线，以及「恶魔机器 vs 风之力」的社区终极武器之争。",
+          "facts": [
+            [
+              "职业",
+              "亚马逊 Amazon"
+            ],
+            [
+              "核心技能",
+              "台风射击 Tornado Shot（TS）"
+            ],
+            [
+              "定位",
+              "开荒练级 · 早期过渡"
+            ],
+            [
+              "前期武器",
+              "3 孔猎弓 → 破空 → 恶魔机器"
+            ],
+            [
+              "关建步骤",
+              "凯恩的智慧小护身符"
+            ],
+            [
+              "进阶武器",
+              "恶魔机器（Demon Machine）"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 核心技能机制与痛点解析"
+            },
+            {
+              "type": "sub",
+              "text": "运作机制"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "该技能射出一支箭矢，在击中目标或持续时间结束时产生一个**龙卷风**；龙卷风会在 **1 秒内**向四面八方发射多枚箭矢",
+                "强大之处：龙卷风中射出的次级箭矢可以触发吸血 / 吸蓝（leech）、致命一击 / 致命打击（critical/deadly strike）、压碎性打击（crushing blow）、击中触发特效（proc on hit）以及穿透（pierce）——因此 TS 在练级和后期都有众多强力的 Build 流派"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "练级期主要痛点"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**伤害折损**：台风射击仅造成 25% 的武器伤害，导致面板伤害极低",
+                "**续航困难**：技能耗蓝极高。吸血 / 吸蓝机制有一个最低 **10% 的生效门槛**，任何低于 10% 的吸血 / 吸蓝属性将完全无效",
+                "**Boss 战缺蓝**：即便拥有 25% 以上的吸蓝，打 Boss 魔法值依然会瞬间见底。前期强烈建议在戒指 / 项链上寻找「击杀回复法力（MAEK）」属性（每次击杀恢复 6-8 点即可），或者使用特尔（Tir）符文及药水来维持续航"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "2. 属性与技能加点推荐"
+            },
+            {
+              "type": "kv",
+              "rows": [
+                [
+                  "属性点",
+                  "力量和敏捷加到满足装备穿戴需求即可，剩余全部投入体力（Vita）；练级期间为了降低生存和续航压力，可适当多加一些精力（Energy）"
+                ]
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**前期过渡加点**：优先投入 1 点魔法箭（Magic Arrow），然后在致命一击（Critical Strike）投入 2 点，接着等待解锁多重箭（Multishot）和规避（Evade）。将所有被动技能各点 1 点后，剩余点数全给多重箭，用多重箭练级效果极佳",
+                "**成型加点（18 级起）**：达到 18 级后投入 1 点开始使用台风射击。成型后需要**加满**台风射击（TS）、多重箭（Multishot）、刺入（Penetrate）和女武神（Valkyrie）",
+                "致命一击（Critical Strike）至少点到 **60%**",
+                "穿透（Pierce）视需求投入，达到 **100% 穿透**极有帮助",
+                "多余的技能点分配给躲避（Dodge）和规避（Evade）"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "社区贴士：点满女武神在刷 T4 地图时能提供 3 个坦克吸收伤害，对生存帮助极大。"
+            },
+            {
+              "type": "h2",
+              "text": "3. 前期开荒流程与神话法球（Mythic Orb）路线"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**前期武器获取**：利用阿卡拉（Akara）旁边的 PvP 地图红门进出，快速刷新恰西（Charsie）的商店，买一把 **3 孔猎弓**（Hunter's bow），镶嵌 3 颗碎裂的黄宝石",
+                "**18 级后过渡**：由于台风射击带有基础点伤加成，带有碎裂宝石的弓能用很久；也可以准备另一把镶嵌 3 颗欧特（Ort）符文的 3 孔弓",
+                "**神话法球（Mythic Orb）规划**：最新版本中，地狱熔炉不再必定掉落神话法球，但法球有 **1/8 几率在任何地方掉落**（例如 A1 地牢一层）",
+                "▶ 第 1 颗法球：强烈建议用来点**刀锋弓（Edge Bow）**，制作出暗金的**破空（Skystrike）**——仅需 28 级，带陨石触发和 1-250 的闪电伤害，足够保送你进地狱难度",
+                "▶ 第 2 颗法球及以后：优先制作出**恶魔机器（Demon Machine，连弩 Chu-Ko-Nu 底材）**或者**金击圆弧（Goldstrike Arch，哥特弓 Gothic Bow 底材）**。恶魔机器凭借其全伤害的多重箭触发特效，即便是大后期也极为强力；之后可继续做法球出阿特玛（Atma's）项链",
+                "**进地狱前的关键步骤**：在打通普通难度并击杀巴尔后、进入噩梦难度前，务必合成出**凯恩的智慧（Cain's wisdom）**小护身符（各章节 Boss 的精华 + 小护身符合成），它提供高达 **400% 的额外经验**"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "4. 核心装备与符文之语搭配"
+            },
+            {
+              "type": "sub",
+              "text": "符文之语（Runewords）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**纯净（Purity - Amn Eth Thul）**：练级神器，提供 10-12 级祈祷光环。因为自己拿会持续掉蓝，建议做在弓上给第一幕的活力光环雇佣兵使用；也可以做在长柄、法杖、长矛等底材上",
+                "**信条（Principle - Ral Gul Eth）**：3 孔衣服。虽然触发率被削减，但在获得阿特玛或雇佣兵伤害加成之前，它仍然是处理物理免疫怪物的首选",
+                "**骨（Bone - Sol Um Um）**：3 孔衣服，击中有 30% 几率触发 25 级骨矛；但比起信条，它会导致更严重的掉帧（fps）问题",
+                "**刚毅（Fortitude - 衣服）**：社区玩家 fvm 建议，如果早期打到罗（Lo）符文，做刚毅衣服非常强"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "核心散件"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**头盔**：粗野之冠（Tarnhelm，击杀回蓝过渡极佳）→ 符文之语天底（Nadir）→ 吸血鬼的凝视（Vampire Gaze）→ 卡夏的悲伤（Kashyas Sorrow，猎人面甲底材，毕业头盔，增加额外的龙卷风）",
+                "**手套 / 腰带**：练级期推荐**死神的手套（Death's Hand）**搭配**死神的守护（Death's Guard）**组合（两者提供无法冰冻、+15 全抗、30% 攻速和 8% 吸血）；后期手套可用崇高法球做安置手 Laying of Hands，增加对恶魔伤害并保护佣兵",
+                "**鞋子**：强烈建议在普通难度牛场刷出或用法球点出**七里靴（Seven-League Step）**——100% 移速和 1 级活力光环，进入噩梦前最好能拿到",
+                "**衣服**：前期用镶嵌 2 颗特尔（Tir）符文的皮甲回蓝，之后换谢夫特斯坦布（Shatstop，物免甲），直到做出信条 / 骨；提示：也可做一件**天堂装束（Heavenly garb）**来提高寻找神话法球的效率",
+                "**箭矢小妙招**：到了地狱难度后，购买大量白色精华级箭矢，并用世界之石碎片（wss）腐化——这能让你获得源源不断的优秀黄箭矢，核心寻找**穿透（Pierce）、致命打击（DS）和增强伤害（ED）**属性"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "5. 社区高阶探讨：恶魔机器 vs 风之力（WF）"
+            },
+            {
+              "type": "p",
+              "text": "对于大后期的终极武器选择，Discord 社区有过激烈讨论："
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**支持风之力（Windforce，简称 WF）**：部分玩家表示 WF 手感更好，且基础物理伤害极高（hits like a truck）。但也有玩家反馈使用 WF 存在掉帧（fps problems）现象",
+                "**支持恶魔机器**：多数资深玩家（如 Scout 和 Patson）坚持认为恶魔机器更优。原因在于台风射击本体伤害只有 25%，而恶魔机器触发的「多重箭」是**全额伤害**——尤其在搭配狂战士进阶（berserker ascending）效果时，恶魔机器的清图效率无与伦比"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "6. 附录：修改物品过滤器（Lootfilter）以高亮底材"
+            },
+            {
+              "type": "p",
+              "text": "为了不错过升级底材，可以查阅 Wiki 找到物品代码并将其加入 Lootfilter。普通物品想要升级，可使用公式：**欧特（Ort）+ 安姆（Amn）+ 完美蓝宝石**。"
+            },
+            {
+              "type": "p",
+              "text": "以「沙暴之旅」为例：在高亮暗金底材甲虫壳靴（uvb）的同时，把它的低级版本重靴（vbt）和鲨皮靴（xvb）也加入高亮。"
+            },
+            {
+              "type": "note",
+              "text": "示例代码（ItemDisplay）：用于高亮黄色底材；具体代码请根据需求自行替换，如连弩 Chu-ko-nu、哥特弓 Gothic bow、猎人面甲 Hunter's mask 等。"
+            }
+          ]
         }
       ]
     },
@@ -514,7 +1098,211 @@
       "name": "刺客",
       "enName": "Assassin",
       "icon": "claws",
-      "builds": []
+      "builds": [
+        {
+          "id": "assassin-venom-ww",
+          "name": "毒旋风刺客",
+          "enName": "Venom Whirlwind Assassin",
+          "author": "社区整理（qazwr · fvm · Allik 等）",
+          "version": "SoE S13 · 社区实战经验",
+          "tags": [
+            "核心 BD",
+            "毒素",
+            "旋风",
+            "双爪",
+            "S+ 刷图"
+          ],
+          "summary": "基于 SOE S13 实战经验整合的毒旋风刺客：将「毒牙」视为增益状态，堆叠增益效果、毒素专精与极高的毒素穿透，以追猎者（Pathfinder）升华的枯萎（Wither）层数为核心。旋风（Chaos 混沌符文之语）清图参考面板约 20 万，是多功能的全能毒系刺客。",
+          "facts": [
+            [
+              "职业",
+              "刺客 Assassin"
+            ],
+            [
+              "核心机制",
+              "毒牙 Venom（Buff）→ 毒素穿透"
+            ],
+            [
+              "升华",
+              "追猎者 Pathfinder"
+            ],
+            [
+              "主技能",
+              "旋风 Whirlwind（混沌符文之语）"
+            ],
+            [
+              "参考面板",
+              "20 万（旋风）· 23-25 万（眼镜蛇满层）"
+            ],
+            [
+              "定位",
+              "S+ 级刷图 / S 级攻坚"
+            ],
+            [
+              "社区来源",
+              "qazwr · fvm · Allik"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 核心机制与流派概述"
+            },
+            {
+              "type": "p",
+              "text": "毒旋风刺客的核心思路是将「毒牙（Venom）」视为一种增益状态（Buff），并通过堆叠**增益效果（Buff Effect）**、**毒素专精（Poison Mastery）**以及极高的**毒素穿透（Poison Pierce）**来制造毁灭性的伤害。"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**技能来源**：刺客本职业并没有旋风（Whirlwind）技能，该技能必须通过制作**混沌（Chaos）符文之语**武器来获得",
+                "**伤害表现**：成型后，旋风（WW）的面板伤害约达 20 万（200k）。如果切换为眼镜蛇打击（Cobra Strike），在所有层数叠满后伤害可推高至 23 万-25 万（230-250k）。然而，得益于「大范围破坏（Widespread Destruction）」珠宝提供的清图范围，旋风的**实际清图速度**远超眼镜蛇打击",
+                "**护身符选择**：为了支撑伤害，护身符主要选择增加暗影系技能（Shadow skills）的大护身符，或者提供 3% 毒素伤害的大型护身符（LC），两者在伤害收益上非常接近"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "2. 追猎者（Pathfinder）升华天赋解析"
+            },
+            {
+              "type": "p",
+              "text": "追猎者是构建该流派的绝对核心，其四个层次（Tier）的天赋完美契合了毒系刺客的需求："
+            },
+            {
+              "type": "kv",
+              "rows": [
+                [
+                  "Tier 1",
+                  "提供 +2 本职业技能等级、+30 体力（Vitality）以及 +40% 毒素抗性（Poison Resistance）"
+                ],
+                [
+                  "Tier 2",
+                  "提供 +25% 跑步 / 行走速度（Run/Walk Speed），以及极为核心的 **+30% 增益效果（Buff Effect）**"
+                ],
+                [
+                  "Tier 3",
+                  "在施法或击中时获得「**枯萎（Wither）**」层数。每一层枯萎能降低敌人 2% 的毒素抗性，持续 4 秒，最高可叠 10 层。枯萎的效果受增益效果（Buff effect）加成，且每次获得新层数都会刷新持续时间"
+                ],
+                [
+                  "Tier 4",
+                  "击中时有 25% 几率（施法时 35% 几率）获得 +50% 毒素专精（Poison mastery）。该状态持续 4 秒，同样受增益效果（Buff effect）加成"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "3. 技能加点与战前强化（Prebuff）"
+            },
+            {
+              "type": "sub",
+              "text": "核心技能分配"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**眼镜蛇打击（Cobra Strike）**：加满。作为毒牙的协同技能，并且在获得旋风技能前是绝对的主力输出技能",
+                "**毒牙（Venom）**：加满。作为眼镜蛇打击的协同技能，也是本流派的核心增益 Buff",
+                "**速度爆发（Burst of Speed, BoS）**：加满。提供极高的机动性，使装备上的攻击速度（IAS）词缀变得多余",
+                "**利爪精通（Claw Mastery）**：加满。被动增加伤害与暴击率",
+                "**飞龙在天（Dragon Flight）**：投入 1 点。提供位移与机动性",
+                "**武器格挡（Weapon Block）**：投入 1 点。获取基础的双爪格挡率",
+                "**刀刃之盾（Blade Shield）**：剩余点数全部投入。用于触发「击中触发（CTC）」特效、吸血吸蓝（leeches），并能有效施放毒牙的毒素伤害"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "战前强化（Prebuff）与操作循环"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**强化武器**：在副手装备提供 +4、+5 甚至 +6 毒牙技能的魔法爪（可通过安亚商店购买或掉落获取）进行战前强化。社区资深玩家指出，未腐化前最高可获得 +6 毒牙技能的爪子，理想状态下副手应持有两把 +7 毒牙的武器以追求极限",
+                "**早期循环**：副手开启毒牙、速度爆发，并根据技能等级高低决定在主手或副手开启刀刃之盾。战斗时，使用飞龙在天跳入怪群，接着使用眼镜蛇打击清理怪群，随后再次使用飞龙在天寻找下一波怪物",
+                "**后期循环**：获得「混沌（Chaos）」符文之语后，操作大幅简化——只需上好 Buff，然后在地图中全程旋风（WW）即可"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "4. 开荒与过渡指南（Leveling & Entry Gear）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**开局思路**：初期应尽快寻找带有「击中偷取法力（ML）」或「击杀回复法力（MAEK）」属性的装备，以避免频繁喝药。主要寻找移动速度（FRW）、伤害等常规开荒属性",
+                "**技能倾向**：优先点出眼镜蛇打击和速度爆发。不推荐使用能量消解（Fade）来补抗性，因为会损失速度爆发带来的核心机动性",
+                "**开荒神器**：极度推荐「蛇索（Snakecord）」腰带——它提供少量毒素伤害和毒素持续时间降低（PLR），极其契合早期需求，甚至值得为其投入第一个神话法球（Mythic orb）",
+                "**应对免疫与过渡佣兵**：当遇到免疫怪物时，建议雇佣第五幕（A5）提供战斗体制（BO）的佣兵。他不仅能增加你的生命上限，还能在不需要伤害加深（Amp damage）的情况下降低敌人抗性并破除免疫",
+                "**进军异界（Maps）前的套装推荐**：开始获取崇高法球（Exalts）后，优先集齐**娜塔亚的非难（Natalya's set）**。该套装（头盔、精英底材衣服、鞋子、精英底材爪搭配 Venom 符文之语）能提供大量技能等级、毒素穿透、机动性、抗性和物理伤害减免（PDR），足以支撑你通关早期的 T4 难度地图并获取首个神圣法球（Sacred orb）"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "5. 最终毕业装备与词缀追求"
+            },
+            {
+              "type": "p",
+              "text": "后期的核心配装逻辑是寻找所有附带「+ 增益效果（buff%）」「+ 毒素伤害」或「毒素穿透」的装备。毒素穿透的高数值来源于：**追猎者升华、枯萎层数、原罪戒指（Original Sin）、尖啸腰带（Scream）、暗金珠宝（Facets）**以及**武器上的神圣强化（Weapon sacreds）**。"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**主武器（Wep1）**：Aidan's Scar，打入混沌（Chaos）神圣词缀。镶嵌 3 颗「大范围破坏（Widespread Destruction）」珠宝",
+                "**副武器（Wep2）**：带有地狱火（HF）触发的碧玉爪（Jade Talon），打入毒牙（Venom）神圣词缀。镶嵌 3 颗大范围破坏珠宝",
+                "**衣服（Chest）**：巨兽（Leviathan），打入野蔷薇（Bramble）神圣词缀。镶嵌毒系暗金珠宝（Facets）",
+                "**头盔（Head）**：吸血鬼的凝视（Vampire Gaze），打入幻象（Visions）神圣词缀。镶嵌毒系暗金珠宝",
+                "**腰带（Belt）**：枯槁之尖啸（Scream of the Desiccated）。目标词缀为 +75% 元素伤害、+10 最大抗性、+20% 增益效果以及 +50 全抗。该腰带如果带有 25% 物理伤害减免（PDR）属性，将极大降低应对超级大菠萝（Dclone）时的生存压力",
+                "**鞋子（Boots）**：水上飘（Waterwalks），打入共鸣（Resonance）神圣词缀。镶嵌暗金珠宝",
+                "**手套（Gloves）**：毒液之握（Venom Grip）",
+                "**戒指（Rings）**：大自然的和平（Nature's Peace）搭配原罪（Original Sin）。**原罪戒指是改变流派质变的核心装备，需尽早获取**",
+                "**项链（Amu）**：腐化出 +1 技能和 +1 亵渎（Desecration）的马拉的万花筒（Mara's）；也可使用命运之反抗（Defiance of Destiny）以增加生存能力"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "大范围破坏珠宝解析：在双爪中镶嵌 6 颗此类珠宝，可将攻击范围（AOE）向外扩展 3 个区块（Tiles），提供极大的覆盖面。尽管面板伤害会有所降低，但由于能触及更多怪物，这种牺牲可以忽略不计。"
+            },
+            {
+              "type": "sub",
+              "text": "佣兵配置（Mercenary）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "毕业阶段推荐使用第二幕（A2）佣兵",
+                "**武器**：风暴之枪（Stormspire）搭配无限（Infinity）神圣词缀，主要为了提供定罪（Conviction）光环",
+                "**防具**：巨兽（Leviathan）衣服、吸血鬼的凝视（VGaze）头盔以及依瑟瑞尔的鞋子（Itheraael's boots）",
+                "**核心细节**：在佣兵装备上镶嵌 3 颗「流体运动（Fluid Motion）」珠宝，这能为角色提供活力光环（Vigor aura），进一步提升「起飞（Zoomies）」般的移动体验",
+                "**机制联动**：角色的 Aidan's Scar 会触发大量伤害加深诅咒（Amp dmg），配合角色自身的极高毒素穿透，佣兵的直接伤害（约 12k）已无关紧要，纯粹作为光环提供者"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "6. 属性目标与实战评价（Summary & Targets）"
+            },
+            {
+              "type": "sub",
+              "text": "成型面板目标值"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**生命值**：在橡木智者（Oak）和战斗体制（BO）加持下达到约 2200 生命",
+                "**抗性与减免**：最高抗性上限达到 85-90 且满抗。实战中面对 Dclone 时，抗性最好溢出达到 100-120；物理伤害减免（PDR）需达到约 50% 的上限",
+                "**输出属性**：约 160-170% 的毒素穿透；在满层数下达到约 450% 的毒素专精",
+                "**其他基础**：80-100 攻击速度（IAS）、60 快速打击恢复（FHR）、约 1 万命中率（AR）以及 110 移动速度（FRW）"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "实战表现"
+            },
+            {
+              "type": "p",
+              "text": "这是一个极其出色的攻坚（Bosser）构建。在面对 T2 Dclone 或 Lucion 时，一旦战前 Buff 开启且枯萎 / 专精层数叠满，Boss 的血条会瞬间消失。同时，得益于多颗大范围破坏珠宝的加特，它也是卓越的刷图手（Mapper）——在熟练玩家手中可以轻松达成「3 分钟速刷地图」的效率。实战测试中，可在 7 分钟内完成拉满强度（5 Hatred full juice）的 T3.5 级别地图。"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "barbarian",
@@ -528,28 +1316,2321 @@
       "name": "德鲁伊",
       "enName": "Druid",
       "icon": "pelt",
-      "builds": []
+      "builds": [
+        {
+          "id": "druid-fire-autobomber",
+          "name": "火德自动档",
+          "enName": "Fire Druid Autobomber — Fissure/Volcano Werewolf",
+          "author": "BREAKNO（分享）· Recover(Sven) · fvm",
+          "version": "2026-07 社区讨论整合",
+          "tags": [
+            "核心 BD",
+            "火焰",
+            "变身",
+            "自动触发",
+            "近战"
+          ],
+          "summary": "社区玩家 BREAKNO 在 Discord 分享的非施法系德鲁伊构筑：利用「大地变形者」与「钢铁遮蔽」两件核心装备的神圣改造词缀，让狼人在近战攻击与击杀的瞬间自动触发地裂与火山，配合酋长升华——「个人体验过最强到离谱的刷图构筑」，操作门槛极低，故得名「自动档」。",
+          "facts": [
+            [
+              "职业",
+              "德鲁伊 Druid"
+            ],
+            [
+              "定位",
+              "非施法近战 · 自动档刷图"
+            ],
+            [
+              "核心装备",
+              "大地变形者 + 钢铁遮蔽"
+            ],
+            [
+              "升华",
+              "酋长 Chieftain"
+            ],
+            [
+              "攻速档位",
+              "135 IAS（狼人形态）"
+            ],
+            [
+              "分享者",
+              "BREAKNO（2026-07-14~18）"
+            ],
+            [
+              "社区来源",
+              "Recover(Sven) · fvm · BREAKNO"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 构筑背景"
+            },
+            {
+              "type": "p",
+              "text": "讨论最初源于一个问题：SoE 中是否存在可行的非施法系德鲁伊构筑？玩家 Recover（Sven）表示自己一直很喜欢德鲁伊的美术风格，但对香草版本中狼人 / 熊人近战玩法的手感一直不太适应，想了解目前版本是否有可行的近战方向。"
+            },
+            {
+              "type": "p",
+              "text": "fvm 回应：如果想玩变形系（Shapeshifter）玩法，可以放心尝试——目前版本中，狂战士（Berserker）升华的强度非常突出。随后，BREAKNO 分享了自己的具体构筑：一套围绕地裂 / 火山触发机制打造的狼人构筑，配合酋长（Chieftain）升华，是他个人体验过强度最离谱的刷图构筑之一，并表示愿意提供更多细节或直接分享存档。"
+            },
+            {
+              "type": "note",
+              "text": "关于升华选择的说明：BREAKNO 具体构筑选用的是酋长升华，与 fvm 提到的通用强力推荐「狂战士」升华并不相同——前者是泛用性推荐，后者是本构筑的实际选择，二者并不冲突，供玩家自行取舍参考。"
+            },
+            {
+              "type": "h2",
+              "text": "2. 核心触发机制"
+            },
+            {
+              "type": "p",
+              "text": "整套构筑的输出并非来自主动施法，而是通过武器与护甲上的触发类词缀，在近战攻击与击杀瞬间被动触发地裂与火山，形成自动连锁伤害："
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**大地变形者（Earthshifter，雷霆重锤基底）**：命中时几率触发地裂；击杀时触发火山",
+                "**狂喜（Rapture）符文之语（神圣改造）**：命中时几率施放地裂，并降低目标抗性（下抗）"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "BREAKNO 补充：并不认为「纯洁（Innocence）」是这套构筑的必需品，但它比较契合整体的构筑主题。"
+            },
+            {
+              "type": "sub",
+              "text": "推测触发流程"
+            },
+            {
+              "type": "p",
+              "text": "狼人形态近战攻击 → 双重几率触发（狂喜 Earthshifter + Rapture）→ 地裂 + 目标减抗 → 击杀触发火山 → 连锁清空怪群。"
+            },
+            {
+              "type": "h2",
+              "text": "3. 技能加点"
+            },
+            {
+              "type": "sub",
+              "text": "核心满点技能（Max）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**火焰风暴（Firestorm）**",
+                "**熔岩巨石（Molten Boulder, MB）**",
+                "**天诛（Armageddon，俗称 GEDDON）**",
+                "**变狼术（Lycanthropy）**",
+                "**地裂或火山（Fissure / Volcano，二选一满点）**——取决于你想强化哪一个触发效果的协同加成"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "1 点投入"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**狼獾之心（Heart of Wolverine, HOW）**（使用艾里斯头盔可省）",
+                "**狼人（Werewolf）**",
+                "**野性狂怒（Feral Rage）**",
+                "**狂犬病（Rabies）**",
+                "**狂怒（Fury）**"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "剩余全部点数投入**火焰之爪（Fire Claws）**。"
+            },
+            {
+              "type": "h2",
+              "text": "4. 推荐装备"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "装备",
+                "推荐",
+                "备注"
+              ],
+              "rows": [
+                [
+                  "武器 Weapon",
+                  "大地变形者 Earthshifter",
+                  "词条 / 腐化（Corruption）神圣改造；也可用任意带攻速的重击类武器（slam）替代；SACRED 狂喜（Rapture）"
+                ],
+                [
+                  "胸甲 Chest",
+                  "钢铁遮蔽 Steel Carapace",
+                  "SACRED 纯洁（Innocence）"
+                ],
+                [
+                  "手套 Gloves",
+                  "地狱之嘴 Hellmouth",
+                  "或任意带技能范围（Skill AOE）词缀的手套"
+                ],
+                [
+                  "靴子 Boots",
+                  "毁灭之痕 Wake of Destruction",
+                  "SACRED 顺风（Tailwind）"
+                ],
+                [
+                  "护身符 Amulet",
+                  "玛拉的万花筒 或 旭日（Rising Sun）",
+                  "—"
+                ],
+                [
+                  "头盔 Helmet",
+                  "芬里斯 Felris 或 渡鸦智慧 Ravenlore",
+                  "SACRED 摇曳焰火（Flickering Flame）"
+                ]
+              ]
+            },
+            {
+              "type": "note",
+              "text": "镶嵌建议：武器孔位镶嵌攻速（IAS）/ 额外伤害（ED）珠宝；非武器孔位镶嵌元素枝彩珠宝（Facet）。"
+            },
+            {
+              "type": "h2",
+              "text": "5. 攻速档位"
+            },
+            {
+              "type": "kv",
+              "rows": [
+                [
+                  "IAS 临界点",
+                  "**135**（狼人形态）"
+                ],
+                [
+                  "替代方案",
+                  "若不用攻速重击武器（IAS slam），可通过 1 颗 20 IAS 珠宝 + 5 颗 15 IAS / 40 生命双属性珠宝达到该档位"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "6. 护身符"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "常规的暗金专属护身符",
+                "酋长升华（Chieftain Ascendancy）相关加成",
+                "火焰伤害百分比大型护身符（Large Charm, LC）"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "7. 延伸讨论：狂犬病流派"
+            },
+            {
+              "type": "note",
+              "text": "Sven 在讨论中提到自己很喜欢狂犬病（Rabies）玩法，但不确定该往哪些装备或属性方向投入。fvm 简短回应：手感应该不错，只是操作体验会比较生硬——因为近战角色无法像其他职业一样直接穿过密集的怪物群。说明：截至目前的讨论记录中，暂无玩家给出针对狂犬病流派的具体装备或属性配置，这一方向仍待社区补充，本指南不做延伸推测。"
+            },
+            {
+              "type": "hl",
+              "text": "内容贡献：Recover（Sven）· fvm · BREAKNO · PD2 SoE 社区玩家"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "necromancer",
       "name": "死灵法师",
       "enName": "Necromancer",
       "icon": "wand",
-      "builds": []
+      "builds": [
+        {
+          "id": "necro-poison-strike",
+          "name": "毒匕死灵",
+          "enName": "Endgame Poison Strike Pathfinder Necromancer",
+          "author": "社区整理",
+          "version": "SoE v13 · 社区实战评价 S+ / S",
+          "tags": [
+            "核心 BD",
+            "毒素",
+            "DoT",
+            "S+ 刷图",
+            "S 攻坚"
+          ],
+          "summary": "社区实战 S+ 刷图 / S 级攻坚的毒匕死灵：以基础毒伤与巨额毒素抗性削减（Resistance shred）为根基，寻路者 T3 的「枯萎」满 10 层提供 -20% 敌人毒抗，配合原罪之戒将穿透 100% 转化为毒素专精。成型后基础面板可达 200k+，完全毕业冲击 300k+。",
+          "facts": [
+            [
+              "职业",
+              "死灵法师 Necromancer"
+            ],
+            [
+              "核心机制",
+              "毒匕 Poison Strike + 枯萎 Wither"
+            ],
+            [
+              "升华",
+              "寻路者 Pathfinder（T3 枯萎）"
+            ],
+            [
+              "参考面板",
+              "200k+（成型）· 300k+（完全毕业）"
+            ],
+            [
+              "定位",
+              "S+ 级刷图 / S 级攻坚"
+            ],
+            [
+              "关键戒指",
+              "原罪 Original Sin"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 核心输出与循环机制"
+            },
+            {
+              "type": "p",
+              "text": "该构筑的伤害基石建立在基础毒伤输出与巨额的**毒素抗性削减（Resistance shred）**之上。寻路者的 T3 升华技能**枯萎（Wither）**每次击中或施法都能叠加层数，满 10 层可提供 **-20% 的敌人毒抗**。这项减抗效果会受到**增益效果（Buff Effect）**的进一步放大，与装备提供的穿透（Pierce）完美契合。此外，**原罪之戒（Original Sin）**能将 100% 的元素穿透转化为额外的**毒素专精（Poison Mastery）**。"
+            },
+            {
+              "type": "sub",
+              "text": "实战输出循环"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "必须使用**鲜血传送（Blood Warp）**突入怪群，这是强制维持 Wither 减抗覆盖率的前提",
+                "施放**毒匕（Poison Strike）**，配合高专精与极度削弱的抗性，对怪物施加不可逆的巨额毒素持续伤害（DoT）",
+                "利用毒匕优秀的 AOE 扩散效果实现一键秒杀（1-tick），随后立刻保持移动风筝至下一波怪群，切忌原地站桩"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "2. 技能与属性加点指引"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "分类",
+                "技能 / 属性",
+                "分配方案"
+              ],
+              "rows": [
+                [
+                  "输出技能",
+                  "**Poison Strike（毒匕）**",
+                  "加满 20 点"
+                ],
+                [
+                  "核心协同",
+                  "**Bone Armor（骨甲）& Desecrate（亵渎）**",
+                  "各加满 20 点（骨甲护盾值随法力池规模提升，亵渎作为 Boss 战备用）"
+                ],
+                [
+                  "机动技能",
+                  "**Blood Warp（鲜血传送）**",
+                  "投入点数直至冷却时间降为 0（通常需 30 级）"
+                ],
+                [
+                  "召唤物",
+                  "**Golem Mastery（石魔支配）**",
+                  "加满 20 点"
+                ],
+                [
+                  "其他协同",
+                  "骨墙、骨牢、钢铁石魔、火焰石魔",
+                  "各投入 1 点作为过路或协同"
+                ],
+                [
+                  "生存溢出",
+                  "**Blood Golem（鲜血石魔）**",
+                  "投入所有剩余技能点，实战中需时刻保持 5 个鲜血石魔存活以维持生命链接减伤"
+                ],
+                [
+                  "属性点数",
+                  "力量 / 敏捷 / 精力 / 体力",
+                  "力量与敏捷满足装备底材需求即可，投入部分精力维持法力与骨甲，剩余所有点数投入体力撑高血池"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "3. 毕业装备与佣兵搭配"
+            },
+            {
+              "type": "p",
+              "text": "该流派无需刻意堆叠敏捷或依赖护身符来获取准确率（AR），自然成型后即可自带 9000+ AR。终极护身符需配置毁灭（Annihilus）、火炬（Torch）、Progenesis 以及 Voices。大型护身符选择带生命的毒骨技能板，小护身符用于补齐全抗和生命。"
+            },
+            {
+              "type": "table",
+              "caption": "装备表（终局毕业）",
+              "headers": [
+                "装备部位",
+                "核心推荐",
+                "附注与神圣（Sacred）要求"
+              ],
+              "rows": [
+                [
+                  "头盔 / 武器",
+                  "安脸（Andariel's Visage）/ 黑沼之锋（Blackbog's Sharp）",
+                  "全镶嵌毒素彩虹刻面；头盔选 Vision 神圣附魔，武器选 Venom 神圣附魔、毒液符文之语"
+                ],
+                [
+                  "胸甲 / 盾牌",
+                  "钢铁遮蔽（Steel Carapace）/ 殉道者（Martyrdom）",
+                  "全镶嵌毒素刻面（如需抗性盾牌可换完美钻石）；胸甲选 Innocence（纯洁），盾牌选 Exile（纯洁和流亡）"
+                ],
+                [
+                  "手套 / 腰带",
+                  "塔格奥（Trang-Oul's Claws）/ 神龛腰带（Screams of the Desiccated）",
+                  "手套提供高额毒素专精；腰带提供 +20% 增益效果放大 Wither 层数，并增加 75% 元素技能伤害"
+                ],
+                [
+                  "鞋子 / 戒指",
+                  "骨髓鞋（Marrowwalk）/ 乔丹 + 原罪（SOJ & Original Sin）",
+                  "鞋子选 Resonance 神圣附魔；原罪戒负责将穿透 100% 转化为专精"
+                ],
+                [
+                  "项链",
+                  "马拉（Mara's Kaleidoscope / Mang）",
+                  "提供全技能与抗性"
+                ],
+                [
+                  "副手",
+                  "Song & CTA +6 主教 CTA",
+                  "提供战斗指令（Battle Command / Orders）预增益"
+                ],
+                [
+                  "佣兵（防御）",
+                  "暴风尖塔（Stormspire）/ 物免头（Vampire Gaze）/ 钢铁遮蔽（Steel Carapace）",
+                  "武器选 Infinity 神圣附魔（提供核心审判光环）；头盔选 Ferocity，胸甲选 Innocence（狂暴头和纯洁甲）"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "4. 社区实战进阶与 Q&A"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**平滑过渡与开荒**：前期或在硬核模式（HC）开荒时，强烈推荐穿满**塔格奥（Trang-Oul's）**套装过渡，配合骨甲与多石魔体系极其抗压。武器成型路线建议为：商店购买 → Jade → Blackbog's Sharp",
+                "**神圣附魔优先级**：在资源有限时，优先给武器或胸甲打上神圣附魔，作者实战中首推优先附魔武器",
+                "**突破 300k 伤害的质变点**：将过渡用的猎头者（Headhunter）或蜘蛛之网（Arachnid Mesh）替换为满状态的 **Screams of the Desiccated 腰带**是伤害质变的关键——由于掉率极低，通常高度依赖命运法球（Div Orbs）洗出",
+                "**为何放弃纯法力流转化**：尽管后期转为纯法力流也能轻易达到 300k+ 面板，但这会导致完全失去 Innocence 胸甲带来的高频 CTC（击中施放）触发效果，导致刷图手感与综合防御能力严重下滑"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "paladin",
       "name": "圣骑士",
       "enName": "Paladin",
       "icon": "scepter",
-      "builds": []
+      "builds": [
+        {
+          "id": "paladin-lightning-sacrifice",
+          "name": "终局闪电献祭圣骑士（电牺性）",
+          "enName": "Endgame Lightning Sacrifice Paladin",
+          "author": "社区整理（AllikLZ · fvm · qazwr 等）",
+          "version": "SoE v13 · 社区实战探讨",
+          "tags": [
+            "核心 BD",
+            "闪电",
+            "光环",
+            "清屏",
+            "高造价"
+          ],
+          "summary": "终局电牺性圣骑士：神圣冲击（Holy Shock）光环提供主要闪电伤害，牺牲（Sacrifice）击杀敌人时触发大范围闪电尸爆，尸爆引发连锁反应瞬间清空怪群。面板 4.5-5 万即可碾压 T3.5，终极可破 12 万，6 分钟清空满词缀 8 人难度 T3.5。",
+          "facts": [
+            [
+              "职业",
+              "圣骑士 Paladin"
+            ],
+            [
+              "主战光环",
+              "神圣冲击 Holy Shock"
+            ],
+            [
+              "触发核心",
+              "牺牲 Sacrifice（闪电尸爆）"
+            ],
+            [
+              "攻速档位",
+              "9 帧及格 · 8 帧极速"
+            ],
+            [
+              "强度基准",
+              "45-50k 碾压 T3.5 · 120k+ 终极"
+            ],
+            [
+              "定位",
+              "极速刷图清屏（玻璃大炮）"
+            ],
+            [
+              "社区来源",
+              "AllikLZ · fvm · qazwr"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 核心输出机制与清图逻辑"
+            },
+            {
+              "type": "p",
+              "text": "电牺性圣骑士的伤害来源于两套相互重叠的系统，理解这两者的主次关系是构建该流派的核心："
+            },
+            {
+              "type": "sub",
+              "text": "伤害本体：神圣冲击（Holy Shock）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "神圣冲击提供最主要的闪电伤害来源",
+                "伤害受以下属性加成：**光环等级**（自身光环 + 武器附加伤害）、**闪电专精（Lightning Mastery）**、**闪电穿透（Lightning Pierce）**、**减敌闪电抗性（Resistance Reduction）**以及**光环效果百分比（Aura Effect %）**"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "触发媒介：牺牲（Sacrifice）尸爆"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "牺牲技能在**击杀敌人时**，会触发大范围（AOE）的闪电尸爆",
+                "尸爆的伤害范围受「攻击附加闪电伤害」和「技能范围（Skill AOE radius）」加成"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "重要提示：技能范围（Skill AOE）虽然不能增加光环的直接伤害，但能显著扩大尸爆的半径，从而极大地提升刷图效率。"
+            },
+            {
+              "type": "sub",
+              "text": "实战清图循环"
+            },
+            {
+              "type": "p",
+              "text": "使用「突击/青龙闪（Joust）」位移至怪群中心 → 使用「牺牲」击中目标 → 神圣冲击的闪电伤害生效 → 敌人死亡 → 触发闪电尸爆 → 尸爆引发连锁反应，瞬间清屏。"
+            },
+            {
+              "type": "h2",
+              "text": "2. 属性与技能加点推荐"
+            },
+            {
+              "type": "p",
+              "text": "根据文档与社区实战反馈，本流派的加点极其明确：不需要将点数投入能量，且伤害主要来自光环而非武器物理面板。"
+            },
+            {
+              "type": "sub",
+              "text": "属性点（Stats）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**力量（Strength）**：加至满足装备穿戴需求",
+                "**敏捷（Dexterity）**：加至满足装备穿戴需求及满格挡率",
+                "**体力（Vitality）**：剩余点数全部投入体力，以获取最大生存能力",
+                "**精力（Energy）**：无需求，不必加点"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "技能点（Skills）"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "技能类别",
+                "技能名称",
+                "投入点数",
+                "核心作用说明"
+              ],
+              "rows": [
+                [
+                  "核心伤害",
+                  "神圣冲击（Holy Shock）",
+                  "加满",
+                  "主战光环，提供核心伤害"
+                ],
+                [
+                  "协同增益",
+                  "抵抗闪电（Resist Lightning）",
+                  "加满",
+                  "极大增强神圣冲击伤害"
+                ],
+                [
+                  "协同增益",
+                  "救赎（Salvation）",
+                  "加满",
+                  "增强神圣冲击伤害"
+                ],
+                [
+                  "命中辅助",
+                  "祝福瞄准（Blessed Aim）",
+                  "加满",
+                  "提供被动命中加成"
+                ],
+                [
+                  "触发主攻",
+                  "牺牲（Sacrifice）",
+                  "加满",
+                  "触发闪电尸爆的核心攻击技能"
+                ],
+                [
+                  "功能辅助",
+                  "突击（Joust）",
+                  "1 点",
+                  "提供极佳的机动性与走位能力"
+                ],
+                [
+                  "防御辅助",
+                  "神圣之盾（Holy Shield）",
+                  "剩余点数",
+                  "提升防御力与格挡率"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "3. 装备选择与神圣（Sacred）升级路径"
+            },
+            {
+              "type": "p",
+              "text": "装备成型通常分为三个阶段：优先凑齐核心暗金 / 符文之语，接着用闪电珠宝填补孔位，最后在 T3.5-T4 地图阶段追求「神圣（Sacred）」级别升级。"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "装备部位",
+                "基础阶段 / 刷图配置",
+                "神圣（Sacred）毕业形态与词缀",
+                "备注说明"
+              ],
+              "rows": [
+                [
+                  "头盔",
+                  "格里风之眼（Griffon's Eye, 3孔）",
+                  "牺牲之视（Visions of Sacrifice）",
+                  "镶嵌闪电珠宝；神圣词缀提供定罪光环，是打 Boss 和升级首选的神圣装备"
+                ],
+                [
+                  "衣服",
+                  "奥玛斯长袍（Ormus Robes, 4孔）",
+                  "跃升（Exaltation）",
+                  "镶嵌闪电珠宝；神圣词缀提供极高的光环效果和技能等级加成"
+                ],
+                [
+                  "武器",
+                  "法拉的回忆（Fara's Reminiscence）",
+                  "末日（Doom）",
+                  "镶嵌 IAS（攻速）珠宝以达到牺牲的极速档位；神圣词缀提供神圣冰冻光环。早期可用悔恨（Grief）过渡"
+                ],
+                [
+                  "盾牌",
+                  "苍穹（Skyward）",
+                  "碎裂之墙（Shattered Wall）",
+                  "神圣词缀同样提供神圣冰冻光环；社区证实双冰冻光环效果可叠加，且提供极品技能加成"
+                ],
+                [
+                  "项链",
+                  "马拉的万花筒（Mara's）",
+                  "—",
+                  "提供技能、抗性以及极其重要的技能 AOE"
+                ],
+                [
+                  "戒指",
+                  "乔丹之石（SoJ）×2",
+                  "乔丹之石 + 原罪（Original Sin）",
+                  "原罪能提供巨量的元素专精加成，是后期的绝对核心"
+                ],
+                [
+                  "腰带",
+                  "猎头者（Headhunter）",
+                  "雷神之力 / 地狱熔炉蛛网腰带",
+                  "猎头者用于日常刷图；后两者专用于高压 Boss 战"
+                ],
+                [
+                  "手套",
+                  "卓古拉之握（Dracul's Grasp）",
+                  "—",
+                  "解决续航：提供击杀回复生命（LAEK）和撕裂伤口"
+                ],
+                [
+                  "鞋子",
+                  "纺织（Silkweave）",
+                  "共鸣（Resonance）",
+                  "纺织提供技能 AOE 和击杀回蓝（MAEK）；神圣词缀进一步提升技能、移速和光环效果"
+                ]
+              ]
+            },
+            {
+              "type": "note",
+              "text": "攻速档位提醒：确保牺牲的攻击速度至少达到 **9 帧**（基础及格线），最佳状态需追求 **8 帧**极速——这直接决定了尸爆的触发频率和清图手感。"
+            },
+            {
+              "type": "h2",
+              "text": "4. 护身符（Charms）与珠宝（Jewels）搭配"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**技能超大护身符（Grand Charms）**：极度推荐携带带有生命值的攻击性光环（Offensive Aura）技能板。光环等级直接决定了神圣冲击的伤害上限",
+                "社区贴士（来自 qazwr & Allik）：在终极毕业（凑齐几乎所有神圣装备）之前，攻击性光环板的收益永远大于单纯加闪电伤害的大型护身符（LC）",
+                "**必备护身符**：地狱火炬（Torch）、毁灭（Annihilus）、原生质（Progenesis）、凯恩的智慧（Cain's，升 99 级前必备）、众声（Voices）",
+                "**珠宝洗练**：任何多余的孔位都应塞满闪电暗金珠宝（如 5/5 电珠）。可通过 **5 个珠宝碎片 + 神话法球 + 余烬之魂（Cinders）**不断重洗珠宝属性"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "5. 佣兵配置（Mercenary）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "推荐使用第二幕（Act 2）提供反抗（Defiance）防御光环的佣兵，能在高阶地图中提供极佳的生存率",
+                "**武器**：死神的丧钟（Reaper's Toll）或风暴之枪（Stormspire），务必打上**无限（Infinity）神圣词缀**——这是刷图时最大的 DPS 放大器之一，能提供巨量减电抗",
+                "**防具**：吸血鬼的凝视（VGaze）头盔、巨兽（Leviathan）盔甲、蚀肉骑士（Gore Rider）鞋子。后期可为其升级神圣词缀（如头盔 Visions、衣服 Fortress、鞋子 Resonance）",
+                "实战表现：毕业佣兵即使是面对 T4 地牢也极难阵亡，完全可以作为一个稳定的极品光环辅助存在"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "6. 开荒过渡与实战表现评价"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**早期开荒**：社区建议（来自 SaintlyJosh 与 FuFu 的讨论），前期使用「圣光弹（Holy Bolt）」或「天堂之拳（FoH）」开荒体验极佳。可以利用神话法球升级「受祝福的圣光之手（Hand of Blessed Light）」和「撒卡兰姆使者（Herald of Zakarum）」平滑过渡，直到地狱难度再洗点转为电牺性",
+                "**强度基准**：当电牺性面板伤害达到 4.5 万-5 万（45k-50k）左右时，即可轻松碾压 T3.5 级别地图",
+                "**终极表现**：随着穿透、专精和神圣装备的累积，面板伤害可轻松突破 12 万（120k+）。实战中，6 分钟可全清拉满词缀的 8 人难度 T3.5 级别地图，9 分钟可打穿双重凿子强化的 T4 难度地图",
+                "**唯一短板**：构建偏向「玻璃大炮」（Glass Cannon），刷高阶地图时需特别注意走位，以免被「冥河娃娃（Stygian Dolls）」等高爆发怪物秒杀"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "paladin-divine-judgement",
+          "name": "神圣审判圣骑士",
+          "enName": "Divine Judgement Paladin (GG Endgame)",
+          "author": "Cham（打造）· 结合 fvm、Rambo907、Mericat 讨论",
+          "version": "SoE v13 · 新技能终局构筑",
+          "tags": [
+            "核心 BD",
+            "魔法",
+            "DoT",
+            "近战",
+            "终局毕业"
+          ],
+          "summary": "圣骑士全新核心技能「神圣审判（Divine Judgement）」的终极毕业构筑：兼具直接魔法打击与极强持续伤害（DoT）的魔法系肉搏/法系混合技能。以魔法专精与穿透双堆叠、DoT 翻倍机制与原罪之戒二次放大为核心，毕业面板 55k-58k DPS（DoT 翻倍后实际清场极高）。",
+          "facts": [
+            [
+              "职业",
+              "圣骑士 Paladin"
+            ],
+            [
+              "核心技能",
+              "神圣审判 Divine Judgement"
+            ],
+            [
+              "定位",
+              "魔法系肉搏 / 法系混合"
+            ],
+            [
+              "天赋",
+              "血法师（相关升华）"
+            ],
+            [
+              "毕业面板",
+              "DPS 55k-58k · AR 18,187"
+            ],
+            [
+              "打造者",
+              "Cham · 结合 fvm、Rambo907、Mericat 讨论"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 核心输出机制与伤害乘算"
+            },
+            {
+              "type": "p",
+              "text": "「神圣审判（Divine Judgement）」是一个兼具直接魔法打击与极强持续伤害（DoT）的魔法系肉搏 / 法系混合技能。"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**魔法专精与穿透双堆叠**：该流派放弃传统的元素伤害，全面堆叠**魔法技能伤害（Magic Skill Damage %）**与**减敌魔法抗性（-% Enemy Magic Resistance）**",
+                "**DoT 伤害翻倍机制**：核心头盔**正义裁决者之光环（Halo of the Justicar）**拥有专属词缀——「神圣审判 DoT 翻倍（Divine Judgement Damage over Time is Doubled）」，使技能施加的魔法持续伤害产生质变",
+                "**原罪之戒（Original Sin）的二次放大**：利用原罪戒指将 75% 的魔法穿透（Magic Pierce）转化为额外的魔法专精（Magic Mastery），并自带高达 -50% 的敌方魔法抗性削减，使全套镶嵌的 5/5 魔法彩虹刻面（Magic Facets）产生双倍增益"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "2. 属性点（Stats）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**力量（Strength）**：加至满足装备需求（穿戴无形阴影铠甲底材需 210 点力量）",
+                "**敏捷（Dexterity）**：加至在神圣之盾加持下达成 75% 满格挡（Max Block）",
+                "**体力（Vitality）**：剩余点数全部投入体力，撑高血池",
+                "**精力（Energy）**：不投入（0 点）"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "3. 技能点分配（Skills）"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "技能名称",
+                "点数",
+                "作用与机制说明"
+              ],
+              "rows": [
+                [
+                  "神圣审判（Divine Judgement）",
+                  "20（加满）",
+                  "核心主输出技能"
+                ],
+                [
+                  "圣剑（Holy Sword）",
+                  "20（加满）",
+                  "核心协同技能，大幅提升物理 / 魔法伤害与命中"
+                ],
+                [
+                  "庇护所（Sanctuary）",
+                  "20（加满）",
+                  "核心协同技能，提供基础魔法伤害加成与退魔效果"
+                ],
+                [
+                  "神圣之盾（Holy Shield）",
+                  "20（加满）",
+                  "极高防御力加成与满格挡支撑"
+                ],
+                [
+                  "突击（Joust）/ 祈祷（Prayer）",
+                  "20（加满）",
+                  "刷图首选突击（大幅降低位移 CDR，实现极速飞图）；若追求高额恢复可选择祈祷"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "4. 终极毕业装备与神圣球（Sacred Orbs）配置"
+            },
+            {
+              "type": "p",
+              "text": "本流派需要利用神圣球（Sacred Orbs）赋予顶级暗金装备额外的神圣词缀，全身上下满 5/5 魔法彩虹刻面（Magic Facets）。"
+            },
+            {
+              "type": "table",
+              "caption": "装备部位 → 核心暗金底材 → 神圣球附魔 → 最佳腐蚀/打孔 → 核心属性与作用说明",
+              "headers": [
+                "装备部位",
+                "核心暗金底材",
+                "神圣球（Sacred）附魔",
+                "最佳腐蚀 / 打孔",
+                "核心属性与作用说明"
+              ],
+              "rows": [
+                [
+                  "头盔",
+                  "正义裁决者之光环（Halo of the Justicar）",
+                  "梦境（Dream）",
+                  "CBF（无法冻结）/ 3 孔",
+                  "必带「神圣审判 DoT 翻倍」、+3 圣骑士技能、-15% 敌方魔抗、+30% 魔法伤害"
+                ],
+                [
+                  "武器",
+                  "青色愤怒（Azurewrath）",
+                  "末日（Doom）",
+                  "+1 全技能 / 6 孔",
+                  "幻影剑底材自带极速，提供 Lv12 庇护所 / Lv16 圣冰、+5 全技能、+30% 魔法伤害、-30% 魔抗"
+                ],
+                [
+                  "胸甲",
+                  "无形钢铁躯壳（Steel Carapace）",
+                  "荣誉之链（CoH）",
+                  "+1 全技能 / 4 孔",
+                  "3200+ 无形超高防御、+5 全技能、+20% 魔法伤害、-20% 魔抗、巨量全抗与物理减伤（%PDR）"
+                ],
+                [
+                  "盾牌",
+                  "撒卡兰姆使者（HoZ）",
+                  "流亡（Exile）",
+                  "+1 全技能 / 4 孔",
+                  "提供 Lv16 反抗光环、25% 击中触发 Lv18 衰老、+5 技能、+20% 魔法伤害、-20% 魔抗"
+                ],
+                [
+                  "手套",
+                  "卓古拉之握（Dracul's Grasp）",
+                  "—",
+                  "+10% 攻速（IAS）",
+                  "提供击杀回血（LAEK）与生命偷取（LL），保障近战续航"
+                ],
+                [
+                  "鞋子",
+                  "沙暴之旅（Sandstorm Trek）",
+                  "顺风（Tailwind）",
+                  "+全抗（All Res）/ 3 孔",
+                  "提供 +15% IAS、+11% FCR、+15% 魔法伤害、-15% 魔抗及高额毒抗"
+                ],
+                [
+                  "腰带",
+                  "猎首（Headhunter）",
+                  "—",
+                  "+2% 最大抗性 / CDR",
+                  "提供高额力量 / 敏捷、+20% 最大生命 / 法力与击杀奖杯 Buff"
+                ],
+                [
+                  "项链",
+                  "马拉的万花筒（Mara's）",
+                  "—",
+                  "+1 全技能（腐蚀）+ +1 全技能（亵渎）",
+                  "双重加成达成 +4 全技能马拉，提供顶额全抗"
+                ],
+                [
+                  "戒指 1",
+                  "原罪（Original Sin）",
+                  "—",
+                  "击杀回蓝（MPK）/ 法力",
+                  "将 75% 魔法穿透转化为魔法专精，并自带 -50% 全元素及魔法抗性"
+                ],
+                [
+                  "戒指 2",
+                  "布尔凯索的婚戒（BK Ring）",
+                  "—",
+                  "+3% 击中偷取法力（ML）",
+                  "补充 +1 技能、生命值以及关键的法力偷取"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "5. 护身符与珠宝配置"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**暗金护身符**：毁灭（Annihilus）必须带有 +1 全技能腐蚀（最终达成 +4 全技能）；地狱火炬（Torch）必须带有 +1 全技能腐蚀；众声（Voices）为 +4 全技能超大护身符",
+                "**普通护身符**：12× +1 战斗技能 / 40+ 生命华丽护身符（Ornate Charms）",
+                "**珠宝洗练**：全身上下所有孔位（共 20 个镶嵌孔）全部塞满 5/5 魔法彩虹刻面（Magic Facets），极致拉满魔法专精与穿透"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "6. 面板终极目标与战斗档位（Breakpoints）"
+            },
+            {
+              "type": "p",
+              "text": "在 Cham 的极限配置下，毕业面板参数如下："
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**生存面板**：生命值 2580+ / 法力值 250+ / 物理防御力 13,780+ / 满四抗（79% / 77% / 77% / 81%）",
+                "**输出面板**：单次击打 DPS 55,000-58,000（结合 DoT 翻倍后实际清场伤害极高）/ 攻击准确率（AR）18,187",
+                "**机制面板**：227% 魔法技能伤害（Magic Mastery）/ 150% 减敌魔法抗性（Magic Pierce）",
+                "**动作档位**：86% 快速打击恢复（FHR）/ 54% 攻击速度（IAS）",
+                "**续航能力**：18% 生命偷取（LL）/ 3% 法力偷取（ML）/ 10 击杀回血（HPK）/ 10 击杀回蓝（MPK）"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "7. 进阶探讨与开荒 / 过渡建议"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**突击（Joust）vs 祈祷（Prayer）与盾牌替换**：资深玩家 fvm 与 Rambo907 强调，DoT 流派最忌讳原地站桩。将点数投入突击（Joust）拉满位移 CDR，配合黑魂（Alma Negra）盾牌提供的 CDR，可以实现全图无缝跳跃闪烁割草",
+                "**开荒与平民过渡（No Orbs / Early Game）**：在未获取神圣球与顶尖暗金前，可使用普通青色愤怒搭配普通 HoZ / Alma Negra；优先使用过滤工具搜寻带有基础魔法伤害加成的卓越 / 普通级别装备。根据玩家 Mericat 测试，开荒升级阶段可雇佣第二幕防御（Defiance）佣兵，佩戴刚毅（Fortitude）与高吸血武器，能有效提供数万防御加成，轻松保障 T1-T2 地图的平稳过渡",
+                "**兄弟会之戒（Call of the Brotherhood）机制探索**：在结合升华系统（如血法师 Blood Mage）的最新版本中，Cham 与 qazwr 指出可尝试引入兄弟会之戒，将非魔法专精属性进行二次转化，进一步突破魔法伤害上限"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "paladin-auradin",
+          "name": "光环自走骑士（OCD 骑乘突击流）",
+          "enName": "End Game Auradin — OCD Joust/Flicker",
+          "author": "demzLZ · Lqgash · Allik 等",
+          "version": "SoE v13 · 社区讨论整合",
+          "tags": [
+            "核心 BD",
+            "光环",
+            "自动档",
+            "极速刷图",
+            "终局攻坚"
+          ],
+          "summary": "「光环自走骑士」：凭借装备赋予的攻击性光环（圣火 + 神圣冲击）配合满级信念（Conviction）摧毁敌人抗性，完全成型后可横扫所有恐惧异象地图并斩杀终局 Boss。进阶 OCLC 骑乘突击（类似 PoE 闪现打击）可实现全屏瞬移清图——社区公认本 Mod 刷图最快的存在。",
+          "facts": [
+            [
+              "职业",
+              "圣骑士 Paladin"
+            ],
+            [
+              "核心机制",
+              "圣火+神圣冲击+信念 -150%"
+            ],
+            [
+              "流派",
+              "自动档光环自走 → OCD 骑乘突击"
+            ],
+            [
+              "定位",
+              "极速刷图 / 终局攻坚"
+            ],
+            [
+              "社区来源",
+              "demzLZ · Lqgash · Allik"
+            ],
+            [
+              "核心属性",
+              "满 IAS · 满光环协同 · 高降抗"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 核心机制与 BD 概述"
+            },
+            {
+              "type": "p",
+              "text": "本 BD 的核心逻辑是通过**装备赋予的攻击性光环（圣火、神圣冲击）**配合**满级本体信念（Conviction）**光环来摧毁敌人的抗性。在完全成型后，可以轻松横扫所有恐惧异象地图（T 图，包含暴君等强力怪物）并斩杀所有终局 Boss。"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**流派定位**：极速刷图（Mapper）/ 终局攻坚（Boss Killer）",
+                "**操作流派**：自动档（光环自走）+ 进阶：OCD 骑乘突击（类似 PoE 闪现打击）",
+                "**核心属性**：满 IAS（攻击速度）、满光环协同技能、极高的降低敌人抗性（-150% 或更高）"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "2. 技能加点与战斗流派"
+            },
+            {
+              "type": "p",
+              "text": "与传统双热或复仇圣骑士不同，光环丁的主要伤害来源于装备附带的灵气，因此技能点必须全部投资于**协同技能（Synergies）**和信念光环。"
+            },
+            {
+              "type": "sub",
+              "text": "1. 光环配置（Auras）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**主攻光环（来自装备）**：【圣火】（Holy Fire）+【神圣冲击】（Holy Shock）",
+                "**常驻光环（来自技能）**：【信念】（Conviction）——必须堆到 -150% 敌人抗性或更高",
+                "**技能点分配**：点满所有能为【圣火】和【神圣冲击】提供伤害加成的协同技能（如：抗火、抗电、救助等）"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "2. 战斗技能选择（Combat Skills）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**单体攻坚**：热忱（Zeal）——4 连击版本，专门用于快速触发击中特效和极速融化 Boss",
+                "**群体清图**：牺牲（Sacrifice）——拥有极高的伤害倍率，配合 OCD 骑乘突击是本 Mod 最快的清图手段之一",
+                "**位移与机动**：冲锋（Charge）或骑乘突击（Joust）——后期强烈推荐 OCD 骑乘突击混合流，通过不断短距离突进实现全自动追踪打击"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "3. 终局神圣级装备搭配（End-Game \"Sacreds\" Gear）"
+            },
+            {
+              "type": "p",
+              "text": "在 SoE 的后期，你需要收集被称为「神圣级（Sacreds）」的顶级装备 / 符文之语，来最大化光环等级。"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "装备部位",
+                "推荐装备 / 符文之语",
+                "核心作用与机制解析"
+              ],
+              "rows": [
+                [
+                  "武器（Weapon）",
+                  "正义之手（Hand of Justice）",
+                  "提供高等级【圣火】光环，配合护甲叠加等级"
+                ],
+                [
+                  "护甲（Armor）",
+                  "飞龙（Dragon）",
+                  "进一步叠加【圣火】光环等级，造成毁灭性火焰伤害"
+                ],
+                [
+                  "头盔（Helm）",
+                  "梦境（Dream）",
+                  "提供【神圣冲击】光环，带来极高的闪电伤害上限"
+                ],
+                [
+                  "盾牌（Shield）",
+                  "梦境（Dream）",
+                  "与头盔叠加，将【神圣冲击】推向质变等级"
+                ],
+                [
+                  "鞋子（Boots）",
+                  "共鸣（Resonance）",
+                  "SoE 专属——专属光环效果强化，完美契合多光环体系"
+                ],
+                [
+                  "手套（Gloves）",
+                  "地狱之嘴（Hellmouth）",
+                  "大量火焰伤害附加，陨石触发（Allik 推荐）"
+                ]
+              ]
+            },
+            {
+              "type": "note",
+              "text": "进阶探讨：为什么不用【碧蓝怒火】（Azurewrath）？demzLZ 明确指出：碧蓝怒火自带的【庇护所】（Sanctuary）光环在底层机制上表现不佳——它永远不会覆盖或完美叠加该物品上的其他光环，反而会影响主输出光环的运作。纯粹的元素叠加（梦境+飞龙+正义之手）才是王道。"
+            },
+            {
+              "type": "h2",
+              "text": "4. 过渡与备选装备（Mid-Game & Alternatives）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**备选火系组件**：【龙鳞】（Dragonscale）盾牌、【奇拉的守护】（Kira's Guardian - 补齐抗性）、法拉的烈焰（Fire Fara's）",
+                "**背包（Inventory）**：塞满火焰大型护身符（Large Fire Charms）与技能肉块，进一步拉高火焰基础伤害",
+                "**佣兵（Mercenary）**：任何佣兵皆可（Any mercenary will do），因为你的光环已经足够强大。推荐携带能提供物理防御（反抗）或增伤（狂热）的佣兵"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "5. 开荒与成型路线（Progression Guide）"
+            },
+            {
+              "type": "p",
+              "text": "罗马不是一天建成的，神圣级光环丁需要海量的通货（Currency）支持。"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**开荒期（Starters）**：绝对不要用光环丁开荒！推荐使用【圣光弹 / 天堂之拳】（Holy Bolt / FoH Din）或者简单的【牺牲】（Sacrifice）物理流派进行前期积累",
+                "**中期（Mid-Game）**：开始制作基础的符文之语（如初级飞龙、基础符文武器），此时可以利用自身的【圣火】或【神圣冲击】配合平砍刷图",
+                "**大后期（End-Game）**：转型 OCD 骑乘突击。操作技巧是：优先短距离锁定跳跃，随着熟练度提升，你只需要按住骑乘突击，就能像 PoE 里的闪现打击一样全屏瞬移清图"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "6. 社区实战反馈（Community Insights）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**关于极限刷图（Lqgash 的实测）**：「我尝试了满词缀的高难 T3.5 地图。虽然遇到极端词缀时可能无法做到绝对的全图秒杀，但这个思路非常棒。老实说，OCD 骑乘突击配合【牺牲】的圣骑士，绝对是这个 Mod 里刷图最快的存在。」",
+                "**战术核心（demzLZ 的回应）**：「不要过分执着于清理地图上的每一只小怪。这个 BD 的终极奥义是利用高机动性直冲 T 图 Boss 和恐惧首领（Terror Bosses），实现高效的伐木循环。」"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "paladin-vengeance",
+          "name": "复仇近战圣骑士（真男人）",
+          "enName": "Vengeance Paladin — High Density Map Deletion",
+          "author": "Lqgash（作者）· Luna · DubReno 等",
+          "version": "SoE v13 · 社区实战反馈",
+          "tags": [
+            "核心 BD",
+            "元素",
+            "近战",
+            "高密度",
+            "割草"
+          ],
+          "summary": "专为高密度地图消灭（Map Deletion）而设计的近战复仇圣骑士（Vengeance Paladin）：利用「复仇」技能的连锁反弹机制与极致堆叠的元素点伤，在极高怪物密度下实现拉满词缀的 T3.5 及 T4 地下城全屏瞬间清场（450% 密度验证）。绑定血法师升华实现零药水站桩续航。",
+          "facts": [
+            [
+              "职业",
+              "圣骑士 Paladin"
+            ],
+            [
+              "核心技能",
+              "复仇 Vengeance（40 级 95% 连锁）"
+            ],
+            [
+              "升华",
+              "血法师 Blood Mage"
+            ],
+            [
+              "定位",
+              "高密度地图割草（非 Boss 流）"
+            ],
+            [
+              "面板参考",
+              "30-45k 物防 · 80% 格挡 · 54% IAS"
+            ],
+            [
+              "验证密度",
+              "450% 词缀 T3.5 / T4"
+            ],
+            [
+              "社区来源",
+              "Lqgash · Luna · DubReno"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 核心机制与战斗逻辑"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**密度乘算机制**：极度依赖怪物密度（High Density）。怪群越密集，复仇（Vengeance）的弹射与 AoE 连锁触发越频繁，伤害呈现指数级爆发",
+                "**零药水站桩续航**：绑定**血法师升华（Blood Mage Ascendancy）**，配合极高击杀回血 / 回蓝（LAEK / MAEK）；结合 30k-45k 的物理防御力、80% 格挡率以及接近上限的物理伤害减免（%PDR），实现高压地图站桩肉搏",
+                "**点伤与范围重叠**：伤害核心来自极致堆叠的附加元素点伤（Flat Elemental Damage，**闪电点伤优先级最高**），技能范围（AoE%）可大幅扩大复仇的连锁半径",
+                "**定位说明**：地图割草与高密度 T4 地下城神级流派，非专业攻坚 Boss 流派（打单体 Boss 速度较慢）"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "2. 属性与技能加点"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "项目",
+                "点数 / 方案",
+                "作用说明"
+              ],
+              "rows": [
+                [
+                  "力量（Strength）",
+                  "满足装备底材需求",
+                  "穿戴无形高防装备（如无形钢壳）"
+                ],
+                [
+                  "敏捷（Dexterity）",
+                  "加至满格挡（Max Block）",
+                  "配合神圣之盾轻松达成 75%-80% 格挡率"
+                ],
+                [
+                  "体力（Vitality）",
+                  "剩余点数全部投入",
+                  "撑高最大生命池"
+                ],
+                [
+                  "精力（Energy）",
+                  "不投入（0 点）",
+                  "依靠高 MAEK 维持法力消耗"
+                ],
+                [
+                  "复仇（Vengeance）",
+                  "满 20 点",
+                  "主输出技能，40 级左右可达 95% 连锁率"
+                ],
+                [
+                  "信念（Conviction）",
+                  "满 20 点",
+                  "巨量削减敌方元素抗性与防御"
+                ],
+                [
+                  "神圣冲击（Holy Shock）",
+                  "满 20 点",
+                  "提供大量复仇闪电伤害协同"
+                ],
+                [
+                  "神圣火焰（Holy Fire）",
+                  "满 20 点",
+                  "提供复仇火焰伤害协同"
+                ],
+                [
+                  "突击（Joust）",
+                  "剩余点数拉满",
+                  "极度缩短位移 CDR，用于快速突进聚怪"
+                ],
+                [
+                  "神圣冰冻（Holy Freeze）",
+                  "多余点数",
+                  "补充控场与复仇冰伤协同"
+                ],
+                [
+                  "神圣之盾（Holy Shield）",
+                  "1 点",
+                  "核心防御技能，提供大量防御与格挡"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "3. 毕业装备与神圣（Sacred）附魔"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "装备部位",
+                "推荐装备选择",
+                "核心词缀 / 珠宝 / 神圣（Sacred）附魔要求"
+              ],
+              "rows": [
+                [
+                  "武器",
+                  "光之守卫（Lightsabre）/ 神圣饥荒（Famine Sacred）",
+                  "附加高额元素点伤与攻速；备选可用芒之长歌（Mang Song's）"
+                ],
+                [
+                  "头盔",
+                  "格里风之视（Griffon's）/ 神圣梦境（Dream Sacred）",
+                  "提供闪电伤害加成与减抗；打孔全塞闪电点伤珠宝"
+                ],
+                [
+                  "盾牌",
+                  "神圣龙鳞（Dragonscale）/ 神圣碎壁（Shattered Wall Sacred）",
+                  "必须提供 %PDR 和巨额元素伤害加成"
+                ],
+                [
+                  "胸甲",
+                  "无形钢铁躯壳（Steel Carapace）+ 神圣纯洁（Innocence Sacred）",
+                  "~3500 无形超高防御，提供关键 +Skills 支撑 40 级复仇"
+                ],
+                [
+                  "项链",
+                  "大君之怒（Highlord's Wrath）",
+                  "提供攻速、致命打击与 +1 全技能"
+                ],
+                [
+                  "戒指",
+                  "原罪（Original Sin）+ 乔丹之石（Stone of Jordan）",
+                  "原罪提供元素专精转化，SOJ 补充技能与法力上限"
+                ],
+                [
+                  "腰带",
+                  "枯槁之嚎（Screams of the Desiccated）",
+                  "必须挑选 75% 元素伤害卷轴版本；理想腐蚀 / Slam 词缀为 CDR（冷却缩减）"
+                ],
+                [
+                  "鞋子",
+                  "纺织（Silkweave）+ 神圣追击（Pursuit Sacred）",
+                  "提供击杀回蓝（MAEK）与高额机动性"
+                ],
+                [
+                  "手套",
+                  "卓古拉之握（Dracul's Grasp）",
+                  "提供击杀回血（LAEK）；理想腐蚀为攻速（IAS）或技能范围（AoE%）"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "4. 珠宝、护身符（Charms）与属性档位"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**元素点伤至上**：附加元素点伤（Flat Elemental Damage）的实际收益高于彩虹刻面（Facets）。优先使用神话法球洗出 1-179 闪电伤害的极品神话珠宝",
+                "**攻速与 CDR 档位**：通过装备腐蚀与大型攻速护身符（IAS LCs）凑齐 **54 IAS** 攻速档位；装备上优先堆叠突击（Joust）的冷却缩减（CDR）以及技能范围（AoE%）",
+                "**暗金护身符组合**：毁灭（Annihilus）优先挑选 +1 全技能腐蚀；地狱火炬（Torch）优先挑选 +1 全技能腐蚀；众声（Voices）+4 全技能；原生质（Progenesis）防秒杀核心；血法师升华（Blood Mage Ascendancy）提供无药水续航",
+                "**普通护身符**：其余小符全部塞满附加元素点伤（闪电点伤 > 火焰 / 闪电点伤）"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "5. 终极佣兵配置（Act 2 Defiance Mercenary）"
+            },
+            {
+              "type": "p",
+              "text": "佣兵是高压 T4 地下城能够屹立不倒的核心支撑，全身上满 %PDR 词缀与瑟（Jah）符文撑高血量："
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**武器**：风暴之枪（Stormspire）",
+                "**头盔**：吸血鬼的凝视（Vampire Gaze）+ 神圣凶猛（Ferocity Sacred）",
+                "**胸甲**：狱火钢壳（Hellforged Steel Carapace）+ 神圣纯洁（Innocence Sacred）",
+                "**腰带**：长串之耳（String of Ears）",
+                "**鞋子**：水上漂（Waterwalk）+ 神圣共鸣（Resonance Sacred）",
+                "**手套**：卓古拉之握（Dracul's Grasp）"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "6. 社区进阶探讨与装备抉择"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**为何选择「神圣之盾」而非「圣剑（Holy Sword）」？**针对玩家 Luna 关于使用圣剑的提议，作者 Lqgash 解释：神圣之盾提供的额外防御能轻松将面板撑至 30k+ 并达成 80% 满格挡，在拉满词缀（5x Hatred, 2x Chisels）的高压 T4 地下城中站桩不可或缺；圣剑更适合牺牲骑或神圣裁决流派",
+                "**为何放弃「尸哀（Corpse Mourn）」高火伤胸甲？**Luna 推荐尸哀以获取巨量火点伤。Lqgash 指出：尸哀缺乏无形钢壳（~3500 防御）的生存底气，且缺少 +Skills 支撑 40 级复仇（以达到 95% 连锁率）。更重要的是，尸哀召唤的骷髅会分散怪群，而本流派依赖反抗佣兵携带「凶猛」将怪物紧紧聚在角色周围，以便复仇瞬间引发全屏炸裂连锁",
+                "**刷图难度与模式（P1 vs P8）**：玩家 DubReno 在 450% 密度的地图中验证了其清屏能力。作者建议直接在 P1 模式下运行拉满词缀的高密度 T3.5 / T4 地下城——掉落量已然极高，无需开启 P8 增加不必要的怪血量"
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "sorceress",
       "name": "法师",
       "enName": "Sorceress",
       "icon": "orb",
-      "builds": []
+      "builds": [
+        {
+          "id": "sorc-meteor-autobomber",
+          "name": "命中触发陨石 / 冰环全自动轰炸法师",
+          "enName": "On-Striking Meteor / Frost Nova Autobomber Proc Sorceress",
+          "author": "Galandor · ExiL · Thysick · Fake · Jah 等（社区讨论整合）",
+          "version": "SoE v13.0.2 · 2025-12 ~ 2026-04",
+          "tags": [
+            "核心 BD",
+            "火焰",
+            "冰霜",
+            "全自动",
+            "挂机"
+          ],
+          "summary": "利用「无罪（Innocence）符文之语」的利刃护盾自体光环：在角色遭受攻击或发起攻击时，随机触发陨石与冰霜新星，从而实现无需主动操作技能的全自动范围轰炸。角色本身则依靠持续引导地狱火来补充站桩输出。2026-04-06 已由社区玩家实测验证。",
+          "facts": [
+            [
+              "职业",
+              "法师 Sorceress"
+            ],
+            [
+              "核心机制",
+              "无罪（Innocence）利刃护盾自体光环"
+            ],
+            [
+              "触发内容",
+              "陨石 + 冰霜新星随机触发"
+            ],
+            [
+              "状态",
+              "2025-12 理论 → 2026-04 实战验证"
+            ],
+            [
+              "社区来源",
+              "Galandor · ExiL · Thysick · Fake · Jah"
+            ],
+            [
+              "新腰带",
+              "时间之潮（30-40% 技能触发频率）"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 构筑理念与触发机制"
+            },
+            {
+              "type": "p",
+              "text": "本构筑的核心理念是利用「无罪（Innocence）」符文之语的利刃护盾自体光环：在角色遭受攻击或发起攻击时，**随机触发陨石与冰霜新星**，从而实现无需主动操作技能的全自动范围轰炸。角色本身则依靠持续引导地狱火来补充站桩输出。"
+            },
+            {
+              "type": "sub",
+              "text": "推测触发流程"
+            },
+            {
+              "type": "p",
+              "text": "持续引导地狱火 → 遭受攻击 / 发起攻击 → 无罪·利刃护盾触发 → ④A 陨石随机触发 / ④B 冰霜新星随机触发"
+            },
+            {
+              "type": "warn",
+              "text": "已知机制冲突：楼主最初建议「无聊时可以按住地狱火不放」，但后续 Thysick 的实战测试发现——**持续引导地狱火期间，无罪的触发机制完全无法生效**。也就是说，站桩引导虽然能提供地狱火自身的伤害，却会暂停全部的自动触发轰炸。是否引导地狱火，需要玩家自行权衡。"
+            },
+            {
+              "type": "h2",
+              "text": "2. 属性与技能加点"
+            },
+            {
+              "type": "sub",
+              "text": "属性点（Stats）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**力量**：满足装备需求即可",
+                "**敏捷**：满足最大格挡需求，或完全不加",
+                "**活力**：其余全部点数",
+                "**精力**：无需求"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "技能点（Skills）"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "技能",
+                "点数",
+                "说明"
+              ],
+              "rows": [
+                [
+                  "温暖（Warmth）",
+                  "1 点",
+                  "—"
+                ],
+                [
+                  "地狱火（Inferno）",
+                  "满点",
+                  "站桩补充输出"
+                ],
+                [
+                  "烈焰（Blaze）",
+                  "满点",
+                  "—"
+                ],
+                [
+                  "火焰精通（Fire Mastery）",
+                  "满点",
+                  "—"
+                ],
+                [
+                  "寒霜装甲（Shiver Armor）",
+                  "满点",
+                  "—"
+                ],
+                [
+                  "冰霜精通（Cold Mastery）",
+                  "满点",
+                  "—"
+                ],
+                [
+                  "心灵遥感（Telekinesis）",
+                  "1 点",
+                  "—"
+                ],
+                [
+                  "陨石 / 冰霜新星",
+                  "剩余点数",
+                  "投入本体及其协同技能，二者可自行取舍侧重点"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "3. 主 C 装备（玩家推荐配置）"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "装备",
+                "推荐",
+                "说明"
+              ],
+              "rows": [
+                [
+                  "武器 · Weapon",
+                  "尼拉塞克的恶意（Nihlathak's Malice）",
+                  "SACRED 毁灭（Destruction）"
+                ],
+                [
+                  "盾牌 · Shield",
+                  "风暴之盾（Stormshield）",
+                  "SACRED 凤凰（赋予救援光环）"
+                ],
+                [
+                  "胸甲 · Chest",
+                  "奥姆斯的长袍 / 利维坦 / 箭无阻（Ormus Robes / Leviathan / Shaftstop）",
+                  "奥姆斯偏伤害，利维坦或箭无阻偏防御；SACRED 无罪（Innocence）"
+                ],
+                [
+                  "头盔 · Helmet",
+                  "婭拉的守护（Kira's Guardian）",
+                  "SACRED 天使之景（赋予信念光环）"
+                ],
+                [
+                  "手套 · Gloves",
+                  "地狱之口（Hellmouth）",
+                  "—"
+                ],
+                [
+                  "护身符 · Amulet",
+                  "命运的反抗（Defiance of Destiny）",
+                  "—"
+                ],
+                [
+                  "戒指 · Rings",
+                  "原罪 + 侏儒之星 / 自然的安宁（Original Sin + Dwarf Star / Nature's Peace）",
+                  "戒指 2 也可换为任意生命 / 抗性戒指"
+                ],
+                [
+                  "靴子 · Boots",
+                  "毁灭之痕（Wake of Destruction）",
+                  "SACRED 顺风（10-15% 技能触发频率）"
+                ],
+                [
+                  "腰带 · Belt",
+                  "见「更新记录」小节",
+                  "配置随社区讨论持续更新，详见下方"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "4. 护身符（Charms）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "全部使用暗金专属小护身符",
+                "**血肉熔铸（Melding of Flesh）**",
+                "其余空位以火焰 / 冰霜伤害百分比及生命值特大护身符填充"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "5. 佣兵配置的演变（Mercenary Setup — Three Community Variants）"
+            },
+            {
+              "type": "p",
+              "text": "佣兵方案随讨论推进出现了三个版本，分别来自不同阶段、不同玩家的实践，供参考取舍："
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "方案",
+                "佣兵类型",
+                "核心配置"
+              ],
+              "rows": [
+                [
+                  "原始方案 2025-12-23（Galandor 楼主初版）",
+                  "三章寒冰佣兵（祈祷光环）",
+                  "武器：尼拉塞克的恶意，Sacred：寒冬之球（别名理性之声）；头盔：婭拉的守护，Sacred：天使之景；胸甲：无瑕之笼 / 箭无阻 / 自定义安全胸甲，Sacred：无罪；盾牌：风暴之盾 / 美杜莎之凝视，Sacred：滴放；手套：圣手（楼主推测：或与祈祷光环存在治疗协同，未证实）；靴子 / 腰带：生命抗性靴 · 法师之血变体#3"
+                ],
+                [
+                  "更新方案 2026-03-28（Galandor 修订）",
+                  "改为一章佣兵",
+                  "武器：脓液喷射者弓，用于提供下降抗性触发；其余槽位延续原始方案，仅武器与佣兵类型作出调整，目的是补足下降抗性"
+                ],
+                [
+                  "实践方案 2026-04-06（Fake 实机验证）",
+                  "三章闪电佣兵",
+                  "手套：哈德里尔之手（Hadriel's Hand）。Fake 反馈该配置输出表现非常出色，其余槽位延续更新方案"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "6. 装备与机制更新记录（Changelog）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**2025-12-24（Galandor）**：发现头盔的「天使之景」Sacred 改造起初无法进行；随后更正——实际可以改造，只是效果为较弱版本",
+                "**2026-03-28（Galandor）**：胸甲平衡调整——「无瑕之笼」已被削弱，不再自带下降抗性词缀。可替换为奥姆斯的长袍（伤害向）或利维坦 / 箭无阻（防御向），Sacred 仍推荐无罪",
+                "**腰带有三选项**：① 带有 30% 技能触发频率 + 10% 腐化技能触发频率的稀有制造腰带；② 法师之血变体#3（生命回复与防御）；③ 新 Boss 腰带「时间之潮」（30-40% 技能触发频率）",
+                "**机制确认**：技能触发频率（Skill Frequency）词缀现已确认对「利刃护盾」的触发几率生效"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "新腰带「时间之潮」合成流程（Crafting Tides of Time）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**击败拉撒路（Lazarus）**：制作新 Boss 腰带前，需要先击败拉撒路",
+                "**收集 4 种地图 Boss 碎片**：需要击杀不同的地图 Boss，凑齐 4 种不同的掉落碎片（相关合成配方详见 PD2 官方 Wiki 的 Crafting 页面）",
+                "**使用「灌注」进行合成**：Galandor 建议使用灌注（Infusions）来完成最终的合成步骤"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "7. 社区实测机制笔记（Community Testing Notes）"
+            },
+            {
+              "type": "note",
+              "text": "命中率不影响利刃护盾触发：玩家 ExiL 实测发现——官方 Wiki 关于「无罪的利刃护盾自体光环需要命中率」的说明是错误的：将命中率调整为负值（约 5% 命中几率）后测试，触发效果依然非常出色；随后在约 6 万命中率下重复测试，触发表现与前者完全一致。结论：**利刃护盾的触发与角色的命中率 / 命中值（Attack Rating, AR）无关，堆命中并非必要投资方向。**"
+            },
+            {
+              "type": "h2",
+              "text": "8. 实战玩法反馈（Playtest Feedback）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**Thysick · 2026-03-27（角色 90 级）**：已经开始实际制作这套法师，目前戒指仍有缺口，珠宝也尚未镶嵌，暂无火炬或强力护身符，但整体游玩体验非常有趣、手感流畅。同时指出一个重要发现：持续引导地狱火期间，无法触发任何命中相关效果——这与楼主最初「无聊时按住地狱火」的建议存在矛盾",
+                "**Fake · 2026-04-06（实机上手）**：前一天完成制作、次日即可正式游玩，体验非常出色，稍作个性化调整后手感更佳，整体强度与原方案相近。这套触发机制让人联想到《流放之路》中经典的熔岩壳瓦尔流派，也带着几分《暗黑破坏神 3》陨石法师的影子。角色非常肉，T4 以下难度几乎不会阵亡，T4 本身也完全可以驾驭，只是需要更谨慎一些；在 350% 词缀强度的地图中，**单次触发即可清空整屏怪物**；特效渲染量大时偶尔会有画面卡顿；相较其他构筑，Boss 战节奏偏慢。当时尚未获得「时间之潮」腰带，预计到手后触发频率与输出还会有明显提升"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "玩法问答摘录（Q&A）：sobotkaa 提问：实际玩法是否是传送进怪堆后，靠利刃护盾触发技能来清怪？Fake 回应：是的，角色传送进怪群后站场，依靠被动触发的陨石与冰霜新星清屏，操作强度很低。"
+            },
+            {
+              "type": "h2",
+              "text": "9. 相关分支构筑（Related Build Idea）"
+            },
+            {
+              "type": "note",
+              "text": "JAH · 2026-01-30 提及：有玩家提到正打算尝试一个相关方向的近战构筑——「冰系亵咒近战流」，核心武器为科斯普里的恶意搭配无罪符文之语（该玩家表示自己已备有一枚佐符文）。这一方向尚未在讨论中展开验证，仅作为分支思路记录于此。"
+            },
+            {
+              "type": "hl",
+              "text": "关于本指南：内容整合自 PD2 SoE Discord 频道中 Galandor、ExiL、Thysick、Fake、Jah 等多位玩家自 2025 年 12 月至 2026 年 4 月的连续讨论与实测反馈。"
+            }
+          ]
+        },
+        {
+          "id": "sorc-nova-hierophant",
+          "name": "巨大电新星圣宗法师",
+          "enName": "Giant Lightning Nova Hierophant Sorceress",
+          "author": "社区整理",
+          "version": "SoE v13.0.0「憎恨之响」",
+          "tags": [
+            "核心 BD",
+            "闪电",
+            "新星",
+            "法力池",
+            "高密度刷图"
+          ],
+          "summary": "以「最大法力值」为核心引擎的电新星法师：圣宗（Hierophant）T4 升华将每一滴法力值同步转化为施法速度（1%）、元素支配（2%）与技能范围（1%），堆叠法力装备产生三重复利收益。每点法力值都是三重收益乘数，刷图如呼吸般流畅。",
+          "facts": [
+            [
+              "职业",
+              "法师 Sorceress"
+            ],
+            [
+              "核心技能",
+              "新星 Nova"
+            ],
+            [
+              "升华",
+              "圣宗 Hierophant（T4 核心引擎）"
+            ],
+            [
+              "核心驱动",
+              "最大法力值 Maximum Mana"
+            ],
+            [
+              "定位",
+              "高密度刷图 · 移植乘数"
+            ],
+            [
+              "关键圣化",
+              "无限 / 荣耀 / 共鸣 / 梦境"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 新星伤害的真正运作机制（How Nova Actually Scales）"
+            },
+            {
+              "type": "p",
+              "text": "新星（Nova）的伤害来源于相互关联的系统，而这些系统均由**最大法力值（Maximum Mana）**驱动。"
+            },
+            {
+              "type": "sub",
+              "text": "最大法力值（圣宗 T4 核心引擎）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "获得等同于最大法力值 **1%** 的快速施法速度（FCR）",
+                "获得等同于最大法力值 **2%** 的火焰、冰霜、闪电支配（Elemental Mastery）",
+                "获得等同于最大法力值 **1%** 的技能范围（Skill AoE）——这会直接扩大新星的爆炸半径"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "每一滴法力值都是三重收益乘数：施法速度、元素支配和新星范围会同步按比例提升。堆叠法力值的装备会同时在这三个属性上产生复利效应。"
+            },
+            {
+              "type": "sub",
+              "text": "元素支配（Elemental Mastery）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**圣宗 T4（Hierophant T4）**：每点法力值增加 2% 闪电支配",
+                "**超越之心（Transcendent Mind）**：获得等同于最大法力值 2% 的元素支配（前提是法力值 > 2,000）",
+                "**原罪（Original Sin）**：额外支配 = 100% 的闪电穿透（电系彩虹刻面珠宝能同时反哺穿透和支配）",
+                "**闪电彩虹刻面（Lightning Facets）**：提供支配与穿透",
+                "**枯骨之嚎（Screams of the Desiccated）**：+75% 元素技能伤害"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "技能范围（Skill AoE / Nova Radius）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**圣宗 T4**：每点法力值增加 1% 技能范围——这是最主要的来源",
+                "**纺织（Silkweave）**：+5% 技能范围",
+                "**超越之心（Transcendent Mind）**：提供额外的技能范围加成"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "技能范围的扩大意味着每次施放新星能击中更多怪物。它不仅是手感优化，更是实打实的伤害吞吐量乘数。"
+            },
+            {
+              "type": "sub",
+              "text": "施法速度（FCR）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**圣宗 T4**：FCR 等同于 1% 的最大法力值",
+                "**超越之心（Transcendent Mind）**：FCR 等同于 1% 的最大法力值（前提是法力值 > 2,000）",
+                "**综合收益**：2% 的最大法力值将转化为 FCR",
+                "**秘术师手套（Occultist gloves）**：+20% FCR",
+                "**芒宋的教训（Mang Song's Lesson）**：+85% FCR"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "抗性削减（Resistance Reduction）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**芒宋的教训（Mang Song's Lesson）**：-10-20% 敌人闪电抗性，外加施放时有 12% 几率触发「降低抵抗（Lower Resist）」诅咒",
+                "**无限神圣底子（Infinity Sacred - 武器）**：-45-55% 敌人闪电抗性，外加 12 级信念光环（Conviction）",
+                "**无限神圣底子（Infinity Sacred - 佣兵）**：额外的信念光环——没有更好的替代品",
+                "**闪电彩虹刻面（Lightning Facets）**：提供额外穿透"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "刷图循环（Clear Loop）"
+            },
+            {
+              "type": "p",
+              "text": "传送（Teleport）进怪物群 → 施放新星（Nova）——此时由法力池驱动的支配、FCR、技能范围全部处于激活状态 → 怪物群被瞬间融化 → 传送至下一波怪。"
+            },
+            {
+              "type": "h2",
+              "text": "2. 圣宗升华（Hierophant Ascendancy）"
+            },
+            {
+              "type": "p",
+              "text": "所有四个阶级（Tiers）都在为该构建的「法力堆叠核心」服务："
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "阶级（Tier）",
+                "升华加成（Bonus）"
+              ],
+              "rows": [
+                [
+                  "T1",
+                  "+2 本职业技能等级；+100 法力值；法力回复速度提高 200%"
+                ],
+                [
+                  "T2",
+                  "+40% 最大法力值；受到击中伤害的 30% 转化为法力值（Damage Taken Gained as Mana）"
+                ],
+                [
+                  "T3",
+                  "施法时有 25% 几率触发 1 级秘术增强（Arcane Surge）：提供持续 4 秒的 100% 法力回复与 +25% FCR；每次击杀后恢复 5 点法力值"
+                ],
+                [
+                  "T4",
+                  "FCR = 1% 的最大法力值；火焰 / 冰霜 / 闪电支配 = 2% 的最大法力值；技能范围（Skill AoE）= 1% 的最大法力值"
+                ]
+              ]
+            },
+            {
+              "type": "note",
+              "text": "机制解析：T4 是本套构建的引擎核心，将每一点法力值同步转化为 FCR、元素支配和新星范围。T2 保证了高压环境下的法力池续航——承受伤害的 30% 会转化为法力，防止战斗中空蓝。T3 的秘术增强（Arcane Surge）则在清理怪物群的间隙提供了爆发性的 FCR 和法力回复。"
+            },
+            {
+              "type": "h2",
+              "text": "3. 技能加点（Skills）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**核心伤害技能（加满）**：新星（Nova）加满；充能弹（Charged Bolt）加满（作为新星的协同技能提升伤害）；支配闪电（Lightning Mastery）加满",
+                "**生存与协同（加满）**：能量护盾（Energy Shield）加满；心灵传动（Telekinesis）加满（吸收协同伤害，降低能量护盾受击时的法力消耗）",
+                "**功能性技能**：热情 / 暖气（Warmth）仅加 1 点；传送（Teleport）投入所有剩余点数——作为主要的机动技能"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "4. 属性加点（Stats）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**力量（Strength）**：加到满足装备穿戴的最低需求即可",
+                "**精力（Energy）**：投入所有剩余点数。精力能提升最大法力值，而通过 T4 升华，这会同步按比例提升伤害（元素支配）、施法速度（FCR）和新星半径（技能范围）"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "5. 核心装备配置（Gear）"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "装备槽位（Slot）",
+                "推荐装备（Item）",
+                "备注与镶嵌（Notes / Facets）"
+              ],
+              "rows": [
+                [
+                  "头盔（Helm）",
+                  "格力风之眼（Griffon's Eye）+ 梦境神圣底子（Dreams Sacred）",
+                  "镶嵌：闪电彩虹刻面（提供闪电穿透与减抗）；梦境：提供神圣冲击光环、快速打击恢复（FHR）、抗性及防御加成"
+                ],
+                [
+                  "武器（Weapon）",
+                  "芒宋的教训（Mang Song's Lesson）+ 无限神圣底子（Infinity Sacred）",
+                  "镶嵌：闪电彩虹刻面；芒宋：+6 技能、85% FCR、触发降低抵抗、-10-20% 敌电抗；无限：提供信念光环 + -45-55% 敌方电抗"
+                ],
+                [
+                  "胸甲（Chest）",
+                  "奥墨斯之袍（Ormus' Robes，新星技能）+ 荣耀神圣底子（Honor Sacred）",
+                  "镶嵌：闪电彩虹刻面；荣耀：+2 技能、全抗 +50-60%、5% 物理减免（PDR）、+20 补充生命"
+                ],
+                [
+                  "手套（Gloves）",
+                  "秘术师（Occultist）",
+                  "+20% FCR，+25-35% 最大法力值"
+                ],
+                [
+                  "腰带（Belt）",
+                  "枯骨之嚎（Screams of the Desiccated）",
+                  "+20% 增益效果、+75% 元素技能伤害、+10% 最大抗性上限、全抗 +50"
+                ],
+                [
+                  "鞋子（Boots）",
+                  "纺织（Silkweave）+ 共鸣神圣底子（Resonance Sacred）",
+                  "+5% 技能范围（扩大新星半径）、+10-20% 最大法力值、击杀回复 5 法力、30% 高速跑步 / 行走"
+                ],
+                [
+                  "戒指 1（Ring 1）",
+                  "乔丹之石（Stone of Jordan，+2 技能，命运卡途径）",
+                  "+2 技能 + 功能性收益"
+                ],
+                [
+                  "戒指 2（Ring 2）",
+                  "原罪（Original Sin）",
+                  "额外支配 = 100% 闪电穿透——电系彩虹刻面（Facets）可同时加成穿透与支配"
+                ],
+                [
+                  "项链（Amulet）",
+                  "马拉的万花筒（Mara's Kaleidoscope，+4 技能）",
+                  "通过瓦尔腐化获得 +4 技能 + 卢锡安（Lucion）腐化词缀；提供抗性与全属性加成"
+                ]
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "6. 珠宝与护身符（Jewels & Charms）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**珠宝（Jewels）**：在所有带孔装备上镶满闪电彩虹刻面（提供支配与穿透）",
+                "**暗金护身符（Unique Charms）**：超越之心（Transcendent Mind：FCR = 1% 最大法力值 + 元素支配 = 2% 最大法力值，两者均需法力值 > 2,000 才能生效）；毁灭（Annihilus）；地狱火炬（Torch）；嗓音（Voices）；创世之源（Progenesis）",
+                "**超大型护身符（Grand Charms）**：法师闪电技能肉盾板（带生命加成的电系 GC）"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "7. 佣兵搭配（Mercenary）"
+            },
+            {
+              "type": "p",
+              "text": "推荐：**第二幕 反抗光环佣兵（Act 2 Defiance Mercenary）**"
+            },
+            {
+              "type": "table",
+              "caption": "",
+              "headers": [
+                "装备槽位（Slot）",
+                "推荐装备（Item）",
+                "备注（Notes）"
+              ],
+              "rows": [
+                [
+                  "武器（Weapon）",
+                  "风暴尖塔（Stormspire）+ 无限神圣底子（Infinity Sacred）",
+                  "提供额外的闪电穿透"
+                ],
+                [
+                  "头盔（Helm）",
+                  "吸血鬼的凝视（Vampire Gaze）+ 狂热神圣底子（Ferocity Sacred）",
+                  "提供额外的击中触发（CTC）与减伤生存能力（Mitigation）"
+                ],
+                [
+                  "胸甲（Chest）",
+                  "地狱锻甲（Hellforged Steel Carapace）+ 无罪神圣底子（Innocence Sacred）",
+                  "提供额外的击中触发（CTC）与减伤生存能力（Mitigation）"
+                ]
+              ]
+            },
+            {
+              "type": "note",
+              "text": "注：佣兵胸甲应为「地狱锻造钢铁遮蔽」，圣化符文之语「纯洁」。"
+            }
+          ]
+        },
+        {
+          "id": "sorc-thor-timelord",
+          "name": "超频逛街时空雷神法",
+          "enName": "Overclocked Time Lord Sorceress（喵喵锤流）",
+          "author": "菜鸡老狼",
+          "version": "SOE v13.0.2",
+          "tags": [
+            "核心 BD",
+            "闪电",
+            "自动档",
+            "逛街",
+            "T4 速刷"
+          ],
+          "summary": "「雷神：你一个细狗法师能有 1000 力量，让我很没面子，离谱！」——手握雷神之锤的自动档逛街王者：以时术师升华 +20% 技能频率为核心，暗金喵喵锤（雷神之锤）50% 几率触发 40 级连锁闪电，配合圣化纯真的 15 级刀刃之盾与雷云风暴高频轰炸，全程无需操作。",
+          "facts": [
+            [
+              "职业",
+              "法师 Sorceress"
+            ],
+            [
+              "升华",
+              "时术师（+20% 技能频率）"
+            ],
+            [
+              "核心武器",
+              "暗金喵喵锤（雷神之锤，6 孔）"
+            ],
+            [
+              "圣化关键",
+              "利维坦 + 纯真（15 级刀刃之盾）"
+            ],
+            [
+              "腰带",
+              "时光潮汐（+40% 技能频率）"
+            ],
+            [
+              "项链",
+              "地狱锻铸马拉（+3 格技能范围）"
+            ],
+            [
+              "攻略作者",
+              "菜鸡老狼"
+            ]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 结论和构筑示例先行"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**职业核心**：超频逛街时空雷神法。**升华：时术师**——用它的核心理由就是 **+20% 技能频率**，无可替代；其它升华属性对本构筑不能说一无是处，但也是可有可无",
+                "**核心武器**：暗金喵喵锤（雷神之锤，底材精英级雷锤）。核心属性：闪电支配和闪电穿透的被动增益 + 50% 触发 40 级连锁闪电。先用拉苏克迷盒开 6 孔，腐化属于锦上添花，没啥特殊要求",
+                "**胸甲**：暗金胸甲利维坦（底材：精英级海妖壳甲）+ 圣化·纯真（15 级被动刀盾、20 技能范围）。圣化无可替代，基础胸甲可以换成地狱锻铸版本的鸟甲，或者手工毒缩甲等任意可以提升生存能力的甲",
+                "**腰带**：暗金腰带时光潮汐（底材精英级巨魔潮汐）。+20% 技能频率无可替代，其它属性对本构筑不能说一无是处，也是可有可无。**腐化必须瓦 +10% 技能频率**",
+                "**项链**：地狱锻铸马拉万花筒（暗金项链）。+3 格技能范围无可替代。此处显示有误，实际不是 3 码，而是 3 格范围——这 3 格范围是算在基础范围内的，可受其它百分比增加技能范围属性的加成",
+                "**手套和靴子**：无特别推荐，走法力流派可以考虑秘术师手套和纺织靴子（5% 技能范围、20% 法力上限），骨髓行走也可以考虑（17 力量，免冻）。**鞋子的圣化必须选顺风（核心的 +15% 技能频率无可替代）**；手套的腐化可选 +10% 技能范围和 10 FCR，视情况自行选择",
+                "**核心华丽护符**：淬炼之躯——因为力量是必加主属性，可提升大量百分比生命值上限",
+                "**可选华丽护符**：升华之心（40% 电伤（可有可无）、补 105 的 FCR 档位）与血肉融合（法师是大脆皮，提升生存能力）",
+                "**其它暗金护符**：火炬、毁灭、天神的低语、创生等。其中火炬瓦 +1 技能最优，毁灭瓦 +10% 全属性最优",
+                "**其它护符**：法师电肉技能版、生命法力板子等随意搭配"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "佣兵：ACT3 冰铁狼佣兵"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "选择 ACT3 冰铁狼佣兵（为了祈祷光环提升回复，且可以提供多种辅助光环）",
+                "**胸甲**：暗金胸甲利维坦（底材：精英级海妖壳甲）+ 圣化·纯真——用铁狼佣兵自动档必备，落地时触发大量衰老和静态力场",
+                "**武器**：哈德尔之手（提供 30 级的降抗诅咒，10% 诅咒效果）/ 尼拉塞克的恶意 / 青色愤怒等，开最大孔，**塞满 30# 符文以提高 CB 概率**。圣化可以选新月，落地减掉怪物一管血并进一步降低怪物电抗",
+                "**头盔、腰带、手套和盾牌**：偏生存向，瓦最大抗，堆物理抗，光环等"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "因为不缺伤害，角色及佣兵身上珠子插偏生存向属性的亮金神话珠宝。主要属性如：16 力量、20 全抗、生命上限 / 法力上限、击杀回血、生命值、15 FHR 等均可。主要为了补角色和佣兵的 FHR、FCR、生命、回复等各种属性。"
+            },
+            {
+              "type": "h2",
+              "text": "2. 这套自动档逛街法的伤害来源"
+            },
+            {
+              "type": "sub",
+              "text": "1. 高频的雷云风暴"
+            },
+            {
+              "type": "p",
+              "text": "通过堆 +技能频率到 **75%**，可以实现 **0.2 秒也就是 5F 一次**的雷云风暴；通过堆力量可以提供高额的闪电支配和闪电穿透，单次伤害可达 **15K 左右**，且完全无需操作。"
+            },
+            {
+              "type": "sub",
+              "text": "2. CTC 触发的连锁闪电"
+            },
+            {
+              "type": "p",
+              "text": "通过堆 +技能频率到 75%、+3 格基础技能范围和 47% 左右的技能范围，可以实现 5 帧一次的刀盾触发，刀盾伤害范围约 7.2 码——每隔 5 帧，可以一次性同时释放大约 10 道以上的连锁闪电。点满了相关技能协同以及雷锤加成，40 级连闪的伤害大约是 8.5K~33K（上下限），每道闪电跳跃 14 次。而且很重要的一点，加技能范围属性对连闪可跳跃的范围是有加成的，不容易跳跃中断。"
+            },
+            {
+              "type": "sub",
+              "text": "3. 高额的主被动降抗"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "角色自身的 **17 级审判光环 + 10% 光环效果加成：-51% 元素抗性**",
+                "铁狼触发的 **30 级降低抵抗 + 10% 诅咒效果加成：-48% 全系抗性**",
+                "角色自身**被动闪电穿透 202%**",
+                "按 T4 怪 110% 电抗性计算：先主动减抗至 61% 电抗；被动穿刺后 202-61=-141% 电抗，9 抗以下减半效果，也就是怪实际抗性是 **-70% 电抗**",
+                "最终对怪的伤害大概是面板伤害的 **1.7 倍（免疫怪）~ 2 倍（非免疫怪）**"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "3. 技能与属性"
+            },
+            {
+              "type": "sub",
+              "text": "90 级完整技能模板"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**技能：电支配、新星、充能弹、雷云风暴** —— 点数：20+17+20+20=77。作用：主攻技能之一雷云风暴的相关协同，新星待后续补满",
+                "**技能：闪电连射** —— 点数：20。作用：主攻技能之一连锁闪电的协同",
+                "**技能：心灵传动、传送、冰强化、碎冰甲** —— 点数：1+1+1+1+1=4。作用：传送和冰盾防御",
+                "总计 **101 点**，正好是 90 级角色完成三难度技能任务后的点数",
+                "**91-99 级剩余 9 点推荐**：优先投入新星 3 点，把雷云风暴的协同点满；视情况任意选择：依次点静态力场、温暖各 1 点，剩下 4 点可以考虑全部投入静态力场或者心灵传动"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "属性分配"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**力量**：先满足装备雷锤，再把装备后总力量做到**至少 451**，后期点到 1000 力量",
+                "**活力**：力量满 1000 后且法力值满 2001 后（如果需要升化之心的元素支配），其余点数加这里",
+                "**能量**：如果需要升华之心的元素支配，那就加到法力够 20001，否则一点不需要加",
+                "**敏捷**：雷锤不需要敏捷就能装备，而且纯真附带的刀盾是必中的，不需要命中值，因此完全不需要加"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "451 力量不是随便定的：华丽护符「淬炼之躯」的实装条件是「力量大于 450」，不是大于等于。激活后，每 10 力量获得 1% 最大生命；451 力量约等于额外 45% 最大生命。"
+            },
+            {
+              "type": "h2",
+              "text": "4. 重要属性：技能频率、技能范围等"
+            },
+            {
+              "type": "sub",
+              "text": "1. 技能频率"
+            },
+            {
+              "type": "p",
+              "text": "顾名思义，堆高可以加速雷云风暴和刀盾的伤害频率。相关函数公式（以雷云风暴为例）：max(0, ((par3 - (blvl * 25 / 20)) - ((par3 - (blvl * 25 / 20)) * stat('item_skill_frequency'.accr) / 100)))。"
+            },
+            {
+              "type": "note",
+              "text": "喜欢简单的直接看这里：这个函数没有边际效益缩减，无脑堆数值就是。理论上最高可以堆到 83%，也就是 5 帧一次。这个构筑因为必须用纯真圣化，胸甲无法用「喧嚣 / 匆忙」的圣化（5~8% 技能频率），只堆到 75% 技能频率，但也够用了。决定手持天陨法球双落雷的，圣化可改为选择「喧嚣 / 匆忙」。"
+            },
+            {
+              "type": "sub",
+              "text": "2. 数值技能范围与百分比技能范围"
+            },
+            {
+              "type": "p",
+              "text": "相关函数公式（以纯真自带的刀盾为例）：((par4 + stat('item_skill_aoe_flat'.accr)) * (100 + ((stat('item_skill_aoe'.accr)*70)/(stat('item_skill_aoe'.accr)+18))) / 100)"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "这个函数是把数值技能范围和技能基础技能范围相加后作为基础范围数值的，受后续的百分比范围加成，因此这个属性**极其重要**。目前只有地狱锻铸的马拉万花筒有 1~3 格的数值范围属性，**因此项链无可替代**",
+                "百分比数值范围有边际缩减效应，即 X*70/（X+18），因此不需要无脑一直堆最高：100% 技能范围最终实际的加成为 7000/118=59.3%，50% 技能范围最终实际的加成为 3500/68=51.47%，因此没必要一直堆到最高",
+                "作为基数的基础范围数值的单位是格，1 格=0.66 码，计算出来的结果会有四舍五入档位，因此实际堆的时候要注意计算一下最终的结果"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "3. 光环效果"
+            },
+            {
+              "type": "p",
+              "text": "相关函数公式（以审判光环为例）：最终效果 = 基础数值 × (100 + (X * 60)/(X + 25)) / 100，其中 X 为光环效果的数值。"
+            },
+            {
+              "type": "note",
+              "text": "这个函数有边际效益缩减，但不意味着没有价值：一般来说 30% 以下的光环效果收益都很大，超过 30% 收益就低了。这个构筑选择戒指各瓦 5% 光环效果，加起来就是 10%。17 级审判光环减抗 -44，套入公式计算，600/35=17.14%，也就是最终审判的减抗数值是：-44*1.1714=51.51，向下取整为 -51 点元素抗性。"
+            },
+            {
+              "type": "sub",
+              "text": "4. 诅咒效果"
+            },
+            {
+              "type": "p",
+              "text": "相关函数公式（以降低抵抗诅咒为例）：最终效果 = 基础数值 × (100 + (X * 70)/(X + 22)) / 100，其中 X 为诅咒效果的数值。"
+            },
+            {
+              "type": "note",
+              "text": "这个函数有边际效益缩减，但不意味着没有价值：一般来说 30% 以下的诅咒效果收益都很大，超过 30% 收益就低了。这个构筑铁狼手持哈德尔之手有 10% 诅咒效果。30 级降抗诅咒减抗 -40，套入公式计算，700/32=21.87%，也就是最终铁狼触发降抗诅咒的减抗数值是：-40*1.218=48.72，向下取整为 -48 点所有抗性。"
+            },
+            {
+              "type": "h2",
+              "text": "5. 部分配装的思路说明"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**身上珠宝不插暗金珠宝电彩虹刻面**：除了本身输出够、尽可能提升生存的原因之外，亮金珠宝 16 力量配合 30% 的属性加成最终为 20.8，换算成电支配和电穿也就是 +2.6/+2.6——与暗金主 +5/-5 的差距其实没那么大，何况配合华丽护符「淬炼之躯」力量还有额外的 2% 最大生命加成效果。更别说亮金的神话珠宝还有其它 3 条属性了",
+                "**为什么铁狼武器插满 30# 符文**：铁狼就是个工具人，不指望输出。刷满配的 T 图血量很高，刀盾可以触发 CB，对高难度的 T 图来说，CB 是个不错的伤害补充来源。配合铁狼武器圣化的新月，可以触发静态力场，一样是快速削血的手段",
+                "**关于除了原罪外，另一个戒指选择原罪之章的原因**：这个戒指对元素系的构筑来说其实都不错，效果是获得你身上抗性数值的 5% 的元素穿透（这里的元素其实包含了毒系，但其它装备的元素是不包含毒系的）。「你身上抗性数值」包含了所有——被地狱难度扣减的 100% 抗性也被计算在内的，也就是说，高级面板如果你的某个抗性是 100，那你实际获得了（100+100）*5%=10 点的元素穿透，也就是保底差不多被动 -10 元素抗。被动减抗本身就难得，被原罪加成后还能有 10 点支配，走多属性伤害的完全可以戴这个戒指。何况元素法系伤害也没啥特别好的戒指可以戴，剩下的选择无非是乔丹和鬼火"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "6. 关于构筑的补遗"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**时术师升华的其他有用属性**：技能冷却时间减少 1 秒可以作用于传送落地的伤害惩罚时间，现在只有 6 帧的 DEBUFF，算是聊胜于无；+1 级时间冻结这个技能其实很不错——配合这个构筑的技能范围属性加成范围极广，最重要的是可以作用于 T4 怪（毕竟是高级技能，算是目前唯一可以作用于 T4 的减速技能：降低攻击 / 施法 / 移动速度），可以极大增加安全性，所以虽说是逛街构筑，但无聊时或者危险时可以放一放",
+                "**关于暗金华丽护符「升华之心」要还是不要**：无非是花那么多点到 2000 点蓝是否值得的问题。按需要加 200 点能量计算，加在力量上是 +25%/-25% 的电支配和穿透，加在蓝上只有 +40 的电支配。而且逛街雷神法除了 TP 基本不需要用蓝。所以这取决于你是否差一点 FCR 到 105 档位不好找，是否想点出能量盾——毕竟蓝本身也没有用处，破盾就破盾，也能吸收一点伤害",
+                "**关于毁灭和火炬瓦的属性**：虽说推荐 10% 的属性加成，但 +1 技能可以提升伤害，也是不错的选择；火炬通常推荐 +1 技能以提升伤害，但 +1 法术投射物也是个不错的选择，可以让连闪多跳一下"
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "7. 数据与配装截图"
+            },
+            {
+              "type": "p",
+              "text": "以下是本构筑的核心装备截图（点击可放大查看属性）："
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {
+                  "src": "sorc-thor-timelord/01.webp",
+                  "caption": "元素之章（戒指，已腐化）：获得相当于对应元素抗性 5% 的元素穿透，+5% 灵气效果，+1 所有技能"
+                },
+                {
+                  "src": "sorc-thor-timelord/02.webp",
+                  "caption": "升华石家 · 时术师：+20% 技能频率（红框核心属性）、+2 法师技能等级、20% 施法速度、技能冷却时间缩短 1 秒"
+                },
+                {
+                  "src": "sorc-thor-timelord/03.webp",
+                  "caption": "妙尔尼尔[6]（雷霆重槌，雷神之锤）：已圣化——每 40 点力量获得 +5% 闪电专精与穿透、50% 几率施放 40 级连锁闪电"
+                },
+                {
+                  "src": "sorc-thor-timelord/04.webp",
+                  "caption": "利维坦[4]（深海巨妖之壳，圣化纯真）：20% 技能范围、装备时赋予 15 级刀刃之盾效果"
+                },
+                {
+                  "src": "sorc-thor-timelord/05.webp",
+                  "caption": "时之潮汐（巨魔腰带，已腐化）：40% 技能频率（必须瓦 +10% 技能频率至此）"
+                },
+                {
+                  "src": "sorc-thor-timelord/06.webp",
+                  "caption": "地狱锻铸 · 马拉的万花筒（项链，已亵渎）：技能范围提高 3 码[1-3]（实际为 3 格基础范围）"
+                },
+                {
+                  "src": "sorc-thor-timelord/07.webp",
+                  "caption": "秘术师（圣教军护手）：10% 技能范围、20% 施法速度、法力上限提高 35%（法力流派选配）"
+                },
+                {
+                  "src": "sorc-thor-timelord/08.webp",
+                  "caption": "纺织[3]（骸骨链靴，圣化顺风）：15% 技能频率（核心），33% 几率施放 1 级狂风之力"
+                },
+                {
+                  "src": "sorc-thor-timelord/09.webp",
+                  "caption": "淬炼之躯（华丽护身符）：角色力量高于 450 时，提高生命上限 1% 依每 10 点力量"
+                },
+                {
+                  "src": "sorc-thor-timelord/10.webp",
+                  "caption": "升华之心（华丽护身符）：最大法力高于 2000 时，1% 最大法力 = FCR，2% 最大法力 = 元素专精"
+                },
+                {
+                  "src": "sorc-thor-timelord/11.webp",
+                  "caption": "哈德尔之手[4]（征服之剑，铁狼佣兵）：30% 几率施放 30 级降低抗性，塞满 30# 符文堆 CB"
+                },
+                {
+                  "src": "sorc-thor-timelord/12.webp",
+                  "caption": "利维坦[4]（佣兵胸甲，圣化纯真）：19% 技能范围、13 级刀刃之盾"
+                },
+                {
+                  "src": "sorc-thor-timelord/13.webp",
+                  "caption": "美杜莎的凝视[4]（圣盾，佣兵）：圣化后 26% 几率施放 18 级衰老、赋予 16 级反抗灵气"
+                },
+                {
+                  "src": "sorc-thor-timelord/14.webp",
+                  "caption": "岁月之冠[3]（日冕之冠，佣兵头盔）：12% 几率施放 10 级嘲讽、1% 最大物理抗性"
+                },
+                {
+                  "src": "sorc-thor-timelord/15.webp",
+                  "caption": "德古拉之握（吸血鬼骸骨手套，佣兵）：10% 技能范围、9% 击中生命偷取"
+                },
+                {
+                  "src": "sorc-thor-timelord/16.webp",
+                  "caption": "法师之血（神话腰带，佣兵）：每秒恢复 15% 最大法力 / 10% 最大生命"
+                },
+                {
+                  "src": "sorc-thor-timelord/17.webp",
+                  "caption": "伊瑟瑞尔的途径[3]（镜化靴，佣兵，圣化共鸣）：赋予 18 级活力灵气、10% 灵气效果"
+                },
+                {
+                  "src": "sorc-thor-timelord/18.webp",
+                  "caption": "蝮蛇螺纹（神话珠宝）：30 生命、生命上限 5%、40 法力、6 点生命每杀（生存珠宝）"
+                },
+                {
+                  "src": "sorc-thor-timelord/19.webp",
+                  "caption": "白骨心脏（神话珠宝）：16 力量、30 生命、生命上限 5%（生存珠宝）"
+                },
+                {
+                  "src": "sorc-thor-timelord/20.webp",
+                  "caption": "雷暴术（雷云风暴）44 级面板：伤害间隔 0.2 秒（5F），闪电伤害 7683-15205"
+                }
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "8. 资料与核验依据"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "SOE 官方仓库",
+                "SOE v13.0.2 发布页",
+                "SOE v13.0.2 实际 Excel 数据目录",
+                "Project Diablo 2 官方站（Season 13）"
+              ]
+            },
+            {
+              "type": "hl",
+              "text": "愿好运与你同在，放逐者 — 菜鸡老狼"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
