@@ -227,7 +227,8 @@ body {
 .tabs {
     display: flex;
     gap: 8px;
-    flex: 0 0 auto;
+    flex: 1 1 auto;
+    flex-wrap: wrap;
     padding-right: 6px;
 }
 
@@ -916,34 +917,6 @@ button.btn {
 
     position: relative;
     top: -1px;
-}
-
-.moreTabsWrap {
-    position: relative;
-}
-
-.moreTabsDropdown {
-    position: absolute;
-    top: calc(100% + 8px);
-    right: 0;
-    z-index: 1000;
-    min-width: 230px;
-    padding: 8px;
-    background: rgba(5, 5, 5, 0.98);
-    border: 1px solid rgba(180, 130, 45, 0.45);
-    border-radius: 10px;
-}
-
-.moreTabItem {
-    padding: 9px 12px;
-    border-radius: 7px;
-    cursor: pointer;
-    white-space: nowrap;
-}
-
-.moreTabItem:hover,
-.moreTabItem.active {
-    background: rgba(180, 130, 45, 0.15);
 }
 
 /* -------------------------------------------------------------------------- */

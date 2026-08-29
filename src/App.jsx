@@ -104,6 +104,86 @@ function runeChipLabel(r) {
     return info ? `${info.zh} ${info.num}号` : r;
 }
 
+// 圣化宝珠英文名 → 中文名（与 Sacreds.json 的 displayName 对齐，用于显示与跳转匹配）
+const SACRED_ORB_ZH = {
+    "sacred orb of asylum": "庇护所的圣化宝珠",
+    "sacred orb of beast": "野兽的圣化宝珠",
+    "sacred orb of bone": "白骨的圣化宝珠",
+    "sacred orb of bramble": "荆棘的圣化宝珠",
+    "sacred orb of brand": "烙印的圣化宝珠",
+    "sacred orb of chaos": "混沌的圣化宝珠",
+    "sacred orb of crescent moon": "新月的圣化宝珠",
+    "sacred orb of death": "死亡的圣化宝珠",
+    "sacred orb of delirium": "狂乱的圣化宝珠",
+    "sacred orb of desolation": "荒芜的圣化宝珠",
+    "sacred orb of destruction": "毁灭的圣化宝珠",
+    "sacred orb of dominion": "主宰的圣化宝珠",
+    "sacred orb of doom": "末日的圣化宝珠",
+    "sacred orb of dragon": "龙的圣化宝珠",
+    "sacred orb of dream": "梦境的圣化宝珠",
+    "sacred orb of duress": "强制的圣化宝珠",
+    "sacred orb of echo": "回响的圣化宝珠",
+    "sacred orb of enigma": "谜团的圣化宝珠",
+    "sacred orb of epiphany": "顿悟的圣化宝珠",
+    "sacred orb of eternity": "永恒的圣化宝珠",
+    "sacred orb of exaltation": "擢升的圣化宝珠",
+    "sacred orb of exile": "流亡的圣化宝珠",
+    "sacred orb of faith": "信念的圣化宝珠",
+    "sacred orb of famine": "饥荒的圣化宝珠",
+    "sacred orb of ferocity": "凶残的圣化宝珠",
+    "sacred orb of flickering flame": "摇曳之火的圣化宝珠",
+    "sacred orb of foresight": "预见的圣化宝珠",
+    "sacred orb of fortitude": "刚毅的圣化宝珠",
+    "sacred orb of fortress": "要塞的圣化宝珠",
+    "sacred orb of fury": "狂怒的圣化宝珠",
+    "sacred orb of gloom": "幽暗的圣化宝珠",
+    "sacred orb of grief": "悔恨的圣化宝珠",
+    "sacred orb of harmony": "和谐的圣化宝珠",
+    "sacred orb of honor": "荣誉的圣化宝珠",
+    "sacred orb of hustle": "匆忙的圣化宝珠",
+    "sacred orb of ice": "冰冻的圣化宝珠",
+    "sacred orb of infinity": "无限的圣化宝珠",
+    "sacred orb of innocence": "纯真的圣化宝珠",
+    "sacred orb of insight": "洞察的圣化宝珠",
+    "sacred orb of kingslayer": "弑王者的圣化宝珠",
+    "sacred orb of last wish": "最后希望的圣化宝珠",
+    "sacred orb of lawbringer": "执法者的圣化宝珠",
+    "sacred orb of loyalty": "忠诚的圣化宝珠",
+    "sacred orb of memory": "回忆的圣化宝珠",
+    "sacred orb of mist": "迷雾的圣化宝珠",
+    "sacred orb of oath": "誓约的圣化宝珠",
+    "sacred orb of obedience": "服从的圣化宝珠",
+    "sacred orb of obsession": "执念的圣化宝珠",
+    "sacred orb of penance": "赎罪的圣化宝珠",
+    "sacred orb of phoenix": "凤凰的圣化宝珠",
+    "sacred orb of plague": "瘟疫的圣化宝珠",
+    "sacred orb of pride": "骄傲的圣化宝珠",
+    "sacred orb of prudence": "审慎的圣化宝珠",
+    "sacred orb of purity": "纯净的圣化宝珠",
+    "sacred orb of pursuit": "追猎的圣化宝珠",
+    "sacred orb of rain": "雨的圣化宝珠",
+    "sacred orb of rapture": "狂喜的圣化宝珠",
+    "sacred orb of resonance": "共鸣的圣化宝珠",
+    "sacred orb of rift": "裂缝的圣化宝珠",
+    "sacred orb of sanctuary": "圣堂的圣化宝珠",
+    "sacred orb of scripture": "经文的圣化宝珠",
+    "sacred orb of shattered wall": "破碎之墙的圣化宝珠",
+    "sacred orb of spirit": "精神的圣化宝珠",
+    "sacred orb of stone": "石块的圣化宝珠",
+    "sacred orb of tailwind": "顺风的圣化宝珠",
+    "sacred orb of tantrum": "盛怒的圣化宝珠",
+    "sacred orb of unbending will": "不屈意志的圣化宝珠",
+    "sacred orb of venom": "毒牙的圣化宝珠",
+    "sacred orb of visions": "幻象的圣化宝珠",
+    "sacred orb of white": "白色的圣化宝珠",
+    "sacred orb of wind": "风的圣化宝珠",
+    "sacred orb of winter": "寒冬的圣化宝珠",
+    "sacred orb of wrath": "愤怒的圣化宝珠",
+    "sacred orb of zenith": "天顶的圣化宝珠",
+    "sacred orb of bastion": "堡垒的圣化宝珠",
+};
+const sacredNameZh = (v) => SACRED_ORB_ZH[String(v ?? "").trim().toLowerCase()] || v;
+
 const PROP_HIGHLIGHT_RULES = [{test: /corrupted|腐化/i, className: "propRed"},];
 
 const WEAPON_ICON_MAP = {
@@ -848,6 +928,7 @@ const TYPE_CODE_ZH = {
     "Auric Shields": "圣骑士盾牌", "ashd": "圣骑士盾牌", "Voodoo Heads": "死灵法师头颅", "head": "死灵法师头颅",
     "Circlet": "头环", "circ": "头环", "Paladin Helmet": "圣骑士头盔", "pahm": "圣骑士头盔",
     "Belt [S]": "腰带[S]", "bels": "腰带[S]",
+    "Any Shield": "任意盾牌",
     // 通用
     "Mythic Jewel": "神话珠宝", "Weapon": "武器", "weap": "武器",
 };
@@ -1076,7 +1157,7 @@ function SearchableSelect({
             />
             <div className="selOptions">
                 {filteredOptions.length === 0 ? (
-                    <div className="selOption selEmpty">No matches</div>) : (filteredOptions.map((opt) => (<div
+                    <div className="selOption selEmpty">无匹配结果</div>) : (filteredOptions.map((opt) => (<div
                     key={String(opt.value) || opt.label}
                     className="selOption"
                     onClick={() => handleSelect(opt.value)}
@@ -1169,7 +1250,7 @@ function FiltersBar({
                 value={socketsValue}
                 onChange={setSocketsValue}
                 options={socketsOptions}
-                placeholder="All sockets"
+                placeholder="全部孔数"
                 style={{maxWidth: 180}}
             />)}
 
@@ -1177,7 +1258,7 @@ function FiltersBar({
                 value={runeCountValue}
                 onChange={setRuneCountValue}
                 options={runeCountOptions}
-                placeholder="All counts"
+                placeholder="全部数量"
                 style={{maxWidth: 180}}
             />)}
 
@@ -1195,7 +1276,7 @@ function FiltersBar({
                 value={affixTypeValue}
                 onChange={setAffixTypeValue}
                 options={affixTypeOptions}
-                placeholder="All affix types"
+                placeholder="全部词缀类型"
                 style={{maxWidth: 200}}
             />)}
 
@@ -1226,7 +1307,7 @@ function FiltersBar({
 
             {/* Highlight toggle (unchanged) */}
             {showHighlight && (<label className="toggleWrap">
-                <span className="toggleLabel">SoE 独占</span>
+                <span className="toggleLabel">流放圣域独占</span>
                 <div className="toggle">
                     <input
                         type="checkbox"
@@ -1329,7 +1410,7 @@ function TierLinks({label = "阶位：", entries, onGo}) {
 
     return (<>
         {usable.map((e) => (<div key={e.tierLabel + "|" + e.code} className="line kv">
-            <span>{e.tierLabel} Tier Item:</span>
+            <span>{e.tierLabel} 阶位物品：</span>
             <span>
             <a
                 className="d2link"
@@ -1377,7 +1458,7 @@ function UniquesPanel({uniques, onGoUnique}) {
 }
 
 function SacredTooltip({s, onLink}) {
-    if (!s) return <div className="emptyState">Select an item.</div>;
+    if (!s) return <div className="emptyState">请选择物品。</div>;
 
     const title = n(s?.displayName) || "圣化";
     const types = sacredTypes(s);
@@ -1428,7 +1509,7 @@ function SacredTooltip({s, onLink}) {
                     </div>));
                 })}
             </div>);
-        })) : (<div className="line dim">No modifiers listed.</div>)}
+        })) : (<div className="line dim">暂无词缀信息。</div>)}
     </>);
 }
 
@@ -1470,7 +1551,7 @@ function CurseEffectCalculator() {
                     className="btn secondary"
                     onClick={reset}
                 >
-                    Reset
+                    重置
                 </button>
             </div>
         </div>
@@ -1484,13 +1565,13 @@ function CurseEffectCalculator() {
         <div className="calcGrid">
 
             <div className="calcRow">
-                <div className="calcLabel">Base value</div>
+                <div className="calcLabel">基础数值</div>
                 <input
                     className="calcInput"
                     type="number"
                     value={baseValue}
                     onChange={(e) => setBaseValue(e.target.value)}
-                    placeholder="e.g. 100"
+                    placeholder="例如：100"
                 />
             </div>
 
@@ -1501,12 +1582,12 @@ function CurseEffectCalculator() {
                     type="number"
                     value={bonusValue}
                     onChange={(e) => setBonusValue(e.target.value)}
-                    placeholder="e.g. 50"
+                    placeholder="例如：50"
                 />
             </div>
 
             <div className="calcOut">
-                <div className="calcOutLabel">Final effect</div>
+                <div className="calcOutLabel">最终效果</div>
                 <div className="calcOutValue">{fmt(result)}</div>
             </div>
 
@@ -2494,7 +2575,7 @@ function AuraEffectCalculator() {
                     className="btn secondary"
                     onClick={reset}
                 >
-                    Reset
+                    重置
                 </button>
             </div>
         </div>
@@ -2508,29 +2589,29 @@ function AuraEffectCalculator() {
         <div className="calcGrid">
 
             <div className="calcRow">
-                <div className="calcLabel">Base value</div>
+                <div className="calcLabel">基础数值</div>
                 <input
                     className="calcInput"
                     type="number"
                     value={baseValue}
                     onChange={(e) => setBaseValue(e.target.value)}
-                    placeholder="e.g. 100"
+                    placeholder="例如：100"
                 />
             </div>
 
             <div className="calcRow">
-                <div className="calcLabel">Aura effect bonus</div>
+                <div className="calcLabel">光环效果加成</div>
                 <input
                     className="calcInput"
                     type="number"
                     value={bonusValue}
                     onChange={(e) => setBonusValue(e.target.value)}
-                    placeholder="e.g. 50"
+                    placeholder="例如：50"
                 />
             </div>
 
             <div className="calcOut">
-                <div className="calcOutLabel">Final effect</div>
+                <div className="calcOutLabel">最终效果</div>
                 <div className="calcOutValue">{fmt(result)}</div>
             </div>
 
@@ -2607,49 +2688,48 @@ function AuraRadiusEffectCalculator() {
 
     return (<div className="infoPanel">
         <div className="infoHeader">
-            <div className="infoTitle">Aura radius and effect</div>
+            <div className="infoTitle">光环范围与效果</div>
             <button type="button" className="btn ghost" onClick={reset}>
                 Reset
             </button>
         </div>
 
         <div className="meta">
-            Enter the base value and the bonus value; the calculator applies the
-            diminishing returns formulas used by the mod.
+            输入基础数值与加成数值；计算器将应用该词缀使用的递减收益公式。
         </div>
 
         <div className="hr"/>
 
         <div className="calcGrid">
             <div className="calcCard">
-                <div className="calcTitle">Radius</div>
+                <div className="calcTitle">范围</div>
 
                 <div className="calcRow">
-                    <div className="calcLabel">Base value</div>
+                    <div className="calcLabel">基础数值</div>
                     <input
                         className="calcInput"
                         type="number"
                         inputMode="decimal"
                         value={radiusBase}
                         onChange={(e) => setRadiusBase(e.target.value)}
-                        placeholder="e.g. 10"
+                        placeholder="例如：10"
                     />
                 </div>
 
                 <div className="calcRow">
-                    <div className="calcLabel">Skill radius bonus</div>
+                    <div className="calcLabel">技能范围加成</div>
                     <input
                         className="calcInput"
                         type="number"
                         inputMode="decimal"
                         value={radiusBonus}
                         onChange={(e) => setRadiusBonus(e.target.value)}
-                        placeholder="e.g. 50"
+                        placeholder="例如：50"
                     />
                 </div>
 
                 <div className="calcOut">
-                    <div className="calcOutLabel">Radius result (X)</div>
+                    <div className="calcOutLabel">范围结果（X）</div>
                     <div className="calcOutValue">{fmt(calcRadiusYards)}</div>
                 </div>
 
@@ -2659,34 +2739,34 @@ function AuraRadiusEffectCalculator() {
             </div>
 
             <div className="calcCard">
-                <div className="calcTitle">Effect</div>
+                <div className="calcTitle">效果</div>
 
                 <div className="calcRow">
-                    <div className="calcLabel">Base value</div>
+                    <div className="calcLabel">基础数值</div>
                     <input
                         className="calcInput"
                         type="number"
                         inputMode="decimal"
                         value={effectBase}
                         onChange={(e) => setEffectBase(e.target.value)}
-                        placeholder="e.g. 100"
+                        placeholder="例如：100"
                     />
                 </div>
 
                 <div className="calcRow">
-                    <div className="calcLabel">Aura effect bonus</div>
+                    <div className="calcLabel">光环效果加成</div>
                     <input
                         className="calcInput"
                         type="number"
                         inputMode="decimal"
                         value={effectBonus}
                         onChange={(e) => setEffectBonus(e.target.value)}
-                        placeholder="e.g. 80"
+                        placeholder="例如：80"
                     />
                 </div>
 
                 <div className="calcOut">
-                    <div className="calcOutLabel">Effect result (Y)</div>
+                    <div className="calcOutLabel">效果结果（Y）</div>
                     <div className="calcOutValue">{fmt(calcEffect)}</div>
                 </div>
 
@@ -2763,14 +2843,14 @@ function FateCardTooltip({card}) {
 
             <div className="hr"/>
 
-            {lineKV("Code:", n(card.code))}
-            {lineKV("Required amount:", n(card.requiredAmount))}
+            {lineKV("代码：", n(card.code))}
+            {lineKV("所需数量：", n(card.requiredAmount))}
         </>
     );
 }
 
 function WeaponTooltip({w, onGoCode, onGoUnique}) {
-    if (!w) return <div className="emptyState">Select an item.</div>;
+    if (!w) return <div className="emptyState">请选择物品。</div>;
     const title = n(w?.displayName) || n(w?.name) || "Unknown Item";
     const hasRequirements = (has(w?.requiredStrength) || has(w?.requiredDexterity) || has(w?.requiredLevel) && w?.requiredLevel != 0 && w?.requiredDexterity != 0 && w?.requiredStrength != 0);
 
@@ -2792,13 +2872,13 @@ function WeaponTooltip({w, onGoCode, onGoUnique}) {
         {has(w?.speed) && lineKV("武器速度修正：", fmtSigned(w?.speed) || n(w?.speed))}
 
         {n(w?.noDurability) === "1" ? (<div
-            className="line dim">Indestructible</div>) : (has(w?.durability) && lineKV("Durability:", n(w?.durability)))}
+            className="line dim">不可破坏</div>) : (has(w?.durability) && lineKV("耐久：", n(w?.durability)))}
 
         {has(w?.maxSockets) && lineKV("最大孔数：", n(w?.maxSockets))}
 
         {hasRequirements ? (<>
             <div className="hr"/>
-            <div className="dropHeader">Requirements</div>
+            <div className="dropHeader">需求</div>
             {nz(w?.requiredLevel) && lineKV("需求等级：", n(w?.requiredLevel), "req")}
             {(nz(w?.requiredStrength) || nz(w?.requiredDexterity))}
             {nz(w?.requiredStrength) && lineKV("需求力量：", n(w?.requiredStrength), "req")}
@@ -2806,17 +2886,17 @@ function WeaponTooltip({w, onGoCode, onGoUnique}) {
         </>) : null}
 
         <div className="hr"/>
-        <div className="dropHeader">Additional item information</div>
-        {has(w?.itemTier) && lineKV("Item Tier:", n(w?.itemTier), "")}
-        {has(w?.level) && lineKV("Quality Level:", n(w?.level), "", TOOLTIPS_TEXT_MAP["qualityLevel"])}
-        {lineKV("Code:", n(w?.code), "", TOOLTIPS_TEXT_MAP["code"])}
+        <div className="dropHeader">附加物品信息</div>
+        {has(w?.itemTier) && lineKV("物品阶位：", n(w?.itemTier), "")}
+        {has(w?.level) && lineKV("品质等级：", n(w?.level), "", TOOLTIPS_TEXT_MAP["qualityLevel"])}
+        {lineKV("代码：", n(w?.code), "", TOOLTIPS_TEXT_MAP["code"])}
         <TierLinks entries={tierEntries} onGo={onGoCode}/>
         <UniquesPanel uniques={w?.uniques} onGoUnique={onGoUnique}/>
     </>);
 }
 
 function ArmorTooltip({a, onGoCode, onGoUnique}) {
-    if (!a) return <div className="emptyState">Select an item.</div>;
+    if (!a) return <div className="emptyState">请选择物品。</div>;
     const title = n(a?.displayName) || n(a?.name) || "Unknown Item";
     const def = armorDefenseLine(a);
     const hasRequirements = (has(a?.requiredStrength) && a?.requiredStrength > 0 && has(a?.requiredLevel) && a?.requiredLevel > 0) || (has(a?.requiredStrength) && a?.requiredStrength > 0);
@@ -2837,19 +2917,19 @@ function ArmorTooltip({a, onGoCode, onGoUnique}) {
         {has(def) && lineKV("防御：", def)}
         {nz(a?.block) && lineKV("格挡几率：", `${n(a?.block)}%`)}
         {nz(a?.maxSockets) && lineKV("最大孔数：", n(a?.maxSockets))}
-        {has(a?.durability) && lineKV("Durability:", n(a?.durability))}
+        {has(a?.durability) && lineKV("耐久：", n(a?.durability))}
 
         {hasRequirements ? (<>
             <div className="hr"/>
-            <div className="dropHeader">Requirements</div>
+            <div className="dropHeader">需求</div>
             {nz(a?.requiredLevel) && lineKV("需求等级：", n(a?.requiredLevel), "req")}
             {nz(a?.requiredStrength) && lineKV("需求力量：", n(a?.requiredStrength), "req")}
         </>) : null}
 
         <div className="hr"/>
-        <div className="dropHeader">Additional item information</div>
+        <div className="dropHeader">附加物品信息</div>
         {has(a?.itemTier) && lineKV("物品阶位：", n(a?.itemTier), "dim")}
-        {has(a?.level) && lineKV("Quality Level:", n(a?.level), "", TOOLTIPS_TEXT_MAP["qualityLevel"])}
+        {has(a?.level) && lineKV("品质等级：", n(a?.level), "", TOOLTIPS_TEXT_MAP["qualityLevel"])}
         {lineKV("代码：", n(a?.code), "dim", TOOLTIPS_TEXT_MAP["code"])}
         <TierLinks label="阶位：" entries={tierEntries} onGo={onGoCode}/>
         <UniquesPanel uniques={a?.uniques} onGoUnique={onGoUnique}/>
@@ -2857,7 +2937,7 @@ function ArmorTooltip({a, onGoCode, onGoUnique}) {
 }
 
 function RunewordTooltip({rw, onGoSacred, onLink}) {
-    if (!rw) return <div className="emptyState">Select an item.</div>;
+    if (!rw) return <div className="emptyState">请选择物品。</div>;
 
     const title = n(rw?.displayName) || n(rw?.runewordName) || "符文之语";
     const hasRequirements = rw?.requiredlevel > 0;
@@ -2901,16 +2981,16 @@ function RunewordTooltip({rw, onGoSacred, onLink}) {
 
         {hasRequirements ? (<>
             <div className="hr"/>
-            <div className="dropHeader">Requirements</div>
-            {nz(rw?.requiredlevel) && lineKV("Required Level:", n(rw?.requiredlevel), "req")}
+            <div className="dropHeader">需求</div>
+            {nz(rw?.requiredlevel) && lineKV("需求等级：", n(rw?.requiredlevel), "req")}
         </>) : null}
 
         {rwSacreds.length ? (<>
             <div className="hr"/>
-            <div className="dropHeader">Sacreds</div>
+            <div className="dropHeader">圣化</div>
             {rwSacreds.map((s, idx) => {
-                const name = n(s?.sacredName);
-                const typesText = Array.isArray(s?.itemTypes) ? s.itemTypes.filter(Boolean).join(" / ") : "";
+                const name = sacredNameZh(n(s?.sacredName));
+                const typesText = Array.isArray(s?.itemTypes) ? s.itemTypes.map((t) => typeZh(n(t))).filter(Boolean).join(" / ") : "";
                 if (!name) return null;
 
                 return (<div key={`${idx}::${name}`} className="line goToLink">
@@ -3124,7 +3204,7 @@ function AffixesPanel({data, loading, error, sort, onChangeSort}) {
     if (loading) {
         return (<div className="infoPanel">
             <div className="infoHeader">
-                <div className="infoTitle">Affixes</div>
+                <div className="infoTitle">词缀</div>
             </div>
             <div className="meta">词缀加载中…</div>
         </div>);
@@ -3133,7 +3213,7 @@ function AffixesPanel({data, loading, error, sort, onChangeSort}) {
     if (error) {
         return (<div className="infoPanel">
             <div className="infoHeader">
-                <div className="infoTitle">Affixes</div>
+                <div className="infoTitle">词缀</div>
             </div>
             <div className="meta">
                 词缀加载失败：{String(error.message || error)}
@@ -3144,7 +3224,7 @@ function AffixesPanel({data, loading, error, sort, onChangeSort}) {
     if (isMobile) {
         return (<div className="infoPanel">
             <div className="infoHeader">
-                <div className="infoTitle">Affixes</div>
+                <div className="infoTitle">词缀</div>
             </div>
             <div
                 className="emptyState"
@@ -3161,7 +3241,7 @@ function AffixesPanel({data, loading, error, sort, onChangeSort}) {
     if (!total) {
         return (<div className="infoPanel">
             <div className="infoHeader">
-                <div className="infoTitle">Affixes</div>
+                <div className="infoTitle">词缀</div>
             </div>
             <div className="emptyState">没有符合筛选条件的词缀。</div>
         </div>);
@@ -3182,7 +3262,7 @@ function AffixesPanel({data, loading, error, sort, onChangeSort}) {
 
     return (<div className="infoPanel">
         <div className="infoHeader">
-            <div className="infoTitle">Affixes</div>
+            <div className="infoTitle">词缀</div>
         </div>
 
         <div className="affixTableWrapper">
@@ -3341,7 +3421,7 @@ function AffixesPanel({data, loading, error, sort, onChangeSort}) {
 }
 
 function UniqueTooltip({u, openDropCalculator, onLink}) {
-    if (!u) return <div className="emptyState">Select an item.</div>;
+    if (!u) return <div className="emptyState">请选择物品。</div>;
 
     const title = n(u?.displayName) || "Unknown Unique";
 
@@ -3455,7 +3535,7 @@ function UniqueTooltip({u, openDropCalculator, onLink}) {
                     {renderInlineMarkdown(line, onLink)}
                 </div>);
             });
-        })) : (<div className="line dim">No modifiers listed.</div>)}
+        })) : (<div className="line dim">暂无词缀信息。</div>)}
 
         {hasDropInfo && !u?.hellforged ? (<>
             <div className="hr"/>
@@ -3467,7 +3547,7 @@ function UniqueTooltip({u, openDropCalculator, onLink}) {
 
         {hasRequirements ? (<>
             <div className="hr"/>
-            <div className="dropHeader">Requirements</div>
+            <div className="dropHeader">需求</div>
             {nz(requiredLevel) && lineKV("需求等级：", n(requiredLevel), "req")}
             {nz(requiredStrength) && lineKV("需求力量：", n(requiredStrength), "req")}
             {nz(requiredDexterity) && lineKV("需求敏捷：", n(requiredDexterity), "req")}
@@ -3475,7 +3555,7 @@ function UniqueTooltip({u, openDropCalculator, onLink}) {
 
         {u?.showCanBeCreatedWith === true && !u?.hellforged ? (<>
             <div className="hr"/>
-            <div className="dropHeader">Crafting</div>
+            <div className="dropHeader">制作</div>
             {hasOccurrenceChanceCurrency && occurrenceChance !== occurrenceChanceCurrency && lineKV("通货出现几率：", String(occurrenceChanceCurrency), "")}
             <br/>
             <div className="line dim">
@@ -3486,7 +3566,7 @@ function UniqueTooltip({u, openDropCalculator, onLink}) {
 
         {u?.hellforged ? (<>
             <div className="hr"/>
-            <div className="dropHeader">Crafting</div>
+            <div className="dropHeader">制作</div>
             <div className="line dim">
                 你可以使用特殊的炼狱熔炉配方制作这件暗金装备。请查看上方「魔方配方」标签页。
             </div>
@@ -3609,93 +3689,24 @@ function TabsBar({
                      damnationMode,
                      toggleDamnationMode,
                  }) {
-    const [moreOpen, setMoreOpen] = React.useState(false);
-    const moreRef = React.useRef(null);
-
-    const mainKeys = [
-        "weapons",
-        "armors",
-        "uniques",
-        "runewords",
-        "affixes",
-        "skills",
-        "sacreds",
-        "ascendancies",
-    ];
-
-    const moreKeys = [
-        "fatecards",
-        "kiln",
-        "corruptions",
-        "mapping",
-        "cube",
-        "changes",
-        "damnation",
-        "calculators",
-        "dropcalc",
-        "help",
-    ];
-
-    React.useEffect(() => {
-        function onClick(e) {
-            if (!moreRef.current?.contains(e.target)) {
-                setMoreOpen(false);
-            }
-        }
-
-        document.addEventListener("mousedown", onClick);
-        return () => document.removeEventListener("mousedown", onClick);
-    }, []);
-
-    const moreActive = moreKeys.includes(tab);
-
-    const selectTab = (key) => {
-        setTab(key);
-        setMoreOpen(false);
-    };
+    // 全部标签页直接平铺展示，窄屏时由 CSS 自动换行（自适应）
+    const allKeys = Object.keys(TABS);
 
     return (
         <div className="tabsPanel">
             <div className="tabsLeft">
                 <div className="tabs">
-                    {mainKeys.map((key) => (
+                    {allKeys.map((key) => (
                         <div
                             key={key}
                             className={"tab" + (tab === key ? " active" : "")}
-                            onClick={() => selectTab(key)}
+                            onClick={() => setTab(key)}
                             role="button"
                             tabIndex={0}
                         >
                             {renderTabTitle(key)}
                         </div>
                     ))}
-
-                    <div className="moreTabsWrap" ref={moreRef}>
-                        <div
-                            className={"tab" + (moreActive ? " active" : "")}
-                            onClick={() => setMoreOpen((v) => !v)}
-                            role="button"
-                            tabIndex={0}
-                        >
-                            更多 ▾
-                        </div>
-
-                        {moreOpen && (
-                            <div className="moreTabsDropdown">
-                                {moreKeys.map((key) => (
-                                    <div
-                                        key={key}
-                                        className={"moreTabItem" + (tab === key ? " active" : "")}
-                                        onClick={() => selectTab(key)}
-                                        role="button"
-                                        tabIndex={0}
-                                    >
-                                        {renderTabTitle(key)}
-                                    </div>
-                                ))}
-                            </div>
-                        )}
-                    </div>
                 </div>
             </div>
 
@@ -4221,7 +4232,7 @@ export default function App() {
 
     function jumpToSacred(sacredName, itemTypes) {
         const name = n(sacredName);
-        const types = Array.isArray(itemTypes) ? itemTypes.map((t) => n(t).toLowerCase()).filter(Boolean) : [];
+        const types = Array.isArray(itemTypes) ? itemTypes.map((t) => typeZh(n(t)).toLowerCase()).filter(Boolean) : [];
 
         if (!name && !types.length) return;
 
@@ -4645,7 +4656,7 @@ export default function App() {
                             value={changesSearch}
                             onChange={(e) => setChangesSearch(e.target.value)}
                             className="searchBar"
-                            placeholder="搜索 SoE 变更…"
+                            placeholder="搜索流放圣域变更…"
                         />
                     </div>
                 </div>
