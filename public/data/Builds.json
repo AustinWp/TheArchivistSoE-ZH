@@ -1,0 +1,555 @@
+{
+  "updatedAt": "2026-08-29",
+  "classes": [
+    {
+      "id": "amazon",
+      "name": "亚马逊",
+      "enName": "Amazon",
+      "icon": "bow",
+      "builds": [
+        {
+          "id": "phys-ts-amazon",
+          "name": "物理龙卷射击亚马逊",
+          "enName": "Endgame Physical Tornado Shot Amazon",
+          "author": "花颜",
+          "version": "v13.0.2 · SoE 国服联机版",
+          "tags": ["核心 BD", "物理", "远程", "弓弩", "高造价", "T4 图毕业"],
+          "summary": "以龙卷射击（Tornado Shot）的多重弹道叠乘机制为核心：每支箭矢都能触发致命打击（DS）、压碎打击（CB）、吸血吸蓝与穿透，配合圣化「荒芜」恶魔机器与珠宝堆叠，拥有本 Mod 中顶级的伤害放大天花板。流程从通关地狱开始，一路过渡到 T4 图圣化毕业。",
+          "facts": [
+            ["职业", "亚马逊 Amazon"],
+            ["定位", "远程物理输出（多弹道霰弹）"],
+            ["核心技能", "龙卷射击 Tornado Shot（TS）"],
+            ["前期升华", "锐眼 Deadeye（多次触发）"],
+            ["后期升华", "狂战士 Berserker（续航 / 伤害）"],
+            ["核心武器", "恶魔机器（小炮）→ 圣化荒芜"],
+            ["造价", "中高（机遇宝珠 → 圣化荒芜）"],
+            ["适用场景", "T1→T4 刷图 / Boss 攻坚"],
+            ["流程起点", "通关地狱后"]
+          ],
+          "sections": [
+            {
+              "type": "h2",
+              "text": "1. 物理 TS 的实际伤害放大机制"
+            },
+            {
+              "type": "p",
+              "text": "虽然龙卷射击（Tornado Shot，TS）表面上只造成 **20% 的武器伤害**，但每个龙卷风释放出的多枚箭矢均具有以下特性，从而产生了质变："
+            },
+            {
+              "type": "ul",
+              "items": [
+                "可以触发致命打击（DS，即双倍伤害）",
+                "可以吸血 / 吸蓝（Leech）",
+                "可以触发压碎打击（CB）",
+                "可以穿透（Pierce）",
+                "可以形成霰弹效应（Shotgun）：多枚箭矢同时命中同一目标"
+              ]
+            },
+            {
+              "type": "formula",
+              "title": "物理 TS 的伤害架构公式",
+              "parts": [
+                "武器基础伤害",
+                "基础 ED（武器自身 Roll 值）",
+                "珠宝 ED",
+                "点伤（Flat Damage）",
+                "致命打击（DS）",
+                "穿透（Pierce）",
+                "压碎打击（CB）",
+                "弹道数量"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "这就是为什么一旦投入足够高的造价，物理 TS 的伤害上限会远超特效触发（Proc）流派的原因。"
+            },
+            {
+              "type": "h2",
+              "text": "2. 技能点数分配 Skills"
+            },
+            {
+              "type": "sub",
+              "text": "加满（Max）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**龙卷射击 Tornado Shot**：为了最大化龙卷风数量",
+                "**刺入 Penetrate**：提升攻击准确率（AR）以及物理抗性穿透（PR Pierce）的收益",
+                "**穿透 Pierce**：确保龙卷风分裂出的次级箭矢能够穿透",
+                "**致命一击 Critical Strike**：提升双倍伤害几率",
+                "**规避 Evade**：提升生存能力"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "剩余点数"
+            },
+            {
+              "type": "ul",
+              "items": ["**躲避 Dodge**"]
+            },
+            {
+              "type": "note",
+              "text": "专家注：龙卷射击不依赖传统的技能协同（Synergy）。被动技能的放大（致命一击、穿透、准确率）才是提升伤害的核心途径。"
+            },
+            {
+              "type": "h2",
+              "text": "3. 属性点分配 Stats"
+            },
+            {
+              "type": "kv",
+              "rows": [
+                ["有华丽护符前", "属性点够穿装备，其余加体力"],
+                ["有华丽护符后", "**敏捷（Dexterity）**：剩余所有点数\n**体力（Vitality）**：投入足够的点数以保证吃完 bo 后血量能到 2000，避免刷 T4 图暴毙"]
+              ]
+            },
+            {
+              "type": "p",
+              "text": "其余关键华丽护符（华丽护符是 SoE 的护身符成长系统，具体配置见第 8 节）："
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/01-one-with-nothing.webp", "caption": "万物归一 One With Nothing（华丽护符）：每 30 点敏捷获得 1% 致命攻击几率上限，每 15 点敏捷 1% 致命攻击几率"},
+                {"src": "phys-ts-amazon/02-empowered-spirit.webp", "caption": "赋能灵魂 / 赋能之魂 Empowered Spirit（华丽护符）：基础攻击准确率高于 2000 时，每 10 点基础攻击准确率获得 1 点伤害"}
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "4. 前期升华选择"
+            },
+            {
+              "type": "p",
+              "text": "前期在使用小炮前选用**锐眼（Deadeye）**，以多次触发为主要目的；升华灵魂石可在盒子中转换。"
+            },
+            {
+              "type": "p",
+              "text": "在拥有小炮、并完成伤害转换为物理后，使用**狂战士（Berserker）**升华，能大幅提高续航和伤害。"
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/03-soulstone-deadeye.webp", "caption": "力量灵魂石·锐眼：+1 攻击投射物上限，每点攻击投射物上限 +125% 增强伤害；击中时 50% 几率获得烈风之力"},
+                {"src": "phys-ts-amazon/04-soulstone-berserker.webp", "caption": "力量灵魂石·狂战士：+1 攻击打击次数上限；10% 生命偷取，每 1% 生命偷取为近战攻击增加 4-10 点物理伤害"}
+              ]
+            },
+            {
+              "type": "h2",
+              "text": "5. 装备精解：地狱通关 → 圣化毕业"
+            },
+            {
+              "type": "sub",
+              "text": "5.1 过渡期（无小炮）"
+            },
+            {
+              "type": "p",
+              "text": "▸ **武器 Bow**：地狱通关后，使用低级过渡弓（扩展级暗金弓即可起步）："
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/05-bow-skycast.webp", "caption": "天击（锋利弓）：过渡弓选择之一"},
+                {"src": "phys-ts-amazon/06-bow-endlesshail.webp", "caption": "无尽冰雹（双弓）：过渡弓选择之一"}
+              ]
+            },
+            {
+              "type": "p",
+              "text": "在没有小炮前，**金击之弓**就是刷 T1 图的基础。金击之弓优先带孔——前期的龙卷射击十分耗蓝，多孔的弓配上完美骷髅可以保持一定的续航，提升手感。"
+            },
+            {
+              "type": "img",
+              "src": "phys-ts-amazon/07-gold-strike-bow.webp",
+              "caption": "金击之弓（哥特之弓）：200-250% ED，T1 刷图过渡核心"
+            },
+            {
+              "type": "p",
+              "text": "**衣服**：使用原则（Principle）符文之语与金击搭配，可以在龙卷的高触发下打出高额的伤害；如果没有 25 号符文（古尔），可以使用白骨（Bone，12/22/22）代替。"
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/08-rw-principle.webp", "caption": "原则（拉尔 8 · 古尔 25 · 艾德 2）：40% 几率施放 30 级圣光弹，与金击之弓高触发搭配"},
+                {"src": "phys-ts-amazon/09-rw-bone.webp", "caption": "白骨（索尔 12 · 乌姆 22 · 乌姆 22）：没有 25 号符文时的替代衣服"}
+              ]
+            },
+            {
+              "type": "p",
+              "text": "其余装备以补齐抗性和保证吸蓝吸血为主，保证自己的**双吸在 10% 以上**。"
+            },
+            {
+              "type": "p",
+              "text": "配齐原则和金击圆弧后，在 T 图外补等级到 80 级。期间打出的暗金可以和钥匙合成分解成**机遇碎片**，十个机遇碎片可以合成**机遇宝珠**——这是你获得恶魔机弩（小炮）的重要手段。"
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/10-fortune-shard.webp", "caption": "机遇碎片：10 枚碎片叠满合成 = 机遇宝珠"},
+                {"src": "phys-ts-amazon/11-fortune-orb.webp", "caption": "机遇宝珠：与普通/魔法/稀有物品合成，可能升级为同底材暗金，也可能摧毁"}
+              ]
+            },
+            {
+              "type": "p",
+              "text": "机遇宝珠可以与白装 / 蓝装 / 黄装合成，变成对应底材的暗金装备。不同等级的底材有不同的概率：**普通 50%，扩展 25%，精英 10%**。小炮底材为**巧攻弩（诸葛弩，扩展级）**，使用机遇宝珠有大概率成功——这将是陪伴你到毕业的武器，也是转型物理伤害的门槛。"
+            },
+            {
+              "type": "img",
+              "src": "phys-ts-amazon/12-demon-machine-base.webp",
+              "caption": "恶魔机器（诸葛弩底材，扩展级）：265-315% ED 的小炮本体"
+            },
+            {
+              "type": "sub",
+              "text": "5.2 中期成型（积攒刷图期）"
+            },
+            {
+              "type": "p",
+              "text": "点出小炮后，使用**恶魔宝盒**重 roll 小炮属性，然后使用**拉苏克迷盒**对其打孔，最大 5 孔。"
+            },
+            {
+              "type": "img",
+              "src": "phys-ts-amazon/13-sockets-box.webp",
+              "caption": "拉苏克迷盒：用于给物品打孔（双手武器 2-4 最大）"
+            },
+            {
+              "type": "p",
+              "text": "五个孔在保证 **10% 吸蓝**的前提上镶嵌 11 号符文（安姆 Amn）提升吸血；由于狂战士升华，吸血可转换为伤害。"
+            },
+            {
+              "type": "p",
+              "text": "中期装备路线："
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**衣服**：使用幽灵之肤，或者刚毅（Fortitude）符文之语",
+                "**手套**：选用手掌的安置（Laying of Hands）过渡",
+                "**鞋子**：使用哥布林之趾（Goblin Toe）或者蚀肉骑士（Gore Rider）；也可以使用凯松的征服（Treads of Cthon）补穿刺，按需使用",
+                "**戒指**：先选用带吸蓝吸血的戒指，其余位置随意，不是很重要"
+              ]
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/14-ghost-skin.webp", "caption": "幽灵之肤（钻石锁子甲）：中期衣服"},
+                {"src": "phys-ts-amazon/15-rw-fortitude.webp", "caption": "刚毅（艾尔 1 · 索尔 12 · 多尔 14 · 罗 28）：中期衣服替代"},
+                {"src": "phys-ts-amazon/16-laying-of-hands.webp", "caption": "手掌的安置（荆棘连指手套）：过渡手套，+160% 对恶魔伤害"},
+                {"src": "phys-ts-amazon/17-gore-rider.webp", "caption": "蚀肉骑士（巨战之靴）：15% 压碎性打击 / 20% 致命一击"},
+                {"src": "phys-ts-amazon/18-goblin-toe.webp", "caption": "哥布林脚趾（轻板靴）：15-25% 压碎性打击"},
+                {"src": "phys-ts-amazon/19-gloom-treads.webp", "caption": "冥土之履（锁链靴）：20% 几率刺骨（穿刺），补穿刺的鞋子备选"}
+              ]
+            },
+            {
+              "type": "p",
+              "text": "刷图过程中可选用命运卡**仇恨**，和地图合成一次就行，保证刷图速度；目的在于获取**泰瑞尔的力量**命运卡——这是除直接掉落外最快获取鸟甲的第二来源。"
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/20-fate-card-hate.webp", "caption": "命运卡「仇恨」宝珠：每张地图最多可施加 5 枚，怪物额外掉落命运卡几率 +1%"},
+                {"src": "phys-ts-amazon/21-fate-card-seraphim.webp", "caption": "T0 命运卡「炽天使之恩」×5 = 泰瑞尔的力量（鸟甲）"}
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "5.3 T4 图前的准备（荒芜圣化）"
+            },
+            {
+              "type": "p",
+              "text": "D2 的暗金装备可以**圣化**以获得符文之语的属性，而**荒芜（Desolation）**符文之语是必备的小炮圣化——它将大大改善刷图体验。在刷 T4 图前，请确保你有足够的符文以圣化。"
+            },
+            {
+              "type": "img",
+              "src": "phys-ts-amazon/22-rw-desolation.webp",
+              "caption": "荒芜（贝 30 · 伐克斯 26 · 贝 30）：装备时赋予 12-16 级脆弱灵气，-15~20% 敌人物理抗性，250-280% ED，40% 压碎性打击"
+            },
+            {
+              "type": "p",
+              "text": "当你拥有荒芜符文后，你需要确保有**破免手段**：使用 A4 黑暗佣兵，或**亚特玛的圣甲虫（Atma's Scarab）**可以破除 T4 图的物免。"
+            },
+            {
+              "type": "img",
+              "src": "phys-ts-amazon/23-atmas-scarab.webp",
+              "caption": "亚特玛的圣甲虫（项链）：8% 几率施放 15 级伤害加深（破除物免）"
+            },
+            {
+              "type": "p",
+              "text": "至此可以开始刷 T4 图了。**第一次下图推荐不加任何强化**，以获取第一个圣化宝珠为目标，减少坐牢流程。"
+            },
+            {
+              "type": "p",
+              "text": "当打出第一个圣化宝珠后，立刻回城合成圣化：将 **30# + 26# + 30#** 与圣化宝珠在盒子中合成，变成**荒芜圣化珠宝**，再将荒芜珠宝和小炮合成以达成圣化。"
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/24-sacred-orb.webp", "caption": "圣化宝珠：与构成符文之语的符文一同合成，制作对应的符文之语印记"},
+                {"src": "phys-ts-amazon/25-recipe-desolation-orb.webp", "caption": "配方①：圣化宝珠 + 贝(30#) + 伐克斯(26#) + 贝(30#) = 荒芜圣化宝珠"},
+                {"src": "phys-ts-amazon/26-recipe-sacred-weapon.webp", "caption": "配方②：荒芜圣化宝珠 + 恶魔机器（小炮）= 圣化小炮"},
+                {"src": "phys-ts-amazon/27-demon-machine-sacred.webp", "caption": "圣化后的恶魔机器（5 孔）：赋予 16 级脆弱灵气，-20% 敌人物理抗性，469% ED（参考 Roll）"}
+              ]
+            },
+            {
+              "type": "warn",
+              "text": "注：本人不推荐瓦（腐化）任何装备。圣化后的小炮自带物理破免光环，接下来的 T4 将不再坐牢。"
+            },
+            {
+              "type": "p",
+              "text": "后续头盔可使用**巨骷髅**或者**大君面甲**，其他装备请按毕业打造。"
+            },
+            {
+              "type": "p",
+              "text": "副手装备使用击杀大主教掉落的**庇护之殇（Refuge）**，可圣化 CTA（战争召唤，使用 Orb of Arms）以达成大 bobo。"
+            },
+            {
+              "type": "img",
+              "src": "phys-ts-amazon/28-refuge-staff.webp",
+              "caption": "庇护之殇[精]（执政官之杖，6 孔）：圣化后 +6 所有技能，+5 战斗指挥 / +5 战体 / +3 战哮"
+            },
+            {
+              "type": "sub",
+              "text": "5.4 终局毕业（BIS）"
+            },
+            {
+              "type": "p",
+              "text": "**恶魔机器（Demon Machine）**：需盒出 5 孔（5os），且自身 ED Roll 值越高越好；腐化词条推荐 ed 和 ll（吸血）。"
+            },
+            {
+              "type": "img",
+              "src": "phys-ts-amazon/29-demon-machine-bis.webp",
+              "caption": "恶魔机器（BIS 参考）：528% ED，40% 生命于击中时偷取，圣化荒芜 + 5 孔"
+            },
+            {
+              "type": "p",
+              "text": "**泰瑞尔的力量**地狱锻造：需盒出 4 孔，圣化荣耀之链（Chains of Honor）。"
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/30-recipe-tyraels-4s.webp", "caption": "地狱锻造：泰瑞尔的力量打 4 孔"},
+                {"src": "phys-ts-amazon/31-tyraels-might-sacred.webp", "caption": "地狱锻铸·泰瑞尔的力量[精]（4 孔）：圣化荣耀之链，+2 所有技能，393% ED，+45% 跑步/行走"}
+              ]
+            },
+            {
+              "type": "p",
+              "text": "**卡夏之殇（Kashya's Sorrow）**：需盒三孔，圣化天使幻象（Visions of the Angel）。"
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/32-kashyas-sorrow.webp", "caption": "卡夏之殇[精]（猎手兜帽，3 孔）：圣化天使幻象，+1 攻击投射物，赋予 5 级审判灵气"},
+                {"src": "phys-ts-amazon/33-rw-visions.webp", "caption": "天使幻象（查姆 32 · 欧姆 27 · 贝 30）：赋予 4-5 级信念灵气，35-40% ED"}
+              ]
+            },
+            {
+              "type": "p",
+              "text": "**神龛腰带（枯槁者之哀嚎）**、**戒指：死亡的平衡 ×2**、**箭筒：深渊结界圣化暴怒**、**项链：均衡之符（阿斯特拉门蒂斯）**、**鞋子：凯松的征服圣化共鸣 / 顺风**："
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/34-shrine-belt.webp", "caption": "枯槁者之哀嚎（实用腰带）：100% 基底防御受到的物理伤害减免 25%，50% 致命攻击倍率"},
+                {"src": "phys-ts-amazon/35-deaths-poise.webp", "caption": "死亡的平衡（戒指）：获得相当于压碎性打击几率 50% 的致命攻击几率（2 枚）"},
+                {"src": "phys-ts-amazon/36-abyssal-ward.webp", "caption": "深渊结界[精]（战争弩矢箭筒）：圣化暴怒，-14% 敌人物理抗性，214% ED"},
+                {"src": "phys-ts-amazon/37-rw-tantrum.webp", "caption": "暴怒（乔 31 · 贝 30）：+2 所有技能，50-60% 攻击速度（箭筒圣化来源）"},
+                {"src": "phys-ts-amazon/38-astramentis.webp", "caption": "阿斯特拉门蒂斯（均衡之符）：力量、敏捷与精力提高 +30%（已亵渎）"},
+                {"src": "phys-ts-amazon/39-rw-resonance.webp", "caption": "共鸣（萨德 33 · 埃欧 16 · 海尔 15）：8-10% 灵气效果，+1 所有技能"},
+                {"src": "phys-ts-amazon/40-rw-tailwind.webp", "caption": "顺风（罗 28 · 伊司特 24 · 瑟 29）：60-80% ED，10-15% 技能频率"},
+                {"src": "phys-ts-amazon/41-treads-of-cthon.webp", "caption": "凯松的征服 Treads of Cthon（骸骨靴，3 孔）：圣化共鸣，+85% 高速跑步/行走，20% 穿刺几率"}
+              ]
+            },
+            {
+              "type": "p",
+              "text": "**圣化终极毕业（Sacred BIS）**：荒芜（Desolation）圣化符文之语。荒芜弓搭配完美的珠宝堆叠时，拥有本 Mod 中最高的伤害天花板。"
+            },
+            {
+              "type": "table",
+              "caption": "终局毕业 BIS / 圣化终极毕业（Sacred BIS）对照表",
+              "headers": ["装备位", "终局毕业 BIS", "圣化终极毕业 Sacred BIS", "备注"],
+              "rows": [
+                ["箭矢 Arrows", "深渊结界 (Abyssal Ward)（搭配恶魔机器）", "暴怒 (Tantrum)", "—"],
+                ["头盔 Helm", "卡夏的悲伤 (Kashya's Sorrow)（3孔）", "天使幻象 (Visions of the Angel)", "—"],
+                ["衣服 Chest", "泰瑞尔的力量 (Tyrael's Might)（4孔）", "荣耀之链 (Chains of Honor)", "—"],
+                ["手套 Gloves", "碎钢（同左）", "—", "腐化出穿透（Pierce）属性最为理想"],
+                ["腰带 Belt", "猎首 (Headhunter) 或神龛腰带（同左）", "—", "—"],
+                ["鞋子 Boots", "小妖精脚趾 (Goblin Toe) 或凯松的征服（3孔）", "顺风 (Tailwind) 或共鸣", "压碎打击（CB）面对高血量目标依然极其强力"],
+                ["戒指 Rings", "2×死亡的平衡 (Death's Poise)", "—", "—"],
+                ["项链 Amulet", "均衡之符 (Astramentis)（同左）", "—", "—"],
+                ["副手 Swap", "庇护之殇副手圣化 CTA 战争召唤（使用 Orb of Arms）", "—", "提供战斗指挥/战斗号令/战斗怒吼；开团前预读，切换回主手"]
+              ]
+            },
+            {
+              "type": "note",
+              "text": "副手圣化组合提供：战斗指挥 Battle Command（+技能）、战斗号令 Battle Orders（+血蓝）、战斗怒吼 Battle Cry（降低敌人防御/伤害）——开团前预读 Buff 后切换回主手。"
+            },
+            {
+              "type": "h2",
+              "text": "6. 佣兵 Mercenary"
+            },
+            {
+              "type": "p",
+              "text": "选择**第二幕反抗光环佣兵（Might）**。"
+            },
+            {
+              "type": "p",
+              "text": "佣兵镶嵌配置及其装备：使用 **3 枚活力（Vigor）暗金珠宝** → 达成 **18 级活力光环**；衣服、头盔全部使用 31 号（乔 Jah）；武器使用传说暗金珠宝阿卡拉特之怒。"
+            },
+            {
+              "type": "imgs",
+              "items": [
+                {"src": "phys-ts-amazon/42-vampire-gaze.webp", "caption": "吸血鬼的凝视[精]（3 × 31号）：圣化天使幻象，赋予 5 级审判灵气"},
+                {"src": "phys-ts-amazon/43-reapers-toll.webp", "caption": "死神的丧钟[精]（5 孔）：圣化骄傲，33% 几率施放 31 级伤害加深，赋予 19 级专注灵气"},
+                {"src": "phys-ts-amazon/44-templars-might.webp", "caption": "鸟乙（圣堂武士的力量，3 × 31号，4 孔）：圣化堡垒，赋予 8 级力量灵气"},
+                {"src": "phys-ts-amazon/45-rw-fortress.webp", "caption": "堡垒（萨德 33 · 索尔 12 · 贝 30 · 索尔 12）：佣兵衣服圣化来源"},
+                {"src": "phys-ts-amazon/46-mageblood.webp", "caption": "法师之血（神话腰带）：每秒恢复 15% 法力 / 10% 生命"},
+                {"src": "phys-ts-amazon/47-draculs-grasp.webp", "caption": "卓古拉之握[精]（吸血鬼骸骨手套）：12% 生命偷取，25% 撕开敌人伤口"},
+                {"src": "phys-ts-amazon/48-sandstorm-trek.webp", "caption": "沙暴之旅[精]（3 孔）：圣化共鸣，赋予 18 级活力灵气"},
+                {"src": "phys-ts-amazon/49-vigor-jewel.webp", "caption": "流体律动（神话珠宝）：赋予等级 6 活力灵气 × 3 = 18 级活力光环"},
+                {"src": "phys-ts-amazon/50-akarat-jewel.webp", "caption": "阿卡拉特之怒（神话珠宝）：+15% 攻击速度，+40% 增强伤害（镶嵌于丧钟）"}
+              ]
+            },
+            {
+              "type": "note",
+              "text": "专家注：移动速度直接转化为清图速度和刷图（Mapping）效率。"
+            },
+            {
+              "type": "h2",
+              "text": "7. 珠宝镶嵌逻辑与优先级 Jewel Logic"
+            },
+            {
+              "type": "p",
+              "text": "此珠宝逻辑适用于全身上下所有带孔的装备。"
+            },
+            {
+              "type": "table",
+              "caption": "珠宝优先级",
+              "headers": ["优先级", "属性词缀"],
+              "rows": [
+                ["1", "50% 增强伤害（ED）"],
+                ["2", "点伤（Flat Damage）"],
+                ["3", "最大伤害（Maximum Damage）"],
+                ["4", "最小伤害（Minimum Damage）"]
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**物理穿透（Pierce）**",
+                "**击杀回复生命（Life per Kill）**",
+                "**击杀回复法力（Mana per Kill）**",
+                "**抗性（Resistances）**"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "为什么是这个顺序？武器上的基础 ED 首先进行计算；珠宝提供的 ED 以此为基础进行乘法放大；得出的结果（点伤）随后再被致命打击（DS）和弹道数量进一步乘法放大。在这种伤害结构中，最大伤害的收益略微优于最小伤害。"
+            },
+            {
+              "type": "h2",
+              "text": "8. 护身符配置 Charms"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "**地狱火炬 (Torch)**",
+                "**毁灭小护身符 (Annihilus)**",
+                "**声音 (Voices)** 大护身符"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "暗金华丽护身符（Ornate Uniques）"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "融合肉体 (Melding the Flesh)",
+                "赋能灵魂 (Empowered Spirit)",
+                "卓越思想 (Transcendent Mind)",
+                "锤炼肉体 (Tempered Flesh)",
+                "万物归一 (One With Nothing)"
+              ]
+            },
+            {
+              "type": "sub",
+              "text": "剩余空间"
+            },
+            {
+              "type": "ul",
+              "items": ["填满 **15+ 最大伤害（Max Damage）**的华丽护身符"]
+            },
+            {
+              "type": "note",
+              "text": "由于 TS 的弹道乘数效应，点伤（Flat Damage）护身符的收益极高。"
+            },
+            {
+              "type": "h2",
+              "text": "9. 为什么大后期选择物理 TS 而非触发（Proc）流派？"
+            },
+            {
+              "type": "p",
+              "text": "在游戏初期，触发流派依靠全屏的特效确实统治力极高。但在高造价投入的最终形态下："
+            },
+            {
+              "type": "ul",
+              "items": [
+                "物理流派的放大倍数更高（Scales Harder）",
+                "对 Boss 的输出能力更强",
+                "游戏体验更流畅，对电脑 FPS 更友好"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "完全优化后的物理龙卷射击亚马逊，拥有亚马逊所有 Build 中最高的伤害放大天花板之一。"
+            },
+            {
+              "type": "hl",
+              "text": "愿好运与你同在，放逐者 —"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "assassin",
+      "name": "刺客",
+      "enName": "Assassin",
+      "icon": "claws",
+      "builds": []
+    },
+    {
+      "id": "barbarian",
+      "name": "野蛮人",
+      "enName": "Barbarian",
+      "icon": "axe",
+      "builds": []
+    },
+    {
+      "id": "druid",
+      "name": "德鲁伊",
+      "enName": "Druid",
+      "icon": "pelt",
+      "builds": []
+    },
+    {
+      "id": "necromancer",
+      "name": "死灵法师",
+      "enName": "Necromancer",
+      "icon": "wand",
+      "builds": []
+    },
+    {
+      "id": "paladin",
+      "name": "圣骑士",
+      "enName": "Paladin",
+      "icon": "scepter",
+      "builds": []
+    },
+    {
+      "id": "sorceress",
+      "name": "法师",
+      "enName": "Sorceress",
+      "icon": "orb",
+      "builds": []
+    }
+  ]
+}

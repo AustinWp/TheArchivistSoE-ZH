@@ -1,5 +1,7 @@
 import React, {useEffect, useMemo, useState} from "react";
 
+import BuildsPanel from "./BuildsPanel";
+
 import SwordIcon from "./icons/sword.svg";
 import StaffIcon from "./icons/staff.svg";
 import BowIcon from "./icons/bow.svg";
@@ -55,6 +57,7 @@ const TABS = {
         badge: "测试版"
     },
     skills: "技能",
+    builds: "核心BD构筑",
     cube: "魔方配方",
     changes: "标准模式",
     help: "帮助",
@@ -4587,7 +4590,9 @@ export default function App() {
                     search={skillsSearch}
                     onLink={handleMarkdownAppLink}
                 />
-            </>) : tab === "affixes" ? (<>
+            </>) : tab === "builds" ? (
+                <BuildsPanel/>
+            ) : tab === "affixes" ? (<>
                 <div className="filtersStack">
                     <FiltersBar
                         search={search}
