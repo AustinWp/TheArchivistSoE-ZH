@@ -179,6 +179,11 @@ def main():
              not any("Reroll type" in r["description"] for r in DM))
     ck.check("炼狱：存在 暗金/套装→碎片 拆解（DAMNATION MODE ONLY CHANGES 30 行）",
              len([r for r in DM if r["section"] == "DAMNATION MODE ONLY CHANGES"]) == 30)
+    ck.check("机遇宝珠：炼狱 52 组 ROLL/POOF/SUCCESS，标准模式无此系统",
+             len([r for r in DM if r["section"] == "ORB OF CHANCE - ROLL"]) == 52
+             and len([r for r in DM if r["section"] == "ORB OF CHANCE - OUTCOME - POOF"]) == 52
+             and len([r for r in DM if r["section"] == "ORB OF CHANCE - OUTCOME - SUCCESS"]) == 52
+             and not any(r["section"].startswith("ORB OF CHANCE") for r in ST))
 
     # ---------- 12) 文档已证错误行（应当删除/改写） ----------
     ck.group("L. 文档硬错误复核（改写后应为空/修正）")

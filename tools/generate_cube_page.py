@@ -595,6 +595,62 @@ def main():
         "- CubeMain 对应行：`Tabula special removal`；物品需未腐化",
     ])
 
+    # ------------------------------------------------------------------ 22 机遇宝珠（炼狱专属）
+    add("orb-of-chance", "机遇宝珠系统（炼狱模式专属）", [
+        "- 炼狱（毁灭）模式中，`神话宝珠` / `神授宝珠` 不可用，由 **机遇宝珠（oroc）** 取代（标准模式仍是神话/神授宝珠）",
+        "- **流程**：机遇宝珠 + 物品 放入方块合成**两次**——第一次登记，第二次判定：",
+    ], modes=["damnation"])
+    # 用脚本外推细节（保证数据驱动）
+    oc = []
+    for r in DM:
+        if r["section"] == "ORB OF CHANCE - ROLL":
+            desc = r["description"]
+            if desc not in [x[0] for x in oc]:
+                oc.append((desc, r["op"], r["value"]))
+    succ_rows = {r["description"] for r in DM if r["section"] == "ORB OF CHANCE - OUTCOME - SUCCESS"}
+    poof_rows = {r["description"] for r in DM if r["section"] == "ORB OF CHANCE - OUTCOME - POOF"}
+    # 判定表：从 ROLL 行归纳品质/阶位/槽位
+    slot_map = {"armor": "护甲", "weapon": "武器", "quiver": "箭袋（箭矢/弩矢）",
+                "ring": "戒指", "amulet": "项链", "jewel": "普通珠宝",
+                "mythic jewel": "神话珠宝", "grand charm": "大护符", "ornate charm": "华丽护符"}
+    def classify(desc):
+        m = re.match(r"(White|Superior|Magic|Rare) (normal|exceptional|execptional|exeptional|elite) (armor|weapon|quiver)", desc)
+        if m:
+            q = {"White": "白色", "Superior": "超强", "Magic": "魔法", "Rare": "稀有"}[m.group(1)]
+            t = {"normal": "普通", "exceptional": "扩展", "execptional": "扩展", "exeptional": "扩展", "elite": "精英"}[m.group(2)]
+            return (q, t, slot_map[m.group(3)])
+        m = re.match(r"(Magic|Rare) (ring|amulet|jewel|mythic jewel|grand charm|ornate charm)$", desc)
+        if m:
+            return ({"Magic": "魔法", "Rare": "稀有"}[m.group(1)], "", slot_map[m.group(2)])
+        return None
+    groups = {}
+    for desc, op, value in oc:
+        c = classify(desc)
+        if c is None:
+            continue
+        key = c[2]
+        groups.setdefault(key, []).append((c[0], c[1]))
+    lines = []
+    for i, (slot, lst) in enumerate(groups.items(), start=1):
+        quals = sorted(set(x[0] for x in lst))
+        tiers = sorted(set(x[1] for x in lst if x[1]))
+        qs = "/".join(quals)
+        if tiers:
+            lines.append([str(i), f"机遇宝珠 + **{qs}** 品质的 **{'/'.join(tiers)}** {slot}",
+                          "第一次登记，第二次合成：成功=同底材暗金；失败=获得 1×骷髅钥匙"])
+        else:
+            lines.append([str(i), f"机遇宝珠 + **{qs}** {slot}",
+                          "第一次登记，第二次合成：成功=同底材暗金；失败=获得 1×骷髅钥匙"])
+    sec = cube[-1]
+    sec["text"] += md_table(["#", "配方", "判定"], lines)
+    sec["text"] += [
+        "- 判定概率：数据权重约为 50/50（失败 49 / 成功 50，累计制），具体以游戏内为准",
+        "- **碎片合成**：10/20/30/40/50 机遇碎片 → 1/2/3/4/5 机遇宝珠（崇高碎片同规则 → 崇高宝珠）",
+        "- **碎片来源（暗金/套装拆解，炼狱专属）**：暗金 + 骷髅钥匙 → 1×机遇碎片；套装 + 骷髅钥匙 → 1×崇高碎片；普通珠宝/神话珠宝/华丽护符另需 **1×永恒币**",
+        "- **末日之刃复制品（炼狱）**：幻化之刃 + 5×机遇宝珠 + 1×永恒币",
+        "- 机遇宝珠/机遇碎片来源于暗金拆解与炼狱熔炉（概率见炼狱熔炉节）",
+    ]
+
     # ------------------------------------------------------------------ 22 炼狱差异
     dam_diff = [
         ["神话宝珠 / 神授宝珠", "**移除**；由「机遇宝珠」取代（随机暗金化，可能失败）"],
