@@ -8904,7 +8904,7 @@
     "hellforged": false
   },
   {
-    "index": "七里靴",
+    "index": "七里之靴",
     "enabled": "1",
     "level": 7,
     "requiredLevel": "5",
@@ -8957,7 +8957,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "普通",
-    "displayName": "七里靴",
+    "displayName": "七里之靴",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,

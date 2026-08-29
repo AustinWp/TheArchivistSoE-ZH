@@ -71,7 +71,7 @@ const TABS = {
         title: "毁灭模式",
         badge: "测试版"
     },
-    ascendancies: "飞升",
+    ascendancies: "升华",
     mapping: "地图",
     fatecards: "命运卡牌",
     kiln: "炼狱熔炉",
@@ -284,7 +284,7 @@ const TOOLTIPS_TEXT_MAP = {
     "code": "此代码可用于你的掉落过滤器中，以高亮这个特定基底。",
     "uniCode": "此代码可用于你的掉落过滤器中，以高亮这个特定基底 - 记得加上 UNI 修饰符。",
     "sacred": "除了此处提到的物品之外，还需要在魔方中使用圣化宝珠。",
-    "mythicDivineOrb": "在流放圣域（Sanctuary of Exile）中，暗金物品可以通过在魔方中使用基底物品和与物品阶位匹配的通货宝珠制作 - 普通与扩展基底使用神话宝珠，精英基底使用神圣宝珠。",
+    "mythicDivineOrb": "在流放圣域（Sanctuary of Exile）中，暗金物品可以通过在魔方中使用基底物品和与物品阶位匹配的通货宝珠制作 - 普通与扩展基底使用神话宝珠，精英基底使用神授宝珠。",
     "affixMaxLevel": "当物品等级足够高时，部分词缀将不再有资格出现在该物品上，从而让更好的词缀更有可能出现。",
     "affixFrequency": "频率参数决定该属性在物品上出现的概率。",
     "affixRares": "如果为真，则该属性可以出现在稀有物品上。",
@@ -294,7 +294,7 @@ const TOOLTIPS_TEXT_MAP = {
 const INFO_BY_TAB = {
     sacreds: {
         title: "关于圣化",
-        text: "圣化系统是流放圣域（Sanctuary of Exile）独有的。它允许你驾驭符文之语的力量，并将其铭刻到 `暗金` 或 `手工` 物品上：\n\n" + "- 制作圣化物品需要找到 `圣化宝珠`，它掉落于 `T4 地下城`，或由 `财富恐怖（Terror of Opulence）` 加入的怪物掉落\n\n" + "- 要圣化一件物品，首先用 `符文`（或其他附加物品 - 请查阅下方列表中的相应配方）与 `圣化宝珠` 合成，制作出 `圣化宝珠（X）`\n\n" + "- 符文必须处于堆叠状态，每种符文的堆叠数量需与本页圣化提示中显示的数量一致\n\n" + "- 将制作好的宝珠与你想圣化的 `暗金` 或 `手工` 物品合成。请注意，附加属性可能因物品类型而异\n\n" + "- 圣化物品可以被 `世界之石碎片` 腐化\n\n" + "- 只要物品**不是** `腐化` 状态，就可以用 `恶魔魔方` 从 `暗金` 物品上移除圣化属性及其圣化状态\n\n" + "- `手工` 物品上的圣化属性及圣化状态**无法**被移除，请谨慎选择！\n\n" + "- 配方中提到的附加装备组件可以是任意品质和阶位"
+        text: "圣化系统是流放圣域（Sanctuary of Exile）独有的。它允许你驾驭符文之语的力量，并将其铭刻到 `暗金` 或 `手工` 物品上：\n\n" + "- 制作圣化物品需要找到 `圣化宝珠`，它掉落于 `T4 地下城`，或由 `富饶恐惧` 加入的怪物掉落\n\n" + "- 要圣化一件物品，首先用 `符文`（或其他附加物品 - 请查阅下方列表中的相应配方）与 `圣化宝珠` 合成，制作出 `圣化宝珠（X）`\n\n" + "- 符文必须处于堆叠状态，每种符文的堆叠数量需与本页圣化提示中显示的数量一致\n\n" + "- 将制作好的宝珠与你想圣化的 `暗金` 或 `手工` 物品合成。请注意，附加属性可能因物品类型而异\n\n" + "- 圣化物品可以被 `世界之石碎片` 腐化\n\n" + "- 只要物品**不是** `腐化` 状态，就可以用 `恶魔宝盒` 从 `暗金` 物品上移除圣化属性及其圣化状态（⚠️ 当前数据未见对应配方，待游戏内验证）\n\n" + "- `手工` 物品上的圣化属性及圣化状态**无法**被移除，请谨慎选择！\n\n" + "- 配方中提到的附加装备组件可以是任意品质和阶位"
     },
 };
 
@@ -704,14 +704,37 @@ function Markdown({text, onLink}) {
         listBuf = [];
     };
 
+    // tableBuf: consecutive GFM table lines (| a | b |)
+    let tableBuf = [];
+    const flushTable = () => {
+        if (!tableBuf.length) return;
+        const rows = tableBuf
+            .map((l) => l.trim().replace(/^\|/, "").replace(/\|$/, "").split("|").map((c) => c.trim()))
+            .filter((cells) => !(cells.length === 1 && !cells[0]))
+            .filter((cells) => !cells.every((c) => /^:?-{2,}:?$/.test(c)));
+        const head = rows.shift() || [];
+        blocks.push({type: "table", head, rows});
+        tableBuf = [];
+    };
+
     for (const line of lines) {
         const t = line.trimEnd();
 
         if (!t.trim()) {
+            flushTable();
             flushList();
             flushParagraph();
             continue;
         }
+
+        // GFM table row
+        if (t.trim().startsWith("|")) {
+            flushList();
+            flushParagraph();
+            tableBuf.push(t.trim());
+            continue;
+        }
+        flushTable();
 
         // capture indent + bullet
         const bullet = t.match(/^(\s*)[-*]\s+(.+)$/);
@@ -743,6 +766,7 @@ function Markdown({text, onLink}) {
     }
 
     flushList();
+    flushTable();
     flushParagraph();
 
     return (<div className="md">
@@ -758,6 +782,18 @@ function Markdown({text, onLink}) {
                         </ul>)}
                     </li>))}
                 </ul>);
+            }
+            if (b.type === "table") {
+                return (<table key={i} className="mdTable">
+                    <thead>
+                        <tr>{b.head.map((c, j) => (<th key={j}>{renderInlineMarkdown(c, onLink)}</th>))}</tr>
+                    </thead>
+                    <tbody>
+                        {b.rows.map((row, j) => (<tr key={j}>
+                            {row.map((c, k) => (<td key={k}>{renderInlineMarkdown(c, onLink)}</td>))}
+                        </tr>))}
+                    </tbody>
+                </table>);
             }
             return (<p key={i} className="mdP">
                 {renderInlineMarkdown(b.text, onLink)}
@@ -3492,10 +3528,10 @@ function UniqueTooltip({u, openDropCalculator, onLink}) {
     const creationOrb = mythicOrbIndexes.has(u?.index)
         ? "神话宝珠"
         : divineOrbIndexes.has(u?.index)
-            ? "神圣宝珠"
+            ? "神授宝珠"
             : (u?.itemTier === "普通" || u?.itemTier === "扩展")
                 ? "神话宝珠"
-                : "神圣宝珠";
+                : "神授宝珠";
 
     return (<>
         <div className="tipUniqueTitle">{title}</div>
@@ -3586,16 +3622,25 @@ function UniqueTooltip({u, openDropCalculator, onLink}) {
     </>);
 }
 
-function StaticDataPanel({data, loading, error, search, onLink, emptyLabel}) {
+function StaticDataPanel({data, loading, error, search, onLink, damnation = false, emptyLabel}) {
     const [openMap, setOpenMap] = React.useState({});
 
     const all = Array.isArray(data) ? data : [];
 
     const filtered = React.useMemo(() => {
         const q = (search || "").trim().toLowerCase();
-        if (!q) return all;
 
-        return all.filter((r) => {
+        const modeOk = (r) => {
+            const modes = r?.modes;
+            if (!modes) return true;
+            const list = Array.isArray(modes) ? modes : [modes];
+            return (damnation ? list.includes("damnation") : list.includes("standard")) || list.includes("both");
+        };
+
+        const base = all.filter(modeOk);
+        if (!q) return base;
+
+        return base.filter((r) => {
             const title = (n(r?.title) || "").toLowerCase();
 
             const textArr = Array.isArray(r?.text) ? r.text : [r?.text];
@@ -3606,7 +3651,7 @@ function StaticDataPanel({data, loading, error, search, onLink, emptyLabel}) {
 
             return title.includes(q) || textJoined.includes(q);
         });
-    }, [all, search]);
+    }, [all, search, damnation]);
 
     const toggle = (id) => {
         setOpenMap((m) => {
@@ -4495,6 +4540,7 @@ export default function App() {
                     error={cube.error}
                     search={cubeSearch}
                     onLink={handleMarkdownAppLink}
+                    damnation={damnationMode}
                 />
             </>) : tab === "ascendancies" ? (<>
                 <div className="filtersStack">

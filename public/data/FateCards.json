@@ -20,7 +20,7 @@
   {
     "code": "fa04",
     "name": "源质",
-    "description": "10 个神圣宝珠",
+    "description": "10 个神授宝珠",
     "requiredAmount": 8
   },
   {
@@ -134,7 +134,7 @@
   {
     "code": "fa23",
     "name": "意外之获",
-    "description": "75 个结晶余烬之魂",
+    "description": "75 个晶化烬魂",
     "requiredAmount": 1
   },
   {
@@ -152,37 +152,37 @@
   {
     "code": "fa26",
     "name": "失落世界",
-    "description": "T4 地下城\n稀有罪之圣所",
+    "description": "T4 地下城\n稀有罪恶庇佑所",
     "requiredAmount": 5
   },
   {
     "code": "fa27",
     "name": "无垠之境",
-    "description": "T4 地下城\n稀有折磨平原",
+    "description": "T4 地下城\n稀有苦痛平原",
     "requiredAmount": 5
   },
   {
     "code": "fa28",
     "name": "旅程",
-    "description": "T4 地下城\n稀有达肯沙尔草原",
+    "description": "T4 地下城\n稀有达肯沙尔荒原",
     "requiredAmount": 5
   },
   {
     "code": "fa29",
     "name": "制图师的喜悦",
-    "description": "5 个制图师的雕刻刀（采购）",
+    "description": "5 个制图师凿子·采购",
     "requiredAmount": 4
   },
   {
     "code": "fa30",
     "name": "制图师",
-    "description": "5 个制图师的雕刻刀（贪婪）",
+    "description": "5 个制图师凿子·贪婪",
     "requiredAmount": 4
   },
   {
     "code": "fa31",
     "name": "永不知足",
-    "description": "3 个复仇女神雕文",
+    "description": "3 个宿敌铭文",
     "requiredAmount": 2
   },
   {
@@ -201,6 +201,12 @@
     "code": "fa34",
     "name": "黑暗中的苦难",
     "description": "物品等级：85\n刺客影子训练技能护符",
+    "requiredAmount": 2
+  },
+  {
+    "code": "fa35",
+    "name": "制弓者的梦",
+    "description": "物品等级：85\n亚马逊弓弩技能护符",
     "requiredAmount": 2
   },
   {
@@ -308,7 +314,7 @@
   {
     "code": "fa53",
     "name": "无畏者",
-    "description": "物品等级：87\n稀有或暗金腰带",
+    "description": "物品等级：87\n暗金腰带",
     "requiredAmount": 4
   },
   {
@@ -326,7 +332,7 @@
   {
     "code": "fa56",
     "name": "求生者",
-    "description": "3 个点金石",
+    "description": "3 个炼金宝珠",
     "requiredAmount": 2
   },
   {
@@ -339,7 +345,7 @@
     "code": "fa58",
     "name": "斥候",
     "description": "3 个地平线宝珠",
-    "requiredAmount": 2
+    "requiredAmount": 4
   },
   {
     "code": "fa59",
@@ -350,20 +356,20 @@
   {
     "code": "fa60",
     "name": "逃出生天",
-    "description": "七里靴",
+    "description": "七里之靴",
     "requiredAmount": 5
   },
   {
     "code": "fa61",
     "name": "谦恭",
-    "description": "空白之卷",
+    "description": "无尽之衣",
     "requiredAmount": 8
   },
   {
     "code": "fa62",
     "name": "圣者宝藏",
-    "description": "2 个崇高宝珠",
-    "requiredAmount": 3
+    "description": "3 个崇高宝珠",
+    "requiredAmount": 2
   },
   {
     "code": "fa63",

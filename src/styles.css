@@ -735,6 +735,36 @@ button.btn {
     font-style: italic;
 }
 
+.mdTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 6px 0 10px 0;
+    font-size: 16px;
+    overflow-x: auto;
+    display: block;
+}
+
+.mdTable th,
+.mdTable td {
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    padding: 5px 9px;
+    text-align: left;
+    vertical-align: top;
+    color: rgba(255, 255, 255, 0.88);
+    line-height: 1.4;
+    white-space: normal;
+}
+
+.mdTable th {
+    background: rgba(0, 0, 0, 0.45);
+    font-weight: 900;
+    color: #f5e6c8;
+}
+
+.mdTable tbody tr:nth-child(odd) {
+    background: rgba(255, 255, 255, 0.04);
+}
+
 /* Help tab panel */
 .helpPanel {
     padding: 14px 16px;
