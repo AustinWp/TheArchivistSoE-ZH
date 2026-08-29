@@ -2722,6 +2722,14 @@ a.mdLink {
     height: auto;
 }
 
+/* 单图（关键装备截图）：限宽居中，避免全宽显示过大 */
+.bdFigureSolo {
+    width: 100%;
+    max-width: 520px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .bdFigCaption {
     font-size: 13px;
     color: var(--muted);
@@ -2732,6 +2740,13 @@ a.mdLink {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
     gap: 14px;
+}
+
+/* 网格内截图：限制单格最大宽度并居中，防止个别大图过宽 */
+.bdImgGrid .bdFigure {
+    max-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* 结语 */
@@ -2772,7 +2787,7 @@ a.mdLink {
 
 .bdLightboxInner img {
     display: block;
-    max-width: 100%;
+    max-width: min(760px, 100%);
     height: auto;
 }
 

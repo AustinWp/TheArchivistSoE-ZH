@@ -56,10 +56,10 @@ function MultiLine({text}) {
 }
 
 // ---- 截图（点击放大） ----
-function BuildFigure({item, onOpen}) {
+function BuildFigure({item, onOpen, className}) {
     const src = IMG_BASE + item.src;
     return (
-        <figure className="bdFigure">
+        <figure className={"bdFigure" + (className ? ` ${className}` : "")}>
             <div className="bdFigureImg" onClick={() => onOpen(item)}>
                 <img src={src} alt={item.caption || ""} loading="lazy"/>
             </div>
@@ -154,6 +154,7 @@ function SectionBlock({block, onOpenImage}) {
                 <BuildFigure
                     item={{src: block.src, caption: block.caption}}
                     onOpen={onOpenImage}
+                    className="bdFigureSolo"
                 />
             );
         case "imgs":
