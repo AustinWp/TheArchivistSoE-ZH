@@ -3731,59 +3731,6 @@ function StaticDataPanel({data, loading, error, search, onLink, damnation = fals
     </>);
 }
 
-function SkillsDataPanel({data, search}) {
-    const [cls, setCls] = React.useState("全部");
-    const all = Array.isArray(data) ? data : [];
-    const query = (search || "").trim().toLowerCase();
-    const rows = all.filter((r) => {
-        if (cls !== "全部" && r.className !== cls && !(cls === "通用" && !r.className)) return false;
-        if (!query) return true;
-        return (r.name || "").toLowerCase().includes(query)
-            || (r.brief || "").toLowerCase().includes(query)
-            || (r.reqLevel || "").toLowerCase().includes(query);
-    });
-    const classes = ["全部", ...new Set(all.map((r) => r.className || "通用"))];
-    return (<div className="infoPanel" style={{marginBottom: 10}}>
-        <div className="infoHeader">
-            <div className="infoTitle" style={{fontSize: 18}}>全部技能（{all.length}）</div>
-        </div>
-        <div className="filtersStack">
-            <div className="filtersPanel">
-                {classes.map((c) => (
-                    <button key={c} type="button"
-                            onClick={() => setCls(c)}
-                            style={{margin: "2px 4px 2px 0", padding: "3px 10px",
-                                    border: "1px solid rgba(255,255,255,.35)", borderRadius: 6,
-                                    background: cls === c ? "rgba(255,255,255,.18)" : "transparent",
-                                    color: "rgba(255,255,255,.9)", cursor: "pointer"}}>
-                        {c}
-                    </button>
-                ))}
-            </div>
-        </div>
-        <div style={{maxHeight: 480, overflowY: "auto"}}>
-            <table className="mdTable">
-                <thead>
-                    <tr><th>技能</th><th>职业</th><th>需求等级</th><th>需求力量</th><th>需求敏捷</th><th>简介</th></tr>
-                </thead>
-                <tbody>
-                    {rows.map((r, i) => (
-                        <tr key={i}>
-                            <td>{r.name}</td>
-                            <td>{r.className || "通用"}</td>
-                            <td>{r.reqLevel}</td>
-                            <td>{r.reqStr}</td>
-                            <td>{r.reqDex}</td>
-                            <td>{r.brief}</td>
-                        </tr>
-                    ))}
-                </tbody>
-            </table>
-        </div>
-    </div>);
-}
-
-
 function TabsBar({
                      tab,
                      setTab,
@@ -3845,7 +3792,6 @@ export default function App() {
     const siteUpdates = useJson("SiteUpdates.json", damnationMode);
     const affixes = useJson("Affixes.json", damnationMode);
     const skills = useJson("Skills.json", damnationMode);
-    const skillsData = useJson("SkillsData.json", damnationMode);
     const damnation = useJson("Damnation.json", damnationMode);
     const corruptions = useJson("Corruptions.json", damnationMode);
     const fateCards = useJson("FateCards.json", damnationMode);
@@ -4683,7 +4629,6 @@ export default function App() {
                         />
                     </div>
                 </div>
-                <SkillsDataPanel data={(skillsData.data && skillsData.data.skills) || []} search={skillsSearch}/>
                 <StaticDataPanel
                     data={skills.data}
                     loading={skills.loading}
