@@ -9889,6 +9889,18 @@
         "property": "eledam",
         "min": 28,
         "max": 53
+      },
+      {
+        "displayString": "152-214 fire-min",
+        "property": "fire-min",
+        "min": 152,
+        "max": 214
+      },
+      {
+        "displayString": "228-302 fire-max",
+        "property": "fire-max",
+        "min": 228,
+        "max": 302
       }
     ],
     "displayItemTypeNames": [
@@ -10190,6 +10202,24 @@
         "property": "eledam",
         "min": 31,
         "max": 31
+      },
+      {
+        "displayString": "+8 pois-min",
+        "property": "pois-min",
+        "min": 8,
+        "max": 8
+      },
+      {
+        "displayString": "+2580 pois-max",
+        "property": "pois-max",
+        "min": 2580,
+        "max": 2580
+      },
+      {
+        "displayString": "+50 pois-len",
+        "property": "pois-len",
+        "min": 50,
+        "max": 50
       }
     ],
     "displayItemTypeNames": [
@@ -11463,6 +11493,24 @@
         "property": "dmg-min",
         "min": 2,
         "max": 2
+      },
+      {
+        "displayString": "最小伤害",
+        "property": "dmg-min",
+        "min": 3,
+        "max": 3
+      },
+      {
+        "displayString": "最小伤害",
+        "property": "dmg-min",
+        "min": 4,
+        "max": 4
+      },
+      {
+        "displayString": "最小伤害",
+        "property": "dmg-min",
+        "min": 5,
+        "max": 6
       }
     ],
     "displayItemTypeNames": [
@@ -11489,6 +11537,18 @@
         "property": "dmg-min",
         "min": 3,
         "max": 3
+      },
+      {
+        "displayString": "最小伤害",
+        "property": "dmg-min",
+        "min": 4,
+        "max": 4
+      },
+      {
+        "displayString": "最小伤害",
+        "property": "dmg-min",
+        "min": 7,
+        "max": 8
       }
     ],
     "displayItemTypeNames": [
@@ -14204,6 +14264,12 @@
         "property": "map-mon-splash",
         "min": 100,
         "max": 1
+      },
+      {
+        "displayString": "100-1 splash",
+        "property": "splash",
+        "min": 100,
+        "max": 1
       }
     ],
     "displayItemTypeNames": [
@@ -15602,6 +15668,18 @@
         "property": "extra-ltng",
         "min": 2,
         "max": 3
+      },
+      {
+        "displayString": "+1 ltng-min",
+        "property": "ltng-min",
+        "min": 1,
+        "max": 1
+      },
+      {
+        "displayString": "136-187 ltng-max",
+        "property": "ltng-max",
+        "min": 136,
+        "max": 187
       }
     ],
     "displayItemTypeNames": [
@@ -16665,6 +16743,12 @@
         "property": "pierce",
         "min": 11,
         "max": 20
+      },
+      {
+        "displayString": "几率刺骨",
+        "property": "pierce",
+        "min": 3,
+        "max": 5
       }
     ],
     "displayItemTypeNames": [
@@ -16690,6 +16774,18 @@
         "property": "pierce",
         "min": 21,
         "max": 30
+      },
+      {
+        "displayString": "100-1 splash",
+        "property": "splash",
+        "min": 100,
+        "max": 1
+      },
+      {
+        "displayString": "致命攻击",
+        "property": "deadly",
+        "min": 20,
+        "max": 20
       }
     ],
     "displayItemTypeNames": [
@@ -20618,6 +20714,12 @@
         "property": "dmg-to-mana",
         "min": 21,
         "max": 30
+      },
+      {
+        "displayString": "魔法伤害受到的减少",
+        "property": "red-mag",
+        "min": 1,
+        "max": 1
       }
     ],
     "displayItemTypeNames": [
@@ -21706,6 +21808,18 @@
         "property": "res-ltng",
         "min": 31,
         "max": 45
+      },
+      {
+        "displayString": "1-6 ltng-min",
+        "property": "ltng-min",
+        "min": 1,
+        "max": 6
+      },
+      {
+        "displayString": "303-403 ltng-max",
+        "property": "ltng-max",
+        "min": 303,
+        "max": 403
       }
     ],
     "displayItemTypeNames": [
@@ -22168,6 +22282,18 @@
         "property": "eledam",
         "min": 52,
         "max": 79
+      },
+      {
+        "displayString": "52-76 fire-min",
+        "property": "fire-min",
+        "min": 52,
+        "max": 76
+      },
+      {
+        "displayString": "79-103 fire-max",
+        "property": "fire-max",
+        "min": 79,
+        "max": 103
       }
     ],
     "displayItemTypeNames": [
@@ -22541,6 +22667,12 @@
         "property": "red-mag",
         "min": 1,
         "max": 2
+      },
+      {
+        "displayString": "魔法伤害受到的减少",
+        "property": "red-mag",
+        "min": 1,
+        "max": 1
       }
     ],
     "displayItemTypeNames": [
@@ -22601,6 +22733,12 @@
         "property": "red-mag",
         "min": 3,
         "max": 6
+      },
+      {
+        "displayString": "魔法伤害受到的减少",
+        "property": "red-mag",
+        "min": 3,
+        "max": 3
       }
     ],
     "displayItemTypeNames": [
@@ -23572,6 +23710,72 @@
         "property": "eledam",
         "min": 1,
         "max": 14
+      },
+      {
+        "displayString": "+1 ltng-min",
+        "property": "ltng-min",
+        "min": 1,
+        "max": 1
+      },
+      {
+        "displayString": "6-9 ltng-max",
+        "property": "ltng-max",
+        "min": 6,
+        "max": 9
+      },
+      {
+        "displayString": "12-18 ltng-max",
+        "property": "ltng-max",
+        "min": 12,
+        "max": 18
+      },
+      {
+        "displayString": "14-24 ltng-max",
+        "property": "ltng-max",
+        "min": 14,
+        "max": 24
+      },
+      {
+        "displayString": "+16 ltng-max",
+        "property": "ltng-max",
+        "min": 16,
+        "max": 16
+      },
+      {
+        "displayString": "16-32 ltng-max",
+        "property": "ltng-max",
+        "min": 16,
+        "max": 32
+      },
+      {
+        "displayString": "21-60 ltng-max",
+        "property": "ltng-max",
+        "min": 21,
+        "max": 60
+      },
+      {
+        "displayString": "5-3 att-skill",
+        "property": "att-skill",
+        "min": 5,
+        "max": 3
+      },
+      {
+        "displayString": "等级  传送（ 次充能）",
+        "property": "charged",
+        "min": -30,
+        "max": -7
+      },
+      {
+        "displayString": "等级  传送（ 次充能）",
+        "property": "charged",
+        "min": -20,
+        "max": -4
+      },
+      {
+        "displayString": "等级  传送（ 次充能）",
+        "property": "charged",
+        "min": 50,
+        "max": 1
       }
     ],
     "displayItemTypeNames": [
@@ -25411,6 +25615,12 @@
         "property": "balance3",
         "min": 24,
         "max": 24
+      },
+      {
+        "displayString": "快速打击恢复",
+        "property": "balance3",
+        "min": 20,
+        "max": 20
       }
     ],
     "displayItemTypeNames": [
@@ -25541,6 +25751,12 @@
         "property": "regen",
         "min": 6,
         "max": 10
+      },
+      {
+        "displayString": "生命回复",
+        "property": "regen",
+        "min": 3,
+        "max": 3
       }
     ],
     "displayItemTypeNames": [
@@ -27805,6 +28021,12 @@
         "property": "lifesteal",
         "min": 4,
         "max": 5
+      },
+      {
+        "displayString": "每次命中偷取生命",
+        "property": "lifesteal",
+        "min": 4,
+        "max": 7
       }
     ],
     "displayItemTypeNames": [
@@ -35966,6 +36188,36 @@
         "property": "cast-skill",
         "min": 12,
         "max": 18
+      },
+      {
+        "displayString": "5-3 att-skill",
+        "property": "att-skill",
+        "min": 5,
+        "max": 3
+      },
+      {
+        "displayString": "8-3 att-skill",
+        "property": "att-skill",
+        "min": 8,
+        "max": 3
+      },
+      {
+        "displayString": "8-5 att-skill",
+        "property": "att-skill",
+        "min": 8,
+        "max": 5
+      },
+      {
+        "displayString": "等级  传送（ 次充能）",
+        "property": "charged",
+        "min": -30,
+        "max": -6
+      },
+      {
+        "displayString": "等级  传送（ 次充能）",
+        "property": "charged",
+        "min": -20,
+        "max": -3
       }
     ],
     "displayItemTypeNames": [
@@ -36936,6 +37188,24 @@
         "property": "eledam",
         "min": 63,
         "max": 238
+      },
+      {
+        "displayString": "63-118 cold-min",
+        "property": "cold-min",
+        "min": 63,
+        "max": 118
+      },
+      {
+        "displayString": "238-365 cold-max",
+        "property": "cold-max",
+        "min": 238,
+        "max": 365
+      },
+      {
+        "displayString": "+150 cold-len",
+        "property": "cold-len",
+        "min": 150,
+        "max": 150
       }
     ],
     "displayItemTypeNames": [
@@ -40980,6 +41250,30 @@
         "property": "eledam",
         "min": 41,
         "max": 71
+      },
+      {
+        "displayString": "23-29 fire-min",
+        "property": "fire-min",
+        "min": 23,
+        "max": 29
+      },
+      {
+        "displayString": "41-55 fire-min",
+        "property": "fire-min",
+        "min": 41,
+        "max": 55
+      },
+      {
+        "displayString": "42-56 fire-max",
+        "property": "fire-max",
+        "min": 42,
+        "max": 56
+      },
+      {
+        "displayString": "71-90 fire-max",
+        "property": "fire-max",
+        "min": 71,
+        "max": 90
       }
     ],
     "displayItemTypeNames": [
@@ -41380,6 +41674,12 @@
         "property": "skill-frequency",
         "min": 1,
         "max": 5
+      },
+      {
+        "displayString": "技能频率",
+        "property": "skill-frequency",
+        "min": 6,
+        "max": 10
       }
     ],
     "displayItemTypeNames": [
@@ -41514,6 +41814,826 @@
       "腰带",
       "手套"
     ],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": true
+  },
+  {
+    "name": "虚无",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "魔法伤害受到的减少",
+        "property": "red-mag",
+        "min": 2,
+        "max": 2
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "寒冷的",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "灭亡之",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "几率造成 压碎性打击",
+        "property": "crush",
+        "min": 10,
+        "max": 15
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": true
+  },
+  {
+    "name": "黎明之",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "加成攻击命中值",
+        "property": "att%",
+        "min": 10,
+        "max": 10
+      },
+      {
+        "displayString": "光照范围",
+        "property": "light",
+        "min": 5,
+        "max": 5
+      },
+      {
+        "displayString": "光照范围",
+        "property": "light",
+        "min": 5,
+        "max": 8
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": true
+  },
+  {
+    "name": "帝王",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "攻击命中值",
+        "property": "att",
+        "min": 77,
+        "max": 104
+      },
+      {
+        "displayString": "最大伤害",
+        "property": "dmg-max",
+        "min": 11,
+        "max": 14
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "熵灭",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "受到的伤害转换为法力",
+        "property": "dmg-to-mana",
+        "min": 13,
+        "max": 18
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "封冻",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "+36 cold-len",
+        "property": "cold-len",
+        "min": 36,
+        "max": 36
+      },
+      {
+        "displayString": "74-93 cold-max",
+        "property": "cold-max",
+        "min": 74,
+        "max": 93
+      },
+      {
+        "displayString": "36-41 cold-min",
+        "property": "cold-min",
+        "min": 36,
+        "max": 41
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "驱毒",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "毒素抗性",
+        "property": "res-pois",
+        "min": 31,
+        "max": 35
+      },
+      {
+        "displayString": "毒素抗性",
+        "property": "res-pois",
+        "min": 31,
+        "max": 45
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "炽烈",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "最大伤害",
+        "property": "dmg-max",
+        "min": 14,
+        "max": 15
+      },
+      {
+        "displayString": "最大伤害",
+        "property": "dmg-max",
+        "min": 16,
+        "max": 20
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "凛寒",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "冰冷抗性",
+        "property": "res-cold",
+        "min": 31,
+        "max": 35
+      },
+      {
+        "displayString": "冰冷抗性",
+        "property": "res-cold",
+        "min": 31,
+        "max": 45
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "出血",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "雷暴",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "闪电抗性",
+        "property": "res-ltng",
+        "min": 31,
+        "max": 35
+      },
+      {
+        "displayString": "闪电抗性",
+        "property": "res-ltng",
+        "min": 31,
+        "max": 45
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "熔岩",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "火焰抗性",
+        "property": "res-fire",
+        "min": 31,
+        "max": 35
+      },
+      {
+        "displayString": "火焰抗性",
+        "property": "res-fire",
+        "min": 31,
+        "max": 45
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "神来一击",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "每击杀一个敌人后获得生命",
+        "property": "heal-kill",
+        "min": 4,
+        "max": 6
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "雇佣兵",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "攻击命中值",
+        "property": "att",
+        "min": 133,
+        "max": 147
+      },
+      {
+        "displayString": "攻击命中值",
+        "property": "att",
+        "min": 140,
+        "max": 179
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "宗师",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "技能范围",
+        "property": "skill-aoe",
+        "min": 9,
+        "max": 12
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "欧泊",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "所有抗性",
+        "property": "res-all",
+        "min": 16,
+        "max": 18
+      },
+      {
+        "displayString": "所有抗性",
+        "property": "res-all",
+        "min": 16,
+        "max": 20
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "留存",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "每击杀一个敌人后获得法力",
+        "property": "mana-kill",
+        "min": 4,
+        "max": 6
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "淬炼",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "最小伤害",
+        "property": "dmg-min",
+        "min": 8,
+        "max": 9
+      },
+      {
+        "displayString": "最小伤害",
+        "property": "dmg-min",
+        "min": 9,
+        "max": 12
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "强健",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "最大生命值加成",
+        "property": "hp%",
+        "min": 4,
+        "max": 5
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "藏蓝",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "法力",
+        "property": "mana",
+        "min": 31,
+        "max": 40
+      },
+      {
+        "displayString": "法力",
+        "property": "mana",
+        "min": 60,
+        "max": 67
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": false
+  },
+  {
+    "name": "晶化",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "+25 cold-len",
+        "property": "cold-len",
+        "min": 25,
+        "max": 25
+      },
+      {
+        "displayString": "+50 cold-len",
+        "property": "cold-len",
+        "min": 50,
+        "max": 50
+      },
+      {
+        "displayString": "21-25 cold-max",
+        "property": "cold-max",
+        "min": 21,
+        "max": 25
+      },
+      {
+        "displayString": "36-44 cold-max",
+        "property": "cold-max",
+        "min": 36,
+        "max": 44
+      },
+      {
+        "displayString": "7-8 cold-min",
+        "property": "cold-min",
+        "min": 7,
+        "max": 8
+      },
+      {
+        "displayString": "20-24 cold-min",
+        "property": "cold-min",
+        "min": 20,
+        "max": 24
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": true
+  },
+  {
+    "name": "电刑",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "69-91 ltng-max",
+        "property": "ltng-max",
+        "min": 69,
+        "max": 91
+      },
+      {
+        "displayString": "141-180 ltng-max",
+        "property": "ltng-max",
+        "min": 141,
+        "max": 180
+      },
+      {
+        "displayString": "+1 ltng-min",
+        "property": "ltng-min",
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": true
+  },
+  {
+    "name": "偶发",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "技能频率",
+        "property": "skill-frequency",
+        "min": 1,
+        "max": 5
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": true
+  },
+  {
+    "name": "影响",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "灵气效果",
+        "property": "aura-effect",
+        "min": 5,
+        "max": 7
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": true
+  },
+  {
+    "name": "秘术",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "诅咒效果",
+        "property": "curse-effect",
+        "min": 3,
+        "max": 5
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": true
+  },
+  {
+    "name": "至高",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "生命",
+        "property": "hp",
+        "min": 21,
+        "max": 30
+      },
+      {
+        "displayString": "生命",
+        "property": "hp",
+        "min": 46,
+        "max": 50
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": true
+  },
+  {
+    "name": "锋锐",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "最小伤害",
+        "property": "dmg-min",
+        "min": 11,
+        "max": 16
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": true
+  },
+  {
+    "name": "淬炼",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "最大伤害",
+        "property": "dmg-max",
+        "min": 4,
+        "max": 5
+      },
+      {
+        "displayString": "最大伤害",
+        "property": "dmg-max",
+        "min": 16,
+        "max": 20
+      }
+    ],
+    "displayItemTypeNames": [],
+    "displayExcludedItemTypeNames": [],
+    "classDisplayName": null,
+    "suffix": true
+  },
+  {
+    "name": "疾风",
+    "spawnable": "1",
+    "rare": "0",
+    "level": 1,
+    "maxLevel": null,
+    "requiredLevel": 0,
+    "classSpecific": "",
+    "frequency": 1,
+    "group": null,
+    "displayProperties": [
+      {
+        "displayString": "敏捷",
+        "property": "dex",
+        "min": 7,
+        "max": 10
+      },
+      {
+        "displayString": "敏捷",
+        "property": "dex",
+        "min": 14,
+        "max": 16
+      }
+    ],
+    "displayItemTypeNames": [],
     "displayExcludedItemTypeNames": [],
     "classDisplayName": null,
     "suffix": true
