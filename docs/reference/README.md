@@ -38,10 +38,12 @@ tools/generated/cube_recipes.json           （gitignore，不入库；随时可
   历史对照表（`official_terms.md`、`sacred_orbs.md`、`fate_cards.md`、
   `pending_verification.md`）可直接人工查阅。
 - 官方串表与配方数据矛盾时（如圣者宝藏卡片说明 3→2× vs 配方 2→3×），**以 CubeMain 配方为准**。
+- 游戏当前版本不存在（未上线/占位）的条目，本站一律**不收录、不提示**；验证记录与处置结论见
+  [`verification-notes.md`](verification-notes.md)（含日后恢复指引）。
 
 ## 已知限制
 
 - 官方串表未覆盖全部物品（暗金 606 件中仅 221 件、符文之语 209 个中仅 32 个有官方中文名），
   未覆盖的保留本站现有译名。
-- 标准模式 `Misc.txt` 等物品表滞后于实际游戏（如恰西的工艺箱/基德的珍奇箱只有串表条目）；
-  以 `soe.txt` + 配方表交叉核验为准，不一致项见 `tools/generated/pending_verification.md`。
+- 标准模式 `Misc.txt` 等物品表滞后于实际游戏（部分条目只有串表条目并无物品定义）；
+  交叉核验以两模式 `misc.bin`（游戏实际加载的物品表）为准，结论见 `verification-notes.md`。
