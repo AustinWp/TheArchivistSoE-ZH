@@ -3583,7 +3583,7 @@ function UniqueTooltip({u, openDropCalculator, onLink}) {
     </>);
 }
 
-function StaticDataPanel({data, loading, error, search, onLink}) {
+function StaticDataPanel({data, loading, error, search, onLink, emptyLabel}) {
     const [openMap, setOpenMap] = React.useState({});
 
     const all = Array.isArray(data) ? data : [];
@@ -3635,7 +3635,7 @@ function StaticDataPanel({data, loading, error, search, onLink}) {
         return (
             <div className="helpPanel">
                 <div className="helpBody">
-                    <div className="emptyState">没有符合搜索条件的魔方配方。</div>
+                    <div className="emptyState">{emptyLabel || "没有符合搜索条件的魔方配方。"}</div>
                 </div>
             </div>
         );
@@ -3741,7 +3741,7 @@ export default function App() {
     const ascendancies = useJson("Ascendancies.json", damnationMode);
     const mapping = useJson("Mapping.json", damnationMode);
     const standard = useJson("Standard.json", damnationMode);
-    const changelog = useJson("Changelog.json", damnationMode);
+    const siteUpdates = useJson("SiteUpdates.json", damnationMode);
     const affixes = useJson("Affixes.json", damnationMode);
     const skills = useJson("Skills.json", damnationMode);
     const damnation = useJson("Damnation.json", damnationMode);
@@ -4669,9 +4669,10 @@ export default function App() {
                 />
             </>) : tab === "changelog" ? (<>
                 <StaticDataPanel
-                    data={changelog.data}
-                    loading={changelog.loading}
-                    error={changelog.error}
+                    data={siteUpdates.data}
+                    loading={siteUpdates.loading}
+                    error={siteUpdates.error}
+                    emptyLabel="暂无更新记录。"
                 />
             </>) : (<>
                 <div className="filtersStack">

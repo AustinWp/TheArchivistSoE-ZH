@@ -331,7 +331,7 @@ def main():
 
     # 文章类
     for fn in ["Skills.json", "Cube.json", "Ascendancies.json", "Mapping.json", "Standard.json",
-               "Changelog.json", "Damnation.json", "Kiln.json"]:
+               "Damnation.json", "Kiln.json"]:
         proc_articles(fn)
 
     # 命运卡牌
