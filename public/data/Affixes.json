@@ -958,7 +958,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+10-20% 增强伤害",
+        "displayString": "+10-20% 强化伤害",
         "property": "dmg%",
         "min": 10,
         "max": 20
@@ -987,7 +987,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+21-30% 增强伤害",
+        "displayString": "+21-30% 强化伤害",
         "property": "dmg%",
         "min": 21,
         "max": 30
@@ -1016,7 +1016,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+31-40% 增强伤害",
+        "displayString": "+31-40% 强化伤害",
         "property": "dmg%",
         "min": 31,
         "max": 40
@@ -1045,7 +1045,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+41-50% 增强伤害",
+        "displayString": "+41-50% 强化伤害",
         "property": "dmg%",
         "min": 41,
         "max": 50
@@ -1074,7 +1074,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+51-65% 增强伤害",
+        "displayString": "+51-65% 强化伤害",
         "property": "dmg%",
         "min": 51,
         "max": 65
@@ -1103,7 +1103,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+66-80% 增强伤害",
+        "displayString": "+66-80% 强化伤害",
         "property": "dmg%",
         "min": 66,
         "max": 80
@@ -1132,7 +1132,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+81-100% 增强伤害",
+        "displayString": "+81-100% 强化伤害",
         "property": "dmg%",
         "min": 81,
         "max": 100
@@ -1161,7 +1161,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+101-200% 增强伤害",
+        "displayString": "+101-200% 强化伤害",
         "property": "dmg%",
         "min": 101,
         "max": 200
@@ -1190,7 +1190,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+201-300% 增强伤害",
+        "displayString": "+201-300% 强化伤害",
         "property": "dmg%",
         "min": 201,
         "max": 300
@@ -1219,7 +1219,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+5-10% 增强伤害",
+        "displayString": "+5-10% 强化伤害",
         "property": "dmg%",
         "min": 5,
         "max": 10
@@ -1245,7 +1245,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+11-20% 增强伤害",
+        "displayString": "+11-20% 强化伤害",
         "property": "dmg%",
         "min": 11,
         "max": 20
@@ -1271,7 +1271,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+21-30% 增强伤害",
+        "displayString": "+21-30% 强化伤害",
         "property": "dmg%",
         "min": 21,
         "max": 30
@@ -1297,7 +1297,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+31-40% 增强伤害",
+        "displayString": "+31-40% 强化伤害",
         "property": "dmg%",
         "min": 31,
         "max": 40
@@ -1323,7 +1323,7 @@
     "group": 107,
     "displayProperties": [
       {
-        "displayString": "7-12% 受到的伤害转换为法力",
+        "displayString": "7-12% 受到伤害转换为法力",
         "property": "dmg-to-mana",
         "min": 7,
         "max": 12
@@ -1351,7 +1351,7 @@
     "group": 107,
     "displayProperties": [
       {
-        "displayString": "7-12% 受到的伤害转换为法力",
+        "displayString": "7-12% 受到伤害转换为法力",
         "property": "dmg-to-mana",
         "min": 7,
         "max": 12
@@ -2525,7 +2525,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "+10-20% 增强伤害",
+        "displayString": "+10-20% 强化伤害",
         "property": "dmg%",
         "min": 10,
         "max": 20
@@ -2560,7 +2560,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "+21-30% 增强伤害",
+        "displayString": "+21-30% 强化伤害",
         "property": "dmg%",
         "min": 21,
         "max": 30
@@ -2595,7 +2595,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "+31-40% 增强伤害",
+        "displayString": "+31-40% 强化伤害",
         "property": "dmg%",
         "min": 31,
         "max": 40
@@ -2630,7 +2630,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "+41-50% 增强伤害",
+        "displayString": "+41-50% 强化伤害",
         "property": "dmg%",
         "min": 41,
         "max": 50
@@ -2665,7 +2665,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "+51-65% 增强伤害",
+        "displayString": "+51-65% 强化伤害",
         "property": "dmg%",
         "min": 51,
         "max": 65
@@ -2700,7 +2700,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "+66-80% 增强伤害",
+        "displayString": "+66-80% 强化伤害",
         "property": "dmg%",
         "min": 66,
         "max": 80
@@ -2735,7 +2735,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "+81-100% 增强伤害",
+        "displayString": "+81-100% 强化伤害",
         "property": "dmg%",
         "min": 81,
         "max": 100
@@ -2770,7 +2770,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "+101-150% 增强伤害",
+        "displayString": "+101-150% 强化伤害",
         "property": "dmg%",
         "min": 101,
         "max": 150
@@ -2805,7 +2805,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "+151-200% 增强伤害",
+        "displayString": "+151-200% 强化伤害",
         "property": "dmg%",
         "min": 151,
         "max": 200
@@ -2932,7 +2932,7 @@
     "group": 114,
     "displayProperties": [
       {
-        "displayString": "1-4% 更好的机会获得魔法物品",
+        "displayString": "1-4% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 1,
         "max": 4
@@ -2958,7 +2958,7 @@
     "group": 114,
     "displayProperties": [
       {
-        "displayString": "5-7% 更好的机会获得魔法物品",
+        "displayString": "5-7% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 5,
         "max": 7
@@ -2984,7 +2984,7 @@
     "group": 114,
     "displayProperties": [
       {
-        "displayString": "8-12% 更好的机会获得魔法物品",
+        "displayString": "8-12% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 8,
         "max": 12
@@ -3010,7 +3010,7 @@
     "group": 114,
     "displayProperties": [
       {
-        "displayString": "1% 更好的机会获得魔法物品",
+        "displayString": "1% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 1,
         "max": 1
@@ -3035,7 +3035,7 @@
     "group": 114,
     "displayProperties": [
       {
-        "displayString": "2-3% 更好的机会获得魔法物品",
+        "displayString": "2-3% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 2,
         "max": 3
@@ -3060,7 +3060,7 @@
     "group": 114,
     "displayProperties": [
       {
-        "displayString": "4-6% 更好的机会获得魔法物品",
+        "displayString": "4-6% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 4,
         "max": 6
@@ -3085,7 +3085,7 @@
     "group": 114,
     "displayProperties": [
       {
-        "displayString": "5-10% 更好的机会获得魔法物品",
+        "displayString": "5-10% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 5,
         "max": 10
@@ -3113,7 +3113,7 @@
     "group": 114,
     "displayProperties": [
       {
-        "displayString": "11-15% 更好的机会获得魔法物品",
+        "displayString": "11-15% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 11,
         "max": 15
@@ -3141,7 +3141,7 @@
     "group": 114,
     "displayProperties": [
       {
-        "displayString": "3-7% 更好的机会获得魔法物品",
+        "displayString": "3-7% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 3,
         "max": 7
@@ -15926,7 +15926,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+301-400% 增强伤害",
+        "displayString": "+301-400% 强化伤害",
         "property": "dmg%",
         "min": 301,
         "max": 400
@@ -16018,7 +16018,7 @@
     "group": 111,
     "displayProperties": [
       {
-        "displayString": "+151-200% 增强伤害",
+        "displayString": "+151-200% 强化伤害",
         "property": "dmg%",
         "min": 151,
         "max": 200
@@ -16049,7 +16049,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+10-20% 增强伤害",
+        "displayString": "+10-20% 强化伤害",
         "property": "dmg%",
         "min": 10,
         "max": 20
@@ -16075,7 +16075,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+20-40% 增强伤害",
+        "displayString": "+20-40% 强化伤害",
         "property": "dmg%",
         "min": 20,
         "max": 40
@@ -16101,7 +16101,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+40-60% 增强伤害",
+        "displayString": "+40-60% 强化伤害",
         "property": "dmg%",
         "min": 40,
         "max": 60
@@ -16127,7 +16127,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+60-80% 增强伤害",
+        "displayString": "+60-80% 强化伤害",
         "property": "dmg%",
         "min": 60,
         "max": 80
@@ -16153,7 +16153,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+80-120% 增强伤害",
+        "displayString": "+80-120% 强化伤害",
         "property": "dmg%",
         "min": 80,
         "max": 120
@@ -16179,7 +16179,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+120-160% 增强伤害",
+        "displayString": "+120-160% 强化伤害",
         "property": "dmg%",
         "min": 120,
         "max": 160
@@ -16205,7 +16205,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+160-200% 增强伤害",
+        "displayString": "+160-200% 强化伤害",
         "property": "dmg%",
         "min": 160,
         "max": 200
@@ -16662,7 +16662,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+66-80% 增强伤害",
+        "displayString": "+66-80% 强化伤害",
         "property": "dmg%",
         "min": 66,
         "max": 80
@@ -16782,7 +16782,7 @@
         "max": 1
       },
       {
-        "displayString": "致命攻击",
+        "displayString": "致命一击",
         "property": "deadly",
         "min": 20,
         "max": 20
@@ -17055,7 +17055,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+10-20% 增强伤害",
+        "displayString": "+10-20% 强化伤害",
         "property": "dmg%",
         "min": 10,
         "max": 20
@@ -17084,7 +17084,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+21-30% 增强伤害",
+        "displayString": "+21-30% 强化伤害",
         "property": "dmg%",
         "min": 21,
         "max": 30
@@ -17113,7 +17113,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+31-40% 增强伤害",
+        "displayString": "+31-40% 强化伤害",
         "property": "dmg%",
         "min": 31,
         "max": 40
@@ -17142,7 +17142,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+41-50% 增强伤害",
+        "displayString": "+41-50% 强化伤害",
         "property": "dmg%",
         "min": 41,
         "max": 50
@@ -17171,7 +17171,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+51-65% 增强伤害",
+        "displayString": "+51-65% 强化伤害",
         "property": "dmg%",
         "min": 51,
         "max": 65
@@ -20604,7 +20604,7 @@
     "group": 114,
     "displayProperties": [
       {
-        "displayString": "5-10% 更好的机会获得魔法物品",
+        "displayString": "5-10% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 5,
         "max": 10
@@ -20630,7 +20630,7 @@
     "group": 114,
     "displayProperties": [
       {
-        "displayString": "11-15% 更好的机会获得魔法物品",
+        "displayString": "11-15% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 11,
         "max": 15
@@ -20682,7 +20682,7 @@
     "group": 107,
     "displayProperties": [
       {
-        "displayString": "13-20% 受到的伤害转换为法力",
+        "displayString": "13-20% 受到伤害转换为法力",
         "property": "dmg-to-mana",
         "min": 13,
         "max": 20
@@ -20710,13 +20710,13 @@
     "group": 107,
     "displayProperties": [
       {
-        "displayString": "21-30% 受到的伤害转换为法力",
+        "displayString": "21-30% 受到伤害转换为法力",
         "property": "dmg-to-mana",
         "min": 21,
         "max": 30
       },
       {
-        "displayString": "魔法伤害受到的减少",
+        "displayString": "魔法伤害降低",
         "property": "red-mag",
         "min": 1,
         "max": 1
@@ -20998,7 +20998,7 @@
     "group": 203,
     "displayProperties": [
       {
-        "displayString": "+5-10% 致命攻击",
+        "displayString": "+5-10% 致命一击",
         "property": "deadly",
         "min": 5,
         "max": 10
@@ -21023,7 +21023,7 @@
     "group": 203,
     "displayProperties": [
       {
-        "displayString": "+10-15% 致命攻击",
+        "displayString": "+10-15% 致命一击",
         "property": "deadly",
         "min": 10,
         "max": 15
@@ -21048,7 +21048,7 @@
     "group": 203,
     "displayProperties": [
       {
-        "displayString": "+4-7% 致命攻击",
+        "displayString": "+4-7% 致命一击",
         "property": "deadly",
         "min": 4,
         "max": 7
@@ -21073,7 +21073,7 @@
     "group": 203,
     "displayProperties": [
       {
-        "displayString": "+15-20% 致命攻击",
+        "displayString": "+15-20% 致命一击",
         "property": "deadly",
         "min": 15,
         "max": 20
@@ -21098,7 +21098,7 @@
     "group": 203,
     "displayProperties": [
       {
-        "displayString": "+7-10% 致命攻击",
+        "displayString": "+7-10% 致命一击",
         "property": "deadly",
         "min": 7,
         "max": 10
@@ -21504,7 +21504,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+10-20% 增强伤害",
+        "displayString": "+10-20% 强化伤害",
         "property": "dmg%",
         "min": 10,
         "max": 20
@@ -21529,7 +21529,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+21-30% 增强伤害",
+        "displayString": "+21-30% 强化伤害",
         "property": "dmg%",
         "min": 21,
         "max": 30
@@ -21579,7 +21579,7 @@
     "group": 105,
     "displayProperties": [
       {
-        "displayString": "+41-50% 增强伤害",
+        "displayString": "+41-50% 强化伤害",
         "property": "dmg%",
         "min": 41,
         "max": 50
@@ -21654,7 +21654,7 @@
     "group": 107,
     "displayProperties": [
       {
-        "displayString": "13-18% 受到的伤害转换为法力",
+        "displayString": "13-18% 受到伤害转换为法力",
         "property": "dmg-to-mana",
         "min": 13,
         "max": 18
@@ -22415,7 +22415,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 1",
+        "displayString": "物理伤害降低 1",
         "property": "red-dmg",
         "min": 1,
         "max": 1
@@ -22445,7 +22445,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 2",
+        "displayString": "物理伤害降低 2",
         "property": "red-dmg",
         "min": 2,
         "max": 2
@@ -22473,7 +22473,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 3",
+        "displayString": "物理伤害降低 3",
         "property": "red-dmg",
         "min": 3,
         "max": 3
@@ -22500,7 +22500,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 4",
+        "displayString": "物理伤害降低 4",
         "property": "red-dmg",
         "min": 4,
         "max": 4
@@ -22527,7 +22527,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 10-25",
+        "displayString": "物理伤害降低 10-25",
         "property": "red-dmg",
         "min": 10,
         "max": 25
@@ -22553,7 +22553,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 2",
+        "displayString": "物理伤害降低 2",
         "property": "red-dmg",
         "min": 2,
         "max": 2
@@ -22580,7 +22580,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 3",
+        "displayString": "物理伤害降低 3",
         "property": "red-dmg",
         "min": 3,
         "max": 3
@@ -22608,7 +22608,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 4-7",
+        "displayString": "物理伤害降低 4-7",
         "property": "red-dmg",
         "min": 4,
         "max": 7
@@ -22636,7 +22636,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 8-15",
+        "displayString": "物理伤害降低 8-15",
         "property": "red-dmg",
         "min": 8,
         "max": 15
@@ -22663,13 +22663,13 @@
     "group": 2,
     "displayProperties": [
       {
-        "displayString": "魔法伤害受到的减少 1-2",
+        "displayString": "魔法伤害降低 1-2",
         "property": "red-mag",
         "min": 1,
         "max": 2
       },
       {
-        "displayString": "魔法伤害受到的减少",
+        "displayString": "魔法伤害降低",
         "property": "red-mag",
         "min": 1,
         "max": 1
@@ -22700,7 +22700,7 @@
     "group": 2,
     "displayProperties": [
       {
-        "displayString": "魔法伤害受到的减少 2-4",
+        "displayString": "魔法伤害降低 2-4",
         "property": "red-mag",
         "min": 2,
         "max": 4
@@ -22729,13 +22729,13 @@
     "group": 2,
     "displayProperties": [
       {
-        "displayString": "魔法伤害受到的减少 3-6",
+        "displayString": "魔法伤害降低 3-6",
         "property": "red-mag",
         "min": 3,
         "max": 6
       },
       {
-        "displayString": "魔法伤害受到的减少",
+        "displayString": "魔法伤害降低",
         "property": "red-mag",
         "min": 3,
         "max": 3
@@ -22763,7 +22763,7 @@
     "group": 2,
     "displayProperties": [
       {
-        "displayString": "魔法伤害受到的减少 8-12",
+        "displayString": "魔法伤害降低 8-12",
         "property": "red-mag",
         "min": 8,
         "max": 12
@@ -22791,7 +22791,7 @@
     "group": 2,
     "displayProperties": [
       {
-        "displayString": "魔法伤害受到的减少 2-4",
+        "displayString": "魔法伤害降低 2-4",
         "property": "red-mag",
         "min": 2,
         "max": 4
@@ -22818,7 +22818,7 @@
     "group": 2,
     "displayProperties": [
       {
-        "displayString": "魔法伤害受到的减少 3-6",
+        "displayString": "魔法伤害降低 3-6",
         "property": "red-mag",
         "min": 3,
         "max": 6
@@ -22846,7 +22846,7 @@
     "group": 2,
     "displayProperties": [
       {
-        "displayString": "魔法伤害受到的减少 8-12",
+        "displayString": "魔法伤害降低 8-12",
         "property": "red-mag",
         "min": 8,
         "max": 12
@@ -26211,7 +26211,7 @@
     "group": 22,
     "displayProperties": [
       {
-        "displayString": "5-15% 更好的机会获得魔法物品",
+        "displayString": "5-15% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 5,
         "max": 15
@@ -26242,7 +26242,7 @@
     "group": 22,
     "displayProperties": [
       {
-        "displayString": "16-25% 更好的机会获得魔法物品",
+        "displayString": "16-25% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 16,
         "max": 25
@@ -26272,7 +26272,7 @@
     "group": 22,
     "displayProperties": [
       {
-        "displayString": "16-25% 更好的机会获得魔法物品",
+        "displayString": "16-25% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 16,
         "max": 25
@@ -26297,7 +26297,7 @@
     "group": 22,
     "displayProperties": [
       {
-        "displayString": "26-35% 更好的机会获得魔法物品",
+        "displayString": "26-35% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 26,
         "max": 35
@@ -26325,7 +26325,7 @@
     "group": 22,
     "displayProperties": [
       {
-        "displayString": "3-5% 更好的机会获得魔法物品",
+        "displayString": "3-5% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 3,
         "max": 5
@@ -26350,7 +26350,7 @@
     "group": 22,
     "displayProperties": [
       {
-        "displayString": "6-7% 更好的机会获得魔法物品",
+        "displayString": "6-7% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 6,
         "max": 7
@@ -26375,7 +26375,7 @@
     "group": 22,
     "displayProperties": [
       {
-        "displayString": "5-10% 更好的机会获得魔法物品",
+        "displayString": "5-10% 寻获魔法物品几率提高",
         "property": "mag%",
         "min": 5,
         "max": 10
@@ -34350,7 +34350,7 @@
     "group": 251,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 8-14%",
+        "displayString": "物理伤害降低 8-14%",
         "property": "red-dmg%",
         "min": 8,
         "max": 14
@@ -34376,7 +34376,7 @@
     "group": 251,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 5-10%",
+        "displayString": "物理伤害降低 5-10%",
         "property": "red-dmg%",
         "min": 5,
         "max": 10
@@ -34402,7 +34402,7 @@
     "group": 251,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 14-20%",
+        "displayString": "物理伤害降低 14-20%",
         "property": "red-dmg%",
         "min": 14,
         "max": 20
@@ -34428,7 +34428,7 @@
     "group": 251,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 20-25%",
+        "displayString": "物理伤害降低 20-25%",
         "property": "red-dmg%",
         "min": 20,
         "max": 25
@@ -34454,7 +34454,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+5-10% 致命攻击",
+        "displayString": "+5-10% 致命一击",
         "property": "deadly",
         "min": 5,
         "max": 10
@@ -34484,7 +34484,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+10-15% 致命攻击",
+        "displayString": "+10-15% 致命一击",
         "property": "deadly",
         "min": 10,
         "max": 15
@@ -34514,7 +34514,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+15-20% 致命攻击",
+        "displayString": "+15-20% 致命一击",
         "property": "deadly",
         "min": 15,
         "max": 20
@@ -34544,7 +34544,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+20-25% 致命攻击",
+        "displayString": "+20-25% 致命一击",
         "property": "deadly",
         "min": 20,
         "max": 25
@@ -34574,7 +34574,7 @@
     "group": 252,
     "displayProperties": [
       {
-        "displayString": "+25-30% 致命攻击",
+        "displayString": "+25-30% 致命一击",
         "property": "deadly",
         "min": 25,
         "max": 30
@@ -39580,7 +39580,7 @@
     "group": 1,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 10-25",
+        "displayString": "物理伤害降低 10-25",
         "property": "red-dmg",
         "min": 10,
         "max": 25
@@ -39606,7 +39606,7 @@
     "group": 2,
     "displayProperties": [
       {
-        "displayString": "魔法伤害受到的减少 12-16",
+        "displayString": "魔法伤害降低 12-16",
         "property": "red-mag",
         "min": 12,
         "max": 16
@@ -40971,7 +40971,7 @@
     "group": 251,
     "displayProperties": [
       {
-        "displayString": "受到的物理伤害减免 10-15%",
+        "displayString": "物理伤害降低 10-15%",
         "property": "red-dmg%",
         "min": 10,
         "max": 15
@@ -41830,7 +41830,7 @@
     "group": null,
     "displayProperties": [
       {
-        "displayString": "魔法伤害受到的减少",
+        "displayString": "魔法伤害降低",
         "property": "red-mag",
         "min": 2,
         "max": 2
@@ -41956,7 +41956,7 @@
     "group": null,
     "displayProperties": [
       {
-        "displayString": "受到的伤害转换为法力",
+        "displayString": "受到伤害转换为法力",
         "property": "dmg-to-mana",
         "min": 13,
         "max": 18

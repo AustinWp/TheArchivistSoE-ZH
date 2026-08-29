@@ -1,0 +1,6958 @@
+{
+ "meta": {
+  "source": "SOECN Skills.txt/Skilldesc.txt",
+  "count": 695
+ },
+ "skills": [
+  {
+   "id": "0",
+   "name": "attack",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "attack"
+  },
+  {
+   "id": "1",
+   "name": "kick",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "kick"
+  },
+  {
+   "id": "2",
+   "name": "throw",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "throw"
+  },
+  {
+   "id": "3",
+   "name": "unsummon",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "unsummon"
+  },
+  {
+   "id": "4",
+   "name": "left hand throw",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "left hand throw"
+  },
+  {
+   "id": "5",
+   "name": "left hand swing",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "left hand swing"
+  },
+  {
+   "id": "6",
+   "name": "magic arrow",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "magic arrow"
+  },
+  {
+   "id": "7",
+   "name": "fire arrow",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire arrow"
+  },
+  {
+   "id": "8",
+   "name": "inner sight",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "inner sight"
+  },
+  {
+   "id": "9",
+   "name": "critical strike",
+   "brief": "被动－有机会造成2倍的伤害",
+   "className": "亚马逊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "critical strike"
+  },
+  {
+   "id": "10",
+   "name": "jab",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "jab"
+  },
+  {
+   "id": "11",
+   "name": "cold arrow",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cold arrow"
+  },
+  {
+   "id": "12",
+   "name": "multiple shot",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "multiple shot"
+  },
+  {
+   "id": "13",
+   "name": "dodge",
+   "brief": "同时提高硬直恢复速度\\n被动 - 躲避近战和远程攻击",
+   "className": "亚马逊",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "dodge"
+  },
+  {
+   "id": "14",
+   "name": "power strike",
+   "brief": "附加闪电伤害和施放一次小的新星",
+   "className": "亚马逊",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "power strike"
+  },
+  {
+   "id": "15",
+   "name": "poison javelin",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "poison javelin"
+  },
+  {
+   "id": "16",
+   "name": "exploding arrow",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "exploding arrow"
+  },
+  {
+   "id": "17",
+   "name": "迟缓",
+   "brief": "降低敌人投射物的速度和移动速度",
+   "className": "亚马逊",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "slow movement"
+  },
+  {
+   "id": "18",
+   "name": "avoid",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "avoid"
+  },
+  {
+   "id": "19",
+   "name": "标枪和长矛精通",
+   "brief": "被动 - 增加伤害和暴击几率",
+   "className": "亚马逊",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "jav mastery"
+  },
+  {
+   "id": "20",
+   "name": "lightning bolt",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lightning bolt"
+  },
+  {
+   "id": "21",
+   "name": "ice arrow",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "ice arrow"
+  },
+  {
+   "id": "22",
+   "name": "龙卷射击",
+   "brief": "发射一枚产生龙卷的投射物；龙卷会射出次级投射物。",
+   "className": "亚马逊",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "tornado shot"
+  },
+  {
+   "id": "23",
+   "name": "penetrate",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "penetrate"
+  },
+  {
+   "id": "24",
+   "name": "霜风",
+   "brief": "命中敌人时召出多股造成物理与冰霜伤害的小旋风。",
+   "className": "亚马逊",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "frostgale"
+  },
+  {
+   "id": "25",
+   "name": "plague javelin",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "plague javelin"
+  },
+  {
+   "id": "26",
+   "name": "strafe",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "strafe"
+  },
+  {
+   "id": "27",
+   "name": "immolation arrow",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "immolation arrow"
+  },
+  {
+   "id": "28",
+   "name": "诱饵",
+   "brief": "创造心灵狩卫，发起猛烈攻击",
+   "className": "亚马逊",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "dopplezonnew"
+  },
+  {
+   "id": "29",
+   "name": "evade",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "evade"
+  },
+  {
+   "id": "30",
+   "name": "fend",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fend"
+  },
+  {
+   "id": "31",
+   "name": "freezing arrow",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "freezing arrow"
+  },
+  {
+   "id": "32",
+   "name": "valkyrie",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "valkyrie"
+  },
+  {
+   "id": "33",
+   "name": "pierce",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "pierce"
+  },
+  {
+   "id": "34",
+   "name": "lightning strike",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lightning strike"
+  },
+  {
+   "id": "35",
+   "name": "lightning fury",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lightning fury"
+  },
+  {
+   "id": "36",
+   "name": "fire bolt",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire bolt"
+  },
+  {
+   "id": "37",
+   "name": "warmth",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "warmth"
+  },
+  {
+   "id": "38",
+   "name": "charged bolt",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "charged bolt"
+  },
+  {
+   "id": "39",
+   "name": "ice bolt",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "ice bolt"
+  },
+  {
+   "id": "40",
+   "name": "附魔冰霜",
+   "brief": "给近战或远程武器附魔冰霜",
+   "className": "法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cold enchant"
+  },
+  {
+   "id": "41",
+   "name": "inferno",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "inferno"
+  },
+  {
+   "id": "42",
+   "name": "static field",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "static field"
+  },
+  {
+   "id": "43",
+   "name": "telekinesis",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "telekinesis"
+  },
+  {
+   "id": "44",
+   "name": "frost nova",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "frost nova"
+  },
+  {
+   "id": "45",
+   "name": "ice blast",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "ice blast"
+  },
+  {
+   "id": "46",
+   "name": "blaze",
+   "brief": "在你身后制造火焰尾迹",
+   "className": "法师",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blaze"
+  },
+  {
+   "id": "47",
+   "name": "fire ball",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire ball"
+  },
+  {
+   "id": "48",
+   "name": "nova",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "nova"
+  },
+  {
+   "id": "49",
+   "name": "闪电齐射",
+   "brief": "召出一阵闪电投射物齐射，命中时在小范围内爆炸并造成伤害。",
+   "className": "法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lightningfussilade"
+  },
+  {
+   "id": "50",
+   "name": "shiver armor",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shiver armor"
+  },
+  {
+   "id": "51",
+   "name": "fire wall",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire wall"
+  },
+  {
+   "id": "52",
+   "name": "附魔火焰",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "enchant"
+  },
+  {
+   "id": "53",
+   "name": "chain lightning",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "chain lightning"
+  },
+  {
+   "id": "54",
+   "name": "teleport",
+   "brief": "立即移动到目标地点且短时间内降低伤害",
+   "className": "法师",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "teleport"
+  },
+  {
+   "id": "55",
+   "name": "glacial spike",
+   "brief": "创造一颗命中后会分叉并袭向附近敌人的冰彗星。",
+   "className": "法师",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "glacial spike"
+  },
+  {
+   "id": "56",
+   "name": "meteor",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "meteor"
+  },
+  {
+   "id": "57",
+   "name": "thunder storm",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "thunder storm"
+  },
+  {
+   "id": "58",
+   "name": "energy shield",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "energy shield"
+  },
+  {
+   "id": "59",
+   "name": "blizzard",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blizzard"
+  },
+  {
+   "id": "60",
+   "name": "chilling armor",
+   "brief": "还击近战和远程攻击者",
+   "className": "法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "chilling armor"
+  },
+  {
+   "id": "61",
+   "name": "fire mastery",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire mastery"
+  },
+  {
+   "id": "62",
+   "name": "hydra",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "hydra"
+  },
+  {
+   "id": "63",
+   "name": "lightning mastery",
+   "brief": "被动 - 提高闪电伤害",
+   "className": "法师",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lightning mastery"
+  },
+  {
+   "id": "64",
+   "name": "frozen orb",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "frozen orb"
+  },
+  {
+   "id": "65",
+   "name": "cold mastery",
+   "brief": "",
+   "className": "法师",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cold mastery"
+  },
+  {
+   "id": "66",
+   "name": "amplify damage",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "amplify damage"
+  },
+  {
+   "id": "67",
+   "name": "teeth",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "teeth"
+  },
+  {
+   "id": "68",
+   "name": "bone armor",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bone armor"
+  },
+  {
+   "id": "69",
+   "name": "skeleton mastery",
+   "brief": "被动－强化骷髅",
+   "className": "死灵法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "skeleton mastery"
+  },
+  {
+   "id": "70",
+   "name": "复生骷髅战士",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "raise skeleton"
+  },
+  {
+   "id": "71",
+   "name": "dim vision",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "dim vision"
+  },
+  {
+   "id": "72",
+   "name": "weaken",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "weaken"
+  },
+  {
+   "id": "73",
+   "name": "淬毒攻击",
+   "brief": "在匕首或镰刀上附加毒素伤害",
+   "className": "死灵法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "poison dagger"
+  },
+  {
+   "id": "74",
+   "name": "corpse explosion",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "corpse explosion"
+  },
+  {
+   "id": "75",
+   "name": "clay golem",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "clay golem"
+  },
+  {
+   "id": "76",
+   "name": "iron maiden",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "iron maiden"
+  },
+  {
+   "id": "77",
+   "name": "terror",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "terror"
+  },
+  {
+   "id": "78",
+   "name": "bone wall",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bone wall"
+  },
+  {
+   "id": "79",
+   "name": "golem mastery",
+   "brief": "强化所有魔像的速度、生命和数量上限",
+   "className": "死灵法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "golem mastery"
+  },
+  {
+   "id": "80",
+   "name": "raise skeletal mage",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "raise skeletal mage"
+  },
+  {
+   "id": "81",
+   "name": "confuse",
+   "brief": "诅咒 - 怪物获得攻速提升并攻击随机目标",
+   "className": "死灵法师",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "confuse"
+  },
+  {
+   "id": "82",
+   "name": "life tap",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "life tap"
+  },
+  {
+   "id": "83",
+   "name": "亵渎",
+   "brief": "召唤5具尸体并释放致命的毒云",
+   "className": "死灵法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "desecrate"
+  },
+  {
+   "id": "84",
+   "name": "碎髓",
+   "brief": "创造一根贯穿敌人并在命中时碎裂的骨矛。",
+   "className": "死灵法师",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shattered marrow"
+  },
+  {
+   "id": "85",
+   "name": "bloodgolem",
+   "brief": "一个可以窃取并分享生命力的魔像",
+   "className": "死灵法师",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bloodgolem"
+  },
+  {
+   "id": "86",
+   "name": "attract",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "attract"
+  },
+  {
+   "id": "87",
+   "name": "decrepify",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "decrepify"
+  },
+  {
+   "id": "88",
+   "name": "bone prison",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bone prison"
+  },
+  {
+   "id": "89",
+   "name": "复生骷髅弓箭手",
+   "brief": "从目标残骸中复活骷髅弓箭手",
+   "className": "死灵法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "raise skeleton archer"
+  },
+  {
+   "id": "90",
+   "name": "irongolem",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "irongolem"
+  },
+  {
+   "id": "91",
+   "name": "lower resist",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lower resist"
+  },
+  {
+   "id": "92",
+   "name": "poison nova",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "poison nova"
+  },
+  {
+   "id": "93",
+   "name": "裂魂术",
+   "brief": "释放一只亡灵幽魂，在碰撞时爆炸并留下造成伤害的地面。",
+   "className": "死灵法师",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "soulrend"
+  },
+  {
+   "id": "94",
+   "name": "firegolem",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "firegolem"
+  },
+  {
+   "id": "95",
+   "name": "revive",
+   "brief": "",
+   "className": "死灵法师",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "revive"
+  },
+  {
+   "id": "96",
+   "name": "sacrifice",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "sacrifice"
+  },
+  {
+   "id": "97",
+   "name": "smite",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "smite"
+  },
+  {
+   "id": "98",
+   "name": "might",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "might"
+  },
+  {
+   "id": "99",
+   "name": "prayer",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "prayer"
+  },
+  {
+   "id": "100",
+   "name": "resist fire",
+   "brief": "光环 - 防御火焰伤害并增加对敌人的火焰伤害",
+   "className": "圣骑士",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "resist fire"
+  },
+  {
+   "id": "101",
+   "name": "holy bolt",
+   "brief": "神圣能量对敌人造成伤害并治疗同盟",
+   "className": "圣骑士",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy bolt"
+  },
+  {
+   "id": "102",
+   "name": "holy fire",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy fire"
+  },
+  {
+   "id": "103",
+   "name": "thorns",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "thorns"
+  },
+  {
+   "id": "104",
+   "name": "defiance",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "defiance"
+  },
+  {
+   "id": "105",
+   "name": "resist cold",
+   "brief": "光环 - 防御冰霜伤害并增加对敌人的冰霜伤害",
+   "className": "圣骑士",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "resist cold"
+  },
+  {
+   "id": "106",
+   "name": "zeal",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "zeal"
+  },
+  {
+   "id": "107",
+   "name": "charge",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "charge"
+  },
+  {
+   "id": "108",
+   "name": "blessed aim",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blessed aim"
+  },
+  {
+   "id": "109",
+   "name": "cleansing",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cleansing"
+  },
+  {
+   "id": "110",
+   "name": "resist lightning",
+   "brief": "光环 - 防御闪电伤害并增加对敌人的闪电伤害",
+   "className": "圣骑士",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "resist lightning"
+  },
+  {
+   "id": "111",
+   "name": "vengeance",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "vengeance"
+  },
+  {
+   "id": "112",
+   "name": "blessed hammer",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blessed hammer"
+  },
+  {
+   "id": "113",
+   "name": "concentration",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "concentration"
+  },
+  {
+   "id": "114",
+   "name": "holy freeze",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy freeze"
+  },
+  {
+   "id": "115",
+   "name": "vigor",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "vigor"
+  },
+  {
+   "id": "116",
+   "name": "圣剑",
+   "brief": "以神圣能量灌注武器，使其能够招架攻击与法术，并对敌人造成额外伤害。",
+   "className": "圣骑士",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy sword"
+  },
+  {
+   "id": "117",
+   "name": "holy shield",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy shield"
+  },
+  {
+   "id": "118",
+   "name": "holy shock",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy shock"
+  },
+  {
+   "id": "119",
+   "name": "sanctuary",
+   "brief": "光环－驱逐并伤害敌人，降低他们的魔法抗性",
+   "className": "圣骑士",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "sanctuary"
+  },
+  {
+   "id": "120",
+   "name": "meditation",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "meditation"
+  },
+  {
+   "id": "121",
+   "name": "fist of the heavens",
+   "brief": "",
+   "className": "圣骑士",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fist of the heavens"
+  },
+  {
+   "id": "122",
+   "name": "fanaticism",
+   "brief": "光环 - 提高攻击速度与伤害",
+   "className": "圣骑士",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fanaticism"
+  },
+  {
+   "id": "123",
+   "name": "conviction",
+   "brief": "光环－降低附近敌人的防御力和元素抗性",
+   "className": "圣骑士",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "conviction"
+  },
+  {
+   "id": "124",
+   "name": "redemption",
+   "brief": "光环 - 救赎死者获得法力",
+   "className": "圣骑士",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "redemption"
+  },
+  {
+   "id": "125",
+   "name": "salvation",
+   "brief": "光环 - 防御元素伤害并增加对敌人的元素伤害",
+   "className": "圣骑士",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "salvation"
+  },
+  {
+   "id": "126",
+   "name": "bash",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bash"
+  },
+  {
+   "id": "127",
+   "name": "sword mastery",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "sword mastery"
+  },
+  {
+   "id": "128",
+   "name": "单手武器精通",
+   "brief": "被动－加强你使用单手武器的战斗技巧",
+   "className": "野蛮人",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "one hand mastery"
+  },
+  {
+   "id": "129",
+   "name": "mace mastery",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "mace mastery"
+  },
+  {
+   "id": "130",
+   "name": "howl",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "howl"
+  },
+  {
+   "id": "131",
+   "name": "find potion",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "find potion"
+  },
+  {
+   "id": "132",
+   "name": "leap",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "leap"
+  },
+  {
+   "id": "133",
+   "name": "double swing",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "double swing"
+  },
+  {
+   "id": "134",
+   "name": "双手武器精通",
+   "brief": "被动 - 加强你使用双手武器的战斗技巧",
+   "className": "野蛮人",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "two hand mastery"
+  },
+  {
+   "id": "135",
+   "name": "throwing mastery",
+   "brief": "被动 - 提升你使用投掷武器的战斗技巧",
+   "className": "野蛮人",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "throwing mastery"
+  },
+  {
+   "id": "136",
+   "name": "spear mastery",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "spear mastery"
+  },
+  {
+   "id": "137",
+   "name": "taunt",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "taunt"
+  },
+  {
+   "id": "138",
+   "name": "shout",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shout"
+  },
+  {
+   "id": "139",
+   "name": "穿刺",
+   "brief": "猛击敌人，使多根尖刺破土而出。",
+   "className": "野蛮人",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "perforate"
+  },
+  {
+   "id": "140",
+   "name": "double throw",
+   "brief": "同时向附近的敌人投掷两把武器",
+   "className": "野蛮人",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "double throw"
+  },
+  {
+   "id": "141",
+   "name": "战斗本能",
+   "brief": "被动－增加耐力、生命值和硬直恢复速度",
+   "className": "野蛮人",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "combat reflexes"
+  },
+  {
+   "id": "142",
+   "name": "find item",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "find item"
+  },
+  {
+   "id": "143",
+   "name": "leap attack",
+   "brief": "跳向目标敌人并攻击范围内的敌人",
+   "className": "野蛮人",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "leap attack"
+  },
+  {
+   "id": "144",
+   "name": "concentrate",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "concentrate"
+  },
+  {
+   "id": "145",
+   "name": "iron skin",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "iron skin"
+  },
+  {
+   "id": "146",
+   "name": "battle cry",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "battle cry"
+  },
+  {
+   "id": "147",
+   "name": "frenzy",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "frenzy"
+  },
+  {
+   "id": "148",
+   "name": "increased speed",
+   "brief": "被动 - 提高行走、奔跑速度和攻击速度",
+   "className": "野蛮人",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "increased speed"
+  },
+  {
+   "id": "149",
+   "name": "battle orders",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "battle orders"
+  },
+  {
+   "id": "150",
+   "name": "grim ward",
+   "brief": "制造一个骇人的图腾强化盟友",
+   "className": "野蛮人",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "grim ward"
+  },
+  {
+   "id": "151",
+   "name": "whirlwind",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "whirlwind"
+  },
+  {
+   "id": "152",
+   "name": "berserk",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "berserk"
+  },
+  {
+   "id": "153",
+   "name": "natural resistance",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "natural resistance"
+  },
+  {
+   "id": "154",
+   "name": "war cry",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "war cry"
+  },
+  {
+   "id": "155",
+   "name": "battle command",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "battle command"
+  },
+  {
+   "id": "156",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "157",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "158",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "159",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "160",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "161",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "162",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "163",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "164",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "165",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "166",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "167",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "168",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "169",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "170",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "171",
+   "name": "meteor",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "meteor"
+  },
+  {
+   "id": "172",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "173",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "174",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "175",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "176",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "177",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "178",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "179",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "180",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "181",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "182",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "183",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "184",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "185",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "186",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "187",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "188",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "189",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "190",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "191",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "192",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "193",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "194",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "195",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "196",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "197",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "198",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "199",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "200",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "201",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "202",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "203",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "204",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "205",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "206",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "207",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "208",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "209",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "210",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "211",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "212",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "213",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "214",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "215",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "216",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "217",
+   "name": "scroll of identify",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "scroll of identify"
+  },
+  {
+   "id": "218",
+   "name": "book of identify",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "book of identify"
+  },
+  {
+   "id": "219",
+   "name": "scroll of townportal",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "scroll of townportal"
+  },
+  {
+   "id": "220",
+   "name": "book of townportal",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "book of townportal"
+  },
+  {
+   "id": "221",
+   "name": "召唤渡鸦",
+   "brief": "召唤渡鸦",
+   "className": "德鲁伊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "raven"
+  },
+  {
+   "id": "222",
+   "name": "plague poppy",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "plague poppy"
+  },
+  {
+   "id": "223",
+   "name": "猛毒花藤",
+   "brief": "变形成狼人",
+   "className": "德鲁伊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "wearwolf"
+  },
+  {
+   "id": "224",
+   "name": "shape shifting",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shape shifting"
+  },
+  {
+   "id": "225",
+   "name": "firestorm",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "firestorm"
+  },
+  {
+   "id": "226",
+   "name": "oak sage",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "oak sage"
+  },
+  {
+   "id": "227",
+   "name": "summon spirit wolf",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "summon spirit wolf"
+  },
+  {
+   "id": "228",
+   "name": "wearbear",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "wearbear"
+  },
+  {
+   "id": "229",
+   "name": "molten boulder",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "molten boulder"
+  },
+  {
+   "id": "230",
+   "name": "arctic blast",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "arctic blast"
+  },
+  {
+   "id": "231",
+   "name": "cycle of life",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cycle of life"
+  },
+  {
+   "id": "232",
+   "name": "feral rage",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "feral rage"
+  },
+  {
+   "id": "233",
+   "name": "maul",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "maul"
+  },
+  {
+   "id": "234",
+   "name": "eruption",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "eruption"
+  },
+  {
+   "id": "235",
+   "name": "cyclone armor",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cyclone armor"
+  },
+  {
+   "id": "236",
+   "name": "heart of wolverine",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "heart of wolverine"
+  },
+  {
+   "id": "237",
+   "name": "summon fenris",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "summon fenris"
+  },
+  {
+   "id": "238",
+   "name": "rabies",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "rabies"
+  },
+  {
+   "id": "239",
+   "name": "fire claws",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire claws"
+  },
+  {
+   "id": "240",
+   "name": "twister",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "twister"
+  },
+  {
+   "id": "241",
+   "name": "vines",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "vines"
+  },
+  {
+   "id": "242",
+   "name": "hunger",
+   "brief": "噬咬尸体以获得临时增益",
+   "className": "德鲁伊",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "hunger"
+  },
+  {
+   "id": "243",
+   "name": "shock wave",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shock wave"
+  },
+  {
+   "id": "244",
+   "name": "volcano",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "volcano"
+  },
+  {
+   "id": "245",
+   "name": "tornado",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "tornado"
+  },
+  {
+   "id": "246",
+   "name": "spirit of barbs",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "spirit of barbs"
+  },
+  {
+   "id": "247",
+   "name": "summon grizzly",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "summon grizzly"
+  },
+  {
+   "id": "248",
+   "name": "fury",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fury"
+  },
+  {
+   "id": "249",
+   "name": "armageddon",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "armageddon"
+  },
+  {
+   "id": "250",
+   "name": "hurricane",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "hurricane"
+  },
+  {
+   "id": "251",
+   "name": "fire trauma",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire trauma"
+  },
+  {
+   "id": "252",
+   "name": "短刃精通",
+   "brief": "被动－提高你使用爪类和匕首的战斗技巧",
+   "className": "刺客",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "claw mastery"
+  },
+  {
+   "id": "253",
+   "name": "psychic hammer",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "psychic hammer"
+  },
+  {
+   "id": "254",
+   "name": "tiger strike",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "tiger strike"
+  },
+  {
+   "id": "255",
+   "name": "dragon talon",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "dragon talon"
+  },
+  {
+   "id": "256",
+   "name": "shock field",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shock field"
+  },
+  {
+   "id": "257",
+   "name": "blade sentinel",
+   "brief": "发射一个在目标终点爆炸的旋转刀刃",
+   "className": "刺客",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blade sentinel"
+  },
+  {
+   "id": "258",
+   "name": "quickness",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "quickness"
+  },
+  {
+   "id": "259",
+   "name": "fists of fire",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fists of fire"
+  },
+  {
+   "id": "260",
+   "name": "dragon claw",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "dragon claw"
+  },
+  {
+   "id": "261",
+   "name": "charged bolt sentry",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "charged bolt sentry"
+  },
+  {
+   "id": "262",
+   "name": "wake of fire sentry",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "wake of fire sentry"
+  },
+  {
+   "id": "263",
+   "name": "weapon block",
+   "brief": "被动 - 用两个爪类武器格挡",
+   "className": "刺客",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "weapon block"
+  },
+  {
+   "id": "264",
+   "name": "cloak of shadows",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cloak of shadows"
+  },
+  {
+   "id": "265",
+   "name": "cobra strike",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cobra strike"
+  },
+  {
+   "id": "266",
+   "name": "blade fury",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blade fury"
+  },
+  {
+   "id": "267",
+   "name": "fade",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fade"
+  },
+  {
+   "id": "268",
+   "name": "shadow warrior",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shadow warrior"
+  },
+  {
+   "id": "269",
+   "name": "claws of thunder",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "claws of thunder"
+  },
+  {
+   "id": "270",
+   "name": "dragon tail",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "dragon tail"
+  },
+  {
+   "id": "271",
+   "name": "雷霆守卫",
+   "brief": "放置会放出连锁闪电的陷阱",
+   "className": "刺客",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "chain lightning sentry"
+  },
+  {
+   "id": "272",
+   "name": "inferno sentry",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "inferno sentry"
+  },
+  {
+   "id": "273",
+   "name": "mind blast",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "mind blast"
+  },
+  {
+   "id": "274",
+   "name": "blades of ice",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blades of ice"
+  },
+  {
+   "id": "275",
+   "name": "dragon flight",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "dragon flight"
+  },
+  {
+   "id": "276",
+   "name": "death sentry",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "death sentry"
+  },
+  {
+   "id": "277",
+   "name": "blade shield",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blade shield"
+  },
+  {
+   "id": "278",
+   "name": "venom",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "venom"
+  },
+  {
+   "id": "279",
+   "name": "shadow master",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shadow master"
+  },
+  {
+   "id": "280",
+   "name": "royal strike",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "royal strike"
+  },
+  {
+   "id": "281",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "282",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "283",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "284",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "285",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "286",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "287",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "288",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "289",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "290",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "291",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "292",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "293",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "294",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "295",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "296",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "297",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "298",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "299",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "300",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "301",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "302",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "303",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "304",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "305",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "306",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "307",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "308",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "309",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "310",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "311",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "312",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "313",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "314",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "315",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "316",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "317",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "318",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "319",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "320",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "321",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "322",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "323",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "324",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "325",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "326",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "327",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "328",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "329",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "330",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "331",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "332",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "333",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "334",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "335",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "336",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "337",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "338",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "339",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "340",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "341",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "342",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "343",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "344",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "345",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "346",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "347",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "348",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "349",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "350",
+   "name": "谵妄",
+   "brief": "谵妄",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "delerium change"
+  },
+  {
+   "id": "351",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "352",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "353",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "354",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "355",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "356",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "357",
+   "name": "瞬身术",
+   "brief": "立即移动到目的地",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blink"
+  },
+  {
+   "id": "358",
+   "name": "proc skill (special, melee splash)",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "proc skill (special, melee splash)"
+  },
+  {
+   "id": "359",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "360",
+   "name": "battle orders",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "battle orders"
+  },
+  {
+   "id": "361",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "362",
+   "name": "immolation arrow",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "immolation arrow"
+  },
+  {
+   "id": "363",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "364",
+   "name": "神圣裁决",
+   "brief": "以神圣力量重击敌人，造成魔法与物理伤害，并创造能够伤敌和治疗的神圣地面。",
+   "className": "圣骑士",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "divine judgement"
+  },
+  {
+   "id": "365",
+   "name": "shattering arrow",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shattering arrow"
+  },
+  {
+   "id": "366",
+   "name": "lightning sentry",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lightning sentry"
+  },
+  {
+   "id": "367",
+   "name": "血之传送",
+   "brief": "消耗生命立即移动到目的地",
+   "className": "死灵法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blood warp"
+  },
+  {
+   "id": "368",
+   "name": "深度创伤",
+   "brief": "被动-增加造成开创性伤口的几率和伤害",
+   "className": "野蛮人",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "Deep Wounds"
+  },
+  {
+   "id": "369",
+   "name": "寒冰弹幕",
+   "brief": "制造出连串冰枪伤害并减缓附近敌人",
+   "className": "法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "ice barrage"
+  },
+  {
+   "id": "370",
+   "name": "风遁",
+   "brief": "立即移动到目的地并冻结敌人",
+   "className": "德鲁伊",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "gust"
+  },
+  {
+   "id": "371",
+   "name": "圣光术",
+   "brief": "治疗区域内的友方目标并对敌人造成伤害",
+   "className": "圣骑士",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy light"
+  },
+  {
+   "id": "372",
+   "name": "attack",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "attack"
+  },
+  {
+   "id": "373",
+   "name": "attack",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "attack"
+  },
+  {
+   "id": "374",
+   "name": "诅咒精通",
+   "brief": "强化诅咒法术",
+   "className": "死灵法师",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "curse mastery"
+  },
+  {
+   "id": "375",
+   "name": "幻影投掷",
+   "brief": "返回时武器幻象造成 30% 武器伤害\\n攻击敌人并自动返回你身边\\n制造出你投掷武器的幻象",
+   "className": "野蛮人",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "Split Throw"
+  },
+  {
+   "id": "376",
+   "name": "烈焰爆发",
+   "brief": "制造一个不断扩大的火球环以吞噬敌人",
+   "className": "法师",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "combustion"
+  },
+  {
+   "id": "377",
+   "name": "attack",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "attack"
+  },
+  {
+   "id": "378",
+   "name": "突袭",
+   "brief": "传送到敌人旁并给予致命突袭",
+   "className": "圣骑士",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "joust"
+  },
+  {
+   "id": "379",
+   "name": "attack",
+   "brief": "",
+   "className": "亚马逊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "attack"
+  },
+  {
+   "id": "380",
+   "name": "blade dance",
+   "brief": "",
+   "className": "刺客",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blade dance"
+  },
+  {
+   "id": "381",
+   "name": "黑暗契约",
+   "brief": "吞噬诅咒对敌人造成魔法伤害",
+   "className": "死灵法师",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "dark pact"
+  },
+  {
+   "id": "382",
+   "name": "attack",
+   "brief": "",
+   "className": "野蛮人",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "attack"
+  },
+  {
+   "id": "383",
+   "name": "次级多头蛇",
+   "brief": "召唤多头火焰兽",
+   "className": "法师",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lesser hydra"
+  },
+  {
+   "id": "384",
+   "name": "attack",
+   "brief": "",
+   "className": "德鲁伊",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "attack"
+  },
+  {
+   "id": "385",
+   "name": "fire arrow",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire arrow"
+  },
+  {
+   "id": "386",
+   "name": "cold arrow",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cold arrow"
+  },
+  {
+   "id": "387",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "388",
+   "name": "吸血鬼形态",
+   "brief": "化身为吸血鬼，变得强大但施法缓慢",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "Vampire Form"
+  },
+  {
+   "id": "389",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "390",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "391",
+   "name": "次级影散",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lesser fade"
+  },
+  {
+   "id": "392",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "393",
+   "name": "proc skill (special, melee splash)",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "proc skill (special, melee splash)"
+  },
+  {
+   "id": "394",
+   "name": "仅移动",
+   "brief": "移至目标位置",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "force move"
+  },
+  {
+   "id": "395",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "396",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "397",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "398",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "399",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "400",
+   "name": "白骨新星",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "FingermageBossNova"
+  },
+  {
+   "id": "401",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "402",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "403",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "404",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "405",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "406",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "407",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "408",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "409",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "410",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "411",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "412",
+   "name": "leap",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "leap"
+  },
+  {
+   "id": "413",
+   "name": "jab",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "jab"
+  },
+  {
+   "id": "414",
+   "name": "smite",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "smite"
+  },
+  {
+   "id": "415",
+   "name": "charge",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "charge"
+  },
+  {
+   "id": "416",
+   "name": "holy freeze",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy freeze"
+  },
+  {
+   "id": "417",
+   "name": "glacial spike",
+   "brief": "创造一颗命中后会分叉并袭向附近敌人的冰彗星。",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "glacial spike"
+  },
+  {
+   "id": "418",
+   "name": "frost nova",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "frost nova"
+  },
+  {
+   "id": "419",
+   "name": "fire ball",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire ball"
+  },
+  {
+   "id": "420",
+   "name": "weaken",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "weaken"
+  },
+  {
+   "id": "421",
+   "name": "hydra",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "hydra"
+  },
+  {
+   "id": "422",
+   "name": "lightning",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lightning"
+  },
+  {
+   "id": "423",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "424",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "425",
+   "name": "whirlwind",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "whirlwind"
+  },
+  {
+   "id": "426",
+   "name": "shout",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shout"
+  },
+  {
+   "id": "427",
+   "name": "decrepify",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "decrepify"
+  },
+  {
+   "id": "428",
+   "name": "chain lightning",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "chain lightning"
+  },
+  {
+   "id": "429",
+   "name": "chilling armor",
+   "brief": "还击近战和远程攻击者",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "chilling armor"
+  },
+  {
+   "id": "430",
+   "name": "meteor",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "meteor"
+  },
+  {
+   "id": "431",
+   "name": "immolation arrow",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "immolation arrow"
+  },
+  {
+   "id": "432",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "433",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "434",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "435",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "436",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "437",
+   "name": "chain lightning",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "chain lightning"
+  },
+  {
+   "id": "438",
+   "name": "lightning",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lightning"
+  },
+  {
+   "id": "439",
+   "name": "conviction",
+   "brief": "光环－降低附近敌人的防御力和元素抗性",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "conviction"
+  },
+  {
+   "id": "440",
+   "name": "leap attack",
+   "brief": "跳向目标敌人并攻击范围内的敌人",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "leap attack"
+  },
+  {
+   "id": "441",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "442",
+   "name": "amplify damage proc",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "amplify damage proc"
+  },
+  {
+   "id": "443",
+   "name": "weaken proc",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "weaken proc"
+  },
+  {
+   "id": "444",
+   "name": "iron maiden proc",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "iron maiden proc"
+  },
+  {
+   "id": "445",
+   "name": "life tap proc",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "life tap proc"
+  },
+  {
+   "id": "446",
+   "name": "decrepify proc",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "decrepify proc"
+  },
+  {
+   "id": "447",
+   "name": "lower resist proc",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lower resist proc"
+  },
+  {
+   "id": "448",
+   "name": "freezing arrow",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "freezing arrow"
+  },
+  {
+   "id": "449",
+   "name": "blizzard",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blizzard"
+  },
+  {
+   "id": "450",
+   "name": "lightning strike",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lightning strike"
+  },
+  {
+   "id": "451",
+   "name": "poison nova",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "poison nova"
+  },
+  {
+   "id": "452",
+   "name": "power strike",
+   "brief": "附加闪电伤害和施放一次小的新星",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "power strike"
+  },
+  {
+   "id": "453",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "454",
+   "name": "hydra",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "hydra"
+  },
+  {
+   "id": "455",
+   "name": "hurricane",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "hurricane"
+  },
+  {
+   "id": "456",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "457",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "458",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "459",
+   "name": "static field",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "static field"
+  },
+  {
+   "id": "460",
+   "name": "lightning",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lightning"
+  },
+  {
+   "id": "461",
+   "name": "meteor",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "meteor"
+  },
+  {
+   "id": "462",
+   "name": "fire ball",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire ball"
+  },
+  {
+   "id": "463",
+   "name": "blizzard",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blizzard"
+  },
+  {
+   "id": "464",
+   "name": "ice blast",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "ice blast"
+  },
+  {
+   "id": "465",
+   "name": "blessed aim",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blessed aim"
+  },
+  {
+   "id": "466",
+   "name": "vigor",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "vigor"
+  },
+  {
+   "id": "467",
+   "name": "teeth",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "teeth"
+  },
+  {
+   "id": "468",
+   "name": "bone spear",
+   "brief": "召唤致命的骸骨长矛",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bone spear"
+  },
+  {
+   "id": "469",
+   "name": "blizzard",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blizzard"
+  },
+  {
+   "id": "470",
+   "name": "multiple shot",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "multiple shot"
+  },
+  {
+   "id": "471",
+   "name": "multiple shot",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "multiple shot"
+  },
+  {
+   "id": "472",
+   "name": "conviction",
+   "brief": "光环－降低附近敌人的防御力和元素抗性",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "conviction"
+  },
+  {
+   "id": "473",
+   "name": "fanaticism",
+   "brief": "光环 - 提高攻击速度与伤害",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fanaticism"
+  },
+  {
+   "id": "474",
+   "name": "holy shock",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy shock"
+  },
+  {
+   "id": "475",
+   "name": "holy freeze",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy freeze"
+  },
+  {
+   "id": "476",
+   "name": "holy fire",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy fire"
+  },
+  {
+   "id": "477",
+   "name": "might",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "might"
+  },
+  {
+   "id": "478",
+   "name": "concentration",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "concentration"
+  },
+  {
+   "id": "479",
+   "name": "vigor",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "vigor"
+  },
+  {
+   "id": "480",
+   "name": "lower resist",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lower resist"
+  },
+  {
+   "id": "481",
+   "name": "淬毒攻击",
+   "brief": "在匕首或镰刀上附加毒素伤害",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "poison dagger"
+  },
+  {
+   "id": "482",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "483",
+   "name": "tornado",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "tornado"
+  },
+  {
+   "id": "484",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "485",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "486",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "487",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "488",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "489",
+   "name": "power strike",
+   "brief": "附加闪电伤害和施放一次小的新星",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "power strike"
+  },
+  {
+   "id": "490",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "491",
+   "name": "bone spear",
+   "brief": "召唤致命的骸骨长矛",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bone spear"
+  },
+  {
+   "id": "492",
+   "name": "teeth",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "teeth"
+  },
+  {
+   "id": "493",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "494",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "495",
+   "name": "hurricane",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "hurricane"
+  },
+  {
+   "id": "496",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "497",
+   "name": "eruption",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "eruption"
+  },
+  {
+   "id": "498",
+   "name": "poison nova",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "poison nova"
+  },
+  {
+   "id": "499",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "500",
+   "name": "frost nova",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "frost nova"
+  },
+  {
+   "id": "501",
+   "name": "holy freeze",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy freeze"
+  },
+  {
+   "id": "502",
+   "name": "poison nova",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "poison nova"
+  },
+  {
+   "id": "503",
+   "name": "shock wave",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shock wave"
+  },
+  {
+   "id": "504",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "505",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "506",
+   "name": "glacial spike",
+   "brief": "创造一颗命中后会分叉并袭向附近敌人的冰彗星。",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "glacial spike"
+  },
+  {
+   "id": "507",
+   "name": "poison nova",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "poison nova"
+  },
+  {
+   "id": "508",
+   "name": "teeth",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "teeth"
+  },
+  {
+   "id": "509",
+   "name": "blaze",
+   "brief": "在你身后制造火焰尾迹",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blaze"
+  },
+  {
+   "id": "510",
+   "name": "whirlwind",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "whirlwind"
+  },
+  {
+   "id": "511",
+   "name": "bash",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bash"
+  },
+  {
+   "id": "512",
+   "name": "meteor",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "meteor"
+  },
+  {
+   "id": "513",
+   "name": "鉴定所有物品",
+   "brief": "鉴定所有魔法物品的属性",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "book of unlimited identify"
+  },
+  {
+   "id": "514",
+   "name": "制造一个城镇传送门",
+   "brief": "制造一个魔法传送门通往附近的城镇",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "book of unlimited townportal"
+  },
+  {
+   "id": "515",
+   "name": "meteor",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "meteor"
+  },
+  {
+   "id": "516",
+   "name": "molten boulder",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "molten boulder"
+  },
+  {
+   "id": "517",
+   "name": "shock wave",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shock wave"
+  },
+  {
+   "id": "518",
+   "name": "vigor",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "vigor"
+  },
+  {
+   "id": "519",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "520",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "521",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "522",
+   "name": "smite",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "smite"
+  },
+  {
+   "id": "523",
+   "name": "battle orders",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "battle orders"
+  },
+  {
+   "id": "524",
+   "name": "blizzard",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blizzard"
+  },
+  {
+   "id": "525",
+   "name": "cyclone armor",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cyclone armor"
+  },
+  {
+   "id": "526",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "527",
+   "name": "volcano",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "volcano"
+  },
+  {
+   "id": "528",
+   "name": "nova",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "nova"
+  },
+  {
+   "id": "529",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "530",
+   "name": "frozen orb",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "frozen orb"
+  },
+  {
+   "id": "531",
+   "name": "holy fire",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy fire"
+  },
+  {
+   "id": "532",
+   "name": "holy freeze",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy freeze"
+  },
+  {
+   "id": "533",
+   "name": "leap attack",
+   "brief": "跳向目标敌人并攻击范围内的敌人",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "leap attack"
+  },
+  {
+   "id": "534",
+   "name": "holy fire",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy fire"
+  },
+  {
+   "id": "535",
+   "name": "howl",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "howl"
+  },
+  {
+   "id": "536",
+   "name": "bone spear",
+   "brief": "召唤致命的骸骨长矛",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bone spear"
+  },
+  {
+   "id": "537",
+   "name": "fire ball",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire ball"
+  },
+  {
+   "id": "538",
+   "name": "frost nova",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "frost nova"
+  },
+  {
+   "id": "539",
+   "name": "寒冰弹幕",
+   "brief": "制造出连串冰枪伤害并减缓附近敌人",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "ice barrage"
+  },
+  {
+   "id": "540",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "541",
+   "name": "armageddon",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "armageddon"
+  },
+  {
+   "id": "542",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "543",
+   "name": "cloak of shadows",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cloak of shadows"
+  },
+  {
+   "id": "544",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "545",
+   "name": "magic arrow",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "magic arrow"
+  },
+  {
+   "id": "546",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "547",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "548",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "549",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "550",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "551",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "552",
+   "name": "amplify damage",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "amplify damage"
+  },
+  {
+   "id": "553",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "554",
+   "name": "energy shield selfaura",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "energy shield selfaura"
+  },
+  {
+   "id": "555",
+   "name": "chilling armor selfaura",
+   "brief": "还击近战和远程攻击者",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "chilling armor selfaura"
+  },
+  {
+   "id": "556",
+   "name": "quickness selfaura",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "quickness selfaura"
+  },
+  {
+   "id": "557",
+   "name": "blade shield selfaura",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blade shield selfaura"
+  },
+  {
+   "id": "558",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "559",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "560",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "561",
+   "name": "cobra strike",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "cobra strike"
+  },
+  {
+   "id": "562",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "563",
+   "name": "firestorm",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "firestorm"
+  },
+  {
+   "id": "564",
+   "name": "shock field",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shock field"
+  },
+  {
+   "id": "565",
+   "name": "frozen orb",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "frozen orb"
+  },
+  {
+   "id": "566",
+   "name": "chain lightning",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "chain lightning"
+  },
+  {
+   "id": "567",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "568",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "569",
+   "name": "nova",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "nova"
+  },
+  {
+   "id": "570",
+   "name": "meteor",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "meteor"
+  },
+  {
+   "id": "571",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "572",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "573",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "574",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "575",
+   "name": "charge",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "charge"
+  },
+  {
+   "id": "576",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "577",
+   "name": "eruption",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "eruption"
+  },
+  {
+   "id": "578",
+   "name": "hydra",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "hydra"
+  },
+  {
+   "id": "579",
+   "name": "charge",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "charge"
+  },
+  {
+   "id": "580",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "581",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "582",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "583",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "584",
+   "name": "smite",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "smite"
+  },
+  {
+   "id": "585",
+   "name": "lower resist",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "lower resist"
+  },
+  {
+   "id": "586",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "587",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "588",
+   "name": "bone spear",
+   "brief": "召唤致命的骸骨长矛",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bone spear"
+  },
+  {
+   "id": "589",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "590",
+   "name": "charged bolt",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "charged bolt"
+  },
+  {
+   "id": "591",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "592",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "593",
+   "name": "armageddon selfaura",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "armageddon selfaura"
+  },
+  {
+   "id": "594",
+   "name": "shock field",
+   "brief": "",
+   "className": "",
+   "reqLevel": "6",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shock field"
+  },
+  {
+   "id": "595",
+   "name": "fire trauma",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire trauma"
+  },
+  {
+   "id": "596",
+   "name": "thunder storm selfaura",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "thunder storm selfaura"
+  },
+  {
+   "id": "597",
+   "name": "volcano",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "volcano"
+  },
+  {
+   "id": "598",
+   "name": "armageddon",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "armageddon"
+  },
+  {
+   "id": "599",
+   "name": "frozen orb",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "frozen orb"
+  },
+  {
+   "id": "600",
+   "name": "charged bolt",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "charged bolt"
+  },
+  {
+   "id": "601",
+   "name": "fire ball",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fire ball"
+  },
+  {
+   "id": "602",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "603",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "604",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "605",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "606",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "607",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "608",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "609",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "610",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "611",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "612",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "613",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "614",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "615",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "616",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "617",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "618",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "619",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "620",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "621",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "622",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "623",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "624",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "625",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "626",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "627",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "628",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "629",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "630",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "631",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "632",
+   "name": "脆弱",
+   "brief": "脆弱",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "frailty"
+  },
+  {
+   "id": "633",
+   "name": "bone spear",
+   "brief": "召唤致命的骸骨长矛",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bone spear"
+  },
+  {
+   "id": "634",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "635",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "636",
+   "name": "增援",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "reinforce"
+  },
+  {
+   "id": "637",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "638",
+   "name": "霜降",
+   "brief": "射出一支冰冷箭矢，在身后留下造成冰霜伤害的霜落之潮。",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "rimefall"
+  },
+  {
+   "id": "639",
+   "name": "速度战利品",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "hh speed"
+  },
+  {
+   "id": "640",
+   "name": "伤害战利品",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "hh damage"
+  },
+  {
+   "id": "641",
+   "name": "immolation arrow",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "immolation arrow"
+  },
+  {
+   "id": "642",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "643",
+   "name": "energy shield selfaura",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "energy shield selfaura"
+  },
+  {
+   "id": "644",
+   "name": "碎髓",
+   "brief": "创造一根贯穿敌人并在命中时碎裂的骨矛。",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "shattered marrow"
+  },
+  {
+   "id": "645",
+   "name": "bone spirit",
+   "brief": "",
+   "className": "",
+   "reqLevel": "30",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "bone spirit"
+  },
+  {
+   "id": "646",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "647",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "648",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "649",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "650",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "12",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "651",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "652",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "653",
+   "name": "封印命运",
+   "brief": "召出一枚造成伤害并在射程终点放出次级投射物新星的投射物。次级投射物会留下烈焰地面与火墙轨迹，两者都会造成持续伤害。",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "sealedfate"
+  },
+  {
+   "id": "654",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "655",
+   "name": "猛攻",
+   "brief": "猛攻",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "onslaught"
+  },
+  {
+   "id": "656",
+   "name": "烈风之力",
+   "brief": "烈风之力",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "galeforce"
+  },
+  {
+   "id": "657",
+   "name": "奥术过载",
+   "brief": "奥术过载",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "indigon stacks"
+  },
+  {
+   "id": "658",
+   "name": "奥术过载",
+   "brief": "奥术过载",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "indigon stacks"
+  },
+  {
+   "id": "659",
+   "name": "斯巴达之怒",
+   "brief": "斯巴达之怒",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "spartan's rage"
+  },
+  {
+   "id": "660",
+   "name": "奥术龙卷射击",
+   "brief": "发射一枚产生龙卷的投射物；龙卷会射出次级投射物。\\n将 100% 武器伤害转化为魔法伤害。\\n100% 武器伤害",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "arcane tornado shot"
+  },
+  {
+   "id": "661",
+   "name": "巨型陨石",
+   "brief": "",
+   "className": "",
+   "reqLevel": "24",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "colossal meteor"
+  },
+  {
+   "id": "662",
+   "name": "holy freeze",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "holy freeze"
+  },
+  {
+   "id": "663",
+   "name": "headhunter soul",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "headhunter soul"
+  },
+  {
+   "id": "664",
+   "name": "fade",
+   "brief": "",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "fade"
+  },
+  {
+   "id": "665",
+   "name": "耐力球",
+   "brief": "耐力球",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "endurance charge"
+  },
+  {
+   "id": "666",
+   "name": "闪现箭",
+   "brief": "传送至光标处，并在抵达时放出箭矢新星。",
+   "className": "",
+   "reqLevel": "18",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "blink arrow"
+  },
+  {
+   "id": "667",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "668",
+   "name": "时间扭曲",
+   "brief": "编织时间的织锦，加快时间流逝，提高你的移动、施法与攻击速度。",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "time warp"
+  },
+  {
+   "id": "669",
+   "name": "时间冻结",
+   "brief": "翻转沙漏，诅咒敌人并减缓时间流逝，大幅降低其移动与攻击速度。",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "time freeze"
+  },
+  {
+   "id": "670",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "671",
+   "name": "奥术涌动",
+   "brief": "奥术涌动",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "arcane surge"
+  },
+  {
+   "id": "672",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "673",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "674",
+   "name": "纷争之源",
+   "brief": "纷争之源",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "mastermind of discord"
+  },
+  {
+   "id": "675",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "676",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "677",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "678",
+   "name": "黑暗统帅",
+   "brief": "黑暗统帅使你与召唤物获得 +75% 增强防御、+150% 强化伤害与 5% 生命偷取",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "commander of darkness"
+  },
+  {
+   "id": "679",
+   "name": "凋零",
+   "brief": "凋零",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "wither"
+  },
+  {
+   "id": "680",
+   "name": "制毒宗师",
+   "brief": "制毒宗师",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "master toxicist"
+  },
+  {
+   "id": "681",
+   "name": "凶猛咆哮",
+   "brief": "以反抗之势咆哮，提高你与召唤物的战斗能力。",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "ferocious roar"
+  },
+  {
+   "id": "682",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "683",
+   "name": "烈风之力",
+   "brief": "烈风之力",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "galeforce"
+  },
+  {
+   "id": "684",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "685",
+   "name": "爆燃",
+   "brief": "爆燃",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "chieftain explosion"
+  },
+  {
+   "id": "686",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "687",
+   "name": "秽言绽放",
+   "brief": "秽言绽放",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": "profane bloom"
+  },
+  {
+   "id": "688",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "689",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "690",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "691",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "692",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "693",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  },
+  {
+   "id": "694",
+   "name": "",
+   "brief": "",
+   "className": "",
+   "reqLevel": "1",
+   "reqStr": "",
+   "reqDex": "",
+   "skilldesc": ""
+  }
+ ]
+}
