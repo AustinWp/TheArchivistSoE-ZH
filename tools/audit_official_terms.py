@@ -523,6 +523,29 @@ def main():
                 issues.append(f"[狱铸前缀错] {_rel}: 「{_n}」应为「地狱锻铸·…」")
     print(f"  错误前缀 {_wrong} 处（官方为「地狱锻铸·」）")
 
+    # ---------- 3g) 标准版 / 炼狱版暗金表条目集合一致性 ----------
+    print("\n== 3g. 标准版 ↔ 炼狱版暗金表 ==")
+    _ps = os.path.join(ROOT, "public", "data", "Uniques.json")
+    _pd = os.path.join(ROOT, "public", "data", "damnation", "Uniques.json")
+    if os.path.exists(_ps) and os.path.exists(_pd):
+        def _sig(path):
+            out = []
+            for _x in json.load(open(path, encoding="utf-8")):
+                _b = _x.get("weaponBase") or _x.get("armorBase") or _x.get("jeweleryBase") or {}
+                out.append((str(_x.get("displayName")), str(_b.get("code") or _x.get("code")),
+                            str(_x.get("level"))))
+            return out
+
+        _a, _b = _sig(_ps), _sig(_pd)
+        _only_a = [x for x in _a if x not in _b]
+        _only_b = [x for x in _b if x not in _a]
+        if _only_a or _only_b:
+            issues.append(f"[暗金表不一致] 仅标准版有 {len(_only_a)} 条、仅炼狱版有 {len(_only_b)} 条"
+                          f"（两份应当是同一套条目，只差模式字段）")
+        print(f"  标准版 {len(_a)} 条 / 炼狱版 {len(_b)} 条；仅标准有 {len(_only_a)}，仅炼狱有 {len(_only_b)}")
+    else:
+        print("  跳过（缺文件）")
+
     print("\n== 4. 图标标记 ↔ 名称一致性 ==")
     official_norm = {k: norm_name(v) for k, v in official.items()}
     # 站内为区分重名而自定的别名（官方串表未收录）
