@@ -3924,27 +3924,19 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase, damnation = fal
                     </div>
                 ))}
 
-                {damnation ? (<>
+                {damnation ? (
                     <div className="line dim">
-                        <span className="highlight">炼狱（毁灭）模式</span>中
-                        <span className="highlight">神话宝珠</span> /
-                        <span className="highlight">神授宝珠</span> 不可用，改由
-                        <span className="highlight">机遇宝珠</span> 取代：底材 + 机遇宝珠放入方块
-                        <span className="highlight">合成两次</span>（第一次登记、第二次判定）。
+                        底材 + <span className="highlight">机遇宝珠</span> 放入方块
+                        <span className="highlight">合成两次</span>（第一次登记、第二次判定）：
+                        成功 → 同底材暗金（必定有形）；失败 → 物品被摧毁并获得 1×普通钥匙。
+                        详见「魔方配方 → 机遇宝珠系统」。
                     </div>
-                    <div className="line dim">
-                        成功 → 同底材暗金（必定有形）；失败 → 物品被摧毁并获得 1×骷髅钥匙。
-                        判定概率约为 50/50，详见「魔方配方 → 机遇宝珠系统」。
-                    </div>
-                </>) : (<>
+                ) : (
                     <div className="line dim">
                         普通 / 扩展基底用 <span className="highlight">神话宝珠</span>，
                         精英基底用 <span className="highlight">神授宝珠</span>；结果必定为有形。
                     </div>
-                    <div className="line dim">
-                        炼狱（毁灭）模式改用 <span className="highlight">机遇宝珠</span>（见「魔方配方 → 机遇宝珠系统」）。
-                    </div>
-                </>)}
+                )}
             </>) : jeweleryBaseName ? (<>
                 <div className="line kv">
                     <span>基底物品：</span>
@@ -3954,8 +3946,8 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase, damnation = fal
                     </span>
                 </div>
                 {damnation ? (<div className="line dim">
-                    炼狱模式用 <span className="highlight">机遇宝珠</span> 取代神话 / 神授宝珠：
-                    底材 + 机遇宝珠合成两次，成功 → 同底材暗金，失败 → 物品被摧毁并获得骷髅钥匙。
+                    <span className="highlight">机遇宝珠</span> + 该基底物品，合成两次：
+                    成功 → 同底材暗金（必定有形）；失败 → 物品被摧毁并获得 1×普通钥匙。
                 </div>) : (<div className="line dim">
                     用该基底物品 + <span className="highlight">{creationOrb}</span> 制作；结果必定为有形。
                 </div>)}
