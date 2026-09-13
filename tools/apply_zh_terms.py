@@ -26,12 +26,21 @@ PAIRS = [
 ]
 
 
+# 这些文件是「术语来源」或原始存档，必须与游戏串表逐字一致，禁止被本脚本改写。
+SKIP = {
+    "official_zh.json",  # 由 tools/extract_official_zh.py 从 soe.txt 生成，是术语唯一标准
+    "SiteUpdates.json",  # 更新日志是历史叙述（含「旧词→新词」的说明），改写会破坏语义
+}
+
+
 def main():
     counts = {}
     for pattern in (os.path.join(ROOT, "public", "data", "*.json"),
                     os.path.join(ROOT, "public", "data", "damnation", "*.json"),
                     os.path.join(ROOT, "src", "*.jsx")):
         for f in glob.glob(pattern):
+            if os.path.basename(f) in SKIP:
+                continue
             s = open(f, encoding="utf-8").read()
             n = 0
             for old, new in PAIRS:
