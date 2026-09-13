@@ -1,6 +1,7 @@
 import React, {useEffect, useMemo, useState} from "react";
 
 import BuildsPanel from "./BuildsPanel";
+import {setItemSpriteMap, itemSpriteUrl} from "./itemSprites";
 
 import SwordIcon from "./icons/sword.svg";
 import StaffIcon from "./icons/staff.svg";
@@ -517,25 +518,9 @@ function isHellforged(u) {
 // 映射表 public/data/ItemImages.json 由 tools/build_item_images.py 从游戏数据表
 // （Weapons/Armor/Misc.txt 的 invfile / uniqueinvfile / setinvfile）生成；
 // 贴图文件位于 public/item-images/<name>.png（tools/fetch_item_images.py 获取）。
-let ITEM_SPRITE_MAP = {};
-
-function setItemSpriteMap(map) {
-    ITEM_SPRITE_MAP = map && typeof map === "object" ? map : {};
-}
+// 贴图索引抽到 ./itemSprites（构筑面板等组件也要用）
 
 // kind: "u" 暗金 / "s" 套装 / 其它 = 基础底材
-function itemSpriteUrl(code, kind) {
-    const key = String(code ?? "").trim().toLowerCase();
-    if (!key) return null;
-
-    const rec = ITEM_SPRITE_MAP[key];
-    if (!rec) return null;
-
-    const name = (kind && rec[kind]) || rec.b;
-    if (!name) return null;
-
-    return `${import.meta.env.BASE_URL}item-images/${name}.png`;
-}
 
 // ---------------------------------------------------------------- 物品代码索引
 // 由 App 在渲染期写入（武器 + 护甲），供「暗金制作底材」等处按 code 反查名称与所在标签页。

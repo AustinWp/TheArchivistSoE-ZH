@@ -4,6 +4,7 @@
 // 数据来源：public/data/Builds.json
 // ============================================================================
 import React, {useEffect, useState} from "react";
+import {itemSpriteUrl} from "./itemSprites";
 
 import BowIcon from "./icons/bow.svg";
 import ClawsIcon from "./icons/claws.svg";
@@ -26,22 +27,44 @@ const CLASS_ICON_MAP = {
 
 const IMG_BASE = `${import.meta.env.BASE_URL}data/builds/`;
 
-// ---- 行内简易 Markdown：**加粗**、`代码` ----
+// ---- 行内简易 Markdown：**加粗**、`代码`、{{icon:CODE}} 物品图标 ----
+// 注意：加粗里也可能夹着图标标记（`**{{icon:rin}}戒指**`），
+// 所以加粗分支要**递归**再解析一次，否则会把标记当普通文字显示出来。
+function renderInlineMd(str, keyBase) {
+    const parts = String(str ?? "").split(/(\{\{icon:[A-Za-z0-9_]+\}\}|\*\*[^*]+\*\*|`[^`]*`)/g);
+
+    return parts.map((part, i) => {
+        const key = `${keyBase}-${i}`;
+
+        if (part.startsWith("**") && part.endsWith("**")) {
+            return <strong key={key} className="bdStrong">{renderInlineMd(part.slice(2, -2), key)}</strong>;
+        }
+        if (part.startsWith("`") && part.endsWith("`")) {
+            return <code key={key} className="bdCode">{part.slice(1, -1)}</code>;
+        }
+        if (part.startsWith("{{icon:") && part.endsWith("}}")) {
+            const src = itemSpriteUrl(part.slice(7, -2), null);
+            if (!src) return null;
+
+            return <img
+                key={key}
+                className="mdItemIcon"
+                src={src}
+                alt=""
+                loading="lazy"
+                decoding="async"
+                onError={(e) => {
+                    e.currentTarget.style.display = "none";
+                }}
+            />;
+        }
+
+        return <React.Fragment key={key}>{part}</React.Fragment>;
+    });
+}
+
 function InlineMd({text}) {
-    const parts = String(text ?? "").split(/(\*\*[^*]+\*\*|`[^`]*`)/g);
-    return (
-        <>
-            {parts.map((part, i) => {
-                if (part.startsWith("**") && part.endsWith("**")) {
-                    return <strong key={i} className="bdStrong">{part.slice(2, -2)}</strong>;
-                }
-                if (part.startsWith("`") && part.endsWith("`")) {
-                    return <code key={i} className="bdCode">{part.slice(1, -1)}</code>;
-                }
-                return <React.Fragment key={i}>{part}</React.Fragment>;
-            })}
-        </>
-    );
+    return <>{renderInlineMd(text, "md")}</>;
 }
 
 function MultiLine({text}) {

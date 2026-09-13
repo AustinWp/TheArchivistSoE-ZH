@@ -308,6 +308,40 @@ def main():
             issues.append(f"[名字来源未登记] {c}: {_on.rows.get(c, ('', ''))[1]!r} "
                           f"—— 请补进 tools/official_names.py 的 BASE_GAME_NAME 或 NO_OFFICIAL_NAME")
 
+    # ---------- 6) 纯文本字段里不能出现标记 ----------
+    print("\n== 6. 标记只能出现在 markdown 渲染的字段里 ==")
+    PLAIN_FIELDS = {"displayName", "title", "caption", "name", "displayType", "itemType"}
+    MARK_RE = re.compile(r"\{\{icon:|（\d+号）")
+    dirty = 0
+
+    def _scan(node, rel, hits=None):
+        nonlocal dirty
+        if hits is None:
+            hits = []
+        if isinstance(node, dict):
+            for k, v in node.items():
+                if k in PLAIN_FIELDS and isinstance(v, str) and MARK_RE.search(v):
+                    hits.append(f"{rel} [{k}] {v[:60]}")
+                elif not (k in PLAIN_FIELDS):
+                    _scan(v, rel, hits)
+        elif isinstance(node, list):
+            for v in node:
+                _scan(v, rel, hits)
+        return hits
+
+    for f in sorted(os.listdir(os.path.join(ROOT, "public", "data"))):
+        if not f.endswith(".json") or f in ("official_zh.json", "SiteUpdates.json", "ItemImages.json"):
+            continue
+        pth = os.path.join(ROOT, "public", "data", f)
+        try:
+            data = json.load(open(pth, encoding="utf-8"))
+        except Exception:
+            continue
+        for h in _scan(data, f):
+            dirty += 1
+            issues.append(f"[标记落到纯文本字段] {h}")
+    print(f"  纯文本字段中的标记: {dirty} 处")
+
     print("\n== 4. 图标标记 ↔ 名称一致性 ==")
     official_norm = {k: norm_name(v) for k, v in official.items()}
     # 站内为区分重名而自定的别名（官方串表未收录）

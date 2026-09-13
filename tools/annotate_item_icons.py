@@ -19,6 +19,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from textwalk import process_file  # noqa: E402
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 
@@ -31,7 +34,6 @@ TARGETS = [
     "Damnation.json",
     "Mapping.json",
     "FateCards.json",
-    "Essences.json",
     "Ascendancies.json",
     "SeasonS1.json",
     "Skills.json",
@@ -190,34 +192,13 @@ def main():
         p = os.path.join(ROOT, "public", "data", fn)
         if not os.path.exists(p):
             continue
-        data = json.load(open(p, encoding="utf-8"))
-        if not isinstance(data, list):
-            continue
-
-        changed = 0
-        for item in data:
-            txt = item.get("text")
-            if isinstance(txt, str):
-                new, _k = annotate(txt, pairs)
-                if new != txt:          # 注意：剥掉失效标记也要回写
-                    item["text"] = new
-                    changed += 1
-            elif isinstance(txt, list):
-                for idx, line in enumerate(txt):
-                    if not isinstance(line, str):
-                        continue
-                    new, _k = annotate(line, pairs)
-                    if new != line:
-                        txt[idx] = new
-                        changed += 1
+        # 递归遍历（只改散文，不碰 name / id / code 这类标识字段）
+        changed = process_file(p, lambda t: annotate(t, pairs)[0], check=args.check,
+                               strip_pattern=TOKEN_RE)
 
         if changed:
             print(f"  {fn}: 标注 {changed} 处")
             total += changed
-            if not args.check:
-                with open(p, "w", encoding="utf-8") as f:
-                    json.dump(data, f, ensure_ascii=False, indent=2)
-                    f.write("\n")
 
     print(f"{'需要标注' if args.check else '已标注'} {total} 处")
     return 0

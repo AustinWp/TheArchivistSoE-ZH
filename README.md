@@ -206,6 +206,36 @@ StrEternalShako    =  基础类型：军帽
 4. **串表查不到 ≠ 名字是对的** —— 基础游戏物品只能另找依据，并在 `BASE_GAME_NAME` 登记；
 5. 玩家报「游戏里有、wiki 没有」时，**先怀疑名字不一致，再怀疑缺数据**。
 
+### 4.4 加标记（图标 / 符文编号）只能加在「markdown 渲染」的字段
+
+`{{icon:CODE}}` 和「（N号）」这类标记，**只有经过 markdown 渲染器**才会变成图标/富文本；
+加在纯文本字段上会**把标记原文显示给用户**，有的字段还参与名称匹配（加进去直接破坏跳转）。
+
+踩过的三个坑：
+
+1. **页面 JSON 的外形不能假设**
+   `Builds.json` 顶层是 **dict**（`{updatedAt, classes:[...]}`），散文埋在 6 层深，
+   还有 `sections[].items[]` 这种**裸字符串数组**。早期工具只认「顶层 list + `text` 字段」，
+   于是**整个构筑页从来没被标注过**，而且没有任何报错。
+   → 统一走 `tools/textwalk.py`：递归遍历，**不要假设外形**。
+
+2. **哪些字段是纯文本**
+   凡是「名字类」字段（`displayName` / `fourthInputDisplayName` / `itemTypesDisplayNames[]` /
+   `title` / `caption` / 以及**所有以 `Name` 结尾的键**）都是纯文本或参与匹配 →
+   一律跳过（`textwalk.is_skip_key`）。
+   圣化页就是因为漏了 `itemTypesDisplayNames` 而露出 20 处 `{{icon:...}}`。
+
+3. **渲染器不止一个**
+   全局 markdown（`renderInlineMarkdown`）之外，构筑面板还有自己的 `InlineMd`
+   —— 它最初不认图标标记。**新增渲染器时要同步支持标记**，否则该面板的内容会露原文。
+   另外：**加粗 / 斜体里也会夹标记**（`**{{icon:rin}}戒指**`），
+   所以渲染器遇到加粗要**递归**再解析一次。
+
+**两道自动防护**：
+- 审计第 6 项：扫描所有页面数据，**纯文本字段里出现标记就报错**（当前 0 处）；
+- 标注工具采用「先全量清理、再按安全字段标注」两段式，
+  这样即使字段规则收紧，旧标记也会被清掉，不会永久留在数据里。
+
 ### 5. 中文文案不在代码仓库
 
 `SOECN` 仓库只有 `data/local/LNG/ENG/patchstring.tbl`（英文，纯 ASCII），**没有中文串表**。
@@ -267,6 +297,7 @@ npm run build
 │   ├── annotate_item_icons.py     页面正文物品名加图标标记 {{icon:CODE}}
 │   ├── annotate_rune_numbers.py   正文符文名补编号（提尔 → 提尔（3号））
 │   ├── official_names.py          ★ 官方物品名的唯一解析入口（改了名字链路只改这里）
+│   ├── textwalk.py                ★ 页面 JSON 的散文遍历（递归，别假设外形）
 │   ├── refresh_data.py            一键刷新（解析/校验/生成/构建）
 │   └── generated/             生成物（gitignore；含报告与对照表）
 └── src/                      站点源码

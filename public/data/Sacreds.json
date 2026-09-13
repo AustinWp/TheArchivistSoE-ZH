@@ -42,14 +42,14 @@
   {
     "displayName": "圣化宝珠·梦境（头盔）",
     "itemTypesDisplayNames": [
-      "头盔"
+      "任意盾牌"
     ],
     "propertiesByItemType": {
-      "头盔": [
+      "任意盾牌": [
         "所有抗性 +10-20%",
         "+20-30% 快速打击恢复",
         "装备时赋予 14 级圣电灵气",
-        "+150-220 防御"
+        "+75 生命"
       ]
     },
     "firstInputDisplayName": "Io",

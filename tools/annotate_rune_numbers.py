@@ -19,6 +19,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from textwalk import process_file  # noqa: E402
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 
@@ -29,7 +32,12 @@ TARGETS = [
 ]
 
 CJK = re.compile(r"[\u4e00-\u9fff]")
-HAS_NUM = re.compile(r"^\s*(（\d+\s*号）|\d+)")
+# 已经带编号的各种写法都要认：`（3号）` / `(3#)` / `3号` / `11#`
+HAS_NUM = re.compile(r"^\s*(?:[（(]\s*\d+\s*(?:号|#)?\s*[）)]|\d+\s*(?:号|#))")
+
+# 「名字（3号）（Tir）」→「名字（Tir，3号）」：社区写法是「名字（英文）」，合并更好看
+MERGE_LATIN = re.compile(
+    r"([\u4e00-\u9fff]{1,4})（(\d+)号）[（(]\s*([A-Za-z][A-Za-z0-9'’.\- ]*?)\s*[）)]")
 
 
 def load_runes():
@@ -68,7 +76,10 @@ def annotate(text, runes, alt):
         n += 1
         return f"{name}（{runes[name]}号）"
 
-    return alt.sub(repl, cleaned), n
+    out = alt.sub(repl, cleaned)
+    out = MERGE_LATIN.sub(lambda m: f"{m.group(1)}（{m.group(3)}，{m.group(2)}号）", out)
+
+    return out, n
 
 
 def main():
@@ -85,34 +96,14 @@ def main():
         p = os.path.join(ROOT, "public", "data", fn)
         if not os.path.exists(p):
             continue
-        data = json.load(open(p, encoding="utf-8"))
-        if not isinstance(data, list):
-            continue
 
-        changed = 0
-        for item in data:
-            txt = item.get("text")
-            if isinstance(txt, str):
-                new, k = annotate(txt, runes, alt)
-                if new != txt:
-                    item["text"] = new
-                    changed += 1
-            elif isinstance(txt, list):
-                for i, line in enumerate(txt):
-                    if not isinstance(line, str):
-                        continue
-                    new, k = annotate(line, runes, alt)
-                    if new != line:
-                        txt[i] = new
-                        changed += 1
+        # 递归遍历：不假设页面 JSON 的外形（Builds.json 顶层是 dict，散文在 6 层深）
+        changed = process_file(p, lambda t: annotate(t, runes, alt)[0], check=args.check,
+                               strip_pattern=re.compile(r"（\d+号）"))
 
         if changed:
-            print(f"  {fn}: {changed} 行")
+            print(f"  {fn}: {changed} 处")
             total += changed
-            if not args.check:
-                with open(p, "w", encoding="utf-8") as f:
-                    json.dump(data, f, ensure_ascii=False, indent=2)
-                    f.write("\n")
 
     print(f"{'需处理' if args.check else '已处理'} {total} 行")
     return 0
