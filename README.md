@@ -123,6 +123,18 @@ soe.txt: ModStrEnhancedDamage   → 增强伤害(ED)  ← 官方，是另一个�
 
 很多改动**只在炼狱（毁灭）模式生效**：烬魂消耗（标准 25/15/25 ↔ 炼狱 50/25/50）、取消低级精华、分解分档、酋长第四阶概率（标准 25% / 炼狱 15%）、烬魂印钞概率表（两张不同的表）。数据表本来就是两份，改一份不影响另一份。
 
+### 4.0 物品数据来自生成器，不要手改
+
+`Weapons.json` / `Armors.json` 现在由 **`tools/build_item_tables.py` 从游戏表重新生成**（已接入 `refresh_data.py`）：
+
+- **结构数值**（伤害/防御/等级/需求/孔数/阶位码）一律以 `Weapons.txt` / `Armor.txt` 为准；
+- **中文名**走 `official_names.py`（唯一解析入口），查不到官方中文名的物品**不收录**（页面上不出现英文名）；
+- 排除投掷药水与 TPot 内部占位；任务物品照收；
+- `itemType` 等表里没有中文的字段从旧数据**收割**，不丢翻译。
+
+**所以别再手改这两个文件** —— 手改会在下次 `refresh_data.py` 时被覆盖，而且正是过去反复出错的根源
+（名字改一半、阶位码写错、整行缺失、属性被写成单个字符）。
+
 ### 4.1 不要写「合成几次」，只写结果
 
 `CubeMain` 里带 `ROLL`(op18) 行的机制（机遇宝珠、崇高宝珠、烬魂簇、仇恨宝珠重洗、
@@ -227,6 +239,18 @@ python3 tools/verify_dropcalc_tables.py --repo /tmp/SOECN_repo \
 **2026-09 实测**：10 张表 × 2 模式全部一致；期间修掉 3 处漂移 ——
 `standard/Armor.txt` 的 `smer` 行阶位码写错（`smer/rxx/rxx` → `smn/smx/smer`）、
 `damnation/Armor.txt` 缺 2 行、`damnation/Levels.txt` 缺 9 行炼狱地图。
+
+### 4.3.2 已知缺口（复查过、有理由、**不要靠猜去补**）
+
+| 缺口 | 数字 | 原因 / 处置 |
+|---|---|---|
+| 词缀 | 前缀缺 85 / 后缀缺 111 | 早期 `translate_data.py` **只收录它有中文译文的条目**（缺失项 version/mod 分布杂乱，不是模式过滤）。补齐需要「属性码 → 中文模板」映射，靠推断有风险 → **暂不补**，保持可见 |
+| 暗金「驯服」 | 1 条 | `rarity=0`（掉率 0）且一半属性是隐藏项（`aura-hidden` / `static-modifier-display`），`occurrenceChance` 无法忠实重建 → 登记在审计第 3d 项的例外里 |
+| 任务物品 | 6 条 | 国王之杖 / 赫拉迪克法杖 等，`quest` 列非空，不进暗金列表 |
+| 升华灵魂石系列 | 19 条 | 源码 `UniqueItems.txt` 里有，但属**升华**内容，已在「升华」页收录 |
+| 139 件物品中文名 | — | 珠宝 / 护身符 / 钥匙 / 宝石 / 药水走**基础游戏**中文串，SOE 串表（3854 条，仅为模组覆盖表）里没有，**无法验证** |
+
+> 原则：**「对不上」时先把它变成可见的例外（写清理由），而不是编一个值填上。**
 
 ### 4.4 加标记（图标 / 符文编号）只能加在「markdown 渲染」的字段
 
@@ -333,6 +357,8 @@ npm run build
 │   ├── annotate_item_icons.py     页面正文物品名加图标标记 {{icon:CODE}}
 │   ├── annotate_rune_numbers.py   正文符文名补编号（提尔 → 提尔（3号））
 │   ├── official_names.py          ★ 官方物品名的唯一解析入口（改了名字链路只改这里）
+│   ├── build_item_tables.py       ★ 从游戏表重建武器/护甲（保留中文名）
+│   ├── verify_dropcalc_tables.py  核对掉落计算器 10 张表与国服源码
 │   ├── textwalk.py                ★ 页面 JSON 的散文遍历（递归，别假设外形）
 │   ├── refresh_data.py            一键刷新（解析/校验/生成/构建）
 │   └── generated/             生成物（gitignore；含报告与对照表）

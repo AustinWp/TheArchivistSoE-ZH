@@ -420,6 +420,71 @@ def main():
     except Exception as _e:  # noqa: BLE001
         print(f"  跳过（{_e}）")
 
+    # ---------- 3d) 暗金结构与源码表一致性（缺项 / 关键字段） ----------
+    print("\n== 3d. 暗金 ↔ UniqueItems.txt 一致性 ==")
+    # 已知且**有意**不收录的条目：说明写清楚，避免被当成漏网
+    # 以下条目在 UniqueItems.txt 里 enabled=1，但**有意**不放进「暗金装备」列表。
+    # 每条都要写清理由 —— 登记成例外是为了让「真·漏项」无处可藏，不是把问题藏起来。
+    KNOWN_MISSING_UNIQUES = {
+        "驯服": "rarity=0（掉率 0）且一半属性为隐藏项（aura-hidden / static-modifier-display），无法忠实重建，宁缺毋滥",
+        "彩虹刻面": "本站以「彩虹刻面·闪电 / 冰冷 / 火焰 / 毒素」四条收录，源码 4 行同名",
+        "克林姆连枷": "任务物品（源码 quest 列非空）",
+        "超级克林姆连枷": "任务物品",
+        "国王之杖": "任务物品",
+        "地狱熔炉之锤": "任务物品",
+        "蝮蛇项链": "任务物品",
+        "赫拉迪克法杖": "任务物品",
+    }
+    # 前缀后缀类：升华灵魂石系列（已在「升华」页收录）
+    KNOWN_MISSING_PREFIX = [
+        ("力量灵魂石", "升华物品，已在「升华」页收录"),
+        ("升华灵魂石", "升华物品，已在「升华」页收录"),
+        ("统御灵魂石", "升华物品，已在「升华」页收录"),
+        ("神性灵魂石", "升华物品，已在「升华」页收录"),
+        ("升华石冢", "升华物品，已在「升华」页收录"),
+    ]
+    try:
+        _p = os.path.join(ROOT, "public", "data", "standard", "UniqueItems.txt")
+        _rows = [l.split("\t") for l in
+                 open(_p, encoding="utf-8-sig", errors="replace").read().replace("\r\n", "\n").split("\n")
+                 if l.strip()]
+        _h = _rows[0]
+        _ci, _en = _h.index("index"), _h.index("enabled")
+        _li, _ri, _coi = _h.index("lvl"), _h.index("lvl req"), _h.index("code")
+
+        _uni = json.load(open(os.path.join(ROOT, "public", "data", "Uniques.json"), encoding="utf-8"))
+        _have = {}
+        for _x in _uni:
+            _have.setdefault(_x.get("index"), []).append(str(_x.get("code", "")).lower())
+
+        _missing, _fieldbad, _documented = [], 0, []
+        for _r in _rows[1:]:
+            if len(_r) <= max(_ci, _en, _li, _ri, _coi) or _r[_en].strip() != "1":
+                continue
+            _nm, _code = _r[_ci].strip(), _r[_coi].strip().lower()
+            reason = KNOWN_MISSING_UNIQUES.get(_nm)
+            if not reason:
+                for pre, why in KNOWN_MISSING_PREFIX:
+                    if _nm.startswith(pre):
+                        reason = why
+                        break
+            if reason:
+                _documented.append(f"{_nm}（{reason}）")
+                continue
+            if _nm not in _have:
+                _missing.append(_nm)
+                continue
+            if _code not in _have[_nm]:
+                _missing.append(f"{_nm}({_code})")
+        for _m in _missing:
+            issues.append(f"[暗金缺项] {_m} —— UniqueItems.txt 里 enabled=1 但本站没有")
+        print(f"  源码启用暗金 {sum(1 for _r in _rows[1:] if len(_r) > _en and _r[_en].strip() == '1')} 条，"
+              f"本站缺失 {len(_missing)} 条")
+        print(f"  已登记的有意例外 {len(_documented)} 条: "
+              + "; ".join(sorted({d.split('（')[1].rstrip('）') for d in _documented})))
+    except Exception as _e:  # noqa: BLE001
+        print(f"  跳过（{_e}）")
+
     print("\n== 4. 图标标记 ↔ 名称一致性 ==")
     official_norm = {k: norm_name(v) for k, v in official.items()}
     # 站内为区分重名而自定的别名（官方串表未收录）

@@ -16,6 +16,7 @@ STEPS = [
     ("重建圣化宝珠页 Sacreds.json", ["python3", "rebuild_sacreds.py"]),
     ("生成术语/宝珠/命运卡对照表", ["python3", "generate_terms_md.py"]),
     ("生成国服S1赛季页数据", ["python3", "generate_season_page.py"]),
+    ("从游戏表重建武器/护甲（保留中文）", ["python3", "build_item_tables.py"]),
     ("官方属性术语全站替换", ["python3", "apply_zh_terms.py"]),
     ("底材名对齐官方串表", ["python3", "apply_official_item_names.py"]),
     ("重建暗金引用（各基底上的暗金）", ["python3", "rebuild_unique_refs.py"]),
