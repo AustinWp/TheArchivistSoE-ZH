@@ -2,7 +2,7 @@
   {
     "displayName": "地图 T1",
     "corruptionProperties": [
-      "怪物获得 4-8% 致命攻击",
+      "怪物获得 4-8% 致命一击",
       "怪物密度：+30-40%",
       "经验值：+4-6%"
     ],
@@ -92,7 +92,7 @@
   {
     "displayName": "地图 T2",
     "corruptionProperties": [
-      "怪物获得 8-12% 致命攻击",
+      "怪物获得 8-12% 致命一击",
       "怪物密度：+40-50%",
       "经验值：+6-8%"
     ],
@@ -182,7 +182,7 @@
   {
     "displayName": "地图 T3",
     "corruptionProperties": [
-      "怪物获得 12-16% 致命攻击",
+      "怪物获得 12-16% 致命一击",
       "怪物密度：+50-60%",
       "经验值：+8-10%"
     ],
@@ -310,7 +310,7 @@
   {
     "displayName": "聚合体",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 5
   },
@@ -352,7 +352,7 @@
   {
     "displayName": "聚合体",
     "corruptionProperties": [
-      "+30-40% 增强伤害"
+      "+30-40% 强化伤害"
     ],
     "chance": 5
   },
@@ -734,7 +734,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+40-80% 增强伤害"
+      "+40-80% 强化伤害"
     ],
     "chance": 2.5
   },
@@ -770,7 +770,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 2.5
   },
@@ -842,7 +842,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "5% 每次命中偷取生命",
-      "+40-60% 增强伤害"
+      "+40-60% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -856,7 +856,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+20-30% 致命攻击"
+      "+20-30% 致命一击"
     ],
     "chance": 1.5
   },
@@ -878,7 +878,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+20% 攻击速度",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1
   },
@@ -894,15 +894,15 @@
     "displayName": "武器",
     "corruptionProperties": [
       "忽略目标防御",
-      "+60-80% 增强伤害"
+      "+60-80% 强化伤害"
     ],
     "chance": 1
   },
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+25% 致命攻击",
-      "+50-70% 增强伤害"
+      "+25% 致命一击",
+      "+50-70% 强化伤害"
     ],
     "chance": 1
   },
@@ -910,7 +910,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+250 攻击命中值",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1
   },
@@ -963,7 +963,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 3
   },
@@ -1047,14 +1047,14 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 2
   },
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 2
   },
@@ -1090,7 +1090,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%",
+      "物理伤害降低 6-8%",
       "+1% 物理抗性上限"
     ],
     "chance": 1.3
@@ -1179,7 +1179,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 3
   },
@@ -1265,7 +1265,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "受到的物理伤害减免 4-6%",
+      "物理伤害降低 4-6%",
       "+1% 物理抗性上限"
     ],
     "chance": 1.3
@@ -1312,7 +1312,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -1439,7 +1439,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "受到的物理伤害减免 3-4%"
+      "物理伤害降低 3-4%"
     ],
     "chance": 1.8
   },
@@ -1485,7 +1485,7 @@
   {
     "displayName": "手套",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -1593,7 +1593,7 @@
   {
     "displayName": "手套",
     "corruptionProperties": [
-      "+10% 致命攻击"
+      "+10% 致命一击"
     ],
     "chance": 1.9
   },
@@ -1642,7 +1642,7 @@
   {
     "displayName": "手套",
     "corruptionProperties": [
-      "+30-40% 增强伤害"
+      "+30-40% 强化伤害"
     ],
     "chance": 1.8
   },
@@ -1743,7 +1743,7 @@
   {
     "displayName": "腰带",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 3
   },
@@ -1785,7 +1785,7 @@
   {
     "displayName": "腰带",
     "corruptionProperties": [
-      "受到的物理伤害减免 3-4%",
+      "物理伤害降低 3-4%",
       "+1% 物理抗性上限"
     ],
     "chance": 1.8
@@ -1838,7 +1838,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 3
   },
@@ -1964,7 +1964,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "+30-40% 增强伤害"
+      "+30-40% 强化伤害"
     ],
     "chance": 1.2
   },
@@ -1999,7 +1999,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 3
   },
@@ -2085,14 +2085,14 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 2
   },
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 2
   },
@@ -2127,7 +2127,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%"
+      "物理伤害降低 6-8%"
     ],
     "chance": 1.3
   },
@@ -2229,7 +2229,7 @@
   {
     "displayName": "戒指",
     "corruptionProperties": [
-      "15-20% 更好的机会获得魔法物品"
+      "15-20% 寻获魔法物品几率提高"
     ],
     "chance": 3
   },
@@ -2243,14 +2243,14 @@
   {
     "displayName": "戒指",
     "corruptionProperties": [
-      "受到的物理伤害减免 4-6"
+      "物理伤害降低 4-6"
     ],
     "chance": 3
   },
   {
     "displayName": "戒指",
     "corruptionProperties": [
-      "魔法伤害受到的减少 4-6"
+      "魔法伤害降低 4-6"
     ],
     "chance": 3
   },
@@ -2285,7 +2285,7 @@
   {
     "displayName": "戒指",
     "corruptionProperties": [
-      "受到的物理伤害减免 3%"
+      "物理伤害降低 3%"
     ],
     "chance": 1.9
   },
@@ -2403,7 +2403,7 @@
   {
     "displayName": "项链",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 3
   },
@@ -2445,7 +2445,7 @@
   {
     "displayName": "项链",
     "corruptionProperties": [
-      "+30-40% 增强伤害"
+      "+30-40% 强化伤害"
     ],
     "chance": 3
   },
@@ -2511,7 +2511,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+40-80% 增强伤害"
+      "+40-80% 强化伤害"
     ],
     "chance": 3.7
   },
@@ -2547,7 +2547,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 3.8
   },
@@ -2619,7 +2619,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "5% 每次命中偷取生命",
-      "+40-60% 增强伤害"
+      "+40-60% 强化伤害"
     ],
     "chance": 2.3
   },
@@ -2633,7 +2633,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+20-30% 致命攻击"
+      "+20-30% 致命一击"
     ],
     "chance": 2.3
   },
@@ -2655,7 +2655,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+20% 攻击速度",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -2671,15 +2671,15 @@
     "displayName": "武器",
     "corruptionProperties": [
       "忽略目标防御",
-      "+60-80% 增强伤害"
+      "+60-80% 强化伤害"
     ],
     "chance": 1.5
   },
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+25% 致命攻击",
-      "+50-70% 增强伤害"
+      "+25% 致命一击",
+      "+50-70% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -2687,7 +2687,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+250 攻击命中值",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -2733,7 +2733,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+40-80% 增强伤害"
+      "+40-80% 强化伤害"
     ],
     "chance": 3.7
   },
@@ -2769,7 +2769,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 3.8
   },
@@ -2841,7 +2841,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "5% 每次命中偷取生命",
-      "+40-60% 增强伤害"
+      "+40-60% 强化伤害"
     ],
     "chance": 2.3
   },
@@ -2855,7 +2855,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+20-30% 致命攻击"
+      "+20-30% 致命一击"
     ],
     "chance": 2.3
   },
@@ -2877,7 +2877,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+20% 攻击速度",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -2893,15 +2893,15 @@
     "displayName": "武器",
     "corruptionProperties": [
       "忽略目标防御",
-      "+60-80% 增强伤害"
+      "+60-80% 强化伤害"
     ],
     "chance": 1.5
   },
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+25% 致命攻击",
-      "+50-70% 增强伤害"
+      "+25% 致命一击",
+      "+50-70% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -2909,7 +2909,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+250 攻击命中值",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -2955,7 +2955,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+40-80% 增强伤害"
+      "+40-80% 强化伤害"
     ],
     "chance": 3.7
   },
@@ -2991,7 +2991,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 3.8
   },
@@ -3063,7 +3063,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "5% 每次命中偷取生命",
-      "+40-60% 增强伤害"
+      "+40-60% 强化伤害"
     ],
     "chance": 2.3
   },
@@ -3077,7 +3077,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+20-30% 致命攻击"
+      "+20-30% 致命一击"
     ],
     "chance": 2.3
   },
@@ -3099,7 +3099,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+20% 攻击速度",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -3115,15 +3115,15 @@
     "displayName": "武器",
     "corruptionProperties": [
       "忽略目标防御",
-      "+60-80% 增强伤害"
+      "+60-80% 强化伤害"
     ],
     "chance": 1.5
   },
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+25% 致命攻击",
-      "+50-70% 增强伤害"
+      "+25% 致命一击",
+      "+50-70% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -3131,7 +3131,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+250 攻击命中值",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -3177,7 +3177,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+40-80% 增强伤害"
+      "+40-80% 强化伤害"
     ],
     "chance": 3.7
   },
@@ -3213,7 +3213,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 3.8
   },
@@ -3285,7 +3285,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "5% 每次命中偷取生命",
-      "+40-60% 增强伤害"
+      "+40-60% 强化伤害"
     ],
     "chance": 2.3
   },
@@ -3299,7 +3299,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+20-30% 致命攻击"
+      "+20-30% 致命一击"
     ],
     "chance": 2.3
   },
@@ -3321,7 +3321,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+20% 攻击速度",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -3337,15 +3337,15 @@
     "displayName": "武器",
     "corruptionProperties": [
       "忽略目标防御",
-      "+60-80% 增强伤害"
+      "+60-80% 强化伤害"
     ],
     "chance": 1.5
   },
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+25% 致命攻击",
-      "+50-70% 增强伤害"
+      "+25% 致命一击",
+      "+50-70% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -3353,7 +3353,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+250 攻击命中值",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -3399,7 +3399,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+40-80% 增强伤害"
+      "+40-80% 强化伤害"
     ],
     "chance": 3.7
   },
@@ -3435,7 +3435,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 3.8
   },
@@ -3507,7 +3507,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "5% 每次命中偷取生命",
-      "+40-60% 增强伤害"
+      "+40-60% 强化伤害"
     ],
     "chance": 2.3
   },
@@ -3521,7 +3521,7 @@
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+20-30% 致命攻击"
+      "+20-30% 致命一击"
     ],
     "chance": 2.3
   },
@@ -3543,7 +3543,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+20% 攻击速度",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -3559,15 +3559,15 @@
     "displayName": "武器",
     "corruptionProperties": [
       "忽略目标防御",
-      "+60-80% 增强伤害"
+      "+60-80% 强化伤害"
     ],
     "chance": 1.5
   },
   {
     "displayName": "武器",
     "corruptionProperties": [
-      "+25% 致命攻击",
-      "+50-70% 增强伤害"
+      "+25% 致命一击",
+      "+50-70% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -3575,7 +3575,7 @@
     "displayName": "武器",
     "corruptionProperties": [
       "+250 攻击命中值",
-      "+80-120% 增强伤害"
+      "+80-120% 强化伤害"
     ],
     "chance": 1.5
   },
@@ -3628,7 +3628,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -3712,14 +3712,14 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 3
   },
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 3
   },
@@ -3755,7 +3755,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%"
+      "物理伤害降低 6-8%"
     ],
     "chance": 1.8
   },
@@ -3801,7 +3801,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -3885,14 +3885,14 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 3
   },
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 3
   },
@@ -3928,7 +3928,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%"
+      "物理伤害降低 6-8%"
     ],
     "chance": 1.8
   },
@@ -3974,7 +3974,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -4058,14 +4058,14 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 3
   },
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 3
   },
@@ -4101,7 +4101,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%"
+      "物理伤害降低 6-8%"
     ],
     "chance": 1.8
   },
@@ -4147,7 +4147,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -4231,14 +4231,14 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 3
   },
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 3
   },
@@ -4274,7 +4274,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%"
+      "物理伤害降低 6-8%"
     ],
     "chance": 1.8
   },
@@ -4320,7 +4320,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -4404,14 +4404,14 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 3
   },
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 3
   },
@@ -4447,7 +4447,7 @@
   {
     "displayName": "护甲",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%"
+      "物理伤害降低 6-8%"
     ],
     "chance": 1.8
   },
@@ -4535,7 +4535,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -4621,7 +4621,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "受到的物理伤害减免 4-6%"
+      "物理伤害降低 4-6%"
     ],
     "chance": 1.8
   },
@@ -4709,7 +4709,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -4795,7 +4795,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "受到的物理伤害减免 4-6%"
+      "物理伤害降低 4-6%"
     ],
     "chance": 1.8
   },
@@ -4883,7 +4883,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -4969,7 +4969,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "受到的物理伤害减免 4-6%"
+      "物理伤害降低 4-6%"
     ],
     "chance": 1.8
   },
@@ -5057,7 +5057,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -5143,7 +5143,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "受到的物理伤害减免 4-6%"
+      "物理伤害降低 4-6%"
     ],
     "chance": 1.8
   },
@@ -5231,7 +5231,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -5317,7 +5317,7 @@
   {
     "displayName": "头盔",
     "corruptionProperties": [
-      "受到的物理伤害减免 4-6%"
+      "物理伤害降低 4-6%"
     ],
     "chance": 1.8
   },
@@ -5363,7 +5363,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -5449,14 +5449,14 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 3
   },
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 3
   },
@@ -5491,7 +5491,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%"
+      "物理伤害降低 6-8%"
     ],
     "chance": 1.8
   },
@@ -5537,7 +5537,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -5623,14 +5623,14 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 3
   },
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 3
   },
@@ -5665,7 +5665,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%"
+      "物理伤害降低 6-8%"
     ],
     "chance": 1.8
   },
@@ -5711,7 +5711,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -5797,14 +5797,14 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 3
   },
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 3
   },
@@ -5839,7 +5839,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%"
+      "物理伤害降低 6-8%"
     ],
     "chance": 1.8
   },
@@ -5885,7 +5885,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -5971,14 +5971,14 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 3
   },
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 3
   },
@@ -6013,7 +6013,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%"
+      "物理伤害降低 6-8%"
     ],
     "chance": 1.8
   },
@@ -6059,7 +6059,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "20-30% 更好的机会获得魔法物品"
+      "20-30% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -6145,14 +6145,14 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-10"
+      "物理伤害降低 6-10"
     ],
     "chance": 3
   },
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "魔法伤害受到的减少 6-10"
+      "魔法伤害降低 6-10"
     ],
     "chance": 3
   },
@@ -6187,7 +6187,7 @@
   {
     "displayName": "任意盾牌",
     "corruptionProperties": [
-      "受到的物理伤害减免 6-8%"
+      "物理伤害降低 6-8%"
     ],
     "chance": 1.8
   },
@@ -6240,7 +6240,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -6366,7 +6366,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "+30-40% 增强伤害"
+      "+30-40% 强化伤害"
     ],
     "chance": 1.9
   },
@@ -6408,7 +6408,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -6534,7 +6534,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "+30-40% 增强伤害"
+      "+30-40% 强化伤害"
     ],
     "chance": 1.9
   },
@@ -6576,7 +6576,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -6702,7 +6702,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "+30-40% 增强伤害"
+      "+30-40% 强化伤害"
     ],
     "chance": 1.9
   },
@@ -6744,7 +6744,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -6870,7 +6870,7 @@
   {
     "displayName": "弓/弩箭袋",
     "corruptionProperties": [
-      "+30-40% 增强伤害"
+      "+30-40% 强化伤害"
     ],
     "chance": 1.9
   },
@@ -6905,7 +6905,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -7032,7 +7032,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "受到的物理伤害减免 3-4%"
+      "物理伤害降低 3-4%"
     ],
     "chance": 1.8
   },
@@ -7078,7 +7078,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -7205,7 +7205,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "受到的物理伤害减免 3-4%"
+      "物理伤害降低 3-4%"
     ],
     "chance": 1.8
   },
@@ -7251,7 +7251,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -7378,7 +7378,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "受到的物理伤害减免 3-4%"
+      "物理伤害降低 3-4%"
     ],
     "chance": 1.8
   },
@@ -7424,7 +7424,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -7551,7 +7551,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "受到的物理伤害减免 3-4%"
+      "物理伤害降低 3-4%"
     ],
     "chance": 1.8
   },
@@ -7597,7 +7597,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "10-25% 更好的机会获得魔法物品"
+      "10-25% 寻获魔法物品几率提高"
     ],
     "chance": 4.5
   },
@@ -7724,7 +7724,7 @@
   {
     "displayName": "靴子",
     "corruptionProperties": [
-      "受到的物理伤害减免 3-4%"
+      "物理伤害降低 3-4%"
     ],
     "chance": 1.8
   },
@@ -7763,7 +7763,7 @@
   {
     "displayName": "地图 T4",
     "corruptionProperties": [
-      "怪物获得 15-20% 致命攻击",
+      "怪物获得 15-20% 致命一击",
       "怪物密度：+50-60%",
       "经验值：+8-10%"
     ],
@@ -7853,7 +7853,7 @@
   {
     "displayName": "地图 T5",
     "corruptionProperties": [
-      "怪物获得 12-16% 致命攻击",
+      "怪物获得 12-16% 致命一击",
       "怪物密度：+50-60%",
       "经验值：+8-10%"
     ],
