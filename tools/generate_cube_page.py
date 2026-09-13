@@ -19,12 +19,7 @@ ST, DM = RECS["standard"], RECS["damnation"]
 ZH = json.load(open(os.path.join(ROOT, "public", "data", "official_zh.json"), encoding="utf-8"))["names"]
 CARDS = json.load(open(os.path.join(ROOT, "public", "data", "FateCards.json"), encoding="utf-8"))
 
-RUNE_ZH = {"El": "艾尔", "Eld": "艾德", "Tir": "提尔", "Nef": "奈夫", "Eth": "艾斯", "Ith": "伊斯",
-           "Tal": "塔尔", "Ral": "拉尔", "Ort": "欧特", "Thul": "书尔", "Amn": "安姆", "Sol": "索尔",
-           "Shael": "夏尔", "Dol": "多尔", "Hel": "海尔", "Io": "爱欧", "Lum": "卢姆", "Ko": "科",
-           "Fal": "法尔", "Lem": "莱姆", "Pul": "普尔", "Um": "乌姆", "Mal": "马尔", "Ist": "伊斯特",
-           "Gul": "古尔", "Vex": "瓦克斯", "Ohm": "欧姆", "Lo": "罗", "Sur": "瑟", "Ber": "贝",
-           "Jah": "乔", "Cham": "查姆", "Zod": "佐德"}
+RUNE_ZH = {"El": "艾尔", "Eld": "艾德", "Tir": "提尔", "Nef": "奈夫", "Eth": "艾斯", "Ith": "伊司", "Tal": "塔尔", "Ral": "拉尔", "Ort": "欧特", "Thul": "图尔", "Amn": "安姆", "Sol": "索尔", "Shael": "沙伊", "Dol": "多尔", "Hel": "海尔", "Io": "艾欧", "Lum": "卢姆", "Ko": "科", "Fal": "法尔", "Lem": "兰姆", "Pul": "普尔", "Um": "乌姆", "Mal": "玛尔", "Ist": "伊司特", "Gul": "古尔", "Vex": "伐克斯", "Ohm": "欧姆", "Lo": "罗", "Sur": "瑟", "Ber": "贝", "Jah": "扎哈", "Cham": "查姆", "Zod": "佐德"}
 
 
 def zh(code):
@@ -97,13 +92,13 @@ RUNE_BY_NUM = {"r%d" % i: RUNE_ZH[name] for i, name in enumerate(
 
 ENG2ZH = {
     "Skeleton Key": "骷髅钥匙", "Eld Rune": "艾德", "Tir Rune": "提尔", "Nef Rune": "奈夫",
-    "Eth Rune": "艾斯", "Ith Rune": "伊斯", "Tal Rune": "塔尔", "Ral Rune": "拉尔",
-    "Ort Rune": "欧特", "Thul Rune": "书尔", "Amn Rune": "安姆", "Sol Rune": "索尔",
-    "Shael Rune": "夏尔", "Dol Rune": "多尔", "Hel Rune": "海尔", "Io Rune": "爱欧",
-    "Lum Rune": "卢姆", "Ko Rune": "科", "Fal Rune": "法尔", "Lem Rune": "莱姆",
-    "Pul Rune": "普尔", "Um Rune": "乌姆", "Mal Rune": "马尔", "Ist Rune": "伊斯特",
-    "Gul Rune": "古尔", "Vex Rune": "瓦克斯", "Ohm Rune": "欧姆", "Lo Rune": "罗",
-    "Sur Rune": "瑟", "Ber Rune": "贝", "Jah Rune": "乔", "Cham Rune": "查姆", "Zod Rune": "佐德",
+    "Eth Rune": "艾斯", "Ith Rune": "伊司", "Tal Rune": "塔尔", "Ral Rune": "拉尔",
+    "Ort Rune": "欧特", "Thul Rune": "图尔", "Amn Rune": "安姆", "Sol Rune": "索尔",
+    "Shael Rune": "沙伊", "Dol Rune": "多尔", "Hel Rune": "海尔", "Io Rune": "艾欧",
+    "Lum Rune": "卢姆", "Ko Rune": "科", "Fal Rune": "法尔", "Lem Rune": "兰姆",
+    "Pul Rune": "普尔", "Um Rune": "乌姆", "Mal Rune": "玛尔", "Ist Rune": "伊司特",
+    "Gul Rune": "古尔", "Vex Rune": "伐克斯", "Ohm Rune": "欧姆", "Lo Rune": "罗",
+    "Sur Rune": "瑟", "Ber Rune": "贝", "Jah Rune": "扎哈", "Cham Rune": "查姆", "Zod Rune": "佐德",
     "Perfect Ruby": "完美红宝石", "Perfect Saphire": "完美蓝宝石", "Perfect Topaz": "完美黄宝石",
     "Perfect Emerald": "完美绿宝石", "Perfect Diamond": "完美钻石", "Perfect Skull": "完美骷髅",
     "Perfect Amethyst": "完美紫宝石",
@@ -115,7 +110,7 @@ ENG2ZH = {
     "Orb of Extraction": "提取宝珠", "Divine Orb": "神授宝珠", "Eternal Orb": "永恒宝珠",
     "Worldstone Shard": "世界之石碎片", "Crystallised Cindersoul": "晶化烬魂",
     "Infernal Kiln": "炼狱熔炉", "Eternal Coin": "永恒币", "Jeweller's Prism": "珠宝匠棱镜",
-    "Lilith Mirror": "莉莉丝之镜", "Orb of Horizons": "地平线宝珠", "Puzzlepiece": "拉苏克谜盒碎片",
+    "Lilith Mirror": "莉莉丝的镜子", "Orb of Horizons": "地平线宝珠", "Puzzlepiece": "拉苏克谜盒碎片",
     "Puzzlebox": "拉苏克谜盒", "Larzuks Malus": "拉苏克的铁锤", "Larzuk's Mallus": "拉苏克的铁锤",
     "Blood": "血腥系模组", "Caster": "施法系模组", "Hitpower": "打击系模组", "Safety": "安全系模组",
     "Vampiric": "妖蝠系模组", "Bountiful": "丰饶系模组", "Brilliant": "闪耀系模组",
@@ -297,15 +292,15 @@ def main():
         f"- 提取宝珠掉落：普通 1:20000 全怪 / 噩梦 1:10000 / 地狱 1:4000（游戏内为准）",
     ])
 
-    # ------------------------------------------------------------------ 5 莉莉丝之镜
-    add("liliths-mirror", "莉莉丝之镜（复制）", [
+    # ------------------------------------------------------------------ 5 莉莉丝的镜子
+    add("liliths-mirror", "莉莉丝的镜子（复制）", [
         "- 被复制的物品**不能再次复制**；复制品保留孔、镶嵌物与无形状态",
         "- 物品不能腐化",
         *md_table(["材料", "结果"], [
-            ["莉莉丝之镜 + 未腐化的暗金武器/护甲/戒指/项链", "精确复制品"],
-            ["莉莉丝之镜 + 未腐化的套装武器/护甲/戒指/项链", "精确复制品"],
-            ["莉莉丝之镜 + 魔法/稀有/暗金普通珠宝或神话珠宝", "精确复制品"],
-            ["莉莉丝之镜 + 魔法/稀有/制作箭矢或弩矢（含扩展/精英）", "精确复制品"],
+            ["莉莉丝的镜子 + 未腐化的暗金武器/护甲/戒指/项链", "精确复制品"],
+            ["莉莉丝的镜子 + 未腐化的套装武器/护甲/戒指/项链", "精确复制品"],
+            ["莉莉丝的镜子 + 魔法/稀有/暗金普通珠宝或神话珠宝", "精确复制品"],
+            ["莉莉丝的镜子 + 魔法/稀有/制作箭矢或弩矢（含扩展/精英）", "精确复制品"],
         ]),
     ])
 

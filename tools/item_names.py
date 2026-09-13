@@ -1,3 +1,8 @@
+"""[DEPRECATED] 早期人工物品名词典，**当前没有任何工具引用它**。
+其中的译名是「对齐官方串表之前」的旧译（如 Stilleto→狭长匕首、Simple Robe→简朴长袍）。
+权威术语见 docs/reference/soe.txt → public/data/official_zh.json；
+底材名对齐请用 tools/apply_official_item_names.py。
+"""
 # -*- coding: utf-8 -*-
 """PD2 Sanctuary of Exile 中文翻译词典 — 武器/护甲基础物品名。
 参考暗黑破坏神 2 中文社区标准译名（impk / 凯恩之角 / D2 官方中文版）。

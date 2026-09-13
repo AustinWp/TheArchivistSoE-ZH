@@ -139,7 +139,8 @@ soe.txt: ModStrEnhancedDamage   → 增强伤害(ED)  ← 官方，是另一个�
 ### 10. 交付前的自检
 
 ```bash
-python3 tools/verify_cube_claims.py   # 断言应全绿（当前 41 条；数据变了就同步改断言）
+python3 tools/verify_cube_claims.py       # 断言应全绿（当前 41 条；数据变了就同步改断言）
+python3 tools/audit_official_terms.py --strict   # 术语必须与官方串表完全一致（应输出「未发现不一致」）
 npm run lint                          # 与基线比较，不要新增问题
 npm run build
 ```
@@ -161,6 +162,8 @@ npm run build
 │   ├── sync_dropcalc_tables.py    同步掉落计算器数据表（保留中文列）
 │   ├── build_item_images.py       游戏数据表 → 物品贴图映射 ItemImages.json
 │   ├── fetch_item_images.py       下载物品贴图到 public/item-images/
+│   ├── apply_official_item_names.py 底材名对齐官方中文串表
+│   ├── audit_official_terms.py     术语一致性审计（旧译残留/硬编码/物品名）
 │   ├── refresh_data.py            一键刷新（解析/校验/生成/构建）
 │   └── generated/             生成物（gitignore；含报告与对照表）
 └── src/                      站点源码

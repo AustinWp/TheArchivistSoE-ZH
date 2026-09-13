@@ -13771,7 +13771,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "狭长匕首",
+      "name": "小剑",
       "type": "knif",
       "secondType": "1han",
       "code": "9bl",
@@ -18953,7 +18953,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "战手套",
+      "name": "战争护手",
       "minDefense": 43,
       "maxDefense": 53,
       "requiredStrength": "110",
@@ -24577,7 +24577,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "狂战士之斧",
+      "name": "狂战士斧",
       "type": "axe",
       "secondType": "1han",
       "code": "7wa",
@@ -34428,7 +34428,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "地狱之子之首",
+      "name": "地狱爪牙之骨",
       "minDefense": 96,
       "maxDefense": 141,
       "requiredStrength": "82",
@@ -36554,7 +36554,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "优雅圆盾",
+      "name": "雅致圆盾",
       "minDefense": 165,
       "maxDefense": 180,
       "requiredStrength": "230",
@@ -36629,7 +36629,7 @@
     "rarity": "4",
     "carryOne": "",
     "armorBase": {
-      "name": "优雅圆盾",
+      "name": "雅致圆盾",
       "minDefense": 165,
       "maxDefense": 180,
       "requiredStrength": "230",
@@ -37664,7 +37664,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "虔诚头盔",
+      "name": "虔敬头盔",
       "minDefense": 140,
       "maxDefense": 190,
       "requiredStrength": "190",
@@ -37738,7 +37738,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "虔诚头盔",
+      "name": "虔敬头盔",
       "minDefense": 140,
       "maxDefense": 190,
       "requiredStrength": "190",
@@ -37903,7 +37903,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "猎人头罩",
+      "name": "猎手兜帽",
       "minDefense": 120,
       "maxDefense": 170,
       "requiredStrength": "125",
@@ -38256,7 +38256,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "破旧头罩",
+      "name": "破旧兜帽",
       "minDefense": 42,
       "maxDefense": 45,
       "requiredStrength": "30",
@@ -38439,7 +38439,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "开明长袍",
+      "name": "启迪长袍",
       "minDefense": 150,
       "maxDefense": 200,
       "requiredStrength": "0",
@@ -41430,7 +41430,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "简朴长袍",
+      "name": "朴素长袍",
       "minDefense": 0,
       "maxDefense": 0,
       "requiredStrength": "0",

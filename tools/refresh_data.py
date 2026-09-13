@@ -17,6 +17,8 @@ STEPS = [
     ("生成术语/宝珠/命运卡对照表", ["python3", "generate_terms_md.py"]),
     ("生成国服S1赛季页数据", ["python3", "generate_season_page.py"]),
     ("官方属性术语全站替换", ["python3", "apply_zh_terms.py"]),
+    ("底材名对齐官方串表", ["python3", "apply_official_item_names.py"]),
+    ("官方术语一致性审计", ["python3", "audit_official_terms.py"]),
     ("构建站点", ["npm", "run", "build"]),
 ]
 
