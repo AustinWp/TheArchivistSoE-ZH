@@ -2535,7 +2535,10 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
                     uniqueItems.find((u) => n(u.index).toLowerCase() === q) ||
                     uniqueItems.find((u) => n(u.index).toLowerCase().includes(q));
 
-                if (!targetItem) throw new Error(`未找到暗金物品：${query}`);
+                if (!targetItem) {
+                    throw new Error(`未找到暗金物品「${n(query)}」。请输入游戏内中文名（支持部分匹配，如「啃咬」）；`
+                        + `英文名无法匹配，也可以到「暗金装备」页点「查看掉落率」直接带入。`);
+                }
 
                 targetCode = n(targetItem.code);
             }
@@ -2545,7 +2548,10 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
                     setItems.find((u) => n(u.index).toLowerCase() === q) ||
                     setItems.find((u) => n(u.index).toLowerCase().includes(q));
 
-                if (!targetItem) throw new Error(`未找到套装物品：${query}`);
+                if (!targetItem) {
+                    throw new Error(`未找到套装物品「${n(query)}」。请输入游戏内中文名（支持部分匹配）；`
+                        + `英文名无法匹配。`);
+                }
 
                 targetCode = rowItemCode(targetItem);
             }
@@ -2753,8 +2759,15 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
                             className="searchBar"
                             value={query}
                             onChange={(e) => setQuery(e.target.value)}
-                            placeholder={dropMode === "misc" ? "输入物品代码…" : "输入物品名称…"}
+                            placeholder={dropMode === "misc" ? "输入物品代码…" : "输入物品中文名（支持部分匹配，如「啃咬」）…"}
                         />
+
+                        <div className="meta" style={{marginTop: 6}}>
+                            {dropMode === "misc"
+                                ? "输入物品代码后自动计算（无需点按钮）。"
+                                : "输入游戏内中文名即可自动计算（无需点按钮）；英文名无法匹配。"}
+                            {" 也可以到「暗金装备」页点某件物品的「查看掉落率」直接带入。"}
+                        </div>
                     </div>
                 </div>
             </div>
@@ -2808,6 +2821,16 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
                             </thead>
 
                             <tbody>
+                            {!loading && !error && !rows.length && !n(query) && (
+                                <tr>
+                                    <td colSpan="5" className="table-message">
+                                        {dropMode === "misc"
+                                            ? "请在上方输入物品代码。"
+                                            : "请在上方输入物品的中文名（如「啃咬者」，支持部分匹配），结果会自动计算。"}
+                                    </td>
+                                </tr>
+                            )}
+
                             {loading && (
                                 <tr>
                                     <td colSpan="5" className="table-message">
