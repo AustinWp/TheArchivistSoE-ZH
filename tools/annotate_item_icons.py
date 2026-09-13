@@ -79,6 +79,14 @@ def build_name_map():
             continue
         name2code.setdefault(zh, c)
 
+    # 官方串表未收录、但站点在用的名称（基础游戏译名等）
+    ALIAS = {
+        "普通钥匙": "key",     # Misc.txt `key` = Skeleton Key（消耗品），官方串表未覆盖
+    }
+    for zh_name, code in ALIAS.items():
+        if code in images:
+            name2code.setdefault(zh_name, code)
+
     # 长名优先，避免短名抢先匹配
     return sorted(name2code.items(), key=lambda kv: -len(kv[0]))
 
