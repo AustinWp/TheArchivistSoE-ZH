@@ -615,7 +615,7 @@ PROP_PHRASES = [
     ("Sacred", "神圣"),
     ("Sacreds", "圣物"),
     ("Mythic Orb", "神话宝珠"),
-    ("Divine Orb", "神圣宝珠"),
+    ("Divine Orb", "神授宝珠"),   # 官方串表 divo/dvo = 神授宝珠；旧译「神圣宝珠」已废弃
     ("Map", "地图"),
     ("Maps", "地图"),
     ("Dungeons", "地下城"),
@@ -625,7 +625,7 @@ PROP_PHRASES = [
     ("League", "赛季"),
     ("Season", "赛季"),
     ("Fate Card", "命运卡牌"),
-    ("Ascendancy", "飞升"),
+    ("Ascendancy", "升华"),   # 官方串表 Ascendancy = 升华；旧译「飞升」已废弃
     ("Essence", "精华"),
     ("Essences", "精华"),
     ("Terror of Opulence", "财富恐怖"),

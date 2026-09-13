@@ -1,3 +1,8 @@
+> ⚠️ **术语权威**：本指南只是早期人工翻译的参考。**全站术语以游戏官方中文串表为准**
+> （`docs/reference/soe.txt` → `public/data/official_zh.json`），批量替换由 `tools/apply_zh_terms.py` 执行。
+> 常见易错对照：`divo`/`dvo` = **神授宝珠**（不是「神圣宝珠」）；`mfo` = **神话宝珠**；
+> `mjw` = **神话珠宝**（珠宝，不是宝珠）；`oroc` = **机遇宝珠**（不是「机会宝珠」）。
+
 # PD2 流放圣域中文资料库 · 静态页翻译规范
 
 ## 任务
@@ -41,13 +46,13 @@
 - 职业：Amazon → 亚马逊；Assassin → 刺客；Barbarian → 野蛮人；Druid → 德鲁伊；Necromancer → 死灵法师；Paladin → 圣骑士；Sorceress → 法师
 - 难度：Normal → 普通；Nightmare → 噩梦；Hell → 地狱
 - Act → 幕（Act 1 → 第一幕）
-- 货币/材料：Mythic Orb → 神话宝珠；Divine Orb → 神圣宝珠；Exalted Orb → 崇高宝珠；Sacred Orb → 圣化宝珠；Chaos Orb → 混沌宝珠；Orb of Alchemy → 点金石；World Stone Shard → 世界之石碎片；Ornate Charm → 华丽护符；Mythical Jewel → 神话珠宝；Glyph → 雕文；Terror → 恐怖；Chisel → 雕刻刀；Essence → 精华；Rune → 符文（符文名 El/Zod 等保持英文大写）
+- 货币/材料：Mythic Orb → **神话宝珠**（官方串表 `mfo`）；Divine Orb → **神授宝珠**（官方串表 `divo`/`dvo`；勿写「神圣宝珠」）；Exalted Orb → 崇高宝珠；Sacred Orb → 圣化宝珠；Chaos Orb → 混沌宝珠；Orb of Alchemy → 点金石；World Stone Shard → 世界之石碎片；Ornate Charm → 华丽护符；Mythical Jewel → **神话珠宝**（`mjw`，是「珠宝」不是「宝珠」，勿与 Mythic Orb 混）；Glyph → 铭文；Terror → 恐怖；Chisel → 雕刻刀；Essence → 精华；Rune → 符文（符文名 El/Zod 等保持英文大写）
 - 品质：Normal → 普通；Exceptional → 扩展；Elite → 精英；Superior → 超强；Magic → 魔法；Rare → 稀有；Set → 套装；Unique → 暗金；Crafted → 手工；Ethereal → 无形
 - 物品部位：Weapon → 武器；Armor → 护甲；Helm/Helmet → 头盔；Shield → 盾牌；Gloves → 手套；Boots → 靴子；Belt → 腰带；Ring → 戒指；Amulet → 项链；Charm → 护符；Jewel → 珠宝；Grand Charm → 大型护符
 - 暗金名（D2 经典译名）：Nagelring → 拿各的戒指；Manald Heal → 马纳德的治疗；Raven Frost → 乌鸦之霜；Dwarf Star → 矮人之星；Carrion Wind → 腐肉之风；Nokozan Relic → 诺科赞遗物；The Cat's Eye → 猫眼；The Mahim Oak Curio → 马希姆橡树古玩；Saracen's Chance → 撒拉森的机会；Crescent Moon → 新月；The Eye of Etlich → 艾利屈之眼；Atma's Scarab → 阿特玛的圣甲虫；Gheed's Fortune → 基德的运气；The Stone of Jordan → 乔丹之石；Tyrael's Might → 泰瑞尔的力量；Goldwrap → 金包袱；Gore Rider → 血脚；String of Ears → 长串之耳；Verdungo's Hearty Cord → 维尔登戈的心结；Arachnid Mesh → 蛛网腰带；Spirit Shroud → 灵魂帷幕；Skin of the Vipermagi → 蛇魔法师之皮；Que-Hegan's Wisdom → 魁黑刚的智慧；Shaftstop → 谢夫特斯坦布；Guardian Angel → 守护天使；Bonehew → 白骨阴影；Lidless Wall → 无睑墙；Stormshield → 暴风之盾；Mara's Kaleidoscope → 马拉的万花筒；Highlord's Wrath → 大君之怒
 - 怪物名：Andariel → 安达利尔；Duriel → 督瑞尔；Mephisto → 墨菲斯托；Diablo → 暗黑破坏神；Baal → 巴尔；Hephasto → 赫法斯托；Blood Raven → 血乌；Radament → 罗达门特；The Summoner → 召唤者；Nihlathak → 尼拉塞克；Uber boss → 超级首领；Uber Tristram → 超级崔斯特瑞姆；Pindleskin → 粉碎者
 - NPC：Cain → 凯恩；Charsi → 恰西；Gheed → 基德；Warriv → 瓦瑞夫；Larzuk → 拉苏克；Tyrael → 泰瑞尔；Izual → 衣卒尔；Malah → 马拉；Anya → 安亚
-- 场景/机制：Moo Moo Farm → 哞哞农场；Cow Level → 奶牛关；Horadric Cube → 赫拉迪克方块；Hellforge → 地狱熔炉；Infernal Kiln → 炼狱熔炉；Sacred → 圣化；Corruption → 腐化；Damnation Mode → 毁灭模式；Standard Mode → 标准模式；Ascendancy → 飞升；Sanctuary of Exile → 流放圣域（SoE 保持缩写）；Drop Rate → 掉落率；Treasure Class → 财宝等级；Magic Find → 寻宝率（MF）；Item Level → 物品等级；Quality Level → 品质等级；Socket → 孔/孔数；Durability → 耐久度；Required Level → 需求等级
+- 场景/机制：Moo Moo Farm → 哞哞农场；Cow Level → 奶牛关；Horadric Cube → 赫拉迪克方块；Hellforge → 地狱熔炉（怪物/场景）；Infernal Kiln → 炼狱熔炉（装置）；Infernal Kiln → 炼狱熔炉；Sacred → 圣化；Corruption → 腐化；Damnation Mode → 毁灭模式；Standard Mode → 标准模式；Ascendancy → 升华；Sanctuary of Exile → 流放圣域（SoE 保持缩写）；Drop Rate → 掉落率；Treasure Class → 财宝等级；Magic Find → 寻宝率（MF）；Item Level → 物品等级；Quality Level → 品质等级；Socket → 孔/孔数；Durability → 耐久度；Required Level → 需求等级
 
 ## 风格
 - 简体中文、游戏术语风格（参考暗黑 2 官方中文版）

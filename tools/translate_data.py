@@ -1,3 +1,7 @@
+"""[DEPRECATED] 一次性脚本：产物早已并入 public/data/，路径指向旧工作副本；
+请勿再运行 —— 它的术语表是「对齐官方串表之前」的旧译（如 神圣宝珠/机会宝珠/地狱熔炉）。
+权威术语见 docs/reference/soe.txt → public/data/official_zh.json。
+"""
 # -*- coding: utf-8 -*-
 """PD2 The Archivist 中文数据翻译引擎。
 用法: python3 tools/translate_data.py
