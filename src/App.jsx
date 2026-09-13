@@ -5248,6 +5248,7 @@ export default function App() {
                 />
             </>) : tab === "damnation" ? (<>
                 <StaticDataPanel
+                    damnation={damnationMode}
                     data={damnation.data}
                     loading={damnation.loading}
                     error={damnation.error}
@@ -5276,6 +5277,7 @@ export default function App() {
                 />
             </>) : tab === "changelog" ? (<>
                 <StaticDataPanel
+                    damnation={damnationMode}
                     data={siteUpdates.data}
                     loading={siteUpdates.loading}
                     error={siteUpdates.error}
