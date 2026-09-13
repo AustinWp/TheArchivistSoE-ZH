@@ -177,8 +177,25 @@ def main():
              "（炼狱仍保留拼图/谜盒/铁锤的打孔配方）")
     ck.check("炼狱：无 珠宝/华丽护符 类型重掷（币+5×恶魔宝盒）",
              not any("Reroll type" in r["description"] for r in DM))
-    ck.check("炼狱：存在 暗金/套装→碎片 拆解（DAMNATION MODE ONLY CHANGES 30 行）",
-             len([r for r in DM if r["section"] == "DAMNATION MODE ONLY CHANGES"]) == 30)
+    disenchant = [r for r in DM if r["section"] == "DAMNATION MODE ONLY CHANGES"]
+    ck.check("炼狱：存在 暗金/套装→碎片 拆解（DAMNATION MODE ONLY CHANGES，S1 起按 普通/扩展/精英 分档 = 50 行）",
+             len(disenchant) == 50)
+    # S1 校验：拆解产出按 普通1 / 扩展2 / 精英3 分档
+    def _disenchant_qty(tag, out_code):
+        rows = [r for r in disenchant if f"[{tag}]" in r["description"] and r["output"]
+                and r["output"]["code"] == out_code and "[Reusable Skeleton Key]" not in r["description"]]
+        return sorted({int(r["output"]["qty"]) for r in rows if str(r["output"]["qty"]).isdigit()})
+    ck.check("炼狱：暗金拆解 普通/扩展/精英 = 1/2/3 机遇碎片",
+             _disenchant_qty("bas", "oros") == [1] and _disenchant_qty("exc", "oros") == [2]
+             and _disenchant_qty("eli", "oros") == [3])
+    ck.check("炼狱：套装拆解 普通/扩展/精英 = 1/2/3 套装碎片",
+             _disenchant_qty("bas", "exos") == [1] and _disenchant_qty("exc", "exos") == [2]
+             and _disenchant_qty("eli", "exos") == [3])
+    ck.check("炼狱：两类拆解均支持 普通钥匙 与 可重复使用骷髅钥匙（25 + 25）",
+             len([r for r in disenchant if "[Reusable Skeleton Key]" in r["description"]]) == 25
+             and len([r for r in disenchant if "[Reusable Skeleton Key]" not in r["description"]]) == 25)
+    ck.check("炼狱：S1 已删除「机遇/神话宝珠 + 灰烬 → 随机地狱锻造暗金」配方",
+             not any(r["section"] == "OBTAIN RANDOM HELLFORGED UNIQUE" for r in DM))
     ck.check("机遇宝珠：炼狱 52 组 ROLL/POOF/SUCCESS，标准模式无此系统",
              len([r for r in DM if r["section"] == "ORB OF CHANCE - ROLL"]) == 52
              and len([r for r in DM if r["section"] == "ORB OF CHANCE - OUTCOME - POOF"]) == 52

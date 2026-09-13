@@ -949,6 +949,26 @@ button.btn {
     top: -1px;
 }
 
+/* 国服不支持标记：用于国服（SOECN）代码中不存在或未接入的功能 / 公式 */
+.cnUnsupportedBadge {
+    display: inline-flex;
+    align-items: center;
+
+    margin-right: 8px;
+    padding: 2px 6px;
+
+    font-size: 11px;
+    line-height: 1;
+    font-weight: 600;
+
+    border: 1px solid #b4432f;
+    border-radius: 4px;
+
+    color: #f0a08c;
+    background: rgba(180, 67, 47, 0.14);
+    white-space: nowrap;
+}
+
 /* -------------------------------------------------------------------------- */
 /* Corruptions table                                                          */
 /* -------------------------------------------------------------------------- */

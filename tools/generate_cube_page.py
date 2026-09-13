@@ -51,6 +51,34 @@ def fn(recs, section=None, desc=None):
             and (desc is None or desc.lower() in r["description"].lower())]
 
 
+def kiln_cinders(section, desc_sub="", code="hfcr"):
+    """某条炼狱熔炉配方在两种模式下实际消耗的晶化烬魂数量（标准, 炼狱）。"""
+    out = []
+    for recs in (ST, DM):
+        n = None
+        for r in fn(recs, section=section):
+            if desc_sub and desc_sub.lower() not in r["description"].lower():
+                continue
+            for i in r["inputs"]:
+                if i["code"] == code:
+                    n = i["qty"] or 1
+                    break
+            if n is not None:
+                break
+        out.append(n)
+    return out
+
+
+def kiln_cost_txt(section, desc_sub=""):
+    """炼狱熔炉配方消耗文案：两种模式相同只写一个值，不同则分别标注。"""
+    st_n, dm_n = kiln_cinders(section, desc_sub)
+    if st_n == dm_n:
+        return f"{dm_n}×晶化烬魂"
+    st_txt = f"{st_n}×" if st_n else "无此配方 "
+    dm_txt = f"{dm_n}×" if dm_n else "无此配方 "
+    return f"标准 {st_txt}/ 炼狱 {dm_txt}晶化烬魂"
+
+
 def md_table(head, rows, escape=True):
     out = ["| " + " | ".join(head) + " |", "|" + "|".join(["---"] * len(head)) + "|"]
     for row in rows:
@@ -184,7 +212,8 @@ def main():
     # ------------------------------------------------------------------ 1 about
     add("about", "关于魔方配方", [
         "- 以下配方为流放圣域（Sanctuary of Exile，SOE）专属及较原版发生变化的配方；原版 Project Diablo 2 配方同样有效",
-        "- 数据基准：`SOECN` 仓库（SOECN 分支），标准模式 **6,801** 条 / 炼狱模式 **6,918** 条启用配方",
+        f"- 数据基准：`SOECN` 仓库（SOECN 分支）commit `9b24eb72`（国服 S1 正式服版本，2026-09-11），"
+        f"标准模式 **{len(ST):,}** 条 / 炼狱模式 **{len(DM):,}** 条启用配方",
         "- 术语以游戏官方中文为准（官方串表）：例如 `圣化宝珠`、`恶魔宝盒`、`永恒币`、`炼狱熔炉`、`××法珠`、`血腥系模组` 等",
     ])
 
@@ -450,41 +479,49 @@ def main():
         "- 可用于稀有 T1～T4 / 炼狱 T3 地图，**每张地图最多 5 枚**",
         "- 每枚给怪物 +100% 生命 / +10% 物理伤害 / +10% IAS·FCR / +10% FHR，并增加额外掉落几率（数值以游戏内为准）",
         *md_table(["类型", "限制"], hate_rows),
-        "- 炼狱熔炉 + 仇恨宝珠 + 25×晶化烬魂 → 重洗为另一类型（六类型等概率往返）",
+        f"- 炼狱熔炉 + 仇恨宝珠 + {kiln_cost_txt('RE-ROLL HATE ORB TYPE - ROLL')} → 重洗为另一类型（概率见「炼狱熔炉」节）",
     ])
 
     # ------------------------------------------------------------------ 17 炼狱熔炉
-    printer = fn(ST, section="KILN CURRENCY PRINTER")
-    pr_rows = []
-    for r in fn(ST, section="OUTCOME"):
-        if "Hellforged" in r["description"]:
-            continue
-        m = re.match(r"(.+?) \((\d[.,]?\d*)% chance\)", r["description"])
-        if m:
-            pr_rows.append([ENG2ZH.get(m.group(1), m.group(1)), m.group(2) + "%"])
-    for r in fn(DM, section="OUTCOME"):
-        if "Hellforged" in r["description"] or r["description"] in [x[0] for x in pr_rows]:
-            continue
-        m = re.match(r"(.+?) \((\d[.,]?\d*)% chance\)", r["description"])
-        if m:
-            pr_rows.append([ENG2ZH.get(m.group(1), m.group(1)), m.group(2) + "%"])
+    # 炼狱熔炉在两种模式都存在，但配方消耗与「印钞」概率表**不同**（国服 S1 只调整了炼狱模式）
+    def printer_rows(recs):
+        rows = []
+        for r in fn(recs, section="OUTCOME"):
+            if "Hellforged" in r["description"]:
+                continue
+            m = re.match(r"(.+?) \((\d+(?:[.,]\d+)?)% chance\)", r["description"])
+            if m:
+                rows.append([ENG2ZH.get(m.group(1), m.group(1)), m.group(2) + "%"])
+        return rows
+
+    pr_st, pr_dm = printer_rows(ST), printer_rows(DM)
     clust = fn(ST, section="CINDERSOUL CLUSTER - OUTCOME")
-    blk = [ [fmt_out(r), "随机"] for r in clust ]
+    blk = [[fmt_out(r), "随机"] for r in clust]
+
+    has_random_hf = any(r["section"] == "OBTAIN RANDOM HELLFORGED UNIQUE" for r in DM)
     add("infernal-kiln", "炼狱熔炉", [
         "- 除特别说明外，以下配方都需要把**炼狱熔炉**放入方块",
+        "- 国服 S1 起，**炼狱（毁灭）模式**的烬魂消耗上调，**标准模式数值不变**；下表按两种模式分别标注",
         *md_table(["配方", "结果"], [
             ["任意 1 颗非堆叠完美宝石 + 10×晶化烬魂", "50×对应完美宝石（堆叠）"],
-            ["15×晶化烬魂 + 5×珠宝碎片 + 5×对应完美宝石", "5×对应制作灌注物"],
-            ["35×晶化烬魂 + 5×神话宝珠", "加权随机狱铸暗金物品"],
-            ["50×晶化烬魂 + 1×神授宝珠 + 拥有狱铸版本的暗金物品", "该物品的狱铸版本"],
-            ["50×晶化烬魂 + 任意命运卡", "无变化 / 消失 / 单独复制一张（三者之一，概率以游戏内为准）"],
-            ["25×晶化烬魂 + 任意仇恨宝珠", "重洗仇恨宝珠种类（六类型等概率）"],
+            ["5×珠宝碎片 + 5×对应符文 + 5×对应完美宝石", "5×对应制作灌注物"],
+            [f"{kiln_cost_txt('OBTAIN TARGETED HELLFORGED UNIQUE')} + 1×神授宝珠 + 拥有狱铸版本的暗金物品", "该物品的狱铸版本（仅标准模式可用神授宝珠）"],
+            [f"{kiln_cost_txt('FATE CARD GAMBA - ROLL')} + 任意命运卡", "无变化 / 消失 / 单独复制一张（三者之一，概率以游戏内为准）"],
+            [f"{kiln_cost_txt('RE-ROLL HATE ORB TYPE - ROLL')} + 任意仇恨宝珠", "重洗仇恨宝珠种类（概率见下表）"],
             ["任意完美精华 + 1×晶化烬魂", "疯狂精华（旧版记录；当前无此配方，见精华节）"],
-            ["15×晶化烬魂 + 任一超级首领材料", "重洗为同一首领的另一种材料（90% 换种类 / 10% 原样）"],
-            ["25×晶化烬魂", "随机货币（见下表）"],
+            [f"{kiln_cost_txt('UBER MATS CONVERSION - SAME UBER', 'Uber mats Convert')} + 任一超级首领材料", "重洗为同一首领的另一种材料（90% 换种类 / 10% 原样）"],
+            [kiln_cost_txt("KILN CURRENCY PRINTER"), "随机货币（见下表）"],
         ]),
-        "**25 烬魂印钞概率**：",
-        *md_table(["结果", "权重"], pr_rows),
+        *([] if has_random_hf else [
+            "- ⛔ **国服不支持**：`35×晶化烬魂 + 5×神话宝珠 → 加权随机狱铸暗金物品`。"
+            "国服 S1（`9b24eb72`）已把该配方族（神话宝珠抽取行 + 31 条 `Hellforged` 结果行）"
+            "以及「机遇宝珠 + 灰烬」版本全部置为 `enabled=0`（禁用），页面上已不再出现，"
+            "炼狱模式只能走「指定狱铸」路线。",
+        ]),
+        "**炼狱（毁灭）模式 · 烬魂印钞概率**（国服 S1 调整后）：",
+        *md_table(["结果", "概率"], pr_dm),
+        "**标准模式 · 烬魂印钞概率**（国服 S1 未调整）：",
+        *md_table(["结果", "概率"], pr_st),
         "**烬魂簇**（单独连续合成两次）：",
         *md_table(["结果", "说明"], blk),
         "- 四块印记碎片（背教/诅咒/背叛/复生）→ **亵渎印记**（该步不需要炼狱熔炉）",

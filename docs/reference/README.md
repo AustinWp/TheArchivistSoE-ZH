@@ -8,9 +8,9 @@ SOE）游戏模组仓库 [`wdjwxh/PD2-Sanctuary-of-Exile`](https://github.com/wd
 |---|---|---|
 | `soe.txt` | 游戏内置**官方中文字符串表**（UTF-16 导出，Tab 分隔：键 → 中文文本）。全站术语唯一标准（颜色控制码已由 `tools/extract_official_zh.py` 清除后存入 `public/data/official_zh.json`） | 模组自带本地化（服务端导出） |
 | `CubeMain.standard.txt` | 标准模式魔方配方表（6,801 条启用行） | `standard-mode/data/global/excel/CubeMain.txt` |
-| `CubeMain.damnation.txt` | 炼狱（毁灭）模式魔方配方表（6,918 条启用行） | `damnation-mode/data/global/excel/CubeMain.txt` |
+| `CubeMain.damnation.txt` | 炼狱（毁灭）模式魔方配方表（6,874 条启用行） | `damnation-mode/data/global/excel/CubeMain.txt` |
 
-**基准版本**：`SOECN` 分支，commit `374d8971`（2026-08-24，`修复时间膨胀护符一秒后失效`）。
+**基准版本**：`SOECN` 分支，commit `9b24eb72`（2026-09-11，国服 SOL **第一赛季（S1）正式服版本**；上一基准 `374d8971`，2026-08-24）。
 更新任一文件时，请同步更新本节以及 `public/data/Cube.json` 顶部的「数据基准」说明。
 
 ## 数据流（参考文件 → 页面数据）

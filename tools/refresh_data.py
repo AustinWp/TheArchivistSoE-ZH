@@ -15,6 +15,7 @@ STEPS = [
     ("生成魔方配方页 Cube.json", ["python3", "generate_cube_page.py"]),
     ("重建圣化宝珠页 Sacreds.json", ["python3", "rebuild_sacreds.py"]),
     ("生成术语/宝珠/命运卡对照表", ["python3", "generate_terms_md.py"]),
+    ("生成国服S1赛季页数据", ["python3", "generate_season_page.py"]),
     ("构建站点", ["npm", "run", "build"]),
 ]
 

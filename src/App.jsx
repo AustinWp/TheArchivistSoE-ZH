@@ -46,6 +46,10 @@ const HIDDEN_MODIFIERS = [
 ];
 
 const TABS = {
+    season1: {
+        title: "国服SOL第一赛季",
+        badge: "S1"
+    },
     weapons: "武器",
     armors: "护甲",
     uniques: "暗金装备",
@@ -3699,6 +3703,11 @@ function StaticDataPanel({data, loading, error, search, onLink, damnation = fals
             return (<div key={id} className="infoPanel" style={{marginBottom: 10}}>
                 <div className="infoHeader">
                     <div className="infoTitle" style={{fontSize: 18}}>
+                        {r.cnUnsupported && (
+                            <span className="cnUnsupportedBadge" title="该内容在国服（SOECN）代码中不存在或未接入">
+                                国服不支持
+                            </span>
+                        )}
                         {title}
                         {kind && (<span
                             style={{
@@ -3796,6 +3805,7 @@ export default function App() {
     const corruptions = useJson("Corruptions.json", damnationMode);
     const fateCards = useJson("FateCards.json", damnationMode);
     const kiln = useJson("Kiln.json", damnationMode);
+    const season1 = useJson("SeasonS1.json", damnationMode);
 
     const INFO_OPEN_STORAGE_KEY = "the-archivist-v1";
     const searchInputRef = React.useRef(null);
@@ -3912,6 +3922,7 @@ export default function App() {
     const [socketsValue, setSocketsValue] = useState("");
     const [cubeSearch, setCubeSearch] = useState("");
     const [kilnSearch, setKilnSearch] = useState("");
+    const [season1Search, setSeason1Search] = useState("");
     const [ascendanciesSearch, setAscendanciesSearch] = useState("");
     const [mappingSearch, setMappingSearch] = useState("");
     const [changesSearch, setChangesSearch] = useState("");
@@ -4501,7 +4512,27 @@ export default function App() {
                     clearRequest={() => setDropCalculatorRequest(null)}
                     damnationMode={damnationMode}
                 />
-            ) : tab === "kiln" ? (<>
+            ) : tab === "season1" ? (<>
+                <div className="filtersStack">
+                    <div className="filtersPanel">
+                        <input
+                            type="text"
+                            value={season1Search}
+                            onChange={(e) => setSeason1Search(e.target.value)}
+                            className="searchBar"
+                            placeholder="搜索赛季改动（技能、掉落、光环、公式…）"
+                        />
+                    </div>
+                </div>
+                <StaticDataPanel
+                    data={season1.data}
+                    loading={season1.loading}
+                    error={season1.error}
+                    search={season1Search}
+                    onLink={handleMarkdownAppLink}
+                    emptyLabel="没有符合搜索条件的赛季条目。"
+                />
+            </>) : tab === "kiln" ? (<>
                 <div className="filtersStack">
                     <div className="filtersPanel">
                         <input
