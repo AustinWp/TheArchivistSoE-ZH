@@ -21,12 +21,10 @@ CARDS = json.load(open(os.path.join(ROOT, "public", "data", "FateCards.json"), e
 
 RUNE_ZH = {"El": "艾尔", "Eld": "艾德", "Tir": "提尔", "Nef": "奈夫", "Eth": "艾斯", "Ith": "伊司", "Tal": "塔尔", "Ral": "拉尔", "Ort": "欧特", "Thul": "图尔", "Amn": "安姆", "Sol": "索尔", "Shael": "沙伊", "Dol": "多尔", "Hel": "海尔", "Io": "艾欧", "Lum": "卢姆", "Ko": "科", "Fal": "法尔", "Lem": "兰姆", "Pul": "普尔", "Um": "乌姆", "Mal": "玛尔", "Ist": "伊司特", "Gul": "古尔", "Vex": "伐克斯", "Ohm": "欧姆", "Lo": "罗", "Sur": "瑟", "Ber": "贝", "Jah": "扎哈", "Cham": "查姆", "Zod": "佐德"}
 
-
 def zh(code):
     if not code:
         return ""
     return ZH.get(code, "")
-
 
 def disp(code, fallback=""):
     """优先官方中文名，其次 fallback/英文名（去除 Stack/基类后缀）。"""
@@ -35,16 +33,13 @@ def disp(code, fallback=""):
         return z
     return fallback
 
-
 def rune_name(name):
     return RUNE_ZH.get(name, name)
-
 
 def fn(recs, section=None, desc=None):
     return [r for r in recs
             if (section is None or r["section"] == section)
             and (desc is None or desc.lower() in r["description"].lower())]
-
 
 def kiln_cinders(section, desc_sub="", code="hfcr"):
     """某条炼狱熔炉配方在两种模式下实际消耗的晶化烬魂数量（标准, 炼狱）。"""
@@ -63,7 +58,6 @@ def kiln_cinders(section, desc_sub="", code="hfcr"):
         out.append(n)
     return out
 
-
 def kiln_cost_txt(section, desc_sub=""):
     """炼狱熔炉配方消耗文案：两种模式相同只写一个值，不同则分别标注。"""
     st_n, dm_n = kiln_cinders(section, desc_sub)
@@ -72,7 +66,6 @@ def kiln_cost_txt(section, desc_sub=""):
     st_txt = f"{st_n}×" if st_n else "无此配方 "
     dm_txt = f"{dm_n}×" if dm_n else "无此配方 "
     return f"标准 {st_txt}/ 炼狱 {dm_txt}晶化烬魂"
-
 
 def md_table(head, rows, escape=True):
     out = ["| " + " | ".join(head) + " |", "|" + "|".join(["---"] * len(head)) + "|"]
@@ -84,11 +77,9 @@ def md_table(head, rows, escape=True):
         out.append("| " + " | ".join(cells) + " |")
     return out
 
-
 RUNE_BY_NUM = {"r%d" % i: RUNE_ZH[name] for i, name in enumerate(
     ["El","Eld","Tir","Nef","Eth","Ith","Tal","Ral","Ort","Thul","Amn","Sol","Shael","Dol","Hel","Io",
      "Lum","Ko","Fal","Lem","Pul","Um","Mal","Ist","Gul","Vex","Ohm","Lo","Sur","Ber","Jah","Cham","Zod"], 1)}
-
 
 ENG2ZH = {
     "Skeleton Key": "普通钥匙", "Skeleton Key Unlimited": "骷髅钥匙", "Eld Rune": "艾德", "Tir Rune": "提尔", "Nef Rune": "奈夫",
@@ -145,7 +136,6 @@ AFFIX_ZH = {
     "Poison Length Reduced by 50%": "毒素持续时间降低 50%", "Poof to ashes!": "火炬被摧毁（得到地狱火灰烬）",
 }
 
-
 def mat_str(i):
     """input dict -> 材料字符串（`名字 ×数量`）。"""
     if not i:
@@ -164,10 +154,8 @@ def mat_str(i):
     q = i.get("qty")
     return f"**{name}**" + (f"×{q}" if isinstance(q, int) and q > 1 else "")
 
-
 def fmt_in(row):
     return " + ".join(mat_str(i) for i in row["inputs"])
-
 
 def fmt_out(row, suffix=""):
     o = row["output"] or {}
@@ -181,7 +169,6 @@ def fmt_out(row, suffix=""):
         s += f"（{o['quality']}）"
     return s + suffix
 
-
 def section_rows(recs, sec):
     """节内按 description 去重返回（供逐条渲染）。"""
     rows = fn(recs, section=sec)
@@ -193,7 +180,6 @@ def section_rows(recs, sec):
         seen.add(d)
         out.append(r)
     return out
-
 
 def main():
     cube = []
@@ -228,6 +214,33 @@ def main():
         ["神话宝珠 + 魔法/稀有项链", "随机低阶暗金项链（诺科兰遗物 / 猫眼 / 玛希姆奥克的橡木古董 / 萨拉森的机会 / 新月 / 艾利屈之眼 / 阿特玛的圣甲虫）"],
         ["神话宝珠 + 普通/超强/魔法/稀有的箭矢或弩矢", "同底材暗金箭矢/弩矢（普通/扩展）"],
     ]
+    # ------------------------------------------------------------------ 22 机遇宝珠（炼狱专属）
+    add("orb-of-chance", "机遇宝珠系统（炼狱模式专属）", [
+        "- 炼狱（毁灭）模式中，`神话宝珠` / `神授宝珠` 不可用，由 **机遇宝珠（oroc）** 取代（标准模式仍是神话/神授宝珠）",
+        "- **流程**：机遇宝珠 + 物品放入方块，判定成功即转为同底材暗金：",
+        "- **适用面**：配方在源码里是按**物品类型**写的（`armo` / `weap` / 箭袋 / 戒指 / 项链 / 珠宝 / 护符），"
+        "不是限定某一件基底 —— **符合品质要求的同类物品都可以用**（例如所有普通/扩展/精英武器，含巧工弩）",
+    ], modes=["damnation"])
+
+    # ------------------------------------------------------------------ 22 炼狱差异
+    dam_diff = [
+        ["神话宝珠 / 神授宝珠", "**移除**；由「机遇宝珠」取代（随机暗金化，可能失败）"],
+        ["崇高宝珠", "改为掷点制：普通/超强/魔法/稀有武器或护甲、魔法/稀有戒指项链 → 套装；含失败（消失）分支"],
+        ["暗金/套装拆解", "暗金 + 普通钥匙（或用骷髅钥匙）→ 机遇碎片；套装同理 → 崇高碎片（珠宝/神话珠宝/华丽护符需额外 + 永恒币）"],
+        ["碎片 → 宝珠", "10/20/30/40/50 碎片 → 1/2/3/4/5 个对应宝珠"],
+        ["符文降级", "仅 艾德～普尔（古尔及以上不可降级）"],
+        ["拉苏克谜盒碎片×2 + 永恒币 → 拉苏克谜盒", "**无**"],
+        ["珠宝/神话珠宝/华丽护符 类型重掷（永恒币+恶魔宝盒）", "**无**"],
+        ["命运卡", "少 3 张：萨菲罗斯 / 遗弃之财 / 圣者宝藏（与宝珠移除联动）"],
+        ["末日之刃复制品", "幻化之刃 + 5×**机遇宝珠** + 永恒币"],
+        ["随机狱铸暗金", "输出池略少（对应神话宝珠条目移除）"],
+    ]
+
+    add("damnation-differences", "炼狱模式专属（对照标准模式）", [
+        "炼狱模式（毁灭）配方表与标准模式差异巨大，以下条目仅启用 `毁灭` 开关后显示：",
+        *md_table(["系统", "炼狱模式实际"], dam_diff),
+    ], modes=["damnation"])
+
     add("mythic-orb-recipes", "神话宝珠配方（仅标准模式）", [
         "- ⛔ **炼狱（毁灭）模式不存在神话宝珠**：该模式 `CubeMain` 中神话宝珠相关配方为 0 条，"
         "且世界掉落池 `New orbs` 已把它移除；炼狱模式请改用**机遇宝珠**",
@@ -679,13 +692,6 @@ def main():
         "- CubeMain 对应行：`Tabula special removal`；物品需未腐化",
     ])
 
-    # ------------------------------------------------------------------ 22 机遇宝珠（炼狱专属）
-    add("orb-of-chance", "机遇宝珠系统（炼狱模式专属）", [
-        "- 炼狱（毁灭）模式中，`神话宝珠` / `神授宝珠` 不可用，由 **机遇宝珠（oroc）** 取代（标准模式仍是神话/神授宝珠）",
-        "- **流程**：机遇宝珠 + 物品放入方块，判定成功即转为同底材暗金：",
-        "- **适用面**：配方在源码里是按**物品类型**写的（`armo` / `weap` / 箭袋 / 戒指 / 项链 / 珠宝 / 护符），"
-        "不是限定某一件基底 —— **符合品质要求的同类物品都可以用**（例如所有普通/扩展/精英武器，含巧工弩）",
-    ], modes=["damnation"])
     # 用脚本外推细节（保证数据驱动）
     oc = []
     for r in DM:
@@ -739,28 +745,9 @@ def main():
         "- 机遇宝珠/机遇碎片来源于暗金拆解与炼狱熔炉（概率见炼狱熔炉节）",
     ]
 
-    # ------------------------------------------------------------------ 22 炼狱差异
-    dam_diff = [
-        ["神话宝珠 / 神授宝珠", "**移除**；由「机遇宝珠」取代（随机暗金化，可能失败）"],
-        ["崇高宝珠", "改为掷点制：普通/超强/魔法/稀有武器或护甲、魔法/稀有戒指项链 → 套装；含失败（消失）分支"],
-        ["暗金/套装拆解", "暗金 + 普通钥匙（或用骷髅钥匙）→ 机遇碎片；套装同理 → 崇高碎片（珠宝/神话珠宝/华丽护符需额外 + 永恒币）"],
-        ["碎片 → 宝珠", "10/20/30/40/50 碎片 → 1/2/3/4/5 个对应宝珠"],
-        ["符文降级", "仅 艾德～普尔（古尔及以上不可降级）"],
-        ["拉苏克谜盒碎片×2 + 永恒币 → 拉苏克谜盒", "**无**"],
-        ["珠宝/神话珠宝/华丽护符 类型重掷（永恒币+恶魔宝盒）", "**无**"],
-        ["命运卡", "少 3 张：萨菲罗斯 / 遗弃之财 / 圣者宝藏（与宝珠移除联动）"],
-        ["末日之刃复制品", "幻化之刃 + 5×**机遇宝珠** + 永恒币"],
-        ["随机狱铸暗金", "输出池略少（对应神话宝珠条目移除）"],
-    ]
-    add("damnation-differences", "炼狱模式专属（对照标准模式）", [
-        "炼狱模式（毁灭）配方表与标准模式差异巨大，以下条目仅启用 `毁灭` 开关后显示：",
-        *md_table(["系统", "炼狱模式实际"], dam_diff),
-    ], modes=["damnation"])
-
     json.dump(cube, open(os.path.join(ROOT, "public", "data", "Cube.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
     print(f"OK Cube.json {len(cube)} 节")
-
 
 if __name__ == "__main__":
     main()
