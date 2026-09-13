@@ -103,19 +103,19 @@ const TAB_GROUPS = [
         id: "craft",
         title: "制作强化",
         icon: "⚒",
-        tabs: ["cube", "sacreds", "corruptions", "essences", "kiln", "fatecards"],
+        tabs: ["cube", "kiln", "sacreds", "fatecards", "corruptions", "essences"],
     },
     {
         id: "character",
         title: "角色成长",
         icon: "✧",
-        tabs: ["skills", "ascendancies", "builds"],
+        tabs: ["ascendancies", "skills", "builds"],
     },
     {
         id: "gameplay",
         title: "玩法模式",
         icon: "◈",
-        tabs: ["changes", "damnation", "mapping"],
+        tabs: ["damnation", "changes", "mapping"],
     },
     {
         id: "tools",
