@@ -549,6 +549,21 @@ function itemCodeInfo(code) {
     return ITEM_CODE_INDEX[String(code ?? "").trim().toLowerCase()] || null;
 }
 
+// 机遇宝珠（oroc）可作用的基底类型 —— 取自炼狱模式 CubeMain 的 `ORB OF CHANCE - ROLL`：
+// armo / weap / 箭袋(aqv*, cqv*) / 戒指 / 项链 / 珠宝 / 神话珠宝 / 大护符 / 华丽护符
+const ORB_OF_CHANCE_BASES = new Set([
+    "amu", "rin", "jew", "mjw", "cm3", "cm4",
+    "aqv", "aqv1", "aqv2", "aqv3", "cqv", "cqv1", "cqv2", "cqv3",
+]);
+
+function orbOfChanceEligible(u) {
+    if (u?.weaponBase || u?.armorBase) return true;
+
+    const c = String(u?.jeweleryBase?.code ?? "").trim().toLowerCase();
+
+    return ORB_OF_CHANCE_BASES.has(c);
+}
+
 // 暗金的基底阶位（普通 / 扩展 / 精英）；首饰与护符没有阶位，返回空数组
 function uniqueBaseTiers(u) {
     const b = u?.weaponBase || u?.armorBase;
@@ -3731,7 +3746,7 @@ function AffixesPanel({data, loading, error, sort, onChangeSort}) {
     </div>);
 }
 
-function UniqueTooltip({u, openDropCalculator, onLink, onGoBase}) {
+function UniqueTooltip({u, openDropCalculator, onLink, onGoBase, damnation = false}) {
     if (!u) return <div className="emptyState">请选择物品。</div>;
 
     const title = n(u?.displayName) || "Unknown Unique";
@@ -3812,6 +3827,12 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase}) {
     const baseTiers = uniqueBaseTiers(u);
     const jeweleryBaseName = n(u?.jeweleryBase?.name) || n(u?.jeweleryBase?.displayName) || "";
 
+    // 能否用「通货宝珠」制作：
+    // - 标准模式：看数据里的 showCanBeCreatedWith（神话 / 神授宝珠）
+    // - 炼狱模式：该字段整表为 false（那份数据按标准模式生成），改用机遇宝珠的适用基底判断
+    const canBeCreated = !u?.hellforged
+        && (damnation ? orbOfChanceEligible(u) : u?.showCanBeCreatedWith === true);
+
     return (<>
         {itemSpriteUrl(u?.code, "u") ? (
             <div className="tipSpriteBox"><img src={itemSpriteUrl(u?.code, "u")} alt="" className="tipSprite" onError={(e) => { e.currentTarget.parentElement.style.display = "none"; }}/></div>
@@ -3874,13 +3895,16 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase}) {
             {nz(requiredDexterity) && lineKV("需求敏捷：", n(requiredDexterity), "req")}
         </>) : null}
 
-        {u?.showCanBeCreatedWith === true && !u?.hellforged ? (<>
+        {canBeCreated ? (<>
             <div className="hr"/>
             <div className="dropHeader">制作</div>
             {hasOccurrenceChanceCurrency && occurrenceChance !== occurrenceChanceCurrency && lineKV("通货出现几率：", String(occurrenceChanceCurrency), "")}
 
             {baseTiers.length ? (<>
-                <div className="line dim">用以下任意阶位的基底物品 + 对应通货宝珠：</div>
+                <div className="line dim">
+                    用以下任意阶位的基底物品
+                    {damnation ? " + 机遇宝珠：" : " + 对应通货宝珠："}
+                </div>
                 {baseTiers.map((t) => (
                     <div key={t.code} className="line kv">
                         <span>{t.label} 基底：</span>
@@ -3893,22 +3917,48 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase}) {
                                     if (onGoBase) onGoBase(t.tab, t.code);
                                 }}
                             >{t.name}</a>) : t.name}
-                            <span className="dim"> · {t.label === "精英" ? "神授宝珠" : "神话宝珠"}</span>
+                            {!damnation ? (
+                                <span className="dim"> · {t.label === "精英" ? "神授宝珠" : "神话宝珠"}</span>
+                            ) : null}
                         </span>
                     </div>
                 ))}
-                <div className="line dim">
-                    普通 / 扩展基底用 <span className="highlight">神话宝珠</span>，
-                    精英基底用 <span className="highlight">神授宝珠</span>；结果必定为有形。
-                </div>
+
+                {damnation ? (<>
+                    <div className="line dim">
+                        <span className="highlight">炼狱（毁灭）模式</span>中
+                        <span className="highlight">神话宝珠</span> /
+                        <span className="highlight">神授宝珠</span> 不可用，改由
+                        <span className="highlight">机遇宝珠</span> 取代：底材 + 机遇宝珠放入方块
+                        <span className="highlight">合成两次</span>（第一次登记、第二次判定）。
+                    </div>
+                    <div className="line dim">
+                        成功 → 同底材暗金（必定有形）；失败 → 物品被摧毁并获得 1×骷髅钥匙。
+                        判定概率约为 50/50，详见「魔方配方 → 机遇宝珠系统」。
+                    </div>
+                </>) : (<>
+                    <div className="line dim">
+                        普通 / 扩展基底用 <span className="highlight">神话宝珠</span>，
+                        精英基底用 <span className="highlight">神授宝珠</span>；结果必定为有形。
+                    </div>
+                    <div className="line dim">
+                        炼狱（毁灭）模式改用 <span className="highlight">机遇宝珠</span>（见「魔方配方 → 机遇宝珠系统」）。
+                    </div>
+                </>)}
             </>) : jeweleryBaseName ? (<>
                 <div className="line kv">
                     <span>基底物品：</span>
-                    <span>{jeweleryBaseName} <span className="dim"> · {creationOrb}</span></span>
+                    <span>
+                        {jeweleryBaseName}
+                        {!damnation ? <span className="dim"> · {creationOrb}</span> : null}
+                    </span>
                 </div>
-                <div className="line dim">
+                {damnation ? (<div className="line dim">
+                    炼狱模式用 <span className="highlight">机遇宝珠</span> 取代神话 / 神授宝珠：
+                    底材 + 机遇宝珠合成两次，成功 → 同底材暗金，失败 → 物品被摧毁并获得骷髅钥匙。
+                </div>) : (<div className="line dim">
                     用该基底物品 + <span className="highlight">{creationOrb}</span> 制作；结果必定为有形。
-                </div>
+                </div>)}
             </>) : null}
         </>) : null}
 
@@ -5315,6 +5365,7 @@ export default function App() {
                     />)}
                     {tab === "uniques" && <UniqueTooltip u={activeItem} onLink={handleMarkdownAppLink}
                                                          onGoBase={jumpToItem}
+                                                         damnation={damnationMode}
                                                          openDropCalculator={openDropCalculator}/>}
                     {tab === "sacreds" && <SacredTooltip s={activeItem} onLink={handleMarkdownAppLink}/>}
                     {tab === "fatecards" && (<FateCardTooltip card={activeItem}/>
