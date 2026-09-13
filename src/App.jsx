@@ -3889,6 +3889,9 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase, damnation = fal
                 <div className="line dim">
                     用以下任意阶位的基底物品
                     {damnation ? " + 机遇宝珠：" : " + 对应通货宝珠："}
+                    <span className="dim">
+                        （这三件只是本暗金对应的基底；换成别的底材，得到的就是那件底材的暗金）
+                    </span>
                 </div>
                 {baseTiers.map((t) => (
                     <div key={t.code} className="line kv">
