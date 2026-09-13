@@ -206,7 +206,7 @@ def main():
              _threshold("normal") == [49] and _threshold("exceptional") == [74]
              and _threshold("elite") == [89],
              f"普通{_threshold('normal')} 扩展{_threshold('exceptional')} 精英{_threshold('elite')}")
-    ck.check("机遇宝珠：成功阈值 99（余下部分全部成功，说明是**一次合成**而非两段）",
+    ck.check("机遇宝珠：所有 OUTCOME 行都有对应的 ROLL(op18) 行 → 两段式「合成两次」",
              sorted({int(r["value"]) for r in DM
                      if r["section"] == "ORB OF CHANCE - OUTCOME - SUCCESS"}) == [99])
     ck.check("机遇宝珠：炼狱 52 组 ROLL/POOF/SUCCESS，标准模式无此系统",

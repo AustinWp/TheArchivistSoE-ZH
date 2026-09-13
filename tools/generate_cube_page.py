@@ -259,6 +259,7 @@ def main():
         "且该模式无法获得神授宝珠（详见本页底部说明）",
     ], modes=["standard"])
     add("exalted-orb-recipes", "崇高宝珠配方", [
+        "- **合成两次**：第一次掷骰登记，第二次结算（与机遇宝珠同一套机制）",
         "- 任意阶位底材均可；结果必定为**有形**（即使输入为无形）",
         "- 戒指/项链按对应套装物品稀有度",
         "- 崇高宝珠**不能**用于箭矢/弩矢（神话/神授可以）",
@@ -391,7 +392,7 @@ def main():
     torch = fn(ST, section="HELLFIRE TORCH DESECRATION - PHASE 2 - OUTCOME")
     torch_names = [AFFIX_ZH.get(r["description"], r["description"]) for r in torch]
     add("hellfire-torch-desecration", "地狱火炬亵渎", [
-        "- 亵渎宝珠 + 地狱火炬 → **合成一次**即判定",
+        "- 亵渎宝珠 + 地狱火炬 → **合成两次**（第一次登记，第二次结算）",
         "- 有 **46%** 几率火炬被摧毁为地狱火灰烬；其余结果获得以下**等权重**亵渎词缀之一：",
         *md_table(["亵渎词缀"], [[x] for x in torch_names if x != "Poof to ashes!"]),
     ])
@@ -504,6 +505,7 @@ def main():
         code = next((i["code"] for i in r["inputs"] if i and i["code"].startswith("hor")), "")
         hate_rows.append([zh(code) or r["description"], "每图最多 5 枚"])
     add("hatred-orbs", "仇恨宝珠", [
+        "- 重洗类型需**合成两次**（第一次掷骰登记，第二次结算）",
         "- 可用于稀有 T1～T4 / 炼狱 T3 地图，**每张地图最多 5 枚**",
         "- 每枚给怪物 +100% 生命 / +10% 物理伤害 / +10% IAS·FCR / +10% FHR，并增加额外掉落几率（数值以游戏内为准）",
         *md_table(["类型", "限制"], hate_rows),
@@ -538,7 +540,7 @@ def main():
             [f"{kiln_cost_txt('RE-ROLL HATE ORB TYPE - ROLL')} + 任意仇恨宝珠", "重洗仇恨宝珠种类（概率见下表）"],
             ["任意完美精华 + 1×晶化烬魂", "疯狂精华（旧版记录；当前无此配方，见精华节）"],
             [f"{kiln_cost_txt('UBER MATS CONVERSION - SAME UBER', 'Uber mats Convert')} + 任一超级首领材料", "重洗为同一首领的另一种材料（90% 换种类 / 10% 原样）"],
-            [kiln_cost_txt("KILN CURRENCY PRINTER"), "随机货币（见下表）"],
+            [kiln_cost_txt("KILN CURRENCY PRINTER") + "（**合成两次**：第一次登记、第二次结算）", "随机货币（见下表）"],
         ]),
         *([] if has_random_hf else [
             "- ⛔ **国服不支持**：`35×晶化烬魂 + 5×神话宝珠 → 加权随机狱铸暗金物品`。"
@@ -550,7 +552,7 @@ def main():
         *md_table(["结果", "概率"], pr_dm),
         "**标准模式 · 烬魂印钞概率**（国服 S1 未调整）：",
         *md_table(["结果", "概率"], pr_st),
-        "**烬魂簇**（合成一次随机得到）：",
+        "**烬魂簇**（放入方块**合成两次**，第二次敲开）：",
         *md_table(["结果", "概率"], blk),
         "- 四块印记碎片（背教/诅咒/背叛/复生）→ **亵渎印记**（该步不需要炼狱熔炉）",
     ])
@@ -663,7 +665,7 @@ def main():
     # ------------------------------------------------------------------ 22 机遇宝珠（炼狱专属）
     add("orb-of-chance", "机遇宝珠系统（炼狱模式专属）", [
         "- 炼狱（毁灭）模式中，`神话宝珠` / `神授宝珠` 不可用，由 **机遇宝珠（oroc）** 取代（标准模式仍是神话/神授宝珠）",
-        "- **流程**：机遇宝珠 + 物品放入方块，**合成一次**即判定（数据里 `ROLL`/`OUTCOME` 两段是引擎内部的「随机→结算」，不存在第二次合成）：",
+        "- **流程**：机遇宝珠 + 物品放入方块，**合成两次** —— 第一次掷骰登记（物品原样退回，看着像没反应），第二次才按阈值结算：",
     ], modes=["damnation"])
     # 用脚本外推细节（保证数据驱动）
     oc = []
@@ -702,10 +704,10 @@ def main():
         qs = "/".join(quals)
         if tiers:
             lines.append([str(i), f"机遇宝珠 + **{qs}** 品质的 **{'/'.join(tiers)}** {slot}",
-                          "成功=同底材暗金；失败=物品被摧毁并获得 1×普通钥匙"])
+                          "第一次登记，第二次合成：成功=同底材暗金；失败=获得 1×普通钥匙"])
         else:
             lines.append([str(i), f"机遇宝珠 + **{qs}** {slot}",
-                          "成功=同底材暗金；失败=物品被摧毁并获得 1×普通钥匙"])
+                          "第一次登记，第二次合成：成功=同底材暗金；失败=获得 1×普通钥匙"])
     sec = cube[-1]
     sec["text"] += md_table(["#", "配方", "判定"], lines)
     sec["text"] += [
