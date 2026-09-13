@@ -235,6 +235,50 @@ def main():
                     issues.append(f"[底材名] {fn}[{it.get('displayName')}].{field}: 「{got}」官方「{want}」")
     print(f"  可比对 {checked3} 条，不一致 {bad3} 条")
 
+    # ---------- 4) {{icon:CODE}} 与紧随其后的名称是否匹配 ----------
+    print("\n== 4. 图标标记 ↔ 名称一致性 ==")
+    official_norm = {k: norm_name(v) for k, v in official.items()}
+    # 站内为区分重名而自定的别名（官方串表未收录）
+    ALIAS_NAME = {"key": "普通钥匙"}
+
+    known_names = sorted(
+        set(official_norm.values()) | set(ALIAS_NAME.values()),
+        key=len, reverse=True,
+    )
+    # 只匹配「紧跟标记的、已知的物品名」，避免把后面的短语一起吃进来
+    name_alt = re.compile("|".join(re.escape(x) for x in known_names if x))
+    icon_re = re.compile(r"\{\{icon:([A-Za-z0-9_]+)\}\}")
+
+    checked4 = bad4 = 0
+    for path in iter_files():
+        rel = os.path.relpath(path, ROOT)
+        if not rel.startswith("public" + os.sep + "data"):
+            continue
+        try:
+            txt = open(path, encoding="utf-8", errors="replace").read()
+        except OSError:
+            continue
+
+        for m in icon_re.finditer(txt):
+            code = m.group(1).lower()
+            want = official_norm.get(code) or ALIAS_NAME.get(code)
+            if not want:
+                continue
+
+            tail = txt[m.end():m.end() + 16]
+            hit = name_alt.match(tail)
+            if not hit:
+                continue          # 标记后面不是已知物品名（可能是列表/表格），跳过
+
+            checked4 += 1
+            if norm_name(want) != norm_name(hit.group(0)):
+                bad4 += 1
+                issues.append(
+                    f"[图标名不符] {rel}: {{{{icon:{m.group(1)}}}}}{hit.group(0)}，"
+                    f"但 {m.group(1)} 的名称应为「{want}」"
+                )
+    print(f"  可比对 {checked4} 条，不一致 {bad4} 条")
+
     print("\n== 结论 ==")
     if not issues:
         print("  ✅ 未发现与官方中文串表不一致的地方")

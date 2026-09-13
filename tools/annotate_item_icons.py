@@ -88,16 +88,39 @@ def build_name_map():
             name2code.setdefault(zh_name, code)
 
     # 长名优先，避免短名抢先匹配
-    return sorted(name2code.items(), key=lambda kv: -len(kv[0]))
+    ordered = sorted(name2code.items(), key=lambda kv: -len(kv[0]))
+
+    # 若某个名字是另一个物品名的前缀（如「制图师」⊂「制图师凿子·贪婪」），
+    # 直接标注会挂错图标 → 这类短名一律跳过
+    all_names = [nm for nm, _ in ordered]
+    safe = []
+    for nm, code in ordered:
+        if any(other != nm and other.startswith(nm) for other in all_names):
+            continue
+        safe.append((nm, code))
+
+    # 补充：更长的那件物品**没有**官方中文名时，上面的前缀规则发现不了，
+    # 只能人工列出来（审计第 4 项会持续盯着这类错配）
+    SKIP_AMBIGUOUS = {
+        "制图师",      # → 制图师凿子 / 制图师法珠
+        "拉苏克谜盒",  # → 拉苏克谜盒碎片
+    }
+
+    return [(nm, code) for nm, code in safe if nm not in SKIP_AMBIGUOUS]
 
 
 CODE_SPAN_RE = re.compile(r"(`[^`]*`)")
 
 
 def annotate(text, pairs):
-    """标注一行文本；**跳过反引号代码段**（那里是字面标识符，不渲染图标）。"""
-    if not text or TOKEN_RE.search(text):
+    """标注一行文本；**跳过反引号代码段**（那里是字面标识符，不渲染图标）。
+
+    先剥掉已有标记再重新标注 —— 这样名称规则变了（比如发现图标挂错了）能自动纠正。
+    """
+    if not text:
         return text, 0
+
+    text = TOKEN_RE.sub("", text)
 
     n = 0
     pieces = CODE_SPAN_RE.split(text)
@@ -143,18 +166,18 @@ def main():
         for item in data:
             txt = item.get("text")
             if isinstance(txt, str):
-                new, k = annotate(txt, pairs)
-                if k:
+                new, _k = annotate(txt, pairs)
+                if new != txt:          # 注意：剥掉失效标记也要回写
                     item["text"] = new
-                    changed += k
+                    changed += 1
             elif isinstance(txt, list):
                 for idx, line in enumerate(txt):
                     if not isinstance(line, str):
                         continue
-                    new, k = annotate(line, pairs)
-                    if k:
+                    new, _k = annotate(line, pairs)
+                    if new != line:
                         txt[idx] = new
-                        changed += k
+                        changed += 1
 
         if changed:
             print(f"  {fn}: 标注 {changed} 处")
