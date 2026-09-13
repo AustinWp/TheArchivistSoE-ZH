@@ -9643,7 +9643,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 14,
     "requiredLevel": "10",
@@ -9665,7 +9665,7 @@
     "occurrenceChance": "1,56%",
     "occurrenceChanceCurrency": "36,36%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9687,7 +9687,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 20,
     "requiredLevel": "15",
@@ -9709,7 +9709,7 @@
     "occurrenceChance": "0,39%",
     "occurrenceChanceCurrency": "9,09%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9731,7 +9731,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 34,
     "requiredLevel": "25",
@@ -9753,7 +9753,7 @@
     "occurrenceChance": "0,78%",
     "occurrenceChanceCurrency": "18,18%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -19766,7 +19766,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造谐角之冠",
+    "index": "地狱锻铸·谐角之冠",
     "enabled": "1",
     "level": 69,
     "requiredLevel": "62",
@@ -19819,7 +19819,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造谐角之冠",
+    "displayName": "地狱锻铸·谐角之冠",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -20065,7 +20065,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造黑橡树盾",
+    "index": "地狱锻铸·黑橡树盾",
     "enabled": "1",
     "level": 67,
     "requiredLevel": "61",
@@ -20118,7 +20118,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造黑橡树盾",
+    "displayName": "地狱锻铸·黑橡树盾",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -20218,7 +20218,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造地狱杀戮者",
+    "index": "地狱锻铸·地狱毁灭者",
     "enabled": "1",
     "level": 71,
     "requiredLevel": "66",
@@ -20287,7 +20287,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造地狱杀戮者",
+    "displayName": "地狱锻铸·地狱毁灭者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "146-183 to 410-513",
@@ -20675,7 +20675,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造青色愤怒",
+    "index": "地狱锻铸·碧蓝怒火",
     "enabled": "1",
     "level": 66,
     "requiredLevel": "58",
@@ -20744,7 +20744,7 @@
     "occurrenceChance": "0,39%",
     "occurrenceChanceCurrency": "0,39%",
     "itemTier": "精英",
-    "displayName": "地狱锻造青色愤怒",
+    "displayName": "地狱锻铸·碧蓝怒火",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "148-163 to 167-184",
     "displayTwoHandDamage": null,
@@ -21389,7 +21389,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 58,
     "requiredLevel": "50",
@@ -21411,7 +21411,7 @@
     "occurrenceChance": "0,39%",
     "occurrenceChanceCurrency": "9,09%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -21433,7 +21433,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 73,
     "requiredLevel": "65",
@@ -21455,7 +21455,7 @@
     "occurrenceChance": "0,39%",
     "occurrenceChanceCurrency": "22,73%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -21477,7 +21477,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 58,
     "requiredLevel": "50",
@@ -21499,7 +21499,7 @@
     "occurrenceChance": "0,39%",
     "occurrenceChanceCurrency": "9,09%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -21521,7 +21521,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 80,
     "requiredLevel": "67",
@@ -21543,7 +21543,7 @@
     "occurrenceChance": "0,39%",
     "occurrenceChanceCurrency": "22,73%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -21565,7 +21565,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 60,
     "requiredLevel": "60",
@@ -21587,7 +21587,7 @@
     "occurrenceChance": "0,39%",
     "occurrenceChanceCurrency": "9,09%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -21691,7 +21691,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 73,
     "requiredLevel": "65",
@@ -21713,7 +21713,7 @@
     "occurrenceChance": "0,39%",
     "occurrenceChanceCurrency": "22,73%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -21735,7 +21735,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 55,
     "requiredLevel": "47",
@@ -21757,7 +21757,7 @@
     "occurrenceChance": "0,39%",
     "occurrenceChanceCurrency": "9,09%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -22286,7 +22286,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造萨卡兰姆使者",
+    "index": "地狱锻铸·撒卡兰姆使者",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -22339,7 +22339,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "扩展",
-    "displayName": "地狱锻造萨卡兰姆使者",
+    "displayName": "地狱锻铸·撒卡兰姆使者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -23418,7 +23418,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造死亡之网",
+    "index": "地狱锻铸·死亡之网",
     "enabled": "1",
     "level": 81,
     "requiredLevel": "66",
@@ -23487,7 +23487,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造死亡之网",
+    "displayName": "地狱锻铸·死亡之网",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -23549,7 +23549,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造青色愤怒",
+    "index": "地狱锻铸·碧蓝怒火",
     "enabled": "1",
     "level": 87,
     "requiredLevel": "85",
@@ -23618,7 +23618,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造青色愤怒",
+    "displayName": "地狱锻铸·碧蓝怒火",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "148-163 to 167-184",
     "displayTwoHandDamage": null,
@@ -23644,7 +23644,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 73,
     "requiredLevel": "65",
@@ -23666,7 +23666,7 @@
     "occurrenceChance": "0,23%",
     "occurrenceChanceCurrency": "13,64%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -24056,7 +24056,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造翡翠之爪",
+    "index": "地狱锻铸·玉爪",
     "enabled": "1",
     "level": 74,
     "requiredLevel": "66",
@@ -24125,7 +24125,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造翡翠之爪",
+    "displayName": "地狱锻铸·玉爪",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -24304,7 +24304,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造泰瑞尔的力量",
+    "index": "地狱锻铸·泰瑞尔的力量",
     "enabled": "1",
     "level": 87,
     "requiredLevel": "84",
@@ -24357,7 +24357,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造泰瑞尔的力量",
+    "displayName": "地狱锻铸·泰瑞尔的力量",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -25787,7 +25787,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造黑暗之力衍生",
+    "index": "地狱锻铸·黑暗之力",
     "enabled": "1",
     "level": 72,
     "requiredLevel": "64",
@@ -25840,7 +25840,7 @@
     "occurrenceChance": "0,16%",
     "occurrenceChanceCurrency": "0,16%",
     "itemTier": "精英",
-    "displayName": "地狱锻造黑暗之力衍生",
+    "displayName": "地狱锻铸·黑暗之力",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -25861,7 +25861,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造寡妇制造者",
+    "index": "地狱锻铸·寡妇制造者",
     "enabled": "1",
     "level": 73,
     "requiredLevel": "65",
@@ -25920,7 +25920,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造寡妇制造者",
+    "displayName": "地狱锻铸·寡妇制造者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "108-130 to 288-346",
@@ -26299,7 +26299,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造狮鹫之眼",
+    "index": "地狱锻铸·格利风之眼",
     "enabled": "1",
     "level": 84,
     "requiredLevel": "76",
@@ -26352,7 +26352,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造狮鹫之眼",
+    "displayName": "地狱锻铸·格利风之眼",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -26961,7 +26961,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造安达利尔的面容",
+    "index": "地狱锻铸·安达利尔的面貌",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "83",
@@ -27014,7 +27014,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造安达利尔的面容",
+    "displayName": "地狱锻铸·安达利尔的面貌",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -27114,7 +27114,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造钢铁甲壳",
+    "index": "地狱锻铸·钢铁甲壳",
     "enabled": "1",
     "level": 74,
     "requiredLevel": "66",
@@ -27167,7 +27167,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造钢铁甲壳",
+    "displayName": "地狱锻铸·钢铁甲壳",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -27190,7 +27190,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造美杜莎的凝望",
+    "index": "地狱锻铸·美杜莎的凝视",
     "enabled": "1",
     "level": 84,
     "requiredLevel": "76",
@@ -27243,7 +27243,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造美杜莎的凝望",
+    "displayName": "地狱锻铸·美杜莎的凝视",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -28364,7 +28364,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造泰瑞尔的力量",
+    "index": "地狱锻铸·泰瑞尔的力量",
     "enabled": "1",
     "level": 82,
     "requiredLevel": "74",
@@ -28417,7 +28417,7 @@
     "occurrenceChance": "0,62%",
     "occurrenceChanceCurrency": "0,62%",
     "itemTier": "精英",
-    "displayName": "地狱锻造泰瑞尔的力量",
+    "displayName": "地狱锻铸·泰瑞尔的力量",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -28937,7 +28937,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造蜘蛛之网",
+    "index": "地狱锻铸·蜘蛛之网",
     "enabled": "1",
     "level": 87,
     "requiredLevel": "80",
@@ -28990,7 +28990,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造蜘蛛之网",
+    "displayName": "地狱锻铸·蜘蛛之网",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -29082,7 +29082,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造马拉的万花筒",
+    "index": "地狱锻铸·马拉的万花筒",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "81",
@@ -29104,7 +29104,7 @@
     "occurrenceChance": "0,16%",
     "occurrenceChanceCurrency": "9,09%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -29970,7 +29970,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造斩骨",
+    "index": "地狱锻铸·碎骨",
     "enabled": "1",
     "level": 72,
     "requiredLevel": "64",
@@ -30039,7 +30039,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造斩骨",
+    "displayName": "地狱锻铸·碎骨",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "129-147 to 669-760",
@@ -30331,7 +30331,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱锻造钢拳",
+    "index": "地狱锻铸·钢铁撕裂者",
     "enabled": "1",
     "level": 78,
     "requiredLevel": "70",
@@ -30384,7 +30384,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造钢拳",
+    "displayName": "地狱锻铸·钢铁撕裂者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -36439,7 +36439,7 @@
     "hellforged": false
   },
   {
-    "index": "阿卡拉特之怒",
+    "index": "地狱锻铸·广域毁灭",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "80",
@@ -36461,7 +36461,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": null,
-    "displayName": "地狱锻造浩劫毁灭",
+    "displayName": "地狱锻铸·广域毁灭",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -38539,7 +38539,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": null,
-    "displayName": "地狱锻造浩劫毁灭",
+    "displayName": "地狱锻铸·广域毁灭",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -40065,7 +40065,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造泽拉的决心",
+    "displayName": "地狱锻铸·泽拉依的决心",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "162-182 to 684-767",
@@ -40377,7 +40377,7 @@
     "hellforged": true
   },
   {
-    "index": "地狱锻铸·拉斯玛的冥河之手",
+    "index": "地狱锻铸·死亡之网",
     "enabled": "1",
     "level": 131,
     "requiredLevel": "80",
@@ -40446,7 +40446,7 @@
     "occurrenceChance": null,
     "occurrenceChanceCurrency": null,
     "itemTier": "精英",
-    "displayName": "地狱锻造死亡之网",
+    "displayName": "地狱锻铸·死亡之网",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -41081,7 +41081,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": "精英",
-    "displayName": "地狱锻造安达利尔的面容",
+    "displayName": "地狱锻铸·安达利尔的面貌",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -41331,7 +41331,7 @@
     "occurrenceChance": "0,08%",
     "occurrenceChanceCurrency": "0,08%",
     "itemTier": null,
-    "displayName": "地狱锻造马拉的万花筒",
+    "displayName": "地狱锻铸·马拉的万花筒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,

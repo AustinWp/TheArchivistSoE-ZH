@@ -508,6 +508,21 @@ def main():
     else:
         print("  跳过（缺 docs/reference/pd2_zh_item_names.json）")
 
+    # ---------- 3f) 狱铸前缀 ----------
+    print("\n== 3f. 狱铸装备名前缀 ==")
+    _wrong = 0
+    for _rel in ("Uniques.json", os.path.join("damnation", "Uniques.json")):
+        _pth = os.path.join(ROOT, "public", "data", _rel)
+        if not os.path.exists(_pth):
+            continue
+        for _u in json.load(open(_pth, encoding="utf-8")):
+            _n = str(_u.get("displayName") or "")
+            # 官方写法是「地狱锻铸·××」；「地狱锻造××」是社区旧写法
+            if _n.startswith("地狱锻造"):
+                _wrong += 1
+                issues.append(f"[狱铸前缀错] {_rel}: 「{_n}」应为「地狱锻铸·…」")
+    print(f"  错误前缀 {_wrong} 处（官方为「地狱锻铸·」）")
+
     print("\n== 4. 图标标记 ↔ 名称一致性 ==")
     official_norm = {k: norm_name(v) for k, v in official.items()}
     # 站内为区分重名而自定的别名（官方串表未收录）
