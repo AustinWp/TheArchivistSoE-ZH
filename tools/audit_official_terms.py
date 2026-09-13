@@ -424,7 +424,6 @@ def main():
     # 以下条目在 UniqueItems.txt 里 enabled=1，但**有意**不放进「暗金装备」列表。
     # 每条都要写清理由 —— 登记成例外是为了让「真·漏项」无处可藏，不是把问题藏起来。
     KNOWN_MISSING_UNIQUES = {
-        "驯服": "rarity=0（掉率 0）且一半属性为隐藏项（aura-hidden / static-modifier-display），无法忠实重建，宁缺毋滥",
         "彩虹刻面": "本站以「彩虹刻面·闪电 / 冰冷 / 火焰 / 毒素」四条收录，源码 4 行同名",
         "克林姆连枷": "任务物品（源码 quest 列非空）",
         "超级克林姆连枷": "任务物品",
@@ -482,6 +481,32 @@ def main():
               + "; ".join(sorted({d.split('（')[1].rstrip('）') for d in _documented})))
     except Exception as _e:  # noqa: BLE001
         print(f"  跳过（{_e}）")
+
+    # ---------- 3e) 基础游戏物品名 ↔ PD2 汉化 wiki ----------
+    print("\n== 3e. 基础游戏物品名 ↔ PD2 汉化 wiki ==")
+    _wp = os.path.join(ROOT, "docs", "reference", "pd2_zh_item_names.json")
+    if os.path.exists(_wp):
+        import importlib
+        _m = importlib.import_module("official_names")
+        _w = json.load(open(_wp, encoding="utf-8"))["names"]
+        # 有意偏离 wiki 的例外（写清理由）
+        _deviations = {"key": "wiki「钥匙」；本站作「普通钥匙」以区别于 rkey「骷髅钥匙」"}
+        _bad = 0
+        _checked = 0
+        for _c, _name in _m.BASE_GAME_NAME.items():
+            _ww = _w.get(_c)
+            if not _ww or not _ww.get("fix"):
+                continue
+            _checked += 1
+            if _c in _deviations:
+                continue
+            if _name != _ww["fix"]:
+                _bad += 1
+                issues.append(f"[基础游戏名不符] {_c}: 登记为「{_name}」，wiki 修正简为「{_ww['fix']}」")
+        print(f"  可比对 {_checked} 条，不一致 {_bad} 条"
+              f"（另有 {len(_deviations)} 条登记的有意偏离）")
+    else:
+        print("  跳过（缺 docs/reference/pd2_zh_item_names.json）")
 
     print("\n== 4. 图标标记 ↔ 名称一致性 ==")
     official_norm = {k: norm_name(v) for k, v in official.items()}

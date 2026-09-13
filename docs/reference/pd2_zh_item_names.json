@@ -1,0 +1,3612 @@
+{
+ "_source": "https://wiki.projectdiablo2.cn/wiki/D2Itemname?action=raw",
+ "_fetched": "2026-09-13",
+ "_columns": {
+  "en": "英文名",
+  "trad": "原版繁",
+  "fix": "修正简（wiki 推荐简体）",
+  "d2r_s": "D2R 简体"
+ },
+ "names": {
+  "cap": {
+   "en": "Cap",
+   "trad": "帽子",
+   "fix": "帽子",
+   "d2r_s": "软帽"
+  },
+  "xap": {
+   "en": "War Hat",
+   "trad": "戰帽",
+   "fix": "战帽",
+   "d2r_s": "战争帽"
+  },
+  "uap": {
+   "en": "Shako",
+   "trad": "軍帽",
+   "fix": "军帽",
+   "d2r_s": "军帽"
+  },
+  "skp": {
+   "en": "Skull Cap",
+   "trad": "骷髏帽",
+   "fix": "骷髅帽",
+   "d2r_s": "骷髅帽"
+  },
+  "xkp": {
+   "en": "Sallet",
+   "trad": "輕便頭盔",
+   "fix": "轻便头盔",
+   "d2r_s": "轻盔"
+  },
+  "ukp": {
+   "en": "Hydraskull",
+   "trad": "九頭蛇頭蓋骨圓帽",
+   "fix": "九头蛇头盖骨圆帽",
+   "d2r_s": "多头蛇颅"
+  },
+  "hlm": {
+   "en": "Helm",
+   "trad": "頭盔",
+   "fix": "头盔",
+   "d2r_s": "头盔"
+  },
+  "xlm": {
+   "en": "Casque",
+   "trad": "無頰頭盔",
+   "fix": "无颊头盔",
+   "d2r_s": "护鼻盔"
+  },
+  "ulm": {
+   "en": "Armet",
+   "trad": "活動頭盔",
+   "fix": "活动头盔",
+   "d2r_s": "武装盔"
+  },
+  "fhl": {
+   "en": "Full Helm",
+   "trad": "高級頭盔",
+   "fix": "高级头盔",
+   "d2r_s": "全护盔"
+  },
+  "xhl": {
+   "en": "Basinet",
+   "trad": "輕鋼盔",
+   "fix": "轻钢盔",
+   "d2r_s": "喙面盔"
+  },
+  "uhl": {
+   "en": "Giant Conch",
+   "trad": "巨貝頭盔",
+   "fix": "巨贝头盔",
+   "d2r_s": "巨贝盔"
+  },
+  "msk": {
+   "en": "Mask",
+   "trad": "面具",
+   "fix": "面具",
+   "d2r_s": "覆面甲"
+  },
+  "xsk": {
+   "en": "Death Mask",
+   "trad": "死亡面具",
+   "fix": "死亡面具",
+   "d2r_s": "死者面甲"
+  },
+  "usk": {
+   "en": "Demonhead",
+   "trad": "惡魔頭蓋骨面具",
+   "fix": "恶魔头盖骨面具",
+   "d2r_s": "恶魔面甲"
+  },
+  "bhm": {
+   "en": "Bone Helm",
+   "trad": "白骨頭盔",
+   "fix": "白骨头盔",
+   "d2r_s": "骨盔"
+  },
+  "xh9": {
+   "en": "Grim Helm",
+   "trad": "殘酷頭盔",
+   "fix": "残酷头盔",
+   "d2r_s": "恐怖头盔"
+  },
+  "uh9": {
+   "en": "Bone Visage",
+   "trad": "骸骨面罩",
+   "fix": "骸骨面罩",
+   "d2r_s": "白骨面甲"
+  },
+  "ghm": {
+   "en": "Great Helm",
+   "trad": "卓越頭盔",
+   "fix": "卓越头盔",
+   "d2r_s": "重盔"
+  },
+  "xhm": {
+   "en": "<span class=\"d2-gray\">Winged helm</span><br>Winged Helm",
+   "trad": "帶翼頭盔<br>翼盔",
+   "fix": "翼盔",
+   "d2r_s": "翼盔"
+  },
+  "uhm": {
+   "en": "Spired Helm",
+   "trad": "螺旋頭盔",
+   "fix": "螺旋头盔",
+   "d2r_s": "塔盔"
+  },
+  "crn": {
+   "en": "Crown",
+   "trad": "皇冠",
+   "fix": "皇冠",
+   "d2r_s": "王冠"
+  },
+  "xrn": {
+   "en": "Grand Crown",
+   "trad": "巨皇冠",
+   "fix": "巨皇冠",
+   "d2r_s": "宝冠盔"
+  },
+  "urn": {
+   "en": "Corona",
+   "trad": "頭冠",
+   "fix": "头冠",
+   "d2r_s": "宝冠"
+  },
+  "ci0": {
+   "en": "Circlet",
+   "trad": "頭飾",
+   "fix": "头饰",
+   "d2r_s": "头环"
+  },
+  "ci1": {
+   "en": "Coronet",
+   "trad": "寶冠",
+   "fix": "宝冠",
+   "d2r_s": "头冠"
+  },
+  "ci2": {
+   "en": "Tiara",
+   "trad": "三重冠",
+   "fix": "三重冠",
+   "d2r_s": "冠冕"
+  },
+  "ci3": {
+   "en": "Diadem",
+   "trad": "權冠",
+   "fix": "权冠",
+   "d2r_s": "权冠"
+  },
+  "qui": {
+   "en": "Quilted Armor",
+   "trad": "布甲",
+   "fix": "布甲",
+   "d2r_s": "内衬甲"
+  },
+  "xui": {
+   "en": "Ghost Armor",
+   "trad": "鬼魂戰甲",
+   "fix": "鬼魂战甲",
+   "d2r_s": "幽灵甲"
+  },
+  "uui": {
+   "en": "Dusk Shroud",
+   "trad": "灰暮壽衣",
+   "fix": "灰暮寿衣",
+   "d2r_s": "灰幕寿衣"
+  },
+  "lea": {
+   "en": "Leather Armor",
+   "trad": "皮甲",
+   "fix": "皮甲",
+   "d2r_s": "皮甲"
+  },
+  "xea": {
+   "en": "Serpentskin Armor",
+   "trad": "海蛇皮甲",
+   "fix": "海蛇皮甲",
+   "d2r_s": "蛇皮甲"
+  },
+  "uea": {
+   "en": "Wyrmhide",
+   "trad": "古龍皮",
+   "fix": "古龙皮",
+   "d2r_s": "龙皮甲"
+  },
+  "hla": {
+   "en": "Hard Leather Armor",
+   "trad": "硬皮甲",
+   "fix": "硬皮甲",
+   "d2r_s": "硬皮甲"
+  },
+  "xla": {
+   "en": "Demonhide Armor",
+   "trad": "魔皮戰甲",
+   "fix": "魔皮战甲",
+   "d2r_s": "恶魔皮甲"
+  },
+  "ula": {
+   "en": "Scarab Husk",
+   "trad": "聖甲蟲殼皮甲",
+   "fix": "圣甲虫壳皮甲",
+   "d2r_s": "圣甲虫壳"
+  },
+  "stu": {
+   "en": "Studded Leather",
+   "trad": "鑲嵌甲",
+   "fix": "镶嵌甲",
+   "d2r_s": "钉皮甲"
+  },
+  "xtu": {
+   "en": "Trellised Armor",
+   "trad": "攀繞戰甲",
+   "fix": "攀绕战甲",
+   "d2r_s": "镶片铠甲"
+  },
+  "utu": {
+   "en": "Wire Fleece",
+   "trad": "線羊毛皮甲",
+   "fix": "线羊毛皮甲",
+   "d2r_s": "羊绒皮甲"
+  },
+  "rng": {
+   "en": "Ring Mail",
+   "trad": "鎖環甲",
+   "fix": "锁环甲",
+   "d2r_s": "环甲"
+  },
+  "xng": {
+   "en": "Linked Mail",
+   "trad": "連扣戰甲",
+   "fix": "连扣战甲",
+   "d2r_s": "锁环甲"
+  },
+  "ung": {
+   "en": "Diamond Mail",
+   "trad": "鑽石鎖子甲",
+   "fix": "钻石锁子甲",
+   "d2r_s": "钻石甲"
+  },
+  "scl": {
+   "en": "Scale Mail",
+   "trad": "鱗甲",
+   "fix": "鳞甲",
+   "d2r_s": "鱼鳞甲"
+  },
+  "xcl": {
+   "en": "Tigulated Mail",
+   "trad": "提格萊特戰甲",
+   "fix": "提格莱特战甲",
+   "d2r_s": "固片锁甲"
+  },
+  "ucl": {
+   "en": "Loricated Mail",
+   "trad": "甲殼鎧鱗甲",
+   "fix": "甲壳铠鳞甲",
+   "d2r_s": "覆铁甲"
+  },
+  "brs": {
+   "en": "Breast Plate",
+   "trad": "胸甲",
+   "fix": "胸甲",
+   "d2r_s": "胸片甲"
+  },
+  "xrs": {
+   "en": "Cuirass",
+   "trad": "護胸甲",
+   "fix": "护胸甲",
+   "d2r_s": "重装胸甲"
+  },
+  "urs": {
+   "en": "Great Hauberk",
+   "trad": "巨型鱗鎧胸甲",
+   "fix": "巨型鳞铠胸甲",
+   "d2r_s": "大半身甲"
+  },
+  "chn": {
+   "en": "Chain Mail",
+   "trad": "鎖子甲",
+   "fix": "锁子甲",
+   "d2r_s": "锁链甲"
+  },
+  "xhn": {
+   "en": "Mesh Armor",
+   "trad": "織網戰甲",
+   "fix": "织网战甲",
+   "d2r_s": "札甲"
+  },
+  "uhn": {
+   "en": "Boneweave",
+   "trad": "骸骨鏈甲",
+   "fix": "骸骨链甲",
+   "d2r_s": "骨织甲"
+  },
+  "spl": {
+   "en": "Splint Mail",
+   "trad": "板甲",
+   "fix": "板甲",
+   "d2r_s": "板条甲"
+  },
+  "xpl": {
+   "en": "Russet Armor",
+   "trad": "羅瑟戰甲",
+   "fix": "罗瑟战甲",
+   "d2r_s": "褐锈甲"
+  },
+  "upl": {
+   "en": "Balrog Skin",
+   "trad": "炎魔皮板甲",
+   "fix": "炎魔皮板甲",
+   "d2r_s": "炎魔皮"
+  },
+  "ltp": {
+   "en": "Light Plate",
+   "trad": "輕型裝甲",
+   "fix": "轻型装甲",
+   "d2r_s": "轻板甲"
+  },
+  "xtp": {
+   "en": "Mage Plate",
+   "trad": "法師鎧甲",
+   "fix": "法师铠甲",
+   "d2r_s": "法师铠"
+  },
+  "utp": {
+   "en": "Archon Plate",
+   "trad": "執政官鎧甲",
+   "fix": "执政官铠甲",
+   "d2r_s": "统治者板甲"
+  },
+  "fld": {
+   "en": "Field Plate",
+   "trad": "實戰鎧甲",
+   "fix": "实战铠甲",
+   "d2r_s": "全身板甲"
+  },
+  "xld": {
+   "en": "Sharktooth Armor",
+   "trad": "鯊齒戰甲",
+   "fix": "鲨齿战甲",
+   "d2r_s": "鲨齿战甲"
+  },
+  "uld": {
+   "en": "Kraken Shell",
+   "trad": "海妖殼甲",
+   "fix": "海妖壳甲",
+   "d2r_s": "深海巨妖之壳"
+  },
+  "plt": {
+   "en": "Plate Mail",
+   "trad": "鎧甲",
+   "fix": "铠甲",
+   "d2r_s": "板链甲"
+  },
+  "xlt": {
+   "en": "Templar Coat",
+   "trad": "聖堂武士外袍",
+   "fix": "圣堂武士外袍",
+   "d2r_s": "圣殿骑士铠"
+  },
+  "ult": {
+   "en": "Hellforge Plate",
+   "trad": "地獄鍛甲",
+   "fix": "地狱锻甲",
+   "d2r_s": "地狱铸甲"
+  },
+  "gth": {
+   "en": "Gothic Plate",
+   "trad": "哥德戰甲",
+   "fix": "哥德战甲",
+   "d2r_s": "哥特甲"
+  },
+  "xth": {
+   "en": "Embossed Plate",
+   "trad": "凸紋戰甲",
+   "fix": "凸纹战甲",
+   "d2r_s": "浮雕纹甲"
+  },
+  "uth": {
+   "en": "Lacquered Plate",
+   "trad": "漆甲",
+   "fix": "漆甲",
+   "d2r_s": "漆甲"
+  },
+  "ful": {
+   "en": "Full Plate Mail",
+   "trad": "高級戰甲",
+   "fix": "高级战甲",
+   "d2r_s": "全身板链甲"
+  },
+  "xul": {
+   "en": "Chaos Armor",
+   "trad": "混沌戰甲",
+   "fix": "混沌战甲",
+   "d2r_s": "混沌护甲"
+  },
+  "uul": {
+   "en": "Shadow Plate",
+   "trad": "陰影鎧甲",
+   "fix": "阴影铠甲",
+   "d2r_s": "暗影板甲"
+  },
+  "aar": {
+   "en": "Ancient Armor",
+   "trad": "古代裝甲",
+   "fix": "古代装甲",
+   "d2r_s": "古代甲"
+  },
+  "xar": {
+   "en": "Ornate Plate",
+   "trad": "華麗戰甲",
+   "fix": "华丽战甲",
+   "d2r_s": "花纹战甲"
+  },
+  "uar": {
+   "en": "Sacred Armor",
+   "trad": "神聖盔甲",
+   "fix": "神圣盔甲",
+   "d2r_s": "神圣铠甲"
+  },
+  "buc": {
+   "en": "Buckler",
+   "trad": "圓盾",
+   "fix": "圆盾",
+   "d2r_s": "小圆盾"
+  },
+  "xuc": {
+   "en": "Defender",
+   "trad": "防禦盾",
+   "fix": "防御盾",
+   "d2r_s": "防卫盾"
+  },
+  "uuc": {
+   "en": "Heater",
+   "trad": "防寒圓盾",
+   "fix": "防寒圆盾",
+   "d2r_s": "斗盾"
+  },
+  "sml": {
+   "en": "Small Shield",
+   "trad": "小盾牌",
+   "fix": "小盾牌",
+   "d2r_s": "小盾"
+  },
+  "xml": {
+   "en": "Round Shield",
+   "trad": "圓型盾",
+   "fix": "圆型盾",
+   "d2r_s": "圆盾"
+  },
+  "uml": {
+   "en": "Luna",
+   "trad": "月精靈護盾",
+   "fix": "月精灵护盾",
+   "d2r_s": "月神盾"
+  },
+  "lrg": {
+   "en": "Large Shield",
+   "trad": "大盾牌",
+   "fix": "大盾牌",
+   "d2r_s": "大盾"
+  },
+  "xrg": {
+   "en": "Scutum",
+   "trad": "鱗盾",
+   "fix": "鳞盾",
+   "d2r_s": "椭圆盾"
+  },
+  "urg": {
+   "en": "Hyperion",
+   "trad": "亥伯龍盾",
+   "fix": "亥伯龙盾",
+   "d2r_s": "亥伯龙盾"
+  },
+  "spk": {
+   "en": "Spiked Shield",
+   "trad": "尖刺盾牌",
+   "fix": "尖刺盾牌",
+   "d2r_s": "尖刺盾"
+  },
+  "xpk": {
+   "en": "Barbed Shield",
+   "trad": "倒刺護盾",
+   "fix": "倒刺护盾",
+   "d2r_s": "尖刃盾"
+  },
+  "upk": {
+   "en": "Blade Barrier",
+   "trad": "刀刃刺盾",
+   "fix": "刀刃刺盾",
+   "d2r_s": "剑刃屏障"
+  },
+  "kit": {
+   "en": "Kite Shield",
+   "trad": "輕盾",
+   "fix": "轻盾",
+   "d2r_s": "鸢盾"
+  },
+  "xit": {
+   "en": "Dragon Shield",
+   "trad": "龍盾",
+   "fix": "龙盾",
+   "d2r_s": "龙盾"
+  },
+  "uit": {
+   "en": "Monarch",
+   "trad": "統治者大盾",
+   "fix": "统治者大盾",
+   "d2r_s": "统治者大盾"
+  },
+  "bsh": {
+   "en": "Bone Shield",
+   "trad": "白骨盾牌",
+   "fix": "白骨盾牌",
+   "d2r_s": "骨盾"
+  },
+  "xsh": {
+   "en": "Grim Shield",
+   "trad": "冷酷之盾",
+   "fix": "冷酷之盾",
+   "d2r_s": "恐怖大盾"
+  },
+  "ush": {
+   "en": "Troll Nest",
+   "trad": "洞穴巨魔巢穴骨盾",
+   "fix": "洞穴巨魔巢穴骨盾",
+   "d2r_s": "巨魔巢"
+  },
+  "tow": {
+   "en": "Tower Shield",
+   "trad": "塔盾",
+   "fix": "塔盾",
+   "d2r_s": "塔盾"
+  },
+  "xow": {
+   "en": "Pavise",
+   "trad": "大盾",
+   "fix": "大盾",
+   "d2r_s": "巨盾"
+  },
+  "uow": {
+   "en": "Aegis",
+   "trad": "塔盾",
+   "fix": "圣盾",
+   "d2r_s": "圣盾"
+  },
+  "gts": {
+   "en": "Gothic Shield",
+   "trad": "哥德盾牌",
+   "fix": "哥德盾牌",
+   "d2r_s": "哥特盾"
+  },
+  "xts": {
+   "en": "Ancient Shield",
+   "trad": "古代之盾",
+   "fix": "古代之盾",
+   "d2r_s": "古代盾"
+  },
+  "uts": {
+   "en": "Ward",
+   "trad": "保護盾牌",
+   "fix": "保护盾牌",
+   "d2r_s": "守护之盾"
+  },
+  "lgl": {
+   "en": "Leather Gloves",
+   "trad": "皮手套",
+   "fix": "皮手套",
+   "d2r_s": "皮手套"
+  },
+  "xlg": {
+   "en": "Demonhide Gloves",
+   "trad": "魔皮手套",
+   "fix": "魔皮手套",
+   "d2r_s": "恶魔皮手套"
+  },
+  "ulg": {
+   "en": "Bramble Mitts",
+   "trad": "荊棘連指手套",
+   "fix": "荆棘连指手套",
+   "d2r_s": "防刺手套"
+  },
+  "vgl": {
+   "en": "Heavy Gloves",
+   "trad": "重手套",
+   "fix": "重手套",
+   "d2r_s": "重手套"
+  },
+  "xvg": {
+   "en": "Sharkskin Gloves",
+   "trad": "鯊魚皮套",
+   "fix": "鲨皮手套",
+   "d2r_s": "鲨鱼皮手套"
+  },
+  "uvg": {
+   "en": "Vampirebone Gloves",
+   "trad": "吸血鬼骸骨手套",
+   "fix": "吸血鬼骸骨手套",
+   "d2r_s": "吸血鬼骨手套"
+  },
+  "mgl": {
+   "en": "Chain Gloves",
+   "trad": "鎖鍊手套",
+   "fix": "锁链手套",
+   "d2r_s": "链甲手套"
+  },
+  "xmg": {
+   "en": "Heavy Bracers",
+   "trad": "重型手鐲",
+   "fix": "重型手镯",
+   "d2r_s": "铁皮手套"
+  },
+  "umg": {
+   "en": "Vambraces",
+   "trad": "吸血鬼手套",
+   "fix": "吸血鬼手套",
+   "d2r_s": "护臂手甲"
+  },
+  "tgl": {
+   "en": "Light Gauntlets",
+   "trad": "輕型鐵手套",
+   "fix": "轻型铁手套",
+   "d2r_s": "轻护手"
+  },
+  "xtg": {
+   "en": "Battle Gauntlets",
+   "trad": "戰場手套",
+   "fix": "战场手套",
+   "d2r_s": "战斗护手"
+  },
+  "utg": {
+   "en": "Crusader Gauntlets",
+   "trad": "十字軍鐵手套",
+   "fix": "十字军铁手套",
+   "d2r_s": "圣教军护手"
+  },
+  "hgl": {
+   "en": "Gauntlets",
+   "trad": "鐵手套",
+   "fix": "铁手套",
+   "d2r_s": "护手"
+  },
+  "xhg": {
+   "en": "<span class=\"d2-gray\">War Gaunlets</span><br>War Gauntlets",
+   "trad": "巨戰手套<br>巨戰手套",
+   "fix": "巨战手套",
+   "d2r_s": "战争护手"
+  },
+  "uhg": {
+   "en": "Ogre Gauntlets",
+   "trad": "食人魔鐵手套",
+   "fix": "食人魔铁手套",
+   "d2r_s": "食人魔护手"
+  },
+  "lbt": {
+   "en": "Boots",
+   "trad": "皮靴",
+   "fix": "皮靴",
+   "d2r_s": "短靴"
+  },
+  "xlb": {
+   "en": "Demonhide Boots",
+   "trad": "魔皮靴",
+   "fix": "魔皮靴",
+   "d2r_s": "恶魔皮靴"
+  },
+  "ulb": {
+   "en": "Wyrmhide Boots",
+   "trad": "飛龍皮靴",
+   "fix": "飞龙皮靴",
+   "d2r_s": "飞龙皮靴"
+  },
+  "vbt": {
+   "en": "Heavy Boots",
+   "trad": "重靴",
+   "fix": "重靴",
+   "d2r_s": "重靴"
+  },
+  "xvb": {
+   "en": "Sharkskin Boots",
+   "trad": "鯊皮之靴",
+   "fix": "鲨皮之靴",
+   "d2r_s": "鲨鱼皮靴"
+  },
+  "uvb": {
+   "en": "Scarabshell Boots",
+   "trad": "聖甲蟲殼靴",
+   "fix": "圣甲虫壳靴",
+   "d2r_s": "圣甲虫壳靴"
+  },
+  "mbt": {
+   "en": "Chain Boots",
+   "trad": "鎖鍊靴",
+   "fix": "锁链靴",
+   "d2r_s": "锁链靴"
+  },
+  "xmb": {
+   "en": "Mesh Boots",
+   "trad": "織網之靴",
+   "fix": "织网之靴",
+   "d2r_s": "网纹靴"
+  },
+  "umb": {
+   "en": "Boneweave Boots",
+   "trad": "骸骨靴",
+   "fix": "骸骨靴",
+   "d2r_s": "骸骨链靴"
+  },
+  "tbt": {
+   "en": "Light Plated Boots",
+   "trad": "輕型金屬靴",
+   "fix": "轻型金属靴",
+   "d2r_s": "轻板甲靴"
+  },
+  "xtb": {
+   "en": "Battle Boots",
+   "trad": "戰場之靴",
+   "fix": "战场之靴",
+   "d2r_s": "战靴"
+  },
+  "utb": {
+   "en": "Mirrored Boots",
+   "trad": "鏡化靴",
+   "fix": "镜化靴",
+   "d2r_s": "镜化靴"
+  },
+  "hbt": {
+   "en": "Greaves",
+   "trad": "護脛",
+   "fix": "护胫",
+   "d2r_s": "护胫靴"
+  },
+  "xhb": {
+   "en": "War Boots",
+   "trad": "巨戰之靴",
+   "fix": "巨战之靴",
+   "d2r_s": "战争靴"
+  },
+  "uhb": {
+   "en": "Myrmidon Greaves",
+   "trad": "極速靴",
+   "fix": "极速靴",
+   "d2r_s": "侍从护胫"
+  },
+  "lbl": {
+   "en": "Sash",
+   "trad": "飾帶",
+   "fix": "饰带",
+   "d2r_s": "腰带"
+  },
+  "zlb": {
+   "en": "Demonhide Sash",
+   "trad": "魔皮勳帶",
+   "fix": "魔皮勋带",
+   "d2r_s": "恶魔皮带"
+  },
+  "ulc": {
+   "en": "Spiderweb Sash",
+   "trad": "蛛網腰帶",
+   "fix": "蛛网腰带",
+   "d2r_s": "蛛网饰带"
+  },
+  "vbl": {
+   "en": "Light Belt",
+   "trad": "輕扣帶",
+   "fix": "轻扣带",
+   "d2r_s": "轻腰带"
+  },
+  "zvb": {
+   "en": "Sharkskin Belt",
+   "trad": "鯊皮腰帶",
+   "fix": "鲨皮腰带",
+   "d2r_s": "鲨鱼皮带"
+  },
+  "uvc": {
+   "en": "Vampirefang Belt",
+   "trad": "吸血鬼燎牙腰帶",
+   "fix": "吸血鬼燎牙腰带",
+   "d2r_s": "吸血鬼牙腰带"
+  },
+  "mbl": {
+   "en": "Belt",
+   "trad": "扣帶",
+   "fix": "扣带",
+   "d2r_s": "腰带"
+  },
+  "zmb": {
+   "en": "Mesh Belt",
+   "trad": "織網腰帶",
+   "fix": "织网腰带",
+   "d2r_s": "网纹腰带"
+  },
+  "umc": {
+   "en": "Mithril Coil",
+   "trad": "秘銀腰帶",
+   "fix": "秘银腰带",
+   "d2r_s": "秘银腰带"
+  },
+  "tbl": {
+   "en": "Heavy Belt",
+   "trad": "重扣帶",
+   "fix": "重扣带",
+   "d2r_s": "重腰带"
+  },
+  "ztb": {
+   "en": "Battle Belt",
+   "trad": "戰場腰帶",
+   "fix": "战场腰带",
+   "d2r_s": "战斗腰带"
+  },
+  "utc": {
+   "en": "Troll Belt",
+   "trad": "洞穴巨魔腰帶",
+   "fix": "洞穴巨魔腰带",
+   "d2r_s": "巨魔腰带"
+  },
+  "hbl": {
+   "en": "Plated Belt",
+   "trad": "金屬扣帶",
+   "fix": "金属扣带",
+   "d2r_s": "板甲腰带"
+  },
+  "zhb": {
+   "en": "War Belt",
+   "trad": "巨戰腰帶",
+   "fix": "巨战腰带",
+   "d2r_s": "战争腰带"
+  },
+  "uhc": {
+   "en": "Colossus Girdle",
+   "trad": "巨神腰帶",
+   "fix": "巨神腰带",
+   "d2r_s": "巨型护腰"
+  },
+  "dr1": {
+   "en": "Wolf Head",
+   "trad": "狼頭",
+   "fix": "狼头",
+   "d2r_s": "狼头"
+  },
+  "dr6": {
+   "en": "Alpha Helm",
+   "trad": "阿爾發頭盔",
+   "fix": "阿尔发头盔",
+   "d2r_s": "头狼盔"
+  },
+  "drb": {
+   "en": "Blood Spirit",
+   "trad": "血腥之靈",
+   "fix": "血腥之灵",
+   "d2r_s": "鲜血之灵"
+  },
+  "dr2": {
+   "en": "Hawk Helm",
+   "trad": "飛鷹頭盔",
+   "fix": "飞鹰头盔",
+   "d2r_s": "鹰盔"
+  },
+  "dr7": {
+   "en": "Griffon Headdress",
+   "trad": "獅鷲獸頭帶",
+   "fix": "狮鹫兽头带",
+   "d2r_s": "狮鹫头饰"
+  },
+  "drc": {
+   "en": "Sun Spirit",
+   "trad": "太陽之靈",
+   "fix": "太阳之灵",
+   "d2r_s": "太阳之灵"
+  },
+  "dr3": {
+   "en": "Antlers",
+   "trad": "鹿角",
+   "fix": "鹿角",
+   "d2r_s": "鹿角盔"
+  },
+  "dr8": {
+   "en": "Hunter's Guise",
+   "trad": "獵人的偽裝",
+   "fix": "猎人的伪装",
+   "d2r_s": "猎人伪装"
+  },
+  "drd": {
+   "en": "Earth Spirit",
+   "trad": "大地之靈",
+   "fix": "大地之灵",
+   "d2r_s": "大地之灵"
+  },
+  "dr4": {
+   "en": "Falcon Mask",
+   "trad": "獵鷹面具",
+   "fix": "猎鹰面具",
+   "d2r_s": "鹰隼面甲"
+  },
+  "dr9": {
+   "en": "Sacred Feathers",
+   "trad": "神聖羽毛頭帶",
+   "fix": "神圣羽毛头带",
+   "d2r_s": "圣羽盔"
+  },
+  "dre": {
+   "en": "Sky Spirit",
+   "trad": "天空之靈",
+   "fix": "天空之灵",
+   "d2r_s": "天空之灵"
+  },
+  "dr5": {
+   "en": "Spirit Mask",
+   "trad": "靈魂狼頭面具",
+   "fix": "灵魂狼头面具",
+   "d2r_s": "狼灵面具"
+  },
+  "dra": {
+   "en": "Totemic Mask",
+   "trad": "圖騰面具狼盔",
+   "fix": "图腾面具狼盔",
+   "d2r_s": "图腾面具"
+  },
+  "drf": {
+   "en": "Dream Spirit",
+   "trad": "幽夢之靈",
+   "fix": "幽梦之灵",
+   "d2r_s": "梦境之灵"
+  },
+  "ba1": {
+   "en": "Jawbone Cap",
+   "trad": "顎骨帽",
+   "fix": "颚骨帽",
+   "d2r_s": "颚骨帽"
+  },
+  "ba6": {
+   "en": "Jawbone Visor",
+   "trad": "顎骨面甲",
+   "fix": "颚骨面甲",
+   "d2r_s": "颚骨面甲"
+  },
+  "bab": {
+   "en": "Carnage Helm",
+   "trad": "屠殺頭盔",
+   "fix": "屠杀头盔",
+   "d2r_s": "屠戮盔"
+  },
+  "ba2": {
+   "en": "Fanged Helm",
+   "trad": "尖牙盔",
+   "fix": "尖牙盔",
+   "d2r_s": "牙骨盔"
+  },
+  "ba7": {
+   "en": "Lion Helm",
+   "trad": "獅頭尖盔",
+   "fix": "狮头尖盔",
+   "d2r_s": "狮盔"
+  },
+  "bac": {
+   "en": "Fury Visor",
+   "trad": "暴怒面甲",
+   "fix": "暴怒面甲",
+   "d2r_s": "怒火面甲"
+  },
+  "ba3": {
+   "en": "Horned Helm",
+   "trad": "角盔",
+   "fix": "角盔",
+   "d2r_s": "长角盔"
+  },
+  "ba8": {
+   "en": "Rage Mask",
+   "trad": "狂怒面具刺盔",
+   "fix": "狂怒面具刺盔",
+   "d2r_s": "盛怒面甲"
+  },
+  "bad": {
+   "en": "Destroyer Helm",
+   "trad": "毀滅者頭盔",
+   "fix": "毁灭者头盔",
+   "d2r_s": "毁灭者头盔"
+  },
+  "ba4": {
+   "en": "Assault Helmet",
+   "trad": "突擊盔",
+   "fix": "突击盔",
+   "d2r_s": "强攻盔"
+  },
+  "ba9": {
+   "en": "Savage Helmet",
+   "trad": "蠻族頭盔",
+   "fix": "蛮族头盔",
+   "d2r_s": "野蛮头盔"
+  },
+  "bae": {
+   "en": "Conqueror Crown",
+   "trad": "征服者皇冠面甲",
+   "fix": "征服者皇冠面甲",
+   "d2r_s": "征服者王冠"
+  },
+  "ba5": {
+   "en": "Avenger Guard",
+   "trad": "復仇者之盔",
+   "fix": "复仇者之盔",
+   "d2r_s": "复仇者头盔"
+  },
+  "baa": {
+   "en": "Slayer Guard",
+   "trad": "殺手防護面甲",
+   "fix": "杀手防护面甲",
+   "d2r_s": "杀戮者头盔"
+  },
+  "baf": {
+   "en": "Guardian Crown",
+   "trad": "守護者皇冠面甲",
+   "fix": "守护者皇冠面甲",
+   "d2r_s": "守护者王冠"
+  },
+  "pa1": {
+   "en": "Targe",
+   "trad": "小盾",
+   "fix": "小盾",
+   "d2r_s": "小盾"
+  },
+  "pa6": {
+   "en": "Akaran Targe",
+   "trad": "亞克南圓盾",
+   "fix": "亚克南圆盾",
+   "d2r_s": "阿卡兰小盾"
+  },
+  "pab": {
+   "en": "Sacred Targe",
+   "trad": "神聖小盾",
+   "fix": "神圣小盾",
+   "d2r_s": "神圣小盾"
+  },
+  "pa2": {
+   "en": "Rondache",
+   "trad": "輕圓盾",
+   "fix": "轻圆盾",
+   "d2r_s": "轻圆盾"
+  },
+  "pa7": {
+   "en": "Akaran Rondache",
+   "trad": "亞克南輕圓盾",
+   "fix": "亚克南轻圆盾",
+   "d2r_s": "阿卡兰轻圆盾"
+  },
+  "pac": {
+   "en": "Sacred Rondache",
+   "trad": "神聖輕圓盾",
+   "fix": "神圣轻圆盾",
+   "d2r_s": "神圣轻圆盾"
+  },
+  "pa3": {
+   "en": "Heraldic Shield",
+   "trad": "紋章盾",
+   "fix": "纹章盾",
+   "d2r_s": "纹章盾"
+  },
+  "pa8": {
+   "en": "Protector Shield",
+   "trad": "防護者盾牌",
+   "fix": "防护者盾牌",
+   "d2r_s": "保卫者之盾"
+  },
+  "pad": {
+   "en": "Kurast Shield",
+   "trad": "庫拉斯特之盾",
+   "fix": "库拉斯特之盾",
+   "d2r_s": "库拉斯特盾"
+  },
+  "pa4": {
+   "en": "Aerin Shield",
+   "trad": "艾文之盾",
+   "fix": "艾文之盾",
+   "d2r_s": "艾琳盾"
+  },
+  "pa9": {
+   "en": "Gilded Shield",
+   "trad": "飾金盾牌",
+   "fix": "饰金盾牌",
+   "d2r_s": "镀金盾"
+  },
+  "pae": {
+   "en": "Zakarum Shield",
+   "trad": "撒卡蘭姆盾牌",
+   "fix": "撒卡兰姆盾牌",
+   "d2r_s": "萨卡兰姆盾"
+  },
+  "pa5": {
+   "en": "Crown Shield",
+   "trad": "皇冠之盾",
+   "fix": "皇冠之盾",
+   "d2r_s": "王冠盾"
+  },
+  "paa": {
+   "en": "Royal Shield",
+   "trad": "皇家盾牌",
+   "fix": "皇家盾牌",
+   "d2r_s": "皇家盾"
+  },
+  "paf": {
+   "en": "Vortex Shield",
+   "trad": "旋風盾",
+   "fix": "旋风盾",
+   "d2r_s": "漩涡盾"
+  },
+  "ne1": {
+   "en": "Preserved Head",
+   "trad": "防腐之首",
+   "fix": "防腐之首",
+   "d2r_s": "保存完好的头骨"
+  },
+  "ne6": {
+   "en": "Mummified Trophy",
+   "trad": "木乃伊印記",
+   "fix": "木乃伊印记",
+   "d2r_s": "木乃伊法器"
+  },
+  "neb": {
+   "en": "Minion Skull",
+   "trad": "隨侍之骨",
+   "fix": "随侍之骨",
+   "d2r_s": "爪牙颅骨"
+  },
+  "ne2": {
+   "en": "Zombie Head",
+   "trad": "僵屍之首",
+   "fix": "僵尸之首",
+   "d2r_s": "僵尸头骨"
+  },
+  "ne7": {
+   "en": "Fetish Trophy",
+   "trad": "物神印記",
+   "fix": "物神印记",
+   "d2r_s": "鬼娃法器"
+  },
+  "neg": {
+   "en": "<span class=\"d2-gray\">Hellspawn Skull</span><br>Hellspawn Skull",
+   "trad": "地獄爪牙之骨<br>地獄爪牙之骨",
+   "fix": "地狱爪牙之骨",
+   "d2r_s": "地狱魔颅骨"
+  },
+  "ne3": {
+   "en": "Unraveller Head",
+   "trad": "揭露者之首",
+   "fix": "揭露者之首",
+   "d2r_s": "剖尸者头骨"
+  },
+  "ne8": {
+   "en": "Sexton Trophy",
+   "trad": "司事印記",
+   "fix": "司事印记",
+   "d2r_s": "司事法器"
+  },
+  "ned": {
+   "en": "Overseer Skull",
+   "trad": "監視者之骨",
+   "fix": "监视者之骨",
+   "d2r_s": "督军颅骨"
+  },
+  "ne4": {
+   "en": "Gargoyle Head",
+   "trad": "石像鬼之首",
+   "fix": "石像鬼之首",
+   "d2r_s": "石像鬼头骨"
+  },
+  "ne9": {
+   "en": "Cantor Trophy",
+   "trad": "領唱者印記",
+   "fix": "领唱者印记",
+   "d2r_s": "领唱者法器"
+  },
+  "nee": {
+   "en": "Succubus Skull",
+   "trad": "女妖之骨",
+   "fix": "女妖之骨",
+   "d2r_s": "魅魔颅骨"
+  },
+  "ne5": {
+   "en": "Demon Head",
+   "trad": "惡魔之首",
+   "fix": "恶魔之首",
+   "d2r_s": "恶魔头骨"
+  },
+  "nea": {
+   "en": "Hierophant Trophy",
+   "trad": "祭司印記",
+   "fix": "祭司印记",
+   "d2r_s": "圣师法器"
+  },
+  "nef": {
+   "en": "Bloodlord Skull",
+   "trad": "血王之骨",
+   "fix": "血王之骨",
+   "d2r_s": "血王颅骨"
+  },
+  "hax": {
+   "en": "Hand Axe",
+   "trad": "手斧",
+   "fix": "手斧",
+   "d2r_s": "手斧"
+  },
+  "9ha": {
+   "en": "Hatchet",
+   "trad": "小斧",
+   "fix": "小斧",
+   "d2r_s": "小斧"
+  },
+  "7ha": {
+   "en": "Tomahawk",
+   "trad": "戰鉞",
+   "fix": "战钺",
+   "d2r_s": "土著战斧"
+  },
+  "axe": {
+   "en": "Axe",
+   "trad": "斧",
+   "fix": "斧",
+   "d2r_s": "斧"
+  },
+  "9ax": {
+   "en": "Cleaver",
+   "trad": "切肉斧",
+   "fix": "切肉斧",
+   "d2r_s": "剁肉斧"
+  },
+  "7ax": {
+   "en": "Small Crescent",
+   "trad": "彎月斧",
+   "fix": "弯月斧",
+   "d2r_s": "新月斧"
+  },
+  "2ax": {
+   "en": "Double Axe",
+   "trad": "雙刃斧",
+   "fix": "双刃斧",
+   "d2r_s": "双刃斧"
+  },
+  "92a": {
+   "en": "Twin Axe",
+   "trad": "強化雙斧",
+   "fix": "强化双斧",
+   "d2r_s": "双锋斧"
+  },
+  "72a": {
+   "en": "Ettin Axe",
+   "trad": "雙頭斧",
+   "fix": "双头斧",
+   "d2r_s": "双头斧"
+  },
+  "mpi": {
+   "en": "Military Pick",
+   "trad": "軍用鍬",
+   "fix": "军用锹",
+   "d2r_s": "军镐"
+  },
+  "9mp": {
+   "en": "Crowbill",
+   "trad": "喙鉗",
+   "fix": "喙钳",
+   "d2r_s": "鸦嘴锄"
+  },
+  "7mp": {
+   "en": "War Spike",
+   "trad": "戰刺",
+   "fix": "战刺",
+   "d2r_s": "战争尖斧"
+  },
+  "wax": {
+   "en": "War Axe",
+   "trad": "巨戰斧",
+   "fix": "巨战斧",
+   "d2r_s": "战斧"
+  },
+  "9wa": {
+   "en": "Naga",
+   "trad": "納卡",
+   "fix": "纳卡",
+   "d2r_s": "蛇妖斧"
+  },
+  "7wa": {
+   "en": "<span class=\"d2-gray\">Beserker Axe</span><br>Berserker Axe",
+   "trad": "狂戰士斧<br>狂戰士斧",
+   "fix": "狂战士斧",
+   "d2r_s": "狂战斧"
+  },
+  "lax": {
+   "en": "Large Axe",
+   "trad": "巨斧",
+   "fix": "巨斧",
+   "d2r_s": "大斧"
+  },
+  "9la": {
+   "en": "Military Axe",
+   "trad": "軍斧",
+   "fix": "军斧",
+   "d2r_s": "军斧"
+  },
+  "7la": {
+   "en": "Feral Axe",
+   "trad": "猛禽斧",
+   "fix": "猛禽斧",
+   "d2r_s": "狂野利斧"
+  },
+  "bax": {
+   "en": "Broad Axe",
+   "trad": "闊斧",
+   "fix": "阔斧",
+   "d2r_s": "宽刃斧"
+  },
+  "9ba": {
+   "en": "Bearded Axe",
+   "trad": "鉤斧",
+   "fix": "钩斧",
+   "d2r_s": "钩斧"
+  },
+  "7ba": {
+   "en": "Silver-edged Axe",
+   "trad": "銀刃斧",
+   "fix": "银刃斧",
+   "d2r_s": "镀银斧"
+  },
+  "btx": {
+   "en": "Battle Axe",
+   "trad": "戰鬥斧",
+   "fix": "战斗斧",
+   "d2r_s": "战斗斧"
+  },
+  "9bt": {
+   "en": "Tabar",
+   "trad": "戰鬥斧",
+   "fix": "战斗斧",
+   "d2r_s": "塔巴战斧"
+  },
+  "7bt": {
+   "en": "Decapitator",
+   "trad": "斬首斧",
+   "fix": "斩首斧",
+   "d2r_s": "斩首斧"
+  },
+  "gax": {
+   "en": "Great Axe",
+   "trad": "卓越之斧",
+   "fix": "卓越之斧",
+   "d2r_s": "重斧"
+  },
+  "9ga": {
+   "en": "Gothic Axe",
+   "trad": "哥德之斧",
+   "fix": "哥德之斧",
+   "d2r_s": "哥特斧"
+  },
+  "7ga": {
+   "en": "Champion Axe",
+   "trad": "豪傑斧",
+   "fix": "豪杰斧",
+   "d2r_s": "冠军斧"
+  },
+  "gix": {
+   "en": "Giant Axe",
+   "trad": "大斧",
+   "fix": "大斧",
+   "d2r_s": "巨斧"
+  },
+  "9gi": {
+   "en": "Ancient Axe",
+   "trad": "古代之斧",
+   "fix": "古代之斧",
+   "d2r_s": "古代斧"
+  },
+  "7gi": {
+   "en": "Glorious Axe",
+   "trad": "榮光之斧",
+   "fix": "荣光之斧",
+   "d2r_s": "荣耀之斧"
+  },
+  "clb": {
+   "en": "Club",
+   "trad": "木棒",
+   "fix": "木棒",
+   "d2r_s": "木棒"
+  },
+  "9cl": {
+   "en": "Cudgel",
+   "trad": "棍棒",
+   "fix": "棍棒",
+   "d2r_s": "大棒"
+  },
+  "7cl": {
+   "en": "Truncheon",
+   "trad": "戰儀杖",
+   "fix": "战仪杖",
+   "d2r_s": "戒律棒"
+  },
+  "spc": {
+   "en": "Spiked Club",
+   "trad": "狼牙棒",
+   "fix": "狼牙棒",
+   "d2r_s": "狼牙棒"
+  },
+  "9sp": {
+   "en": "Barbed Club",
+   "trad": "倒鉤鎚",
+   "fix": "倒钩锤",
+   "d2r_s": "尖刺棒"
+  },
+  "7sp": {
+   "en": "Tyrant Club",
+   "trad": "暴君之棒",
+   "fix": "暴君之棒",
+   "d2r_s": "暴君棒"
+  },
+  "mac": {
+   "en": "Mace",
+   "trad": "釘頭錘",
+   "fix": "钉头锤",
+   "d2r_s": "钉锤"
+  },
+  "9ma": {
+   "en": "Flanged Mace",
+   "trad": "凸緣釘頭錘",
+   "fix": "凸缘钉头锤",
+   "d2r_s": "凸缘钉锤"
+  },
+  "7ma": {
+   "en": "Reinforced Mace",
+   "trad": "強化釘頭錘",
+   "fix": "强化钉头锤",
+   "d2r_s": "加固锤"
+  },
+  "mst": {
+   "en": "Morning Star",
+   "trad": "流星鎚",
+   "fix": "流星锤",
+   "d2r_s": "流星锤"
+  },
+  "9mt": {
+   "en": "Jagged Star",
+   "trad": "鋸齒流星鎚",
+   "fix": "锯齿流星锤",
+   "d2r_s": "锯齿星锤"
+  },
+  "7mt": {
+   "en": "Devil Star",
+   "trad": "惡魔流星錘",
+   "fix": "恶魔流星锤",
+   "d2r_s": "恶魔流星"
+  },
+  "fla": {
+   "en": "Flail",
+   "trad": "連枷",
+   "fix": "连枷",
+   "d2r_s": "连枷"
+  },
+  "9fl": {
+   "en": "Knout",
+   "trad": "鐵皮鞭",
+   "fix": "铁皮鞭",
+   "d2r_s": "链子锤"
+  },
+  "7fl": {
+   "en": "Scourge",
+   "trad": "天罰之錘",
+   "fix": "天罚之锤",
+   "d2r_s": "鞭锤"
+  },
+  "whm": {
+   "en": "War Hammer",
+   "trad": "巨戰鐵鎚",
+   "fix": "巨战铁锤",
+   "d2r_s": "战锤"
+  },
+  "9wh": {
+   "en": "Battle Hammer",
+   "trad": "戰鬥鐵鎚",
+   "fix": "战斗铁锤",
+   "d2r_s": "战斗锤"
+  },
+  "7wh": {
+   "en": "<span class=\"d2-gray\">Legendary Mallet</span><br>Legendary Mallet",
+   "trad": "傳說之鎚<br>傳說之鎚",
+   "fix": "传说之锤",
+   "d2r_s": "传奇重锤"
+  },
+  "mau": {
+   "en": "Maul",
+   "trad": "大木棍",
+   "fix": "大木棍",
+   "d2r_s": "大锤"
+  },
+  "9m9": {
+   "en": "War Club",
+   "trad": "巨戰木棍",
+   "fix": "巨战木棍",
+   "d2r_s": "战棒"
+  },
+  "7m7": {
+   "en": "Ogre Maul",
+   "trad": "食人魔之錘",
+   "fix": "食人魔之锤",
+   "d2r_s": "食人魔锤"
+  },
+  "gma": {
+   "en": "Great Maul",
+   "trad": "卓越巨棍",
+   "fix": "卓越巨棍",
+   "d2r_s": "重锤"
+  },
+  "9gm": {
+   "en": "Martel de Fer",
+   "trad": "戰槌",
+   "fix": "战锤",
+   "d2r_s": "尖头锤"
+  },
+  "7gm": {
+   "en": "Thunder Maul",
+   "trad": "雷錘",
+   "fix": "雷锤",
+   "d2r_s": "雷锤"
+  },
+  "ssd": {
+   "en": "Short Sword",
+   "trad": "短劍",
+   "fix": "短剑",
+   "d2r_s": "短剑"
+  },
+  "9ss": {
+   "en": "Gladius",
+   "trad": "羅馬短劍",
+   "fix": "罗马短剑",
+   "d2r_s": "角斗短剑"
+  },
+  "7ss": {
+   "en": "Falcata",
+   "trad": "短劍",
+   "fix": "短剑",
+   "d2r_s": "猎鹰剑"
+  },
+  "scm": {
+   "en": "Scimitar",
+   "trad": "彎刀",
+   "fix": "弯刀",
+   "d2r_s": "弯刀"
+  },
+  "9sm": {
+   "en": "Cutlass",
+   "trad": "微彎劍",
+   "fix": "微弯剑",
+   "d2r_s": "短弯刀"
+  },
+  "7sm": {
+   "en": "Ataghan",
+   "trad": "土耳其劍",
+   "fix": "土耳其剑",
+   "d2r_s": "叶根刀"
+  },
+  "sbr": {
+   "en": "Sabre",
+   "trad": "軍刀",
+   "fix": "军刀",
+   "d2r_s": "军刀"
+  },
+  "9sb": {
+   "en": "Shamshir",
+   "trad": "虛偽之刃",
+   "fix": "虚伪之刃",
+   "d2r_s": "沙漠弯刀"
+  },
+  "7sb": {
+   "en": "Elegant Blade",
+   "trad": "優雅之劍",
+   "fix": "优雅之剑",
+   "d2r_s": "精致剑"
+  },
+  "flc": {
+   "en": "Falchion",
+   "trad": "彎形大刀",
+   "fix": "弯形大刀",
+   "d2r_s": "弯刃剑"
+  },
+  "9fc": {
+   "en": "Tulwar",
+   "trad": "圓月彎刀",
+   "fix": "圆月弯刀",
+   "d2r_s": "塔瓦弯刀"
+  },
+  "7fc": {
+   "en": "Hydra Edge",
+   "trad": "九頭蛇刃",
+   "fix": "九头蛇刃",
+   "d2r_s": "九头蛇刃"
+  },
+  "crs": {
+   "en": "Crystal Sword",
+   "trad": "水晶劍",
+   "fix": "水晶剑",
+   "d2r_s": "水晶剑"
+  },
+  "9cr": {
+   "en": "Dimensional Blade",
+   "trad": "空間之刃",
+   "fix": "空间之刃",
+   "d2r_s": "次元之刃"
+  },
+  "7cr": {
+   "en": "Phase Blade",
+   "trad": "幻化之刃",
+   "fix": "幻化之刃",
+   "d2r_s": "相位之刃"
+  },
+  "bsd": {
+   "en": "Broad Sword",
+   "trad": "闊劍",
+   "fix": "阔剑",
+   "d2r_s": "阔剑"
+  },
+  "9bs": {
+   "en": "Battle Sword",
+   "trad": "戰鬥劍",
+   "fix": "战斗剑",
+   "d2r_s": "战斗剑"
+  },
+  "7bs": {
+   "en": "Conquest Sword",
+   "trad": "征服之劍",
+   "fix": "征服之剑",
+   "d2r_s": "征服剑"
+  },
+  "lsd": {
+   "en": "Long Sword",
+   "trad": "長劍",
+   "fix": "长剑",
+   "d2r_s": "长剑"
+  },
+  "9ls": {
+   "en": "Rune Sword",
+   "trad": "符文劍",
+   "fix": "符文剑",
+   "d2r_s": "符文剑"
+  },
+  "7ls": {
+   "en": "Cryptic Sword",
+   "trad": "神秘之劍",
+   "fix": "神秘之剑",
+   "d2r_s": "秘文剑"
+  },
+  "wsd": {
+   "en": "War Sword",
+   "trad": "巨戰之劍",
+   "fix": "巨战之剑",
+   "d2r_s": "战争剑"
+  },
+  "9wd": {
+   "en": "Ancient Sword",
+   "trad": "古代之劍",
+   "fix": "古代之剑",
+   "d2r_s": "古代剑"
+  },
+  "7wd": {
+   "en": "Mythical Sword",
+   "trad": "秘儀之劍",
+   "fix": "秘仪之剑",
+   "d2r_s": "神话剑"
+  },
+  "2hs": {
+   "en": "Two-handed Sword",
+   "trad": "雙手劍",
+   "fix": "双手剑",
+   "d2r_s": "双手剑"
+  },
+  "92h": {
+   "en": "Espandon",
+   "trad": "斬鐵劍",
+   "fix": "斩铁剑",
+   "d2r_s": "西铁大剑"
+  },
+  "72h": {
+   "en": "Legend Sword",
+   "trad": "傳說之劍",
+   "fix": "传说之剑",
+   "d2r_s": "传说剑"
+  },
+  "clm": {
+   "en": "Claymore",
+   "trad": "雙刃大刀",
+   "fix": "双刃大刀",
+   "d2r_s": "双手大剑"
+  },
+  "9cm": {
+   "en": "Dacian Falx",
+   "trad": "雙刃鐮",
+   "fix": "双刃镰",
+   "d2r_s": "达契亚镰剑"
+  },
+  "7cm": {
+   "en": "Highland Blade",
+   "trad": "高地之劍",
+   "fix": "高地之剑",
+   "d2r_s": "高地剑"
+  },
+  "gis": {
+   "en": "Giant Sword",
+   "trad": "大劍",
+   "fix": "大剑",
+   "d2r_s": "巨剑"
+  },
+  "9gs": {
+   "en": "Tusk Sword",
+   "trad": "長牙劍",
+   "fix": "长牙剑",
+   "d2r_s": "獠牙剑"
+  },
+  "7gs": {
+   "en": "Balrog Blade",
+   "trad": "炎魔之刃",
+   "fix": "炎魔之刃",
+   "d2r_s": "炎魔剑"
+  },
+  "bsw": {
+   "en": "Bastard Sword",
+   "trad": "巨劍",
+   "fix": "巨剑",
+   "d2r_s": "手半剑"
+  },
+  "9b9": {
+   "en": "Gothic Sword",
+   "trad": "哥德劍",
+   "fix": "哥德剑",
+   "d2r_s": "哥特剑"
+  },
+  "7b7": {
+   "en": "Champion Sword",
+   "trad": "冠軍之劍",
+   "fix": "冠军之剑",
+   "d2r_s": "冠军剑"
+  },
+  "flb": {
+   "en": "Flamberge",
+   "trad": "雙手飾劍",
+   "fix": "双手饰剑",
+   "d2r_s": "焰刃剑"
+  },
+  "9fb": {
+   "en": "Zweihander",
+   "trad": "瑞韓德之劍",
+   "fix": "瑞韩德之剑",
+   "d2r_s": "双手重剑"
+  },
+  "7fb": {
+   "en": "Colossus Sword",
+   "trad": "巨神之劍",
+   "fix": "巨神之剑",
+   "d2r_s": "巨神剑"
+  },
+  "gsd": {
+   "en": "Great Sword",
+   "trad": "卓越之劍",
+   "fix": "卓越之剑",
+   "d2r_s": "重剑"
+  },
+  "9gd": {
+   "en": "Executioner Sword",
+   "trad": "死刑之劍",
+   "fix": "死刑之剑",
+   "d2r_s": "行刑剑"
+  },
+  "7gd": {
+   "en": "Colossus Blade",
+   "trad": "巨神之刃",
+   "fix": "巨神之刃",
+   "d2r_s": "巨神刃"
+  },
+  "dgr": {
+   "en": "Dagger",
+   "trad": "匕首",
+   "fix": "匕首",
+   "d2r_s": "匕首"
+  },
+  "9dg": {
+   "en": "Poignard",
+   "trad": "銳匕",
+   "fix": "锐匕",
+   "d2r_s": "锐匕"
+  },
+  "7dg": {
+   "en": "Bone Knife",
+   "trad": "骸骨小刀",
+   "fix": "骸骨小刀",
+   "d2r_s": "骨刀"
+  },
+  "dir": {
+   "en": "Dirk",
+   "trad": "長匕首",
+   "fix": "长匕首",
+   "d2r_s": "长匕首"
+  },
+  "9di": {
+   "en": "Rondel",
+   "trad": "詩歌匕首",
+   "fix": "诗歌匕首",
+   "d2r_s": "袖匕"
+  },
+  "7di": {
+   "en": "Mithril Point",
+   "trad": "秘銀小刀",
+   "fix": "秘银小刀",
+   "d2r_s": "秘银刺"
+  },
+  "kri": {
+   "en": "Kris",
+   "trad": "波形刀",
+   "fix": "波形刀",
+   "d2r_s": "波刃剑"
+  },
+  "9kr": {
+   "en": "Cinquedeas",
+   "trad": "強波刀",
+   "fix": "强波刀",
+   "d2r_s": "五指短剑"
+  },
+  "7kr": {
+   "en": "Fanged Knife",
+   "trad": "齒緣小刀",
+   "fix": "齿缘小刀",
+   "d2r_s": "牙刃刀"
+  },
+  "bld": {
+   "en": "Blade",
+   "trad": "短刀",
+   "fix": "短刀",
+   "d2r_s": "短刃"
+  },
+  "9bl": {
+   "en": "<span class=\"d2-gray\">Stilleto</span><br>Stiletto",
+   "trad": "尖刃短刀<br>小劍",
+   "fix": "小剑",
+   "d2r_s": "小剑"
+  },
+  "7bl": {
+   "en": "Legend Spike",
+   "trad": "傳說尖刺",
+   "fix": "传说尖刺",
+   "d2r_s": "传说匕刺"
+  },
+  "tkf": {
+   "en": "Throwing Knife",
+   "trad": "飛刀",
+   "fix": "飞刀",
+   "d2r_s": "投掷小刀"
+  },
+  "9tk": {
+   "en": "Battle Dart",
+   "trad": "戰鬥飛鏢",
+   "fix": "战斗飞镖",
+   "d2r_s": "战斗镖"
+  },
+  "7tk": {
+   "en": "Flying Knife",
+   "trad": "飛刀",
+   "fix": "飞刀",
+   "d2r_s": "飞刀"
+  },
+  "tax": {
+   "en": "Throwing Axe",
+   "trad": "飛斧",
+   "fix": "飞斧",
+   "d2r_s": "投掷斧"
+  },
+  "9ta": {
+   "en": "Francisca",
+   "trad": "法蘭飛斧",
+   "fix": "法兰飞斧",
+   "d2r_s": "法兰飞斧"
+  },
+  "7ta": {
+   "en": "Flying Axe",
+   "trad": "飛斧",
+   "fix": "飞斧",
+   "d2r_s": "飞斧"
+  },
+  "bkf": {
+   "en": "Balanced Knife",
+   "trad": "平衡小刀",
+   "fix": "平衡小刀",
+   "d2r_s": "平衡飞刀"
+  },
+  "9bk": {
+   "en": "War Dart",
+   "trad": "巨戰飛鏢",
+   "fix": "巨战飞镖",
+   "d2r_s": "战镖"
+  },
+  "7bk": {
+   "en": "Winged Knife",
+   "trad": "翼刀",
+   "fix": "翼刀",
+   "d2r_s": "翼刀"
+  },
+  "bal": {
+   "en": "Balanced Axe",
+   "trad": "平衡斧",
+   "fix": "平衡斧",
+   "d2r_s": "平衡飞斧"
+  },
+  "9b8": {
+   "en": "Hurlbat",
+   "trad": "短戰戟",
+   "fix": "短战戟",
+   "d2r_s": "飞蝠斧"
+  },
+  "7b8": {
+   "en": "Winged Axe",
+   "trad": "翼斧",
+   "fix": "翼斧",
+   "d2r_s": "翼斧"
+  },
+  "jav": {
+   "en": "Javelin",
+   "trad": "標槍",
+   "fix": "标枪",
+   "d2r_s": "标枪"
+  },
+  "9ja": {
+   "en": "War Javelin",
+   "trad": "巨戰標槍",
+   "fix": "巨战标枪",
+   "d2r_s": "战争标枪"
+  },
+  "7ja": {
+   "en": "Hyperion Javelin",
+   "trad": "亥伯龍之槍",
+   "fix": "亥伯龙之枪",
+   "d2r_s": "亥伯龙标枪"
+  },
+  "pil": {
+   "en": "Pilum",
+   "trad": "短鏢槍",
+   "fix": "短标枪",
+   "d2r_s": "长标枪"
+  },
+  "9pi": {
+   "en": "Great Pilum",
+   "trad": "卓越標槍",
+   "fix": "卓越标枪",
+   "d2r_s": "重标枪"
+  },
+  "7pi": {
+   "en": "Stygian Pilum",
+   "trad": "冥河標槍",
+   "fix": "冥河标枪",
+   "d2r_s": "地狱长标枪"
+  },
+  "ssp": {
+   "en": "Short Spear",
+   "trad": "短矛",
+   "fix": "短矛",
+   "d2r_s": "短矛"
+  },
+  "9s9": {
+   "en": "Simbilan",
+   "trad": "銳矛",
+   "fix": "锐矛",
+   "d2r_s": "重梭镖"
+  },
+  "7s7": {
+   "en": "Balrog Spear",
+   "trad": "炎魔長矛",
+   "fix": "炎魔长矛",
+   "d2r_s": "炎魔矛"
+  },
+  "glv": {
+   "en": "Glaive",
+   "trad": "大長刀",
+   "fix": "大长刀",
+   "d2r_s": "梭镖"
+  },
+  "9gl": {
+   "en": "Spiculum",
+   "trad": "闊針長矛",
+   "fix": "阔针长矛",
+   "d2r_s": "斧刃戟枪"
+  },
+  "7gl": {
+   "en": "Ghost Glaive",
+   "trad": "鬼魂尖槍",
+   "fix": "鬼魂尖枪",
+   "d2r_s": "幽灵梭戟"
+  },
+  "tsp": {
+   "en": "Throwing Spear",
+   "trad": "飛矛",
+   "fix": "飞矛",
+   "d2r_s": "投枪"
+  },
+  "9ts": {
+   "en": "Harpoon",
+   "trad": "魚叉",
+   "fix": "鱼叉",
+   "d2r_s": "鱼叉"
+  },
+  "7ts": {
+   "en": "Winged Harpoon",
+   "trad": "翼魚叉",
+   "fix": "翼鱼叉",
+   "d2r_s": "双股叉"
+  },
+  "spr": {
+   "en": "Spear",
+   "trad": "長矛",
+   "fix": "长矛",
+   "d2r_s": "矛"
+  },
+  "9sr": {
+   "en": "War Spear",
+   "trad": "巨戰長矛",
+   "fix": "巨战长矛",
+   "d2r_s": "战矛"
+  },
+  "7sr": {
+   "en": "Hyperion Spear",
+   "trad": "亥伯龍之矛",
+   "fix": "亥伯龙之矛",
+   "d2r_s": "亥伯龙矛"
+  },
+  "tri": {
+   "en": "Trident",
+   "trad": "三叉戟",
+   "fix": "三叉戟",
+   "d2r_s": "三叉戟"
+  },
+  "9tr": {
+   "en": "Fuscina",
+   "trad": "魔鬼之叉",
+   "fix": "魔鬼之叉",
+   "d2r_s": "叉戟枪"
+  },
+  "7tr": {
+   "en": "Stygian Pike",
+   "trad": "冥河之槍",
+   "fix": "冥河之枪",
+   "d2r_s": "地狱长枪"
+  },
+  "brn": {
+   "en": "Brandistock",
+   "trad": "叉",
+   "fix": "叉",
+   "d2r_s": "羽剑杖"
+  },
+  "9br": {
+   "en": "War Fork",
+   "trad": "巨戰之叉",
+   "fix": "巨战之叉",
+   "d2r_s": "战叉"
+  },
+  "7br": {
+   "en": "Mancatcher",
+   "trad": "刺人槍",
+   "fix": "刺人枪",
+   "d2r_s": "捕人叉"
+  },
+  "spt": {
+   "en": "Spetum",
+   "trad": "大戰戟",
+   "fix": "大战戟",
+   "d2r_s": "镋钯"
+  },
+  "9st": {
+   "en": "Yari",
+   "trad": "三叉長槍",
+   "fix": "三叉长枪",
+   "d2r_s": "长枪"
+  },
+  "7st": {
+   "en": "Ghost Spear",
+   "trad": "鬼魂之矛",
+   "fix": "鬼魂之矛",
+   "d2r_s": "幽灵矛"
+  },
+  "pik": {
+   "en": "Pike",
+   "trad": "矛",
+   "fix": "矛",
+   "d2r_s": "尖枪"
+  },
+  "9p9": {
+   "en": "Lance",
+   "trad": "長槍",
+   "fix": "长枪",
+   "d2r_s": "骑枪"
+  },
+  "7p7": {
+   "en": "War Pike",
+   "trad": "戰槍",
+   "fix": "战枪",
+   "d2r_s": "战争长枪"
+  },
+  "bar": {
+   "en": "Bardiche",
+   "trad": "大砍刀",
+   "fix": "大砍刀",
+   "d2r_s": "大砍刀"
+  },
+  "9b7": {
+   "en": "Lochaber Axe",
+   "trad": "羅佳柏斧",
+   "fix": "罗佳柏斧",
+   "d2r_s": "罗佳伯长斧"
+  },
+  "7o7": {
+   "en": "Ogre Axe",
+   "trad": "食人魔之斧",
+   "fix": "食人魔之斧",
+   "d2r_s": "食人魔斧"
+  },
+  "vou": {
+   "en": "Voulge",
+   "trad": "鉤鐮槍",
+   "fix": "钩镰枪",
+   "d2r_s": "斧戟"
+  },
+  "9vo": {
+   "en": "Bill",
+   "trad": "比爾長刀",
+   "fix": "比尔长刀",
+   "d2r_s": "钩镰枪"
+  },
+  "7vo": {
+   "en": "Colossus Voulge",
+   "trad": "巨神之斧",
+   "fix": "巨神之斧",
+   "d2r_s": "巨神戟"
+  },
+  "scy": {
+   "en": "Scythe",
+   "trad": "鐮刀",
+   "fix": "镰刀",
+   "d2r_s": "巨镰"
+  },
+  "9s8": {
+   "en": "Battle Scythe",
+   "trad": "戰鬥鐮刀",
+   "fix": "战斗镰刀",
+   "d2r_s": "战斗镰刀"
+  },
+  "7s8": {
+   "en": "Thresher",
+   "trad": "銳利之斧",
+   "fix": "锐利之斧",
+   "d2r_s": "砍斧"
+  },
+  "pax": {
+   "en": "Poleaxe",
+   "trad": "長柄戰斧",
+   "fix": "长柄战斧",
+   "d2r_s": "长柄斧"
+  },
+  "9pa": {
+   "en": "Partizan",
+   "trad": "戰戟",
+   "fix": "战戟",
+   "d2r_s": "双刃矛戟"
+  },
+  "7pa": {
+   "en": "Cryptic Axe",
+   "trad": "神秘之斧",
+   "fix": "神秘之斧",
+   "d2r_s": "秘文斧"
+  },
+  "hal": {
+   "en": "Halberd",
+   "trad": "長戟",
+   "fix": "长戟",
+   "d2r_s": "斧枪"
+  },
+  "9h9": {
+   "en": "Bec-de-Corbin",
+   "trad": "雙鋒戰戟",
+   "fix": "双锋战戟",
+   "d2r_s": "鸦喙锤戟"
+  },
+  "7h7": {
+   "en": "Great Poleaxe",
+   "trad": "巨長斧",
+   "fix": "巨长斧",
+   "d2r_s": "重长柄斧"
+  },
+  "wsc": {
+   "en": "War Scythe",
+   "trad": "巨戰鐮刀",
+   "fix": "巨战镰刀",
+   "d2r_s": "战争镰刀"
+  },
+  "9wc": {
+   "en": "Grim Scythe",
+   "trad": "殘酷鐮刀",
+   "fix": "残酷镰刀",
+   "d2r_s": "恐怖镰刀"
+  },
+  "7wc": {
+   "en": "Giant Thresher",
+   "trad": "鮫尾巨斧",
+   "fix": "鲛尾巨斧",
+   "d2r_s": "巨型砍斧"
+  },
+  "sbw": {
+   "en": "Short Bow",
+   "trad": "短弓",
+   "fix": "短弓",
+   "d2r_s": "短弓"
+  },
+  "8sb": {
+   "en": "Edge Bow",
+   "trad": "鋒銳之弓",
+   "fix": "锋锐之弓",
+   "d2r_s": "刃弓"
+  },
+  "6sb": {
+   "en": "Spider Bow",
+   "trad": "蜘蛛弓",
+   "fix": "蜘蛛弓",
+   "d2r_s": "蜘蛛弓"
+  },
+  "hbw": {
+   "en": "Hunter's Bow",
+   "trad": "獵弓",
+   "fix": "猎弓",
+   "d2r_s": "猎弓"
+  },
+  "8hb": {
+   "en": "Razor Bow",
+   "trad": "剃刀之弓",
+   "fix": "剃刀之弓",
+   "d2r_s": "刀锋弓"
+  },
+  "6hb": {
+   "en": "Blade Bow",
+   "trad": "刀鋒弓",
+   "fix": "刀锋弓",
+   "d2r_s": "利刃弓"
+  },
+  "lbw": {
+   "en": "Long Bow",
+   "trad": "長弓",
+   "fix": "长弓",
+   "d2r_s": "长弓"
+  },
+  "8lb": {
+   "en": "Cedar Bow",
+   "trad": "杉木弓",
+   "fix": "杉木弓",
+   "d2r_s": "雪松弓"
+  },
+  "6lb": {
+   "en": "Shadow Bow",
+   "trad": "陰影弓",
+   "fix": "阴影弓",
+   "d2r_s": "暗影弓"
+  },
+  "cbw": {
+   "en": "Composite Bow",
+   "trad": "組合弓",
+   "fix": "组合弓",
+   "d2r_s": "复合弓"
+  },
+  "8cb": {
+   "en": "Double Bow",
+   "trad": "雙弓",
+   "fix": "双弓",
+   "d2r_s": "双臂弓"
+  },
+  "6cb": {
+   "en": "Great Bow",
+   "trad": "巨弓",
+   "fix": "巨弓",
+   "d2r_s": "重弓"
+  },
+  "sbb": {
+   "en": "Short Battle Bow",
+   "trad": "短戰鬥弓",
+   "fix": "短战斗弓",
+   "d2r_s": "短战弓"
+  },
+  "8s8": {
+   "en": "Short Siege Bow",
+   "trad": "短攻城弓",
+   "fix": "短攻城弓",
+   "d2r_s": "小型攻城弓"
+  },
+  "6s7": {
+   "en": "Diamond Bow",
+   "trad": "鑽石弓",
+   "fix": "钻石弓",
+   "d2r_s": "钻石弓"
+  },
+  "lbb": {
+   "en": "Long Battle Bow",
+   "trad": "長戰鬥弓",
+   "fix": "长战斗弓",
+   "d2r_s": "长战弓"
+  },
+  "8l8": {
+   "en": "Large Siege Bow",
+   "trad": "長攻城弓",
+   "fix": "长攻城弓",
+   "d2r_s": "大型攻城弓"
+  },
+  "6l7": {
+   "en": "Crusader Bow",
+   "trad": "十字軍之弓",
+   "fix": "十字军之弓",
+   "d2r_s": "十字军弓"
+  },
+  "swb": {
+   "en": "Short War Bow",
+   "trad": "短巨戰弓",
+   "fix": "短巨战弓",
+   "d2r_s": "短战争弓"
+  },
+  "8sw": {
+   "en": "Rune Bow",
+   "trad": "符文之弓",
+   "fix": "符文之弓",
+   "d2r_s": "符文弓"
+  },
+  "6sw": {
+   "en": "Ward Bow",
+   "trad": "庇護之弓",
+   "fix": "庇护之弓",
+   "d2r_s": "防护弓"
+  },
+  "lwb": {
+   "en": "Long War Bow",
+   "trad": "長巨戰弓",
+   "fix": "长巨战弓",
+   "d2r_s": "长战争弓"
+  },
+  "8lw": {
+   "en": "Gothic Bow",
+   "trad": "哥德弓",
+   "fix": "哥德弓",
+   "d2r_s": "哥特弓"
+  },
+  "6lw": {
+   "en": "Hydra Bow",
+   "trad": "九頭蛇弓",
+   "fix": "九头蛇弓",
+   "d2r_s": "九头蛇弓"
+  },
+  "lxb": {
+   "en": "Light Crossbow",
+   "trad": "輕十字弓",
+   "fix": "轻十字弓",
+   "d2r_s": "轻弩"
+  },
+  "8lx": {
+   "en": "Arbalest",
+   "trad": "石弓",
+   "fix": "石弓",
+   "d2r_s": "巨弩"
+  },
+  "6lx": {
+   "en": "Pellet Bow",
+   "trad": "彈丸弓",
+   "fix": "弹丸弓",
+   "d2r_s": "弹丸弓"
+  },
+  "mxb": {
+   "en": "Crossbow",
+   "trad": "十字弓",
+   "fix": "十字弓",
+   "d2r_s": "弩"
+  },
+  "8mx": {
+   "en": "Siege Crossbow",
+   "trad": "攻城十字弓",
+   "fix": "攻城十字弓",
+   "d2r_s": "攻城弩"
+  },
+  "6mx": {
+   "en": "Gorgon Crossbow",
+   "trad": "蛇魔女十字弓",
+   "fix": "蛇魔女十字弓",
+   "d2r_s": "蛇发女妖弩"
+  },
+  "hxb": {
+   "en": "Heavy Crossbow",
+   "trad": "重十字弓",
+   "fix": "重十字弓",
+   "d2r_s": "重弩"
+  },
+  "8hx": {
+   "en": "Ballista",
+   "trad": "弩弓",
+   "fix": "弩弓",
+   "d2r_s": "弩炮"
+  },
+  "6hx": {
+   "en": "Colossus Crossbow",
+   "trad": "巨神十字弓",
+   "fix": "巨神十字弓",
+   "d2r_s": "巨神弩"
+  },
+  "rxb": {
+   "en": "Repeating Crossbow",
+   "trad": "連射十字弓",
+   "fix": "连射十字弓",
+   "d2r_s": "连击弩"
+  },
+  "8rx": {
+   "en": "Chu-Ko-Nu",
+   "trad": "巧工弩",
+   "fix": "巧工弩",
+   "d2r_s": "巧工弩"
+  },
+  "6rx": {
+   "en": "Demon Crossbow",
+   "trad": "惡魔十字弓",
+   "fix": "恶魔十字弓",
+   "d2r_s": "恶魔弩"
+  },
+  "sst": {
+   "en": "Short Staff",
+   "trad": "短棍",
+   "fix": "短棍",
+   "d2r_s": "短杖"
+  },
+  "8ss": {
+   "en": "Jo Staff",
+   "trad": "喬木棒",
+   "fix": "乔木棒",
+   "d2r_s": "杖棍"
+  },
+  "6ss": {
+   "en": "Walking Stick",
+   "trad": "手杖",
+   "fix": "手杖",
+   "d2r_s": "手杖"
+  },
+  "lst": {
+   "en": "Long Staff",
+   "trad": "長棍",
+   "fix": "长棍",
+   "d2r_s": "长杖"
+  },
+  "8ls": {
+   "en": "Quarterstaff",
+   "trad": "六尺棍",
+   "fix": "六尺棍",
+   "d2r_s": "铁头棒"
+  },
+  "6ls": {
+   "en": "Stalagmite",
+   "trad": "鐘乳石之杖",
+   "fix": "钟乳石之杖",
+   "d2r_s": "石笋杖"
+  },
+  "cst": {
+   "en": "Gnarled Staff",
+   "trad": "多節棍",
+   "fix": "多节棍",
+   "d2r_s": "多节杖"
+  },
+  "8cs": {
+   "en": "Cedar Staff",
+   "trad": "杉木之棍",
+   "fix": "杉木之棍",
+   "d2r_s": "雪松杖"
+  },
+  "6cs": {
+   "en": "Elder Staff",
+   "trad": "長老之杖",
+   "fix": "长老之杖",
+   "d2r_s": "接骨木杖"
+  },
+  "bst": {
+   "en": "Battle Staff",
+   "trad": "戰鬥法杖",
+   "fix": "战斗法杖",
+   "d2r_s": "战斗杖"
+  },
+  "8bs": {
+   "en": "Gothic Staff",
+   "trad": "哥德之棍",
+   "fix": "哥德之棍",
+   "d2r_s": "哥特杖"
+  },
+  "6bs": {
+   "en": "Shillelagh",
+   "trad": "樹皮之杖",
+   "fix": "树皮之杖",
+   "d2r_s": "橡木棍"
+  },
+  "wst": {
+   "en": "War Staff",
+   "trad": "巨戰法杖",
+   "fix": "巨战法杖",
+   "d2r_s": "战杖"
+  },
+  "8ws": {
+   "en": "Rune Staff",
+   "trad": "符文之棍",
+   "fix": "符文之棍",
+   "d2r_s": "符文杖"
+  },
+  "6ws": {
+   "en": "Archon Staff",
+   "trad": "執政官之杖",
+   "fix": "执政官之杖",
+   "d2r_s": "统治者之杖"
+  },
+  "wnd": {
+   "en": "Wand",
+   "trad": "法杖",
+   "fix": "法杖",
+   "d2r_s": "魔杖"
+  },
+  "9wn": {
+   "en": "Burnt Wand",
+   "trad": "燒焦之杖",
+   "fix": "烧焦之杖",
+   "d2r_s": "烧制魔杖"
+  },
+  "7wn": {
+   "en": "Polished Wand",
+   "trad": "洗鍊法杖",
+   "fix": "洗炼法杖",
+   "d2r_s": "洗练魔杖"
+  },
+  "ywn": {
+   "en": "Yew Wand",
+   "trad": "紫杉之杖",
+   "fix": "紫杉之杖",
+   "d2r_s": "紫杉魔杖"
+  },
+  "9yw": {
+   "en": "Petrified Wand",
+   "trad": "淨化之杖",
+   "fix": "净化之杖",
+   "d2r_s": "石化魔杖"
+  },
+  "7yw": {
+   "en": "Ghost Wand",
+   "trad": "鬼魂法杖",
+   "fix": "鬼魂法杖",
+   "d2r_s": "幽灵魔杖"
+  },
+  "bwn": {
+   "en": "Bone Wand",
+   "trad": "骨杖",
+   "fix": "骨杖",
+   "d2r_s": "白骨魔杖"
+  },
+  "9bw": {
+   "en": "Tomb Wand",
+   "trad": "古墓之杖",
+   "fix": "古墓之杖",
+   "d2r_s": "随葬魔杖"
+  },
+  "7bw": {
+   "en": "Lich Wand",
+   "trad": "巫妖法杖",
+   "fix": "巫妖法杖",
+   "d2r_s": "尸妖魔杖"
+  },
+  "gwn": {
+   "en": "Grim Wand",
+   "trad": "殘酷之杖",
+   "fix": "残酷之杖",
+   "d2r_s": "恐怖魔杖"
+  },
+  "9gw": {
+   "en": "Grave Wand",
+   "trad": "墓地之杖",
+   "fix": "墓地之杖",
+   "d2r_s": "陪葬魔杖"
+  },
+  "7gw": {
+   "en": "Unearthed Wand",
+   "trad": "破隱法杖",
+   "fix": "破隐法杖",
+   "d2r_s": "出土魔杖"
+  },
+  "scp": {
+   "en": "Scepter",
+   "trad": "權杖",
+   "fix": "权杖",
+   "d2r_s": "权杖"
+  },
+  "9sc": {
+   "en": "Rune Scepter",
+   "trad": "符文權杖",
+   "fix": "符文权杖",
+   "d2r_s": "符文权杖"
+  },
+  "7sc": {
+   "en": "Mighty Scepter",
+   "trad": "強威權杖",
+   "fix": "强威权杖",
+   "d2r_s": "强威权杖"
+  },
+  "gsc": {
+   "en": "Grand Scepter",
+   "trad": "雄偉權杖",
+   "fix": "雄伟权杖",
+   "d2r_s": "大权杖"
+  },
+  "9qs": {
+   "en": "Holy Water Sprinkler",
+   "trad": "聖水噴杖",
+   "fix": "圣水喷杖",
+   "d2r_s": "圣水礼杖"
+  },
+  "7qs": {
+   "en": "Seraph Rod",
+   "trad": "熾天使法杖",
+   "fix": "炽天使法杖",
+   "d2r_s": "炽天使杖"
+  },
+  "wsp": {
+   "en": "War Scepter",
+   "trad": "巨戰權杖",
+   "fix": "巨战权杖",
+   "d2r_s": "战争权杖"
+  },
+  "9ws": {
+   "en": "Divine Scepter",
+   "trad": "神屬權杖",
+   "fix": "神属权杖",
+   "d2r_s": "神圣权杖"
+  },
+  "7ws": {
+   "en": "Caduceus",
+   "trad": "神使之杖",
+   "fix": "神使之杖",
+   "d2r_s": "使者杖"
+  },
+  "ktr": {
+   "en": "Katar",
+   "trad": "拳劍",
+   "fix": "拳剑",
+   "d2r_s": "拳剑"
+  },
+  "9ar": {
+   "en": "Quhab",
+   "trad": "格鬥刃",
+   "fix": "格斗刃",
+   "d2r_s": "拳刃"
+  },
+  "7ar": {
+   "en": "Suwayyah",
+   "trad": "近身刃",
+   "fix": "近身刃",
+   "d2r_s": "手推剑"
+  },
+  "wrb": {
+   "en": "Wrist Blade",
+   "trad": "腕刃",
+   "fix": "腕刃",
+   "d2r_s": "腕刃"
+  },
+  "9wb": {
+   "en": "Wrist Spike",
+   "trad": "腕刺",
+   "fix": "腕刺",
+   "d2r_s": "腕刺"
+  },
+  "7wb": {
+   "en": "Wrist Sword",
+   "trad": "腕劍",
+   "fix": "腕剑",
+   "d2r_s": "腕剑"
+  },
+  "axf": {
+   "en": "Hatchet Hands",
+   "trad": "斧手",
+   "fix": "斧手",
+   "d2r_s": "斧刃拳套"
+  },
+  "9xf": {
+   "en": "Fascia",
+   "trad": "格鬥爪",
+   "fix": "格斗爪",
+   "d2r_s": "刀刃拳套"
+  },
+  "7xf": {
+   "en": "War Fist",
+   "trad": "戰拳",
+   "fix": "战拳",
+   "d2r_s": "战争拳套"
+  },
+  "ces": {
+   "en": "Cestus",
+   "trad": "腰刀",
+   "fix": "腰刀",
+   "d2r_s": "缠刃拳套"
+  },
+  "9cs": {
+   "en": "Hand Scythe",
+   "trad": "手鐮",
+   "fix": "手镰",
+   "d2r_s": "手镰"
+  },
+  "7cs": {
+   "en": "Battle Cestus",
+   "trad": "鬥腰刀",
+   "fix": "斗腰刀",
+   "d2r_s": "战斗缠刃拳套"
+  },
+  "clw": {
+   "en": "Claws",
+   "trad": "爪",
+   "fix": "爪",
+   "d2r_s": "手爪刀"
+  },
+  "9lw": {
+   "en": "Greater Claws",
+   "trad": "巨爪",
+   "fix": "巨爪",
+   "d2r_s": "大型手爪刀"
+  },
+  "7lw": {
+   "en": "Feral Claws",
+   "trad": "猛禽爪",
+   "fix": "猛禽爪",
+   "d2r_s": "狂野钩爪"
+  },
+  "btl": {
+   "en": "Blade Talons",
+   "trad": "刃爪",
+   "fix": "刃爪",
+   "d2r_s": "刃爪"
+  },
+  "9tw": {
+   "en": "Greater Talons",
+   "trad": "巨鷹爪",
+   "fix": "巨鹰爪",
+   "d2r_s": "大型刃爪"
+  },
+  "7tw": {
+   "en": "Runic Talons",
+   "trad": "符紋爪",
+   "fix": "符纹爪",
+   "d2r_s": "符文刃爪"
+  },
+  "skr": {
+   "en": "Scissors Katar",
+   "trad": "剪咬刃",
+   "fix": "剪咬刃",
+   "d2r_s": "剪咬拳剑"
+  },
+  "9qr": {
+   "en": "Scissors Quhab",
+   "trad": "格鬥剪",
+   "fix": "格斗剪",
+   "d2r_s": "剪咬拳刃"
+  },
+  "7qr": {
+   "en": "Scissors Suwayyah",
+   "trad": "近身剪",
+   "fix": "近身剪",
+   "d2r_s": "剪咬手推剑"
+  },
+  "ob1": {
+   "en": "Eagle Orb",
+   "trad": "鷹之法珠",
+   "fix": "鹰之法珠",
+   "d2r_s": "鹰眼法珠"
+  },
+  "ob6": {
+   "en": "Glowing Orb",
+   "trad": "靈光法珠",
+   "fix": "灵光法珠",
+   "d2r_s": "闪光宝珠"
+  },
+  "obb": {
+   "en": "Heavenly Stone",
+   "trad": "天堂之石",
+   "fix": "天堂之石",
+   "d2r_s": "天界石"
+  },
+  "ob2": {
+   "en": "Sacred Globe",
+   "trad": "神聖天球",
+   "fix": "神圣天球",
+   "d2r_s": "圣洁之球"
+  },
+  "ob7": {
+   "en": "Crystalline Globe",
+   "trad": "水晶天球",
+   "fix": "水晶天球",
+   "d2r_s": "水晶之球"
+  },
+  "obc": {
+   "en": "Eldritch Orb",
+   "trad": "怪異之球",
+   "fix": "怪异之球",
+   "d2r_s": "怪异法珠"
+  },
+  "ob3": {
+   "en": "Smoked Sphere",
+   "trad": "攏煙之球",
+   "fix": "拢烟之球",
+   "d2r_s": "烟熏法球"
+  },
+  "ob8": {
+   "en": "Cloudy Sphere",
+   "trad": "雲霧之球",
+   "fix": "云雾之球",
+   "d2r_s": "云雾法球"
+  },
+  "obd": {
+   "en": "Demon Heart",
+   "trad": "惡魔之心",
+   "fix": "恶魔之心",
+   "d2r_s": "恶魔之心"
+  },
+  "ob4": {
+   "en": "Clasped Orb",
+   "trad": "握扣法珠",
+   "fix": "握扣法珠",
+   "d2r_s": "握扣法珠"
+  },
+  "ob9": {
+   "en": "Sparkling Ball",
+   "trad": "閃耀之球",
+   "fix": "闪耀之球",
+   "d2r_s": "闪光之球"
+  },
+  "obe": {
+   "en": "Vortex Orb",
+   "trad": "漩渦球",
+   "fix": "漩涡球",
+   "d2r_s": "旋云宝珠"
+  },
+  "ob5": {
+   "en": "Jared's Stone",
+   "trad": "傑瑞德之石",
+   "fix": "杰瑞德之石",
+   "d2r_s": "杰瑞德之石"
+  },
+  "oba": {
+   "en": "Swirling Crystal",
+   "trad": "渦流水晶",
+   "fix": "涡流水晶",
+   "d2r_s": "漩涡水晶"
+  },
+  "obf": {
+   "en": "Dimensional Shard",
+   "trad": "次元碎片",
+   "fix": "次元碎片",
+   "d2r_s": "次元碎片"
+  },
+  "am1": {
+   "en": "Stag Bow",
+   "trad": "男性之弓",
+   "fix": "男性之弓",
+   "d2r_s": "猎鹿弓"
+  },
+  "am6": {
+   "en": "Ashwood Bow",
+   "trad": "灰木之弓",
+   "fix": "灰木之弓",
+   "d2r_s": "白蜡木弓"
+  },
+  "amb": {
+   "en": "Matriarchal Bow",
+   "trad": "女族長之弓",
+   "fix": "女族长之弓",
+   "d2r_s": "女族长弓"
+  },
+  "am2": {
+   "en": "Reflex Bow",
+   "trad": "反射之弓",
+   "fix": "反射之弓",
+   "d2r_s": "双曲弓"
+  },
+  "am7": {
+   "en": "Ceremonial Bow",
+   "trad": "祭典之弓",
+   "fix": "祭典之弓",
+   "d2r_s": "仪式弓"
+  },
+  "amc": {
+   "en": "Grand Matron Bow",
+   "trad": "大院長之弓",
+   "fix": "大院长之弓",
+   "d2r_s": "仕女长之弓"
+  },
+  "am3": {
+   "en": "Maiden Spear",
+   "trad": "女士之矛",
+   "fix": "女士之矛",
+   "d2r_s": "处子长矛"
+  },
+  "am8": {
+   "en": "Ceremonial Spear",
+   "trad": "祭典之矛",
+   "fix": "祭典之矛",
+   "d2r_s": "仪式矛"
+  },
+  "amd": {
+   "en": "Matriarchal Spear",
+   "trad": "女族長之矛",
+   "fix": "女族长之矛",
+   "d2r_s": "女族长矛"
+  },
+  "am4": {
+   "en": "Maiden Pike",
+   "trad": "女士長矛",
+   "fix": "女士长矛",
+   "d2r_s": "处子长枪"
+  },
+  "am9": {
+   "en": "Ceremonial Pike",
+   "trad": "祭典之長矛",
+   "fix": "祭典之长矛",
+   "d2r_s": "仪式长枪"
+  },
+  "ame": {
+   "en": "Matriarchal Pike",
+   "trad": "女族長之長矛",
+   "fix": "女族长之长矛",
+   "d2r_s": "女族长尖枪"
+  },
+  "am5": {
+   "en": "Maiden Javelin",
+   "trad": "女士鏢槍",
+   "fix": "女士标枪",
+   "d2r_s": "处子标枪"
+  },
+  "ama": {
+   "en": "Ceremonial Javelin",
+   "trad": "祭典之鏢槍",
+   "fix": "祭典之标枪",
+   "d2r_s": "仪式标枪"
+  },
+  "amf": {
+   "en": "Matriarchal Javelin",
+   "trad": "女族長之鏢槍",
+   "fix": "女族长之标枪",
+   "d2r_s": "女族长标枪"
+  },
+  "leg": {
+   "en": "<span class=\"d2-white\">維特之腳",
+   "trad": "维特之脚",
+   "fix": "維特的腿",
+   "d2r_s": "维特的假腿"
+  },
+  "tsc": {
+   "en": "Scroll of Town Portal",
+   "trad": "城鎮傳送卷軸",
+   "fix": "城镇传送卷轴",
+   "d2r_s": "城镇传送卷轴"
+  },
+  "isc": {
+   "en": "Scroll of Identify",
+   "trad": "辨視卷軸",
+   "fix": "辨视卷轴",
+   "d2r_s": "鉴定卷轴"
+  },
+  "tbk": {
+   "en": "Tome of Town Portal",
+   "trad": "城鎮傳送之書",
+   "fix": "城镇传送之书",
+   "d2r_s": "城镇传送之书"
+  },
+  "ibk": {
+   "en": "Tome of Identify",
+   "trad": "辨視之書",
+   "fix": "辨视之书",
+   "d2r_s": "鉴定之书"
+  },
+  "key": {
+   "en": "Key",
+   "trad": "鑰匙",
+   "fix": "钥匙",
+   "d2r_s": "钥匙"
+  },
+  "ear": {
+   "en": "Ear",
+   "trad": "耳",
+   "fix": "耳",
+   "d2r_s": "耳朵"
+  },
+  "std": {
+   "en": "Standard of Heroes",
+   "trad": "英雄旗幟",
+   "fix": "英雄旗帜",
+   "d2r_s": "英雄的旗帜"
+  },
+  "cm1": {
+   "en": "Small Charm",
+   "trad": "小護身符",
+   "fix": "小护身符",
+   "d2r_s": "小型神符"
+  },
+  "cm2": {
+   "en": "Large Charm",
+   "trad": "大型護身符",
+   "fix": "大型护身符",
+   "d2r_s": "大型神符"
+  },
+  "cm3": {
+   "en": "Grand Charm",
+   "trad": "超大型護身符",
+   "fix": "超大型护身符",
+   "d2r_s": "巨型神符"
+  },
+  "jew": {
+   "en": "Jewel",
+   "trad": "寶石",
+   "fix": "珠宝",
+   "d2r_s": "珠宝"
+  },
+  "rin": {
+   "en": "Ring",
+   "trad": "戒指",
+   "fix": "戒指",
+   "d2r_s": "戒指"
+  },
+  "amu": {
+   "en": "Amulet",
+   "trad": "護身符",
+   "fix": "项链",
+   "d2r_s": "护符"
+  },
+  "aqv": {
+   "en": "Arrows",
+   "trad": "箭矢",
+   "fix": "箭矢",
+   "d2r_s": "箭矢"
+  },
+  "cqv": {
+   "en": "Bolts",
+   "trad": "十字弓彈",
+   "fix": "十字弓弹",
+   "d2r_s": "弩矢"
+  },
+  "gcv": {
+   "en": "Chipped Amethyst",
+   "trad": "碎裂的紫寶石",
+   "fix": "碎裂的紫宝石",
+   "d2r_s": "碎裂的紫宝石"
+  },
+  "gcy": {
+   "en": "Chipped Topaz",
+   "trad": "碎裂的黃寶石",
+   "fix": "碎裂的黄宝石",
+   "d2r_s": "碎裂的黄宝石"
+  },
+  "gcb": {
+   "en": "Chipped Sapphire",
+   "trad": "碎裂的藍寶石",
+   "fix": "碎裂的蓝宝石",
+   "d2r_s": "碎裂的蓝宝石"
+  },
+  "gcg": {
+   "en": "Chipped Emerald",
+   "trad": "碎裂的綠寶石",
+   "fix": "碎裂的绿宝石",
+   "d2r_s": "碎裂的绿宝石"
+  },
+  "gcr": {
+   "en": "Chipped Ruby",
+   "trad": "碎裂的紅寶石",
+   "fix": "碎裂的红宝石",
+   "d2r_s": "碎裂的红宝石"
+  },
+  "gcw": {
+   "en": "Chipped Diamond",
+   "trad": "碎裂的鑽石",
+   "fix": "碎裂的钻石",
+   "d2r_s": "碎裂的钻石"
+  },
+  "skc": {
+   "en": "Chipped Skull",
+   "trad": "碎裂的骷髏",
+   "fix": "碎裂的骷髅",
+   "d2r_s": "碎裂的头骨宝石"
+  },
+  "gfv": {
+   "en": "Flawed Amethyst",
+   "trad": "裂開的紫寶石",
+   "fix": "裂开的紫宝石",
+   "d2r_s": "有瑕疵的紫宝石"
+  },
+  "gfy": {
+   "en": "Flawed Topaz",
+   "trad": "裂開的黃寶石",
+   "fix": "裂开的黄宝石",
+   "d2r_s": "有瑕疵的黄宝石"
+  },
+  "gfb": {
+   "en": "Flawed Sapphire",
+   "trad": "裂開的藍寶石",
+   "fix": "裂开的蓝宝石",
+   "d2r_s": "有瑕疵的蓝宝石"
+  },
+  "gfg": {
+   "en": "Flawed Emerald",
+   "trad": "裂開的綠寶石",
+   "fix": "裂开的绿宝石",
+   "d2r_s": "有瑕疵的绿宝石"
+  },
+  "gfr": {
+   "en": "Flawed Ruby",
+   "trad": "裂開的紅寶石",
+   "fix": "裂开的红宝石",
+   "d2r_s": "有瑕疵的红宝石"
+  },
+  "gfw": {
+   "en": "Flawed Diamond",
+   "trad": "裂開的鑽石",
+   "fix": "裂开的钻石",
+   "d2r_s": "有瑕疵的钻石"
+  },
+  "skf": {
+   "en": "Flawed Skull",
+   "trad": "裂開的骷髏",
+   "fix": "裂开的骷髅",
+   "d2r_s": "有瑕疵的头骨宝石"
+  },
+  "gsv": {
+   "en": "Amethyst",
+   "trad": "紫寶石",
+   "fix": "紫宝石",
+   "d2r_s": "紫宝石"
+  },
+  "gsy": {
+   "en": "Topaz",
+   "trad": "黃寶石",
+   "fix": "黄宝石",
+   "d2r_s": "黄宝石"
+  },
+  "gsb": {
+   "en": "Sapphire",
+   "trad": "藍寶石",
+   "fix": "蓝宝石",
+   "d2r_s": "蓝宝石"
+  },
+  "gsg": {
+   "en": "Emerald",
+   "trad": "綠寶石",
+   "fix": "绿宝石",
+   "d2r_s": "绿宝石"
+  },
+  "gsr": {
+   "en": "Ruby",
+   "trad": "紅寶石",
+   "fix": "红宝石",
+   "d2r_s": "红宝石"
+  },
+  "gsw": {
+   "en": "Diamond",
+   "trad": "鑽石",
+   "fix": "钻石",
+   "d2r_s": "钻石"
+  },
+  "sku": {
+   "en": "Skull",
+   "trad": "骷髏",
+   "fix": "骷髅",
+   "d2r_s": "头骨宝石"
+  },
+  "gzv": {
+   "en": "Flawless Amethyst",
+   "trad": "無暇疵的紫寶石",
+   "fix": "无瑕疵的紫宝石",
+   "d2r_s": "无瑕的紫宝石"
+  },
+  "gly": {
+   "en": "Flawless Topaz",
+   "trad": "無暇疵的黃寶石",
+   "fix": "无瑕疵的黄宝石",
+   "d2r_s": "无瑕的黄宝石"
+  },
+  "glb": {
+   "en": "Flawless Sapphire",
+   "trad": "無暇疵的藍寶石",
+   "fix": "无瑕疵的蓝宝石",
+   "d2r_s": "无瑕的蓝宝石"
+  },
+  "glg": {
+   "en": "Flawless Emerald",
+   "trad": "無暇疵的綠寶石",
+   "fix": "无瑕疵的绿宝石",
+   "d2r_s": "无瑕的绿宝石"
+  },
+  "glr": {
+   "en": "Flawless Ruby",
+   "trad": "無暇疵的紅寶石",
+   "fix": "无瑕疵的红宝石",
+   "d2r_s": "无瑕的红宝石"
+  },
+  "glw": {
+   "en": "Flawless Diamond",
+   "trad": "無暇疵的鑽石",
+   "fix": "无瑕疵的钻石",
+   "d2r_s": "无瑕的钻石"
+  },
+  "skl": {
+   "en": "Flawless Skull",
+   "trad": "無暇疵的骷髏",
+   "fix": "无瑕疵的骷髅",
+   "d2r_s": "无瑕疵的头骨宝石"
+  },
+  "gpv": {
+   "en": "Perfect Amethyst",
+   "trad": "完美的紫寶石",
+   "fix": "完美的紫宝石",
+   "d2r_s": "完美的紫宝石"
+  },
+  "gpy": {
+   "en": "Perfect Topaz",
+   "trad": "完美的黃寶石",
+   "fix": "完美的黄宝石",
+   "d2r_s": "完美的黄宝石"
+  },
+  "gpb": {
+   "en": "Perfect Sapphire",
+   "trad": "完美的藍寶石",
+   "fix": "完美的蓝宝石",
+   "d2r_s": "完美的蓝宝石"
+  },
+  "gpg": {
+   "en": "Perfect Emerald",
+   "trad": "完美的綠寶石",
+   "fix": "完美的绿宝石",
+   "d2r_s": "完美的绿宝石"
+  },
+  "gpr": {
+   "en": "Perfect Ruby",
+   "trad": "完美的紅寶石",
+   "fix": "完美的红宝石",
+   "d2r_s": "完美的红宝石"
+  },
+  "gpw": {
+   "en": "Perfect Diamond",
+   "trad": "完美的鑽石",
+   "fix": "完美的钻石",
+   "d2r_s": "完美的钻石"
+  },
+  "skz": {
+   "en": "Perfect Skull",
+   "trad": "完美的骷髏",
+   "fix": "完美的骷髅",
+   "d2r_s": "完美的头骨宝石"
+  },
+  "rvl": {
+   "en": "Full Rejuvenation Potion",
+   "trad": "全面回復活力葯劑",
+   "fix": "全面回复活力药剂",
+   "d2r_s": "完全复苏药水"
+  },
+  "rvs": {
+   "en": "Rejuvenation Potion",
+   "trad": "回復活力葯劑",
+   "fix": "回复活力药剂",
+   "d2r_s": "复苏药水"
+  },
+  "yps": {
+   "en": "Antidote Potion",
+   "trad": "解毒葯劑",
+   "fix": "解毒药剂",
+   "d2r_s": "解毒药水"
+  },
+  "wms": {
+   "en": "Thawing Potion",
+   "trad": "融解葯劑",
+   "fix": "融解药剂",
+   "d2r_s": "解冻药水"
+  },
+  "vps": {
+   "en": "Stamina Potion",
+   "trad": "體力葯劑",
+   "fix": "体力药剂",
+   "d2r_s": "耐力药水"
+  },
+  "hp1": {
+   "en": "Minor Healing Potion",
+   "trad": "輕微治療葯劑",
+   "fix": "轻微治疗药剂",
+   "d2r_s": "初级治疗药水"
+  },
+  "hp2": {
+   "en": "<span class=\"d2-gray\">Lesser Healing Potion (PD2 wiki)</span><br>Light Healing Potion",
+   "trad": "輕型治療葯劑",
+   "fix": "轻型治疗药剂",
+   "d2r_s": "次级治疗药水"
+  },
+  "hp3": {
+   "en": "Healing Potion",
+   "trad": "治療葯劑",
+   "fix": "治疗药剂",
+   "d2r_s": "治疗药水"
+  },
+  "hp4": {
+   "en": "Greater Healing Potion",
+   "trad": "強力葯劑",
+   "fix": "强力药剂",
+   "d2r_s": "高级治疗药水"
+  },
+  "hp5": {
+   "en": "Super Healing Potion",
+   "trad": "超級治療葯劑",
+   "fix": "超级治疗药剂",
+   "d2r_s": "超级治疗药水"
+  },
+  "mp1": {
+   "en": "Minor Mana Potion",
+   "trad": "輕微法力葯劑",
+   "fix": "轻微法力药剂",
+   "d2r_s": "初级法力药水"
+  },
+  "mp2": {
+   "en": "<span class=\"d2-gray\">Lesser Mana Potion (PD2 wiki)</span><br>Light Mana Potion",
+   "trad": "輕型法力葯劑",
+   "fix": "轻型法力药剂",
+   "d2r_s": "次级法力药水"
+  },
+  "mp3": {
+   "en": "Mana Potion",
+   "trad": "法力葯劑",
+   "fix": "法力药剂",
+   "d2r_s": "法力药水"
+  },
+  "mp4": {
+   "en": "Greater Mana Potion",
+   "trad": "強力法力葯劑",
+   "fix": "强力法力药剂",
+   "d2r_s": "高级法力药水"
+  },
+  "mp5": {
+   "en": "Super Mana Potion",
+   "trad": "超級法力葯劑",
+   "fix": "超级法力药剂",
+   "d2r_s": "超级法力药水"
+  },
+  "opl": {
+   "en": "tpfs",
+   "trad": "Fulminating Potion",
+   "fix": "猛爆性葯劑",
+   "d2r_s": "烈性藥水"
+  },
+  "opm": {
+   "en": "tpfm",
+   "trad": "Exploding Potion",
+   "fix": "爆炸葯劑",
+   "d2r_s": "爆炸藥水"
+  },
+  "ops": {
+   "en": "tpfl",
+   "trad": "Oil Potion",
+   "fix": "油",
+   "d2r_s": "火油藥水"
+  },
+  "gpl": {
+   "en": "tpgs",
+   "trad": "Strangling Potion (PD2 wiki)<br>Strangling Gas Potion",
+   "fix": "勒頸瓦斯葯劑",
+   "d2r_s": "刺鼻毒氣藥水"
+  },
+  "gpm": {
+   "en": "tpgm",
+   "trad": "Choking Potion (PD2 wiki)<br>Choking Gas Potion",
+   "fix": "窒息瓦斯葯劑",
+   "d2r_s": "窒息毒氣藥水"
+  },
+  "gps": {
+   "en": "tpgl",
+   "trad": "Rancid Potion (PD2 wiki)<br>Rancid Gas Potion",
+   "fix": "惡臭瓦斯葯劑",
+   "d2r_s": "腐臭毒氣藥水"
+  },
+  "bks": {
+   "en": "Scroll of Inifuss",
+   "trad": "艾尼弗斯卷軸",
+   "fix": "艾尼弗斯卷轴",
+   "d2r_s": "艾尼弗斯卷轴"
+  },
+  "bkd": {
+   "en": "Key to the Cairn Stones",
+   "trad": "石塚之鑰",
+   "fix": "石冢之钥",
+   "d2r_s": "石阵密文"
+  },
+  "tr1": {
+   "en": "Horadric Scroll",
+   "trad": "赫拉迪克卷軸",
+   "fix": "赫拉迪克卷轴",
+   "d2r_s": "赫拉迪姆卷轴"
+  },
+  "ass": {
+   "en": "Book of Skill",
+   "trad": "技能之書",
+   "fix": "技能之书",
+   "d2r_s": "技能书"
+  },
+  "box": {
+   "en": "Horadric Cube",
+   "trad": "赫拉迪克方塊",
+   "fix": "赫拉迪克方块",
+   "d2r_s": "赫拉迪姆魔盒"
+  },
+  "j34": {
+   "en": "<span class=\"d2-gray\">Jade Figurine (PD2 wiki)</span><br>A Jade Figurine",
+   "trad": "玉製小人",
+   "fix": "玉制小人",
+   "d2r_s": "玉石雕像"
+  },
+  "g34": {
+   "en": "<span class=\"d2-gray\">Golden Bird (PD2 wiki)</span><br>The Golden Bird",
+   "trad": "黃金鳥",
+   "fix": "黄金鸟",
+   "d2r_s": "黄金鸟"
+  },
+  "xyz": {
+   "en": "Potion of Life",
+   "trad": "生命葯劑",
+   "fix": "生命药剂",
+   "d2r_s": "生命药水"
+  },
+  "bbb": {
+   "en": "Lam Esen's Tome",
+   "trad": "藍.依森之書",
+   "fix": "蓝.依森之书",
+   "d2r_s": "兰姆·艾森之书"
+  },
+  "qbr": {
+   "en": "Khalim's Brain",
+   "trad": "克林姆的大腦",
+   "fix": "克林姆的大脑",
+   "d2r_s": "卡林姆的大脑"
+  },
+  "qey": {
+   "en": "Khalim's Eye",
+   "trad": "克林姆的眼球",
+   "fix": "克林姆的眼球",
+   "d2r_s": "卡林姆的眼球"
+  },
+  "qhr": {
+   "en": "Khalim's Heart",
+   "trad": "克林姆的心臟",
+   "fix": "克林姆的心脏",
+   "d2r_s": "卡林姆的心脏"
+  },
+  "mss": {
+   "en": "Mephisto's Soulstone",
+   "trad": "墨菲斯托的靈魂之石",
+   "fix": "墨菲斯托的灵魂之石",
+   "d2r_s": "墨菲斯托的灵魂石"
+  },
+  "ice": {
+   "en": "Malah's Potion",
+   "trad": "馬拉之藥",
+   "fix": "马拉之药",
+   "d2r_s": "马拉的药水"
+  },
+  "tr2": {
+   "en": "Scroll of Resistance",
+   "trad": "抵抗卷軸",
+   "fix": "抵抗卷轴",
+   "d2r_s": "抗性卷轴"
+  },
+  "tes": {
+   "en": "Twisted Essence of Suffering",
+   "trad": "扭曲的苦痛精华",
+   "fix": "扭曲的苦痛精华",
+   "d2r_s": "扭曲的痛苦精华"
+  },
+  "ceh": {
+   "en": "Charged Essence of Hatred",
+   "trad": "充盈的憎恨精华",
+   "fix": "充盈的憎恨精华",
+   "d2r_s": "充能的憎恨精华"
+  },
+  "bet": {
+   "en": "Burning Essence of Terror",
+   "trad": "燃烧的恐惧精华",
+   "fix": "燃烧的恐惧精华",
+   "d2r_s": "燃烧的恐惧精华"
+  },
+  "fed": {
+   "en": "Festering Essence of Destruction",
+   "trad": "溃烂的毁灭精华",
+   "fix": "溃烂的毁灭精华",
+   "d2r_s": "腐烂的毁灭精华"
+  },
+  "toa": {
+   "en": "Token of Absolution",
+   "trad": "赦免徽章",
+   "fix": "赦免徽章",
+   "d2r_s": "赦免之证"
+  },
+  "pk1": {
+   "en": "Key of Terror",
+   "trad": "恐懼之鑰",
+   "fix": "恐惧之钥",
+   "d2r_s": "恐惧之钥"
+  },
+  "pk2": {
+   "en": "Key of Hate",
+   "trad": "憎恨之鑰",
+   "fix": "憎恨之钥",
+   "d2r_s": "憎恨之钥"
+  },
+  "pk3": {
+   "en": "Key of Destruction",
+   "trad": "毀滅之鑰",
+   "fix": "毁灭之钥",
+   "d2r_s": "毁灭之钥"
+  },
+  "dhn": {
+   "en": "Diablo's Horn",
+   "trad": "暗黑破壞神之角",
+   "fix": "暗黑破坏神之角",
+   "d2r_s": "迪亚波罗的角"
+  },
+  "bey": {
+   "en": "Baal's Eye",
+   "trad": "巴爾之眼",
+   "fix": "巴尔之眼",
+   "d2r_s": "巴尔的眼睛"
+  },
+  "mbr": {
+   "en": "Mephisto's Brain",
+   "trad": "曼菲斯托之腦",
+   "fix": "墨菲斯托之脑",
+   "d2r_s": "墨菲斯托的大脑"
+  },
+  "gld": {
+   "en": "Gold",
+   "trad": "黃金",
+   "fix": "金币",
+   "d2r_s": "金币"
+  },
+  "elx": {
+   "en": "<span class=\"d2-blue\">未启用",
+   "trad": "Elixir",
+   "fix": "靈葯",
+   "d2r_s": "靈藥"
+  },
+  "luv": {
+   "en": "<span class=\"d2-blue\">未启用",
+   "trad": "The Black Tower Key",
+   "fix": "黑塔之鑰",
+   "d2r_s": "黑塔之鑰"
+  },
+  "hrb": {
+   "en": "<span class=\"d2-blue\">未启用",
+   "trad": "Herb",
+   "fix": "葯草",
+   "d2r_s": "藥草"
+  },
+  "spe": {
+   "en": "<span class=\"d2-blue\">未启用",
+   "trad": "Spleen",
+   "fix": "脾臟",
+   "d2r_s": "脾臟"
+  },
+  "sol": {
+   "en": "<span class=\"d2-blue\">未启用",
+   "trad": "Soul",
+   "fix": "靈魂",
+   "d2r_s": "靈魂"
+  },
+  "qll": {
+   "en": "<span class=\"d2-blue\">未启用",
+   "trad": "Quill",
+   "fix": "硬毛",
+   "d2r_s": "刺針"
+  },
+  "tal": {
+   "en": "<span class=\"d2-blue\">未启用",
+   "trad": "Tail",
+   "fix": "尾巴",
+   "d2r_s": "尾巴"
+  },
+  "jaw": {
+   "en": "<span class=\"d2-blue\">未启用",
+   "trad": "Jawbone",
+   "fix": "顎骨",
+   "d2r_s": "顎骨"
+  }
+ }
+}

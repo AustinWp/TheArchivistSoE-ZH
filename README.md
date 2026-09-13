@@ -246,10 +246,10 @@ python3 tools/verify_dropcalc_tables.py --repo /tmp/SOECN_repo \
 | 缺口 | 数字 | 原因 / 处置 |
 |---|---|---|
 | 词缀 | **无法可靠枚举** | 早先按「行」比出「前缀缺 85 / 后缀缺 111」，**这个数字不可信**：源码 839 行里有 141 行是同一条词缀按物品类型重复登记。改按「属性码+数值」比对后，源码唯一组合 616 / 本站 569，但**既缺 273 又多 226** → 两组数据的 key 对不齐（`group` 编号体系不同、多属性行的组合方式不同）。抽查证实：有的确实缺（`mag% 10-15`、`res-ltng 31-50`），有的其实有但 group 号不同（`att 81-100`）。**结论：缺口真实存在但无法可靠列举，更不能靠模板猜着补 → 不做** |
-| 暗金「驯服」 | 1 条 | `rarity=0`（掉率 0）且一半属性是隐藏项（`aura-hidden` / `static-modifier-display`），`occurrenceChance` 无法忠实重建 → 登记在审计第 3d 项的例外里 |
+| ~~暗金「驯服」~~ | **已收录** | 查明它是**方块合成**产物（巴尔通行证 + 巴尔喘息 + 巴尔之握 → 驯服），`rarity=0` 只表示不掉落。官方串表里有 `The Taming` / `StrTamingAura` / `StrTamingHint`，已补入暗金表与魔方页 |
 | 任务物品 | 6 条 | 国王之杖 / 赫拉迪克法杖 等，`quest` 列非空，不进暗金列表 |
 | 升华灵魂石系列 | 19 条 | 源码 `UniqueItems.txt` 里有，但属**升华**内容，已在「升华」页收录 |
-| 139 件物品中文名 | — | 珠宝 / 护身符 / 钥匙 / 宝石 / 药水走**基础游戏**中文串，SOE 串表（3854 条，仅为模组覆盖表）里没有，**无法验证** |
+| 基础游戏物品中文名 | 92 条已校准 | 珠宝 / 护身符 / 钥匙 / 宝石 / 药水走**基础游戏**中文串，SOE 串表（3854 条，仅为模组覆盖表）里没有。**改以 PD2 汉化 wiki 为准**（SOE 的底座）：对照表存档在 `docs/reference/pd2_zh_item_names.json`，登记在 `official_names.BASE_GAME_NAME`，审计第 3e 项逐条比对（当前 0 不一致，1 条登记的有意偏离：`key` 本站作「普通钥匙」以区别于「骷髅钥匙」） |
 
 > 原则：**「对不上」时先把它变成可见的例外（写清理由），而不是编一个值填上。**
 
@@ -296,6 +296,15 @@ python3 tools/verify_dropcalc_tables.py --repo /tmp/SOECN_repo \
 **只改 `name` 不改 `displayName`，页面上就还是旧名字** —— 巧工弩第一次修复后又"没生效"，
 就是栽在这里（`name` 已是「巧工弩」，`displayName` 还是「诸葛弩」）。
 `apply_official_item_names.py` 现在会把这 5 个字段一起对齐，审计第 3b 项也逐字段校验。
+
+### 4.4.1 前端 lint 现状
+
+`npm run lint` = **0 errors / 4 warnings**（2026-09-13 清理前是 11 errors / 4 warnings；那 4 条 warning 是
+React Hook 依赖提示，属历史遗留、无功能影响）。剩下 1 条 React Compiler 的
+`react-hooks/immutability`（报告 effect 引用了写在其后的 state）已**带说明豁免** ——
+把声明前移反而会触发 10 处「effect 内同步 setState」告警，且运行时本就正确（effect 在渲染提交后执行）。
+
+**新增代码不要再抬高这个数字**，否则新问题会被淹没。
 
 ### 4.5 按需运行的分析工具（不在刷新流程里）
 
@@ -374,6 +383,7 @@ npm run build
 │   ├── official_names.py          ★ 官方物品名的唯一解析入口（改了名字链路只改这里）
 │   ├── build_item_tables.py       ★ 从游戏表重建武器/护甲（保留中文名）
 │   ├── verify_dropcalc_tables.py  核对掉落计算器 10 张表与国服源码
+│   ├── build_item_tables.py       从游戏表重建武器/护甲（保留中文）
 │   ├── textwalk.py                ★ 页面 JSON 的散文遍历（递归，别假设外形）
 │   ├── refresh_data.py            一键刷新（解析/校验/生成/构建）
 │   └── generated/             生成物（gitignore；含报告与对照表）

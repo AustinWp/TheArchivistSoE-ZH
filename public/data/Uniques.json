@@ -44347,5 +44347,60 @@
     "dontDisplay": false,
     "showCanBeCreatedWith": true,
     "hellforged": false
+  },
+  {
+    "index": "驯服",
+    "enabled": "1",
+    "level": 131,
+    "requiredLevel": 85,
+    "code": "rin",
+    "rarity": "0",
+    "carryOne": "",
+    "armorBase": null,
+    "weaponBase": null,
+    "jeweleryBase": {
+      "code": "rin",
+      "level": "1",
+      "requiredLevel": "0",
+      "type": "ring",
+      "secondType": "",
+      "nameString": "rin",
+      "displayName": "戒指"
+    },
+    "dropRate": null,
+    "occurrenceChance": "0,00%（不掉落，仅可合成）",
+    "occurrenceChanceCurrency": null,
+    "itemTier": null,
+    "displayName": "驯服",
+    "onlyClassDisplayText": null,
+    "displayOneHandDamage": null,
+    "displayTwoHandDamage": null,
+    "displayDurability": null,
+    "displayDefense": null,
+    "dropSource": null,
+    "displayProperties": [
+      {
+        "displayString": "获得相当于对应未封顶元素抗性 5% 的该元素穿透",
+        "property": "aura-hidden",
+        "min": null,
+        "max": null
+      },
+      {
+        "displayString": "+10-15 所有抗性",
+        "property": "res-all",
+        "min": 10,
+        "max": 15
+      },
+      {
+        "displayString": "+1 所有技能",
+        "property": "allskills",
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "highlight": false,
+    "dontDisplay": false,
+    "showCanBeCreatedWith": false,
+    "hellforged": false
   }
 ]

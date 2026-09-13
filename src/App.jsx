@@ -331,16 +331,6 @@ const INFO_BY_TAB = {
     },
 };
 
-function getTitleByTab(tab) {
-    const value = TABS[tab];
-
-    if (value && typeof value === "object") {
-        return value.title;
-    }
-
-    return value;
-}
-
 function visibleProperties(properties) {
     return (properties || []).filter((prop) => {
         const text = String(prop);
@@ -633,9 +623,6 @@ function getUniqueBaseIconUrl(u) {
             return ARMOR_ICON_MAP[key];
         }
 
-        if (armorBase.itemType?.code) {
-            const typeCode = String(armorBase.itemType.code).toLowerCase();
-        }
     }
 
     if (u?.weaponBase) {
@@ -1663,7 +1650,7 @@ function TooltipShell({children}) {
     </div>);
 }
 
-function TierLinks({label = "阶位：", entries, onGo}) {
+function TierLinks({entries, onGo}) {
     const usable = entries.filter((e) => has(e.name) && has(e.code));
     if (!usable.length) return null;
 
@@ -1923,12 +1910,6 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
         });
     }
 
-    function applyPicks(probability, picks) {
-        if (picks === 1) return probability;
-
-        const cappedPicks = picks > 6 ? 6 : picks;
-        return 1 - Math.pow(1 - probability, cappedPicks);
-    }
 
     // TC 名 → 行 的索引（原来每次线性扫 1800 行，遍历时被调用上万次）
     function buildTcIndex(tcRows) {
@@ -2044,10 +2025,6 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
         return buckets;
     }
 
-    function isExpansionItem(baseItem) {
-        const v = n(baseItem.version);
-        return v === "1" || v === "100";
-    }
 
     function isExceptionalOrElite(baseItem, exceptionalOrEliteCodes) {
         const code = n(baseItem.code);
@@ -4365,24 +4342,6 @@ export default function App() {
     }
 
     useEffect(() => {
-        if (tab !== "cube") {
-            setCubeSearch("");
-        }
-    }, [tab]);
-
-    useEffect(() => {
-        if (tab !== "changes") {
-            setChangesSearch("");
-        }
-    }, [tab]);
-
-    useEffect(() => {
-        if (tab !== "skills") {
-            setSkillsSearch("");
-        }
-    }, [tab]);
-
-    useEffect(() => {
         try {
             const raw = window.localStorage.getItem(INFO_OPEN_STORAGE_KEY);
             if (!raw) return;
@@ -4409,6 +4368,24 @@ export default function App() {
     const [mappingSearch, setMappingSearch] = useState("");
     const [changesSearch, setChangesSearch] = useState("");
     const [skillsSearch, setSkillsSearch] = useState("");
+
+    useEffect(() => {
+        if (tab !== "cube") {
+            setCubeSearch("");
+        }
+    }, [tab]);
+
+    useEffect(() => {
+        if (tab !== "changes") {
+            setChangesSearch("");
+        }
+    }, [tab]);
+
+    useEffect(() => {
+        if (tab !== "skills") {
+            setSkillsSearch("");
+        }
+    }, [tab]);
     const [uberValue, setUberValue] = useState(false);
     const [hellforgedValue, setHellforgedValue] = useState(false);
     const [pendingUniqueCode, setPendingUniqueCode] = useState("");
@@ -4544,8 +4521,8 @@ export default function App() {
         setAffixTypeValue("");
         setRuneCountValue("");
         setSelectedRunes([]);
-
-        setActiveIndex(0);
+        // activeIndex 不在这里重置：下面那个 effect 会按 tab / 搜索条件统一重置，
+        // 而且它必须先于 activeIndex 声明使用（React Compiler 规则）
     }, [tab]);
 
     const filtered = useMemo(() => {
@@ -4553,8 +4530,6 @@ export default function App() {
 
         // 1) Apply all existing filters first
         const base = items.filter((it) => {
-            const name = (n(it?.displayName) || n(it?.runewordName) || n(it?.name)).toLowerCase();
-
             const searchText = buildSearchTextForItem(tab, it);
 
             for (const p of phrases) {
@@ -4671,8 +4646,6 @@ export default function App() {
 
         // 2) Extra sort for Affixes tab: sort by item type, then by name
         if (tab === "affixes") {
-            const typeFilterNorm = typeValue ? typeValue.toLowerCase() : "";
-
             const sorted = [...base].sort((a, b) => {
                 // Build a textual key from all item types (e.g. "Amulets, Rings")
                 const aTypes = affixTypes(a);
@@ -4714,11 +4687,16 @@ export default function App() {
             return nm === targetName;
         });
 
+        // React Compiler 的 react-hooks/immutability 会报「setActiveIndex 先用后声明」：
+        // activeIndex 的状态声明写在本 effect 之后。运行时没有问题（effect 在渲染提交后才执行，
+        // 且 setState 是稳定引用）；把声明前移反而会触发 10 处「effect 内同步 setState」告警。
+        /* eslint-disable react-hooks/immutability */
         if (idx >= 0) {
             setActiveIndex(idx);
         } else if (filtered.length) {
             setActiveIndex(0);
         }
+        /* eslint-enable react-hooks/immutability */
 
         setPendingLinkTarget(null);
     }, [pendingLinkTarget, tab, dataset.loading, filtered]);
