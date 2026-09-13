@@ -1510,7 +1510,7 @@ function FiltersBar({
             </label>)}
 
             {showHellforged && (<label className="toggleWrap">
-                <span className="toggleLabel">地狱锻造</span>
+                <span className="toggleLabel">地狱锻铸</span>
                 <div className="toggle">
                     <input
                         type="checkbox"
