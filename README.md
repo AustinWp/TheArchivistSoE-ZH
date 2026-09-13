@@ -1,5 +1,7 @@
 # PD2 流放圣域（Sanctuary of Exile）中文资料库
 
+> 📌 **下次继续请先看 [`docs/TODO.md`](docs/TODO.md)** —— 待办事项、注意事项、环境命令、今天踩过的坑。
+
 [The Archivist](https://lukaszpg.github.io/TheArchivistSoE/) 的简体中文复刻版 —— Project Diablo 2《流放圣域（Sanctuary of Exile）》物品资料库。
 
 ## 特性
