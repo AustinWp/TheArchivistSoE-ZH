@@ -394,6 +394,32 @@ def main():
             issues.append(f"[标记落到纯文本字段] {h}")
     print(f"  纯文本字段中的标记: {dirty} 处")
 
+    # ---------- 3c) 各基底上的暗金引用是否与 Uniques.json 一致 ----------
+    print("\n== 3c. 基底 ↔ 暗金引用一致性 ==")
+    try:
+        _uni = json.load(open(os.path.join(ROOT, "public", "data", "Uniques.json"), encoding="utf-8"))
+        _want = {}
+        for _u in _uni:
+            _b = _u.get("weaponBase") or _u.get("armorBase") or _u.get("jeweleryBase") or {}
+            _c = str(_b.get("code") or "").lower()
+            if _c:
+                _want.setdefault(_c, []).append(_u.get("displayName") or _u.get("index"))
+
+        bad3c = 0
+        for fn in ("Weapons.json", "Armors.json"):
+            pth = os.path.join(ROOT, "public", "data", fn)
+            if not os.path.exists(pth):
+                continue
+            for it in json.load(open(pth, encoding="utf-8")):
+                got = [x.get("uniqueName") for x in (it.get("uniques") or [])]
+                exp = _want.get(str(it.get("code", "")).lower(), [])
+                if got != exp:
+                    bad3c += 1
+                    issues.append(f"[暗金引用过时] {fn} {it.get('code')}: 表里 {got}，应为 {exp}")
+        print(f"  可比对 {len(_want)} 个基底，不一致 {bad3c} 件")
+    except Exception as _e:  # noqa: BLE001
+        print(f"  跳过（{_e}）")
+
     print("\n== 4. 图标标记 ↔ 名称一致性 ==")
     official_norm = {k: norm_name(v) for k, v in official.items()}
     # 站内为区分重名而自定的别名（官方串表未收录）

@@ -206,6 +206,28 @@ StrEternalShako    =  基础类型：军帽
 4. **串表查不到 ≠ 名字是对的** —— 基础游戏物品只能另找依据，并在 `BASE_GAME_NAME` 登记；
 5. 玩家报「游戏里有、wiki 没有」时，**先怀疑名字不一致，再怀疑缺数据**。
 
+### 4.3.1 掉落计算器的数据表要与国服源码核对
+
+计算器读取 `public/data/<mode>/*.txt` 共 **10 张表**，注意两条规则：
+
+1. **炼狱模式只覆盖 6 张**（CubeMain / Misc / MonStats / SuperUniques / TreasureClassEx / UniqueItems），
+   其余表在客户端里是编译好的 `.bin` → 本地副本**应当等于标准模式的那张**；
+2. 若干列是**中文化副本**（`UniqueItems.index`、`SetItems.index`、`Levels.LevelName`/`Name`、
+   `MonStats.NameStr`），比对时跳过。
+
+核对方法（需要 SOECN 仓库）：
+
+```bash
+python3 tools/verify_dropcalc_tables.py --repo /tmp/SOECN_repo \
+    --sha 9b24eb72380a724457e8e6d37a169c837f0ad0a0
+```
+
+同步新版本用 `tools/sync_dropcalc_tables.py`（保留中文列，只换其它列）。
+
+**2026-09 实测**：10 张表 × 2 模式全部一致；期间修掉 3 处漂移 ——
+`standard/Armor.txt` 的 `smer` 行阶位码写错（`smer/rxx/rxx` → `smn/smx/smer`）、
+`damnation/Armor.txt` 缺 2 行、`damnation/Levels.txt` 缺 9 行炼狱地图。
+
 ### 4.4 加标记（图标 / 符文编号）只能加在「markdown 渲染」的字段
 
 `{{icon:CODE}}` 和「（N号）」这类标记，**只有经过 markdown 渲染器**才会变成图标/富文本；

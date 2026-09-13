@@ -9135,7 +9135,7 @@
     "onlyClassDisplayText": null,
     "uniques": [
       {
-        "uniqueName": "巫野之弦",
+        "uniqueName": "狂野之弦",
         "uniqueCode": "8s8"
       }
     ],
@@ -10342,7 +10342,7 @@
     "onlyClassDisplayText": "仅刺客",
     "uniques": [
       {
-        "uniqueName": "巴特克的割喉",
+        "uniqueName": "巴图克的割喉爪",
         "uniqueCode": "9tw"
       }
     ],
@@ -10519,7 +10519,7 @@
         "uniqueCode": "7wb"
       },
       {
-        "uniqueName": "地狱锻造翡翠之爪",
+        "uniqueName": "地狱锻铸·玉爪",
         "uniqueCode": "7wb"
       }
     ],
@@ -10580,7 +10580,7 @@
     "onlyClassDisplayText": "仅刺客",
     "uniques": [
       {
-        "uniqueName": "低语幻象",
+        "uniqueName": "幻影幽语",
         "uniqueCode": "7xf"
       }
     ],
@@ -10763,7 +10763,7 @@
     "onlyClassDisplayText": "仅刺客",
     "uniques": [
       {
-        "uniqueName": "猎手之屠",
+        "uniqueName": "追猎者的刺杀",
         "uniqueCode": "7tw"
       }
     ],
@@ -10824,7 +10824,7 @@
     "onlyClassDisplayText": "仅刺客",
     "uniques": [
       {
-        "uniqueName": "艾丹之痕",
+        "uniqueName": "艾丹的伤痕",
         "uniqueCode": "7qr"
       }
     ],
@@ -11306,7 +11306,7 @@
         "uniqueCode": "7bt"
       },
       {
-        "uniqueName": "地狱锻造地狱杀戮者",
+        "uniqueName": "地狱锻铸·地狱毁灭者",
         "uniqueCode": "7bt"
       }
     ],
@@ -11545,7 +11545,7 @@
     "onlyClassDisplayText": null,
     "uniques": [
       {
-        "uniqueName": "幽冥之枢",
+        "uniqueName": "幽冥魂器",
         "uniqueCode": "7yw"
       }
     ],
@@ -11679,7 +11679,7 @@
         "uniqueCode": "7gw"
       },
       {
-        "uniqueName": "地狱锻造死亡之网",
+        "uniqueName": "地狱锻铸·死亡之网",
         "uniqueCode": "7gw"
       }
     ],
@@ -11939,11 +11939,11 @@
         "uniqueCode": "7ws"
       },
       {
-        "uniqueName": "法拉的悔恨",
+        "uniqueName": "法拉之悔",
         "uniqueCode": "7ws"
       },
       {
-        "uniqueName": "法拉的回忆",
+        "uniqueName": "法拉之忆",
         "uniqueCode": "7ws"
       }
     ],
@@ -12684,7 +12684,7 @@
         "uniqueCode": "7cr"
       },
       {
-        "uniqueName": "地狱锻造青色愤怒",
+        "uniqueName": "地狱锻铸·碧蓝怒火",
         "uniqueCode": "7cr"
       }
     ],
@@ -12745,7 +12745,7 @@
     "onlyClassDisplayText": null,
     "uniques": [
       {
-        "uniqueName": "哈德瑞尔之手",
+        "uniqueName": "哈德尔之手",
         "uniqueCode": "7bs"
       }
     ],
@@ -12867,7 +12867,7 @@
     "onlyClassDisplayText": null,
     "uniques": [
       {
-        "uniqueName": "尼拉塞克的怨恨",
+        "uniqueName": "尼拉塞克的恶意",
         "uniqueCode": "7wd"
       }
     ],
@@ -12984,7 +12984,7 @@
     "onlyClassDisplayText": null,
     "uniques": [
       {
-        "uniqueName": "李奥瑞克的秘银克星",
+        "uniqueName": "李奥瑞克王的秘银之刃",
         "uniqueCode": "7cm"
       }
     ],
@@ -13350,7 +13350,7 @@
     "onlyClassDisplayText": null,
     "uniques": [
       {
-        "uniqueName": "碎刃",
+        "uniqueName": "破碎之刃",
         "uniqueCode": "7di"
       }
     ],
@@ -14245,7 +14245,7 @@
     "onlyClassDisplayText": null,
     "uniques": [
       {
-        "uniqueName": "乌迪西安的觉醒",
+        "uniqueName": "乌迪贤的觉醒",
         "uniqueCode": "7st"
       }
     ],
@@ -14310,7 +14310,7 @@
         "uniqueCode": "7p7"
       },
       {
-        "uniqueName": "阿斯卡里斯的和风",
+        "uniqueName": "阿斯卡里的和风",
         "uniqueCode": "7p7"
       }
     ],
@@ -14375,7 +14375,7 @@
         "uniqueCode": "7o7"
       },
       {
-        "uniqueName": "地狱锻造斩骨",
+        "uniqueName": "地狱锻铸·碎骨",
         "uniqueCode": "7o7"
       }
     ],
@@ -14436,7 +14436,7 @@
     "onlyClassDisplayText": null,
     "uniques": [
       {
-        "uniqueName": "巨人之残害",
+        "uniqueName": "重残者",
         "uniqueCode": "7vo"
       }
     ],
@@ -14974,7 +14974,7 @@
         "uniqueCode": "6ws"
       },
       {
-        "uniqueName": "圣所之灭",
+        "uniqueName": "庇护之殇",
         "uniqueCode": "6ws"
       }
     ],
@@ -15071,11 +15071,11 @@
     "onlyClassDisplayText": null,
     "uniques": [
       {
-        "uniqueName": "噼啪之射",
+        "uniqueName": "星流霆击",
         "uniqueCode": "6hb"
       },
       {
-        "uniqueName": "地狱锻造噼啪之射",
+        "uniqueName": "地狱锻铸·裂响",
         "uniqueCode": "6hb"
       }
     ],
@@ -15319,7 +15319,7 @@
         "uniqueCode": "6sw"
       },
       {
-        "uniqueName": "地狱锻造寡妇制造者",
+        "uniqueName": "地狱锻铸·寡妇制造者",
         "uniqueCode": "6sw"
       }
     ],
@@ -15374,7 +15374,7 @@
         "uniqueCode": "6lw"
       },
       {
-        "uniqueName": "冰雹风暴",
+        "uniqueName": "冰雹",
         "uniqueCode": "6lw"
       }
     ],
@@ -16114,7 +16114,7 @@
     "onlyClassDisplayText": "仅法师",
     "uniques": [
       {
-        "uniqueName": "风暴",
+        "uniqueName": "暴风雨",
         "uniqueCode": "ob6"
       }
     ],
@@ -16165,7 +16165,7 @@
     "onlyClassDisplayText": "仅法师",
     "uniques": [
       {
-        "uniqueName": "斯考恩",
+        "uniqueName": "蔑视",
         "uniqueCode": "ob7"
       }
     ],
@@ -16731,7 +16731,7 @@
     "onlyClassDisplayText": "仅法师",
     "uniques": [
       {
-        "uniqueName": "余烬之誓",
+        "uniqueName": "灰烬之誓",
         "uniqueCode": "obd"
       }
     ],
@@ -16935,7 +16935,7 @@
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": [
       {
-        "uniqueName": "乌木之灾",
+        "uniqueName": "灾祸黑檀",
         "uniqueCode": "amc"
       }
     ],
@@ -17057,7 +17057,7 @@
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": [
       {
-        "uniqueName": "泽雷的决意",
+        "uniqueName": "泽瑞尔的决心",
         "uniqueCode": "ame"
       },
       {

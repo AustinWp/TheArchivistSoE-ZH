@@ -4277,7 +4277,7 @@
     "eliteItemDisplayName": "太阳之灵",
     "uniques": [
       {
-        "uniqueName": "羽蛇神",
+        "uniqueName": "羽蛇神面",
         "uniqueCode": "dr2"
       }
     ],
@@ -4722,7 +4722,7 @@
     "eliteItemDisplayName": "古代之盾",
     "uniques": [
       {
-        "uniqueName": "桑克库尔之陨",
+        "uniqueName": "萨恩凯克的陨落",
         "uniqueCode": "pa3"
       }
     ],
@@ -5176,11 +5176,11 @@
         "uniqueCode": "ci3"
       },
       {
-        "uniqueName": "靛青",
+        "uniqueName": "无尽之渴",
         "uniqueCode": "ci3"
       },
       {
-        "uniqueName": "地狱锻造狮鹫之眼",
+        "uniqueName": "地狱锻铸·格利风之眼",
         "uniqueCode": "ci3"
       }
     ],
@@ -5229,7 +5229,7 @@
         "uniqueCode": "uap"
       },
       {
-        "uniqueName": "地狱锻造谐角之冠",
+        "uniqueName": "地狱锻铸·谐角之冠",
         "uniqueCode": "uap"
       }
     ],
@@ -5359,11 +5359,11 @@
     "eliteItemDisplayName": "巨贝头盔",
     "uniques": [
       {
-        "uniqueName": "霸主之盔",
+        "uniqueName": "大君面甲",
         "uniqueCode": "uhl"
       },
       {
-        "uniqueName": "贤者的反抗",
+        "uniqueName": "智者的反抗",
         "uniqueCode": "uhl"
       }
     ],
@@ -5721,7 +5721,7 @@
     "eliteItemDisplayName": "钻石锁子甲",
     "uniques": [
       {
-        "uniqueName": "幽冥之皮",
+        "uniqueName": "幽灵之肤",
         "uniqueCode": "ung"
       }
     ],
@@ -6065,7 +6065,7 @@
         "uniqueCode": "uul"
       },
       {
-        "uniqueName": "地狱锻造钢铁甲壳",
+        "uniqueName": "地狱锻铸·钢铁甲壳",
         "uniqueCode": "uul"
       }
     ],
@@ -6118,7 +6118,7 @@
         "uniqueCode": "uar"
       },
       {
-        "uniqueName": "地狱锻造泰瑞尔的力量",
+        "uniqueName": "地狱锻铸·泰瑞尔的力量",
         "uniqueCode": "uar"
       }
     ],
@@ -6208,7 +6208,7 @@
     "eliteItemDisplayName": "防寒圆盾",
     "uniques": [
       {
-        "uniqueName": "髓心法球",
+        "uniqueName": "拉斯皮斯魔球",
         "uniqueCode": "uuc"
       }
     ],
@@ -6257,7 +6257,7 @@
         "uniqueCode": "uml"
       },
       {
-        "uniqueName": "地狱锻造黑橡树盾",
+        "uniqueName": "地狱锻铸·黑橡树盾",
         "uniqueCode": "uml"
       }
     ],
@@ -6396,7 +6396,7 @@
         "uniqueCode": "uow"
       },
       {
-        "uniqueName": "地狱锻造美杜莎的凝望",
+        "uniqueName": "地狱锻铸·美杜莎的凝视",
         "uniqueCode": "uow"
       }
     ],
@@ -6445,7 +6445,7 @@
         "uniqueCode": "uts"
       },
       {
-        "uniqueName": "地狱锻造灵魂守卫",
+        "uniqueName": "地狱锻铸·灵魂守卫",
         "uniqueCode": "uts"
       },
       {
@@ -6633,7 +6633,7 @@
         "uniqueCode": "utg"
       },
       {
-        "uniqueName": "地狱锻造秘术师",
+        "uniqueName": "地狱锻铸·秘术师",
         "uniqueCode": "utg"
       }
     ],
@@ -6682,7 +6682,7 @@
         "uniqueCode": "uhg"
       },
       {
-        "uniqueName": "地狱锻造钢拳",
+        "uniqueName": "地狱锻铸·钢铁撕裂者",
         "uniqueCode": "uhg"
       }
     ],
@@ -6862,11 +6862,11 @@
     "eliteItemDisplayName": "镜化靴",
     "uniques": [
       {
-        "uniqueName": "伊瑟瑞尔之路",
+        "uniqueName": "伊瑟瑞尔的途径",
         "uniqueCode": "utb"
       },
       {
-        "uniqueName": "毁灭之迹",
+        "uniqueName": "毁灭之痕",
         "uniqueCode": "utb"
       }
     ],
@@ -6960,7 +6960,7 @@
         "uniqueCode": "ulc"
       },
       {
-        "uniqueName": "地狱锻造蜘蛛之网",
+        "uniqueName": "地狱锻铸·蜘蛛之网",
         "uniqueCode": "ulc"
       }
     ],
@@ -7095,7 +7095,7 @@
     "eliteItemDisplayName": "洞穴巨魔腰带",
     "uniques": [
       {
-        "uniqueName": "时间之潮",
+        "uniqueName": "时光浪潮",
         "uniqueCode": "utc"
       }
     ],
@@ -7140,15 +7140,15 @@
     "eliteItemDisplayName": "巨神腰带",
     "uniques": [
       {
-        "uniqueName": "西格德的坚毅",
+        "uniqueName": "西加德的坚定",
         "uniqueCode": "uhc"
       },
       {
-        "uniqueName": "猎头者",
+        "uniqueName": "猎首者",
         "uniqueCode": "uhc"
       },
       {
-        "uniqueName": "地狱锻造猎头者",
+        "uniqueName": "地狱锻铸·猎首者",
         "uniqueCode": "uhc"
       }
     ],
@@ -7348,7 +7348,7 @@
     "eliteItemDisplayName": "血之灵",
     "uniques": [
       {
-        "uniqueName": "芬里尔",
+        "uniqueName": "芬里斯",
         "uniqueCode": "dr6"
       }
     ],
@@ -7558,11 +7558,11 @@
     "eliteItemDisplayName": "屠杀头盔",
     "uniques": [
       {
-        "uniqueName": "独眼咆哮",
+        "uniqueName": "独眼巨人的咆哮",
         "uniqueCode": "ba6"
       },
       {
-        "uniqueName": "独眼咆哮",
+        "uniqueName": "独眼巨人的咆哮",
         "uniqueCode": "ba6"
       }
     ],
@@ -7607,7 +7607,7 @@
     "eliteItemDisplayName": "暴怒面甲",
     "uniques": [
       {
-        "uniqueName": "荒野传令者",
+        "uniqueName": "荒野语者",
         "uniqueCode": "ba7"
       }
     ],
@@ -7901,7 +7901,7 @@
         "uniqueCode": "pa9"
       },
       {
-        "uniqueName": "地狱锻造萨卡兰姆使者",
+        "uniqueName": "地狱锻铸·撒卡兰姆使者",
         "uniqueCode": "pa9"
       }
     ],
@@ -8241,7 +8241,7 @@
     "eliteItemDisplayName": "太阳之灵",
     "uniques": [
       {
-        "uniqueName": "巢穴之母",
+        "uniqueName": "兽穴之母",
         "uniqueCode": "drc"
       }
     ],
@@ -8376,7 +8376,7 @@
     "eliteItemDisplayName": "幽梦之灵",
     "uniques": [
       {
-        "uniqueName": "乌萨的梦魇",
+        "uniqueName": "乌尔萨的噩梦",
         "uniqueCode": "drf"
       }
     ],
@@ -8596,7 +8596,7 @@
     "eliteItemDisplayName": "守护者皇冠面甲",
     "uniques": [
       {
-        "uniqueName": "雷科尔的美德",
+        "uniqueName": "蕾蔻的美德",
         "uniqueCode": "baf"
       },
       {
@@ -8645,7 +8645,7 @@
     "eliteItemDisplayName": "神圣小盾",
     "uniques": [
       {
-        "uniqueName": "须臾",
+        "uniqueName": "朝露",
         "uniqueCode": "pab"
       }
     ],
@@ -8820,7 +8820,7 @@
     "eliteItemDisplayName": "旋风盾",
     "uniques": [
       {
-        "uniqueName": "天穹卫士",
+        "uniqueName": "天界卫士",
         "uniqueCode": "paf"
       }
     ],
@@ -8950,7 +8950,7 @@
     "eliteItemDisplayName": "监视者之骨",
     "uniques": [
       {
-        "uniqueName": "殉道",
+        "uniqueName": "殉道者",
         "uniqueCode": "ned"
       }
     ],
@@ -9044,11 +9044,11 @@
         "uniqueCode": "nef"
       },
       {
-        "uniqueName": "呢喃之颅",
+        "uniqueName": "低语骷髅",
         "uniqueCode": "nef"
       },
       {
-        "uniqueName": "地狱锻造黑暗之力衍生",
+        "uniqueName": "地狱锻铸·黑暗之力",
         "uniqueCode": "nef"
       }
     ],
@@ -9093,7 +9093,7 @@
     "eliteItemDisplayName": "骸骨链甲",
     "uniques": [
       {
-        "uniqueName": "无垢之笼",
+        "uniqueName": "无垢者牢笼",
         "uniqueCode": "rar"
       }
     ],
@@ -9138,7 +9138,7 @@
     "eliteItemDisplayName": "洞穴巨魔腰带",
     "uniques": [
       {
-        "uniqueName": "骷髅之环",
+        "uniqueName": "骷髅授带",
         "uniqueCode": "rbe"
       }
     ],
@@ -9534,11 +9534,11 @@
     "eliteItemDisplayName": "虔敬头盔",
     "uniques": [
       {
-        "uniqueName": "执法者之环",
+        "uniqueName": "裁决者光环",
         "uniqueCode": "ph3"
       },
       {
-        "uniqueName": "执法者之环",
+        "uniqueName": "裁决者光环",
         "uniqueCode": "ph3"
       }
     ],
@@ -9583,7 +9583,7 @@
     "eliteItemDisplayName": "猎手兜帽",
     "uniques": [
       {
-        "uniqueName": "金边",
+        "uniqueName": "金缕帽",
         "uniqueCode": "sh1"
       }
     ],
@@ -9668,7 +9668,7 @@
     "eliteItemDisplayName": "猎手兜帽",
     "uniques": [
       {
-        "uniqueName": "卡夏的悲伤",
+        "uniqueName": "卡夏之殇",
         "uniqueCode": "sh3"
       }
     ],
@@ -9793,7 +9793,7 @@
     "eliteItemDisplayName": "启迪长袍",
     "uniques": [
       {
-        "uniqueName": "时空",
+        "uniqueName": "时空之衣",
         "uniqueCode": "tro3"
       }
     ],
@@ -9815,9 +9815,9 @@
     "secondType": "",
     "minDamage": "0",
     "maxDamage": "0",
-    "normalTierCode": "smer",
-    "exceptionalTierCode": "rxx",
-    "eliteTierCode": "rxx",
+    "normalTierCode": "smn",
+    "exceptionalTierCode": "smx",
+    "eliteTierCode": "smer",
     "itemType": {
       "displayName": "",
       "itemType": "Armor",
@@ -9830,7 +9830,7 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "itemTier": "普通",
+    "itemTier": "精英",
     "displayName": "朴素长袍",
     "onlyClassDisplayText": null,
     "normalItemDisplayName": "朴素长袍",
@@ -9838,7 +9838,7 @@
     "eliteItemDisplayName": "",
     "uniques": [
       {
-        "uniqueName": "白板",
+        "uniqueName": "无尽之衣",
         "uniqueCode": "smer"
       }
     ],
@@ -9963,146 +9963,226 @@
     "eliteItemDisplayName": "实用腰带",
     "uniques": [
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       },
       {
-        "uniqueName": "干尸之嚎",
+        "uniqueName": "枯槁者之哀嚎",
         "uniqueCode": "utbe"
       }
     ],
+    "dontDisplay": false,
+    "highlight": false
+  },
+  {
+    "name": "朴素长袍",
+    "minDefense": "e",
+    "maxDefense": 0,
+    "requiredStrength": "b",
+    "code": "smn",
+    "maxSockets": "6",
+    "block": "0",
+    "level": "N",
+    "requiredLevel": "]",
+    "durability": "20",
+    "type": "tors",
+    "secondType": "",
+    "minDamage": "0",
+    "maxDamage": "0",
+    "normalTierCode": "smn",
+    "exceptionalTierCode": "smx",
+    "eliteTierCode": "smer",
+    "itemType": {
+      "displayName": "",
+      "itemType": "Armor",
+      "code": "tors",
+      "firstEquivalent": "armo",
+      "secondEquivalent": "",
+      "bodyLocation": "tors",
+      "clazz": "",
+      "throwable": "0",
+      "dontDisplay": false
+    },
+    "secondItemType": null,
+    "itemTier": "普通",
+    "displayName": "朴素长袍",
+    "onlyClassDisplayText": null,
+    "normalItemDisplayName": "朴素长袍",
+    "exceptionalItemDisplayName": "",
+    "eliteItemDisplayName": "",
+    "uniques": [],
+    "dontDisplay": false,
+    "highlight": false
+  },
+  {
+    "name": "朴素长袍",
+    "minDefense": "e",
+    "maxDefense": 0,
+    "requiredStrength": "b",
+    "code": "smx",
+    "maxSockets": "6",
+    "block": "0",
+    "level": "X",
+    "requiredLevel": "]",
+    "durability": "20",
+    "type": "tors",
+    "secondType": "",
+    "minDamage": "0",
+    "maxDamage": "0",
+    "normalTierCode": "smn",
+    "exceptionalTierCode": "smx",
+    "eliteTierCode": "smer",
+    "itemType": {
+      "displayName": "",
+      "itemType": "Armor",
+      "code": "tors",
+      "firstEquivalent": "armo",
+      "secondEquivalent": "",
+      "bodyLocation": "tors",
+      "clazz": "",
+      "throwable": "0",
+      "dontDisplay": false
+    },
+    "secondItemType": null,
+    "itemTier": "扩展",
+    "displayName": "朴素长袍",
+    "onlyClassDisplayText": null,
+    "normalItemDisplayName": "朴素长袍",
+    "exceptionalItemDisplayName": "",
+    "eliteItemDisplayName": "",
+    "uniques": [],
     "dontDisplay": false,
     "highlight": false
   }
