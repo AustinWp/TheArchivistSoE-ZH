@@ -2996,3 +2996,36 @@ a.mdLink {
 
     filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.6));
 }
+
+/* 「本服务器不支持 / 当前模式不可用」分组（统一放在页面底部） */
+.modeUnsupportedHeader {
+    margin: 18px 0 10px;
+    padding: 12px 14px;
+
+    border: 1px solid rgba(180, 67, 47, 0.45);
+    border-radius: 10px;
+
+    background: linear-gradient(180deg, rgba(180, 67, 47, 0.12), rgba(180, 67, 47, 0.04));
+}
+
+.modeUnsupportedTitle {
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: #f0a08c;
+}
+
+.modeUnsupportedHint {
+    margin-top: 6px;
+    font-size: 13px;
+    color: var(--muted);
+}
+
+.infoPanel.modeUnsupported {
+    opacity: 0.72;
+    border-color: rgba(180, 67, 47, 0.35);
+}
+
+.infoPanel.modeUnsupported .infoTitle {
+    color: #d9a08f;
+}

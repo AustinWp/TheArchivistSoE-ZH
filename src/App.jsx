@@ -828,7 +828,7 @@ function renderInlineMarkdown(text, onLink) {
         return boldSplit.map((b, j) => {
             if (b.startsWith("**") && b.endsWith("**")) {
                 return (<strong key={`${idx}-${j}`} className="mdStrong">
-                    {b.slice(2, -2)}
+                    {renderTextWithIcons(b.slice(2, -2), `${idx}-${j}-strong`)}
                 </strong>);
             }
 
@@ -836,7 +836,7 @@ function renderInlineMarkdown(text, onLink) {
             return italicSplit.map((it, k) => {
                 if (it.startsWith("*") && it.endsWith("*")) {
                     return (<em key={`${idx}-${j}-${k}`} className="mdEm">
-                        {it.slice(1, -1)}
+                        {renderTextWithIcons(it.slice(1, -1), `${idx}-${j}-${k}-em`)}
                     </em>);
                 }
 
@@ -3986,7 +3986,8 @@ function StaticDataPanel({data, loading, error, search, onLink, damnation = fals
 
     const all = Array.isArray(data) ? data : [];
 
-    const filtered = React.useMemo(() => {
+    // 支持的内容正常显示；当前模式不可用的**不隐藏**，而是统一挪到页面底部
+    const {filtered, unsupported} = React.useMemo(() => {
         const q = (search || "").trim().toLowerCase();
 
         const modeOk = (r) => {
@@ -3996,20 +3997,25 @@ function StaticDataPanel({data, loading, error, search, onLink, damnation = fals
             return (damnation ? list.includes("damnation") : list.includes("standard")) || list.includes("both");
         };
 
-        const base = all.filter(modeOk);
-        if (!q) return base;
+        const matches = (r) => {
+            if (!q) return true;
 
-        return base.filter((r) => {
             const title = (n(r?.title) || "").toLowerCase();
-
             const textArr = Array.isArray(r?.text) ? r.text : [r?.text];
-            const textJoined = textArr
-                .filter(Boolean)
-                .join("\n")
-                .toLowerCase();
+            const textJoined = textArr.filter(Boolean).join("\n").toLowerCase();
 
             return title.includes(q) || textJoined.includes(q);
-        });
+        };
+
+        const ok = [];
+        const no = [];
+
+        for (const r of all) {
+            if (!matches(r)) continue;
+            (modeOk(r) ? ok : no).push(r);
+        }
+
+        return {filtered: ok, unsupported: no};
     }, [all, search, damnation]);
 
     const toggle = (id) => {
@@ -4038,7 +4044,7 @@ function StaticDataPanel({data, loading, error, search, onLink, damnation = fals
         );
     }
 
-    if (!filtered.length) {
+    if (!filtered.length && !unsupported.length) {
         return (
             <div className="helpPanel">
                 <div className="helpBody">
@@ -4048,14 +4054,14 @@ function StaticDataPanel({data, loading, error, search, onLink, damnation = fals
         );
     }
 
-    return (<>
-        {filtered.map((r, idx) => {
+    // 单条面板（支持的内容与「不支持」内容共用）
+    const renderPanel = (r, idx, isUnsupported) => {
             const id = r.id || `${r.type || "recipe"}-${idx}`;
             const isOpen = openMap[id] ?? true;
             const title = n(r.title) || `配方 ${idx + 1}`;
             const kind = n(r.type);
 
-            return (<div key={id} className="infoPanel" style={{marginBottom: 10}}>
+            return (<div key={id} className={"infoPanel" + (isUnsupported ? " modeUnsupported" : "")} style={{marginBottom: 10}}>
                 <div className="infoHeader">
                     <div className="infoTitle" style={{fontSize: 18}}>
                         {r.cnUnsupported && (
@@ -4091,7 +4097,24 @@ function StaticDataPanel({data, loading, error, search, onLink, damnation = fals
                     <Markdown text={r.text} onLink={onLink}/>
                 </div>)}
             </div>);
-        })}
+    };
+
+    return (<>
+        {filtered.map((r, idx) => renderPanel(r, idx, false))}
+
+        {unsupported.length ? (<>
+            <div className="modeUnsupportedHeader">
+                <div className="modeUnsupportedTitle">
+                    ⛔ 本服务器不支持 / 当前模式不可用
+                </div>
+                <div className="modeUnsupportedHint">
+                    以下内容在<strong>{damnation ? "炼狱（毁灭）模式" : "标准模式"}</strong>下不可用，
+                    仅作资料留存；切换到另一种模式即可查看。
+                </div>
+            </div>
+
+            {unsupported.map((r, idx) => renderPanel(r, idx, true))}
+        </>) : null}
     </>);
 }
 
