@@ -33,6 +33,10 @@ TARGETS = [
     "FateCards.json",
     "Essences.json",
     "Ascendancies.json",
+    "SeasonS1.json",
+    "Skills.json",
+    "Corruptions.json",
+    "Builds.json",
 ]
 
 TOKEN_RE = re.compile(r"\{\{icon:([A-Za-z0-9_]+)\}\}")
@@ -77,8 +81,8 @@ def build_name_map():
         c = code.lower()
         if c not in images:
             continue
-        if c not in codes:          # 只标注配方里真正用到的物品
-            continue
+        # 说明：不再限制「配方里出现过的 code」——页面正文（赛季页 / 构筑攻略等）
+        # 也会提到宝珠、钥匙、精华等物品；误伤由「长名优先 + 前缀排除 + 审计第 4 项」兜住
         zh = CATEGORY_PREFIX_RE.sub("", zh)
         if not (2 <= len(zh) <= 10):
             continue

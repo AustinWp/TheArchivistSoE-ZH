@@ -190,7 +190,8 @@ npm run build
 │   ├── fetch_item_images.py       下载物品贴图到 public/item-images/
 │   ├── apply_official_item_names.py 底材名对齐官方中文串表
 │   ├── audit_official_terms.py     术语一致性审计（旧译残留/硬编码/物品名）
-│   ├── annotate_item_icons.py     配方页物品名加图标标记 {{icon:CODE}}
+│   ├── annotate_item_icons.py     页面正文物品名加图标标记 {{icon:CODE}}
+│   ├── annotate_rune_numbers.py   正文符文名补编号（提尔 → 提尔（3号））
 │   ├── refresh_data.py            一键刷新（解析/校验/生成/构建）
 │   └── generated/             生成物（gitignore；含报告与对照表）
 └── src/                      站点源码
