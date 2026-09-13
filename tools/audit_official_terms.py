@@ -275,11 +275,27 @@ def main():
         if not os.path.exists(pth):
             continue
         for it in json.load(open(pth, encoding="utf-8")):
-            w = eternal.get(str(it.get("code", "")).lower())
-            if w and norm_name(it.get("name", "")) != norm_name(w):
-                bad3b += 1
-                issues.append(f"[底材名不符] {fn} {it.get('code')}: 「{it.get('name')}」应为「{w}」")
-    print(f"  可比对 {len(eternal)} 条，不一致 {bad3b} 条")
+            code = str(it.get("code", "")).lower()
+
+            # 物品自身：**所有**名字字段都要一致 —— 前端渲染用的是 displayName，
+            # 只校验 name 会漏掉（巧工弩第二次翻车就是栽在这里）
+            for field in ("name", "displayName"):
+                w = _on.resolve(code)[0]
+                if w and it.get(field) and norm_name(it[field]) != norm_name(w):
+                    bad3b += 1
+                    issues.append(f"[底材名不符] {fn} {it.get('code')}.{field}: 「{it[field]}」应为「{w}」")
+
+            # 三个阶位的显示名（按各自 tier code 取名）
+            for field, tier_code in (("normalItemDisplayName", "normalTierCode"),
+                                     ("exceptionalItemDisplayName", "exceptionalTierCode"),
+                                     ("eliteItemDisplayName", "eliteTierCode")):
+                got = it.get(field)
+                w2 = _on.resolve(str(it.get(tier_code) or "").lower())[0]
+                if got and w2 and norm_name(got) != norm_name(w2):
+                    bad3b += 1
+                    issues.append(f"[底材名不符] {fn} {it.get('code')}.{field}: 「{got}」应为「{w2}」")
+
+    print(f"  比对 {len(eternal)} 个基础类型的全部名字字段，不一致 {bad3b} 条")
 
     # ---------- 5) 官方中文名覆盖率 ----------
     print("\n== 5. 官方中文名覆盖率 ==")

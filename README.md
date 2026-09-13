@@ -236,6 +236,20 @@ StrEternalShako    =  基础类型：军帽
 - 标注工具采用「先全量清理、再按安全字段标注」两段式，
   这样即使字段规则收紧，旧标记也会被清掉，不会永久留在数据里。
 
+### 4.2.1 一个物品有**多个**名字字段，改名字要全改
+
+`Weapons.json` / `Armors.json` 里每个物品有 5 个名字相关字段：
+
+| 字段 | 用途 |
+|---|---|
+| `name` | 数据层名字 |
+| **`displayName`** | **前端实际渲染用的就是这个**（`displayName \|\| name`） |
+| `normalItemDisplayName` / `exceptionalItemDisplayName` / `eliteItemDisplayName` | 普通/扩展/精英三个阶位的显示名（按各自的 `normalTierCode` / `exceptionalTierCode` / `eliteTierCode` 取官方名） |
+
+**只改 `name` 不改 `displayName`，页面上就还是旧名字** —— 巧工弩第一次修复后又"没生效"，
+就是栽在这里（`name` 已是「巧工弩」，`displayName` 还是「诸葛弩」）。
+`apply_official_item_names.py` 现在会把这 5 个字段一起对齐，审计第 3b 项也逐字段校验。
+
 ### 5. 中文文案不在代码仓库
 
 `SOECN` 仓库只有 `data/local/LNG/ENG/patchstring.tbl`（英文，纯 ASCII），**没有中文串表**。

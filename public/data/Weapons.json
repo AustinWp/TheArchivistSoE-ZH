@@ -48,8 +48,8 @@
     "displayName": "手斧",
     "itemTier": "普通",
     "normalItemDisplayName": "手斧",
-    "exceptionalItemDisplayName": "短柄斧",
-    "eliteItemDisplayName": "战斧",
+    "exceptionalItemDisplayName": "小斧",
+    "eliteItemDisplayName": "战钺",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -109,8 +109,8 @@
     "displayName": "斧",
     "itemTier": "普通",
     "normalItemDisplayName": "斧",
-    "exceptionalItemDisplayName": "砍刀",
-    "eliteItemDisplayName": "小弯刀",
+    "exceptionalItemDisplayName": "切肉斧",
+    "eliteItemDisplayName": "弯月斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -170,7 +170,7 @@
     "displayName": "双刃斧",
     "itemTier": "普通",
     "normalItemDisplayName": "双刃斧",
-    "exceptionalItemDisplayName": "双斧",
+    "exceptionalItemDisplayName": "强化双斧",
     "eliteItemDisplayName": "双头斧",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -231,7 +231,7 @@
     "displayName": "军用锹",
     "itemTier": "普通",
     "normalItemDisplayName": "军用锹",
-    "exceptionalItemDisplayName": "鸦嘴锄",
+    "exceptionalItemDisplayName": "喙钳",
     "eliteItemDisplayName": "战刺",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -289,11 +289,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战斧",
+    "displayName": "巨战斧",
     "itemTier": "普通",
-    "normalItemDisplayName": "战斧",
-    "exceptionalItemDisplayName": "蛇刀",
-    "eliteItemDisplayName": "狂战士之斧",
+    "normalItemDisplayName": "巨战斧",
+    "exceptionalItemDisplayName": "纳卡",
+    "eliteItemDisplayName": "狂战士斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -353,8 +353,8 @@
     "displayName": "巨斧",
     "itemTier": "普通",
     "normalItemDisplayName": "巨斧",
-    "exceptionalItemDisplayName": "军用斧",
-    "eliteItemDisplayName": "野性之斧",
+    "exceptionalItemDisplayName": "军斧",
+    "eliteItemDisplayName": "猛禽斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -414,7 +414,7 @@
     "displayName": "阔斧",
     "itemTier": "普通",
     "normalItemDisplayName": "阔斧",
-    "exceptionalItemDisplayName": "长柄斧",
+    "exceptionalItemDisplayName": "钩斧",
     "eliteItemDisplayName": "银刃斧",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -475,8 +475,8 @@
     "displayName": "战斗斧",
     "itemTier": "普通",
     "normalItemDisplayName": "战斗斧",
-    "exceptionalItemDisplayName": "塔巴尔战斧",
-    "eliteItemDisplayName": "刽子手之斧",
+    "exceptionalItemDisplayName": "战斗斧",
+    "eliteItemDisplayName": "斩首斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -533,11 +533,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "大斧",
+    "displayName": "卓越之斧",
     "itemTier": "普通",
-    "normalItemDisplayName": "大斧",
-    "exceptionalItemDisplayName": "哥特之斧",
-    "eliteItemDisplayName": "冠军之斧",
+    "normalItemDisplayName": "卓越之斧",
+    "exceptionalItemDisplayName": "哥德之斧",
+    "eliteItemDisplayName": "豪杰斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -594,11 +594,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "巨战斧",
+    "displayName": "大斧",
     "itemTier": "普通",
-    "normalItemDisplayName": "巨战斧",
+    "normalItemDisplayName": "大斧",
     "exceptionalItemDisplayName": "古代之斧",
-    "eliteItemDisplayName": "荣耀之斧",
+    "eliteItemDisplayName": "荣光之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -655,11 +655,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "法杖",
+    "displayName": "杖",
     "itemTier": "普通",
-    "normalItemDisplayName": "法杖",
+    "normalItemDisplayName": "杖",
     "exceptionalItemDisplayName": "烧焦之杖",
-    "eliteItemDisplayName": "抛光之杖",
+    "eliteItemDisplayName": "洗练法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -719,8 +719,8 @@
     "displayName": "紫杉之杖",
     "itemTier": "普通",
     "normalItemDisplayName": "紫杉之杖",
-    "exceptionalItemDisplayName": "石化之杖",
-    "eliteItemDisplayName": "幽魂之杖",
+    "exceptionalItemDisplayName": "净化之杖",
+    "eliteItemDisplayName": "鬼魂法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -780,8 +780,8 @@
     "displayName": "骨杖",
     "itemTier": "普通",
     "normalItemDisplayName": "骨杖",
-    "exceptionalItemDisplayName": "坟墓之杖",
-    "eliteItemDisplayName": "巫妖之杖",
+    "exceptionalItemDisplayName": "古墓之杖",
+    "eliteItemDisplayName": "巫妖法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -842,7 +842,7 @@
     "itemTier": "普通",
     "normalItemDisplayName": "残酷之杖",
     "exceptionalItemDisplayName": "墓地之杖",
-    "eliteItemDisplayName": "出土之杖",
+    "eliteItemDisplayName": "破隐法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -899,11 +899,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "棍棒",
+    "displayName": "木棒",
     "itemTier": "普通",
-    "normalItemDisplayName": "棍棒",
-    "exceptionalItemDisplayName": "短棍",
-    "eliteItemDisplayName": "警棍",
+    "normalItemDisplayName": "木棒",
+    "exceptionalItemDisplayName": "棍棒",
+    "eliteItemDisplayName": "战仪杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -964,7 +964,7 @@
     "itemTier": "普通",
     "normalItemDisplayName": "权杖",
     "exceptionalItemDisplayName": "符文权杖",
-    "eliteItemDisplayName": "威猛权杖",
+    "eliteItemDisplayName": "强威权杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -1021,11 +1021,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "大权杖",
+    "displayName": "雄伟权杖",
     "itemTier": "普通",
-    "normalItemDisplayName": "大权杖",
-    "exceptionalItemDisplayName": "圣水之杖",
-    "eliteItemDisplayName": "炽天使之杖",
+    "normalItemDisplayName": "雄伟权杖",
+    "exceptionalItemDisplayName": "圣水喷杖",
+    "eliteItemDisplayName": "炽天使法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -1082,10 +1082,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战权杖",
+    "displayName": "巨战权杖",
     "itemTier": "普通",
-    "normalItemDisplayName": "战权杖",
-    "exceptionalItemDisplayName": "神圣权杖",
+    "normalItemDisplayName": "巨战权杖",
+    "exceptionalItemDisplayName": "神属权杖",
     "eliteItemDisplayName": "神使之杖",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -1143,11 +1143,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "钉锤",
+    "displayName": "狼牙棒",
     "itemTier": "普通",
-    "normalItemDisplayName": "钉锤",
-    "exceptionalItemDisplayName": "倒刺棍棒",
-    "eliteItemDisplayName": "暴君之棍",
+    "normalItemDisplayName": "狼牙棒",
+    "exceptionalItemDisplayName": "倒钩锤",
+    "eliteItemDisplayName": "暴君之棒",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -1265,9 +1265,9 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "晨星锤",
+    "displayName": "流星锤",
     "itemTier": "普通",
-    "normalItemDisplayName": "晨星锤",
+    "normalItemDisplayName": "流星锤",
     "exceptionalItemDisplayName": "锯齿流星锤",
     "eliteItemDisplayName": "恶魔流星锤",
     "onlyClassDisplayText": null,
@@ -1326,11 +1326,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "连枷",
+    "displayName": "链枷",
     "itemTier": "普通",
-    "normalItemDisplayName": "连枷",
-    "exceptionalItemDisplayName": "皮鞭",
-    "eliteItemDisplayName": "天罚之锤",
+    "normalItemDisplayName": "链枷",
+    "exceptionalItemDisplayName": "铁皮鞭",
+    "eliteItemDisplayName": "鞭",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -1387,10 +1387,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战锤",
+    "displayName": "巨战铁锤",
     "itemTier": "普通",
-    "normalItemDisplayName": "战锤",
-    "exceptionalItemDisplayName": "战斗锤",
+    "normalItemDisplayName": "巨战铁锤",
+    "exceptionalItemDisplayName": "战斗铁锤",
     "eliteItemDisplayName": "传说之锤",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -1448,10 +1448,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "巨锤",
+    "displayName": "大木棍",
     "itemTier": "普通",
-    "normalItemDisplayName": "巨锤",
-    "exceptionalItemDisplayName": "战棍",
+    "normalItemDisplayName": "大木棍",
+    "exceptionalItemDisplayName": "巨战木棍",
     "eliteItemDisplayName": "食人魔之锤",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -1509,10 +1509,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "大锤",
+    "displayName": "卓越巨棍",
     "itemTier": "普通",
-    "normalItemDisplayName": "大锤",
-    "exceptionalItemDisplayName": "铁锤",
+    "normalItemDisplayName": "卓越巨棍",
+    "exceptionalItemDisplayName": "战锤",
     "eliteItemDisplayName": "雷锤",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -1574,7 +1574,7 @@
     "itemTier": "普通",
     "normalItemDisplayName": "短剑",
     "exceptionalItemDisplayName": "罗马短剑",
-    "eliteItemDisplayName": "弯刃刀",
+    "eliteItemDisplayName": "短剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -1634,8 +1634,8 @@
     "displayName": "弯刀",
     "itemTier": "普通",
     "normalItemDisplayName": "弯刀",
-    "exceptionalItemDisplayName": "弯刀",
-    "eliteItemDisplayName": "弯月刀",
+    "exceptionalItemDisplayName": "微弯剑",
+    "eliteItemDisplayName": "土耳其剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -1695,8 +1695,8 @@
     "displayName": "军刀",
     "itemTier": "普通",
     "normalItemDisplayName": "军刀",
-    "exceptionalItemDisplayName": "波斯弯刀",
-    "eliteItemDisplayName": "优雅之刃",
+    "exceptionalItemDisplayName": "虚伪之刃",
+    "eliteItemDisplayName": "优雅之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -1753,11 +1753,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "弯月刀",
+    "displayName": "弯形大刀",
     "itemTier": "普通",
-    "normalItemDisplayName": "弯月刀",
-    "exceptionalItemDisplayName": "塔瓦弯刀",
-    "eliteItemDisplayName": "九头蛇之刃",
+    "normalItemDisplayName": "弯形大刀",
+    "exceptionalItemDisplayName": "圆月弯刀",
+    "eliteItemDisplayName": "九头蛇刃",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -1817,7 +1817,7 @@
     "displayName": "水晶剑",
     "itemTier": "普通",
     "normalItemDisplayName": "水晶剑",
-    "exceptionalItemDisplayName": "次元之刃",
+    "exceptionalItemDisplayName": "空间之刃",
     "eliteItemDisplayName": "幻化之刃",
     "onlyClassDisplayText": null,
     "uniques": null,
@@ -1934,8 +1934,8 @@
     "displayName": "长剑",
     "itemTier": "普通",
     "normalItemDisplayName": "长剑",
-    "exceptionalItemDisplayName": "符文之剑",
-    "eliteItemDisplayName": "秘仪之剑",
+    "exceptionalItemDisplayName": "符文剑",
+    "eliteItemDisplayName": "神秘之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -1992,11 +1992,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战剑",
+    "displayName": "巨战之剑",
     "itemTier": "普通",
-    "normalItemDisplayName": "战剑",
+    "normalItemDisplayName": "巨战之剑",
     "exceptionalItemDisplayName": "古代之剑",
-    "eliteItemDisplayName": "神话之剑",
+    "eliteItemDisplayName": "秘仪之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -2056,7 +2056,7 @@
     "displayName": "双手剑",
     "itemTier": "普通",
     "normalItemDisplayName": "双手剑",
-    "exceptionalItemDisplayName": "宽刃剑",
+    "exceptionalItemDisplayName": "双刃大剑",
     "eliteItemDisplayName": "传说之剑",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -2117,7 +2117,7 @@
     "displayName": "双刃大刀",
     "itemTier": "普通",
     "normalItemDisplayName": "双刃大刀",
-    "exceptionalItemDisplayName": "达契亚镰刀",
+    "exceptionalItemDisplayName": "双刃镰",
     "eliteItemDisplayName": "高地之剑",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -2175,10 +2175,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "巨剑",
+    "displayName": "大剑",
     "itemTier": "普通",
-    "normalItemDisplayName": "巨剑",
-    "exceptionalItemDisplayName": "獠牙剑",
+    "normalItemDisplayName": "大剑",
+    "exceptionalItemDisplayName": "长牙剑",
     "eliteItemDisplayName": "炎魔之刃",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -2236,10 +2236,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "混种大剑",
+    "displayName": "巨剑",
     "itemTier": "普通",
-    "normalItemDisplayName": "混种大剑",
-    "exceptionalItemDisplayName": "哥特之剑",
+    "normalItemDisplayName": "巨剑",
+    "exceptionalItemDisplayName": "哥德剑",
     "eliteItemDisplayName": "冠军之剑",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -2297,11 +2297,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "焰形剑",
+    "displayName": "双手饰剑",
     "itemTier": "普通",
-    "normalItemDisplayName": "焰形剑",
-    "exceptionalItemDisplayName": "双手巨剑",
-    "eliteItemDisplayName": "巨神长剑",
+    "normalItemDisplayName": "双手饰剑",
+    "exceptionalItemDisplayName": "瑞韩德之剑",
+    "eliteItemDisplayName": "巨神之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -2358,10 +2358,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "大剑",
+    "displayName": "卓越之剑",
     "itemTier": "普通",
-    "normalItemDisplayName": "大剑",
-    "exceptionalItemDisplayName": "行刑之剑",
+    "normalItemDisplayName": "卓越之剑",
+    "exceptionalItemDisplayName": "死刑之剑",
     "eliteItemDisplayName": "巨神之刃",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -2422,8 +2422,8 @@
     "displayName": "匕首",
     "itemTier": "普通",
     "normalItemDisplayName": "匕首",
-    "exceptionalItemDisplayName": "刺剑",
-    "eliteItemDisplayName": "骨小刀",
+    "exceptionalItemDisplayName": "锐匕",
+    "eliteItemDisplayName": "骸骨小刀",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -2480,11 +2480,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "短剑",
+    "displayName": "长匕首",
     "itemTier": "普通",
-    "normalItemDisplayName": "短剑",
-    "exceptionalItemDisplayName": "圆刃匕首",
-    "eliteItemDisplayName": "秘银尖枪",
+    "normalItemDisplayName": "长匕首",
+    "exceptionalItemDisplayName": "诗歌匕首",
+    "eliteItemDisplayName": "秘银尖刺",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -2541,11 +2541,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "马来匕首",
+    "displayName": "波形刀",
     "itemTier": "普通",
-    "normalItemDisplayName": "马来匕首",
-    "exceptionalItemDisplayName": "五刃剑",
-    "eliteItemDisplayName": "牙刃",
+    "normalItemDisplayName": "波形刀",
+    "exceptionalItemDisplayName": "强波刀",
+    "eliteItemDisplayName": "齿缘小刀",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -2602,10 +2602,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "刀刃",
+    "displayName": "刀锋之",
     "itemTier": "普通",
-    "normalItemDisplayName": "刀刃",
-    "exceptionalItemDisplayName": "狭长匕首",
+    "normalItemDisplayName": "刀锋之",
+    "exceptionalItemDisplayName": "小剑",
     "eliteItemDisplayName": "传说尖刺",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -2663,11 +2663,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "投掷小刀",
+    "displayName": "飞刀",
     "itemTier": "普通",
-    "normalItemDisplayName": "投掷小刀",
+    "normalItemDisplayName": "飞刀",
     "exceptionalItemDisplayName": "战斗飞镖",
-    "eliteItemDisplayName": "飞行小刀",
+    "eliteItemDisplayName": "飞刀",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -2719,11 +2719,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "投掷斧",
+    "displayName": "飞斧",
     "itemTier": "普通",
-    "normalItemDisplayName": "投掷斧",
-    "exceptionalItemDisplayName": "法兰克飞斧",
-    "eliteItemDisplayName": "飞行斧",
+    "normalItemDisplayName": "飞斧",
+    "exceptionalItemDisplayName": "法兰飞斧",
+    "eliteItemDisplayName": "飞斧",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -2778,7 +2778,7 @@
     "displayName": "平衡小刀",
     "itemTier": "普通",
     "normalItemDisplayName": "平衡小刀",
-    "exceptionalItemDisplayName": "战镖",
+    "exceptionalItemDisplayName": "巨战飞镖",
     "eliteItemDisplayName": "翼刀",
     "onlyClassDisplayText": null,
     "uniques": null,
@@ -2834,7 +2834,7 @@
     "displayName": "平衡斧",
     "itemTier": "普通",
     "normalItemDisplayName": "平衡斧",
-    "exceptionalItemDisplayName": "投掷斧",
+    "exceptionalItemDisplayName": "短战戟",
     "eliteItemDisplayName": "翼斧",
     "onlyClassDisplayText": null,
     "uniques": null,
@@ -2890,8 +2890,8 @@
     "displayName": "标枪",
     "itemTier": "普通",
     "normalItemDisplayName": "标枪",
-    "exceptionalItemDisplayName": "战枪",
-    "eliteItemDisplayName": "亥伯龙标枪",
+    "exceptionalItemDisplayName": "巨战标枪",
+    "eliteItemDisplayName": "亥伯龙之枪",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -2943,11 +2943,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "投枪",
+    "displayName": "短标枪",
     "itemTier": "普通",
-    "normalItemDisplayName": "投枪",
-    "exceptionalItemDisplayName": "大投枪",
-    "eliteItemDisplayName": "冥河投枪",
+    "normalItemDisplayName": "短标枪",
+    "exceptionalItemDisplayName": "卓越标枪",
+    "eliteItemDisplayName": "冥河标枪",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -3002,8 +3002,8 @@
     "displayName": "短矛",
     "itemTier": "普通",
     "normalItemDisplayName": "短矛",
-    "exceptionalItemDisplayName": "辛比兰战矛",
-    "eliteItemDisplayName": "炎魔之矛",
+    "exceptionalItemDisplayName": "锐矛",
+    "eliteItemDisplayName": "炎魔长矛",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -3055,11 +3055,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战戟",
+    "displayName": "大长刀",
     "itemTier": "普通",
-    "normalItemDisplayName": "战戟",
-    "exceptionalItemDisplayName": "投矛",
-    "eliteItemDisplayName": "幽魂战戟",
+    "normalItemDisplayName": "大长刀",
+    "exceptionalItemDisplayName": "阔针长矛",
+    "eliteItemDisplayName": "鬼魂尖枪",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -3111,9 +3111,9 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "投掷长矛",
+    "displayName": "飞矛",
     "itemTier": "普通",
-    "normalItemDisplayName": "投掷长矛",
+    "normalItemDisplayName": "飞矛",
     "exceptionalItemDisplayName": "鱼叉",
     "eliteItemDisplayName": "翼鱼叉",
     "onlyClassDisplayText": null,
@@ -3170,7 +3170,7 @@
     "displayName": "长矛",
     "itemTier": "普通",
     "normalItemDisplayName": "长矛",
-    "exceptionalItemDisplayName": "战矛",
+    "exceptionalItemDisplayName": "巨战长矛",
     "eliteItemDisplayName": "亥伯龙之矛",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -3231,8 +3231,8 @@
     "displayName": "三叉戟",
     "itemTier": "普通",
     "normalItemDisplayName": "三叉戟",
-    "exceptionalItemDisplayName": "鱼叉",
-    "eliteItemDisplayName": "冥河长枪",
+    "exceptionalItemDisplayName": "魔鬼之叉",
+    "eliteItemDisplayName": "冥河之枪",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -3289,11 +3289,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "三叉枪",
+    "displayName": "叉",
     "itemTier": "普通",
-    "normalItemDisplayName": "三叉枪",
-    "exceptionalItemDisplayName": "战叉",
-    "eliteItemDisplayName": "捕人叉",
+    "normalItemDisplayName": "叉",
+    "exceptionalItemDisplayName": "巨战之叉",
+    "eliteItemDisplayName": "刺人枪",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -3350,11 +3350,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "梭镖枪",
+    "displayName": "大战戟",
     "itemTier": "普通",
-    "normalItemDisplayName": "梭镖枪",
-    "exceptionalItemDisplayName": "日式长枪",
-    "eliteItemDisplayName": "幽魂之矛",
+    "normalItemDisplayName": "大战戟",
+    "exceptionalItemDisplayName": "三叉长枪",
+    "eliteItemDisplayName": "鬼魂之矛",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -3411,9 +3411,9 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "长枪",
+    "displayName": "矛",
     "itemTier": "普通",
-    "normalItemDisplayName": "长枪",
+    "normalItemDisplayName": "矛",
     "exceptionalItemDisplayName": "长枪",
     "eliteItemDisplayName": "战枪",
     "onlyClassDisplayText": null,
@@ -3472,10 +3472,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "阔头枪",
+    "displayName": "大砍刀",
     "itemTier": "普通",
-    "normalItemDisplayName": "阔头枪",
-    "exceptionalItemDisplayName": "洛查伯战斧",
+    "normalItemDisplayName": "大砍刀",
+    "exceptionalItemDisplayName": "罗佳柏斧",
     "eliteItemDisplayName": "食人魔之斧",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -3533,11 +3533,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战戟",
+    "displayName": "钩镰枪",
     "itemTier": "普通",
-    "normalItemDisplayName": "战戟",
-    "exceptionalItemDisplayName": "钩镰枪",
-    "eliteItemDisplayName": "巨神戟",
+    "normalItemDisplayName": "钩镰枪",
+    "exceptionalItemDisplayName": "比尔长刀",
+    "eliteItemDisplayName": "巨神之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -3598,7 +3598,7 @@
     "itemTier": "普通",
     "normalItemDisplayName": "镰刀",
     "exceptionalItemDisplayName": "战斗镰刀",
-    "eliteItemDisplayName": "镰刀",
+    "eliteItemDisplayName": "锐利之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -3655,11 +3655,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "长柄斧",
+    "displayName": "长柄战斧",
     "itemTier": "普通",
-    "normalItemDisplayName": "长柄斧",
-    "exceptionalItemDisplayName": "阔头枪",
-    "eliteItemDisplayName": "秘仪之斧",
+    "normalItemDisplayName": "长柄战斧",
+    "exceptionalItemDisplayName": "战戟",
+    "eliteItemDisplayName": "神秘之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -3716,11 +3716,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "长柄战斧",
+    "displayName": "长戟",
     "itemTier": "普通",
-    "normalItemDisplayName": "长柄战斧",
-    "exceptionalItemDisplayName": "鸦嘴战锤",
-    "eliteItemDisplayName": "大战戟",
+    "normalItemDisplayName": "长戟",
+    "exceptionalItemDisplayName": "双锋战戟",
+    "eliteItemDisplayName": "巨长斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -3777,11 +3777,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战镰",
+    "displayName": "巨战镰刀",
     "itemTier": "普通",
-    "normalItemDisplayName": "战镰",
+    "normalItemDisplayName": "巨战镰刀",
     "exceptionalItemDisplayName": "残酷镰刀",
-    "eliteItemDisplayName": "巨型镰刀",
+    "eliteItemDisplayName": "鲛尾巨斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -3838,11 +3838,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "短法杖",
+    "displayName": "短棍",
     "itemTier": "普通",
-    "normalItemDisplayName": "短法杖",
-    "exceptionalItemDisplayName": "僧院法杖",
-    "eliteItemDisplayName": "步行杖",
+    "normalItemDisplayName": "短棍",
+    "exceptionalItemDisplayName": "乔木棒",
+    "eliteItemDisplayName": "手杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -3899,11 +3899,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "长法杖",
+    "displayName": "长棍",
     "itemTier": "普通",
-    "normalItemDisplayName": "长法杖",
-    "exceptionalItemDisplayName": "长柄法杖",
-    "eliteItemDisplayName": "石笋之锤",
+    "normalItemDisplayName": "长棍",
+    "exceptionalItemDisplayName": "六尺棍",
+    "eliteItemDisplayName": "钟乳石之杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -3960,10 +3960,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "节瘤法杖",
+    "displayName": "多节棍",
     "itemTier": "普通",
-    "normalItemDisplayName": "节瘤法杖",
-    "exceptionalItemDisplayName": "雪松法杖",
+    "normalItemDisplayName": "多节棍",
+    "exceptionalItemDisplayName": "杉木之棍",
     "eliteItemDisplayName": "长老之杖",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -4024,8 +4024,8 @@
     "displayName": "战斗法杖",
     "itemTier": "普通",
     "normalItemDisplayName": "战斗法杖",
-    "exceptionalItemDisplayName": "哥特法杖",
-    "eliteItemDisplayName": "橡木短棍",
+    "exceptionalItemDisplayName": "哥德之棍",
+    "eliteItemDisplayName": "树皮之杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -4082,10 +4082,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战法杖",
+    "displayName": "巨战法杖",
     "itemTier": "普通",
-    "normalItemDisplayName": "战法杖",
-    "exceptionalItemDisplayName": "符文法杖",
+    "normalItemDisplayName": "巨战法杖",
+    "exceptionalItemDisplayName": "符文之棍",
     "eliteItemDisplayName": "执政官之杖",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -4136,7 +4136,7 @@
     "displayName": "短弓",
     "itemTier": "普通",
     "normalItemDisplayName": "短弓",
-    "exceptionalItemDisplayName": "锋锐弓",
+    "exceptionalItemDisplayName": "锋锐之弓",
     "eliteItemDisplayName": "蜘蛛弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -4238,8 +4238,8 @@
     "displayName": "长弓",
     "itemTier": "普通",
     "normalItemDisplayName": "长弓",
-    "exceptionalItemDisplayName": "雪松弓",
-    "eliteItemDisplayName": "暗影弓",
+    "exceptionalItemDisplayName": "杉木弓",
+    "eliteItemDisplayName": "阴影弓",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -4290,7 +4290,7 @@
     "itemTier": "普通",
     "normalItemDisplayName": "组合弓",
     "exceptionalItemDisplayName": "双弓",
-    "eliteItemDisplayName": "大弓",
+    "eliteItemDisplayName": "巨弓",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -4391,7 +4391,7 @@
     "displayName": "长战斗弓",
     "itemTier": "普通",
     "normalItemDisplayName": "长战斗弓",
-    "exceptionalItemDisplayName": "大攻城弓",
+    "exceptionalItemDisplayName": "长攻城弓",
     "eliteItemDisplayName": "十字军之弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -4439,11 +4439,11 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "短战弓",
+    "displayName": "短巨战弓",
     "itemTier": "普通",
-    "normalItemDisplayName": "短战弓",
+    "normalItemDisplayName": "短巨战弓",
     "exceptionalItemDisplayName": "符文之弓",
-    "eliteItemDisplayName": "守护之弓",
+    "eliteItemDisplayName": "庇护之弓",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -4490,10 +4490,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "长战弓",
+    "displayName": "长巨战弓",
     "itemTier": "普通",
-    "normalItemDisplayName": "长战弓",
-    "exceptionalItemDisplayName": "哥特之弓",
+    "normalItemDisplayName": "长巨战弓",
+    "exceptionalItemDisplayName": "哥德弓",
     "eliteItemDisplayName": "九头蛇弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -4544,7 +4544,7 @@
     "displayName": "轻十字弓",
     "itemTier": "普通",
     "normalItemDisplayName": "轻十字弓",
-    "exceptionalItemDisplayName": "劲弩",
+    "exceptionalItemDisplayName": "石弓",
     "eliteItemDisplayName": "弹丸弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -4596,7 +4596,7 @@
     "itemTier": "普通",
     "normalItemDisplayName": "十字弓",
     "exceptionalItemDisplayName": "攻城十字弓",
-    "eliteItemDisplayName": "蛇魔十字弓",
+    "eliteItemDisplayName": "蛇魔女十字弓",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -4646,7 +4646,7 @@
     "displayName": "重十字弓",
     "itemTier": "普通",
     "normalItemDisplayName": "重十字弓",
-    "exceptionalItemDisplayName": "攻城弩",
+    "exceptionalItemDisplayName": "弩炮",
     "eliteItemDisplayName": "巨神十字弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -4697,7 +4697,7 @@
     "displayName": "连射十字弓",
     "itemTier": "普通",
     "normalItemDisplayName": "连射十字弓",
-    "exceptionalItemDisplayName": "诸葛弩",
+    "exceptionalItemDisplayName": "巧工弩",
     "eliteItemDisplayName": "恶魔十字弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -4758,8 +4758,8 @@
     "displayName": "赫拉迪克法杖",
     "itemTier": "普通",
     "normalItemDisplayName": "赫拉迪克法杖",
-    "exceptionalItemDisplayName": "哥特法杖",
-    "eliteItemDisplayName": "橡木短棍",
+    "exceptionalItemDisplayName": "哥德之棍",
+    "eliteItemDisplayName": "树皮之杖",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -4811,11 +4811,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "短柄斧",
+    "displayName": "小斧",
     "itemTier": "扩展",
     "normalItemDisplayName": "手斧",
-    "exceptionalItemDisplayName": "短柄斧",
-    "eliteItemDisplayName": "战斧",
+    "exceptionalItemDisplayName": "小斧",
+    "eliteItemDisplayName": "战钺",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -4872,11 +4872,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "砍刀",
+    "displayName": "切肉斧",
     "itemTier": "扩展",
     "normalItemDisplayName": "斧",
-    "exceptionalItemDisplayName": "砍刀",
-    "eliteItemDisplayName": "小弯刀",
+    "exceptionalItemDisplayName": "切肉斧",
+    "eliteItemDisplayName": "弯月斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -4933,10 +4933,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "双斧",
+    "displayName": "强化双斧",
     "itemTier": "扩展",
     "normalItemDisplayName": "双刃斧",
-    "exceptionalItemDisplayName": "双斧",
+    "exceptionalItemDisplayName": "强化双斧",
     "eliteItemDisplayName": "双头斧",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -4994,10 +4994,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "鸦嘴锄",
+    "displayName": "喙钳",
     "itemTier": "扩展",
     "normalItemDisplayName": "军用锹",
-    "exceptionalItemDisplayName": "鸦嘴锄",
+    "exceptionalItemDisplayName": "喙钳",
     "eliteItemDisplayName": "战刺",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -5055,11 +5055,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "蛇刀",
+    "displayName": "纳卡",
     "itemTier": "扩展",
-    "normalItemDisplayName": "战斧",
-    "exceptionalItemDisplayName": "蛇刀",
-    "eliteItemDisplayName": "狂战士之斧",
+    "normalItemDisplayName": "巨战斧",
+    "exceptionalItemDisplayName": "纳卡",
+    "eliteItemDisplayName": "狂战士斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5116,11 +5116,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "军用斧",
+    "displayName": "军斧",
     "itemTier": "扩展",
     "normalItemDisplayName": "巨斧",
-    "exceptionalItemDisplayName": "军用斧",
-    "eliteItemDisplayName": "野性之斧",
+    "exceptionalItemDisplayName": "军斧",
+    "eliteItemDisplayName": "猛禽斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5177,10 +5177,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "长柄斧",
+    "displayName": "钩斧",
     "itemTier": "扩展",
     "normalItemDisplayName": "阔斧",
-    "exceptionalItemDisplayName": "长柄斧",
+    "exceptionalItemDisplayName": "钩斧",
     "eliteItemDisplayName": "银刃斧",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -5238,11 +5238,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "塔巴尔战斧",
+    "displayName": "战斗斧",
     "itemTier": "扩展",
     "normalItemDisplayName": "战斗斧",
-    "exceptionalItemDisplayName": "塔巴尔战斧",
-    "eliteItemDisplayName": "刽子手之斧",
+    "exceptionalItemDisplayName": "战斗斧",
+    "eliteItemDisplayName": "斩首斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5299,11 +5299,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "哥特之斧",
+    "displayName": "哥德之斧",
     "itemTier": "扩展",
-    "normalItemDisplayName": "大斧",
-    "exceptionalItemDisplayName": "哥特之斧",
-    "eliteItemDisplayName": "冠军之斧",
+    "normalItemDisplayName": "卓越之斧",
+    "exceptionalItemDisplayName": "哥德之斧",
+    "eliteItemDisplayName": "豪杰斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5362,9 +5362,9 @@
     },
     "displayName": "古代之斧",
     "itemTier": "扩展",
-    "normalItemDisplayName": "巨战斧",
+    "normalItemDisplayName": "大斧",
     "exceptionalItemDisplayName": "古代之斧",
-    "eliteItemDisplayName": "荣耀之斧",
+    "eliteItemDisplayName": "荣光之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5423,9 +5423,9 @@
     },
     "displayName": "烧焦之杖",
     "itemTier": "扩展",
-    "normalItemDisplayName": "法杖",
+    "normalItemDisplayName": "杖",
     "exceptionalItemDisplayName": "烧焦之杖",
-    "eliteItemDisplayName": "抛光之杖",
+    "eliteItemDisplayName": "洗练法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5482,11 +5482,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "石化之杖",
+    "displayName": "净化之杖",
     "itemTier": "扩展",
     "normalItemDisplayName": "紫杉之杖",
-    "exceptionalItemDisplayName": "石化之杖",
-    "eliteItemDisplayName": "幽魂之杖",
+    "exceptionalItemDisplayName": "净化之杖",
+    "eliteItemDisplayName": "鬼魂法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5543,11 +5543,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "坟墓之杖",
+    "displayName": "古墓之杖",
     "itemTier": "扩展",
     "normalItemDisplayName": "骨杖",
-    "exceptionalItemDisplayName": "坟墓之杖",
-    "eliteItemDisplayName": "巫妖之杖",
+    "exceptionalItemDisplayName": "古墓之杖",
+    "eliteItemDisplayName": "巫妖法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5612,7 +5612,7 @@
     "itemTier": "扩展",
     "normalItemDisplayName": "残酷之杖",
     "exceptionalItemDisplayName": "墓地之杖",
-    "eliteItemDisplayName": "出土之杖",
+    "eliteItemDisplayName": "破隐法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5669,11 +5669,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "短棍",
+    "displayName": "棍棒",
     "itemTier": "扩展",
-    "normalItemDisplayName": "棍棒",
-    "exceptionalItemDisplayName": "短棍",
-    "eliteItemDisplayName": "警棍",
+    "normalItemDisplayName": "木棒",
+    "exceptionalItemDisplayName": "棍棒",
+    "eliteItemDisplayName": "战仪杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5734,7 +5734,7 @@
     "itemTier": "扩展",
     "normalItemDisplayName": "权杖",
     "exceptionalItemDisplayName": "符文权杖",
-    "eliteItemDisplayName": "威猛权杖",
+    "eliteItemDisplayName": "强威权杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5791,11 +5791,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "圣水之杖",
+    "displayName": "圣水喷杖",
     "itemTier": "扩展",
-    "normalItemDisplayName": "大权杖",
-    "exceptionalItemDisplayName": "圣水之杖",
-    "eliteItemDisplayName": "炽天使之杖",
+    "normalItemDisplayName": "雄伟权杖",
+    "exceptionalItemDisplayName": "圣水喷杖",
+    "eliteItemDisplayName": "炽天使法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -5852,10 +5852,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "神圣权杖",
+    "displayName": "神属权杖",
     "itemTier": "扩展",
-    "normalItemDisplayName": "战权杖",
-    "exceptionalItemDisplayName": "神圣权杖",
+    "normalItemDisplayName": "巨战权杖",
+    "exceptionalItemDisplayName": "神属权杖",
     "eliteItemDisplayName": "神使之杖",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -5913,11 +5913,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "倒刺棍棒",
+    "displayName": "倒钩锤",
     "itemTier": "扩展",
-    "normalItemDisplayName": "钉锤",
-    "exceptionalItemDisplayName": "倒刺棍棒",
-    "eliteItemDisplayName": "暴君之棍",
+    "normalItemDisplayName": "狼牙棒",
+    "exceptionalItemDisplayName": "倒钩锤",
+    "eliteItemDisplayName": "暴君之棒",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -6037,7 +6037,7 @@
     },
     "displayName": "锯齿流星锤",
     "itemTier": "扩展",
-    "normalItemDisplayName": "晨星锤",
+    "normalItemDisplayName": "流星锤",
     "exceptionalItemDisplayName": "锯齿流星锤",
     "eliteItemDisplayName": "恶魔流星锤",
     "onlyClassDisplayText": null,
@@ -6096,11 +6096,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "皮鞭",
+    "displayName": "铁皮鞭",
     "itemTier": "扩展",
-    "normalItemDisplayName": "连枷",
-    "exceptionalItemDisplayName": "皮鞭",
-    "eliteItemDisplayName": "天罚之锤",
+    "normalItemDisplayName": "链枷",
+    "exceptionalItemDisplayName": "铁皮鞭",
+    "eliteItemDisplayName": "鞭",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -6157,10 +6157,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战斗锤",
+    "displayName": "战斗铁锤",
     "itemTier": "扩展",
-    "normalItemDisplayName": "战锤",
-    "exceptionalItemDisplayName": "战斗锤",
+    "normalItemDisplayName": "巨战铁锤",
+    "exceptionalItemDisplayName": "战斗铁锤",
     "eliteItemDisplayName": "传说之锤",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -6218,10 +6218,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战棍",
+    "displayName": "巨战木棍",
     "itemTier": "扩展",
-    "normalItemDisplayName": "巨锤",
-    "exceptionalItemDisplayName": "战棍",
+    "normalItemDisplayName": "大木棍",
+    "exceptionalItemDisplayName": "巨战木棍",
     "eliteItemDisplayName": "食人魔之锤",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -6279,10 +6279,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "铁锤",
+    "displayName": "战锤",
     "itemTier": "扩展",
-    "normalItemDisplayName": "大锤",
-    "exceptionalItemDisplayName": "铁锤",
+    "normalItemDisplayName": "卓越巨棍",
+    "exceptionalItemDisplayName": "战锤",
     "eliteItemDisplayName": "雷锤",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -6344,7 +6344,7 @@
     "itemTier": "扩展",
     "normalItemDisplayName": "短剑",
     "exceptionalItemDisplayName": "罗马短剑",
-    "eliteItemDisplayName": "弯刃刀",
+    "eliteItemDisplayName": "短剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -6401,11 +6401,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "弯刀",
+    "displayName": "微弯剑",
     "itemTier": "扩展",
     "normalItemDisplayName": "弯刀",
-    "exceptionalItemDisplayName": "弯刀",
-    "eliteItemDisplayName": "弯月刀",
+    "exceptionalItemDisplayName": "微弯剑",
+    "eliteItemDisplayName": "土耳其剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -6462,11 +6462,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "波斯弯刀",
+    "displayName": "虚伪之刃",
     "itemTier": "扩展",
     "normalItemDisplayName": "军刀",
-    "exceptionalItemDisplayName": "波斯弯刀",
-    "eliteItemDisplayName": "优雅之刃",
+    "exceptionalItemDisplayName": "虚伪之刃",
+    "eliteItemDisplayName": "优雅之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -6523,11 +6523,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "塔瓦弯刀",
+    "displayName": "圆月弯刀",
     "itemTier": "扩展",
-    "normalItemDisplayName": "弯月刀",
-    "exceptionalItemDisplayName": "塔瓦弯刀",
-    "eliteItemDisplayName": "九头蛇之刃",
+    "normalItemDisplayName": "弯形大刀",
+    "exceptionalItemDisplayName": "圆月弯刀",
+    "eliteItemDisplayName": "九头蛇刃",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -6584,10 +6584,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "次元之刃",
+    "displayName": "空间之刃",
     "itemTier": "扩展",
     "normalItemDisplayName": "水晶剑",
-    "exceptionalItemDisplayName": "次元之刃",
+    "exceptionalItemDisplayName": "空间之刃",
     "eliteItemDisplayName": "幻化之刃",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -6706,11 +6706,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "符文之剑",
+    "displayName": "符文剑",
     "itemTier": "扩展",
     "normalItemDisplayName": "长剑",
-    "exceptionalItemDisplayName": "符文之剑",
-    "eliteItemDisplayName": "秘仪之剑",
+    "exceptionalItemDisplayName": "符文剑",
+    "eliteItemDisplayName": "神秘之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -6769,9 +6769,9 @@
     },
     "displayName": "古代之剑",
     "itemTier": "扩展",
-    "normalItemDisplayName": "战剑",
+    "normalItemDisplayName": "巨战之剑",
     "exceptionalItemDisplayName": "古代之剑",
-    "eliteItemDisplayName": "神话之剑",
+    "eliteItemDisplayName": "秘仪之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -6828,10 +6828,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "宽刃剑",
+    "displayName": "双刃大剑",
     "itemTier": "扩展",
     "normalItemDisplayName": "双手剑",
-    "exceptionalItemDisplayName": "宽刃剑",
+    "exceptionalItemDisplayName": "双刃大剑",
     "eliteItemDisplayName": "传说之剑",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -6889,10 +6889,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "达契亚镰刀",
+    "displayName": "双刃镰",
     "itemTier": "扩展",
     "normalItemDisplayName": "双刃大刀",
-    "exceptionalItemDisplayName": "达契亚镰刀",
+    "exceptionalItemDisplayName": "双刃镰",
     "eliteItemDisplayName": "高地之剑",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -6950,10 +6950,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "獠牙剑",
+    "displayName": "长牙剑",
     "itemTier": "扩展",
-    "normalItemDisplayName": "巨剑",
-    "exceptionalItemDisplayName": "獠牙剑",
+    "normalItemDisplayName": "大剑",
+    "exceptionalItemDisplayName": "长牙剑",
     "eliteItemDisplayName": "炎魔之刃",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -7011,10 +7011,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "哥特之剑",
+    "displayName": "哥德剑",
     "itemTier": "扩展",
-    "normalItemDisplayName": "混种大剑",
-    "exceptionalItemDisplayName": "哥特之剑",
+    "normalItemDisplayName": "巨剑",
+    "exceptionalItemDisplayName": "哥德剑",
     "eliteItemDisplayName": "冠军之剑",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -7072,11 +7072,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "双手巨剑",
+    "displayName": "瑞韩德之剑",
     "itemTier": "扩展",
-    "normalItemDisplayName": "焰形剑",
-    "exceptionalItemDisplayName": "双手巨剑",
-    "eliteItemDisplayName": "巨神长剑",
+    "normalItemDisplayName": "双手饰剑",
+    "exceptionalItemDisplayName": "瑞韩德之剑",
+    "eliteItemDisplayName": "巨神之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -7133,10 +7133,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "行刑之剑",
+    "displayName": "死刑之剑",
     "itemTier": "扩展",
-    "normalItemDisplayName": "大剑",
-    "exceptionalItemDisplayName": "行刑之剑",
+    "normalItemDisplayName": "卓越之剑",
+    "exceptionalItemDisplayName": "死刑之剑",
     "eliteItemDisplayName": "巨神之刃",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -7194,11 +7194,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "刺剑",
+    "displayName": "锐匕",
     "itemTier": "扩展",
     "normalItemDisplayName": "匕首",
-    "exceptionalItemDisplayName": "刺剑",
-    "eliteItemDisplayName": "骨小刀",
+    "exceptionalItemDisplayName": "锐匕",
+    "eliteItemDisplayName": "骸骨小刀",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -7255,11 +7255,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "圆刃匕首",
+    "displayName": "诗歌匕首",
     "itemTier": "扩展",
-    "normalItemDisplayName": "短剑",
-    "exceptionalItemDisplayName": "圆刃匕首",
-    "eliteItemDisplayName": "秘银尖枪",
+    "normalItemDisplayName": "长匕首",
+    "exceptionalItemDisplayName": "诗歌匕首",
+    "eliteItemDisplayName": "秘银尖刺",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -7316,11 +7316,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "五刃剑",
+    "displayName": "强波刀",
     "itemTier": "扩展",
-    "normalItemDisplayName": "马来匕首",
-    "exceptionalItemDisplayName": "五刃剑",
-    "eliteItemDisplayName": "牙刃",
+    "normalItemDisplayName": "波形刀",
+    "exceptionalItemDisplayName": "强波刀",
+    "eliteItemDisplayName": "齿缘小刀",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -7377,10 +7377,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "狭长匕首",
+    "displayName": "小剑",
     "itemTier": "扩展",
-    "normalItemDisplayName": "刀刃",
-    "exceptionalItemDisplayName": "狭长匕首",
+    "normalItemDisplayName": "刀锋之",
+    "exceptionalItemDisplayName": "小剑",
     "eliteItemDisplayName": "传说尖刺",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -7440,9 +7440,9 @@
     },
     "displayName": "战斗飞镖",
     "itemTier": "扩展",
-    "normalItemDisplayName": "投掷小刀",
+    "normalItemDisplayName": "飞刀",
     "exceptionalItemDisplayName": "战斗飞镖",
-    "eliteItemDisplayName": "飞行小刀",
+    "eliteItemDisplayName": "飞刀",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -7499,11 +7499,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "法兰克飞斧",
+    "displayName": "法兰飞斧",
     "itemTier": "扩展",
-    "normalItemDisplayName": "投掷斧",
-    "exceptionalItemDisplayName": "法兰克飞斧",
-    "eliteItemDisplayName": "飞行斧",
+    "normalItemDisplayName": "飞斧",
+    "exceptionalItemDisplayName": "法兰飞斧",
+    "eliteItemDisplayName": "飞斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -7560,10 +7560,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战镖",
+    "displayName": "巨战飞镖",
     "itemTier": "扩展",
     "normalItemDisplayName": "平衡小刀",
-    "exceptionalItemDisplayName": "战镖",
+    "exceptionalItemDisplayName": "巨战飞镖",
     "eliteItemDisplayName": "翼刀",
     "onlyClassDisplayText": null,
     "uniques": null,
@@ -7616,10 +7616,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "投掷斧",
+    "displayName": "短战戟",
     "itemTier": "扩展",
     "normalItemDisplayName": "平衡斧",
-    "exceptionalItemDisplayName": "投掷斧",
+    "exceptionalItemDisplayName": "短战戟",
     "eliteItemDisplayName": "翼斧",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -7677,11 +7677,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战枪",
+    "displayName": "巨战标枪",
     "itemTier": "扩展",
     "normalItemDisplayName": "标枪",
-    "exceptionalItemDisplayName": "战枪",
-    "eliteItemDisplayName": "亥伯龙标枪",
+    "exceptionalItemDisplayName": "巨战标枪",
+    "eliteItemDisplayName": "亥伯龙之枪",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -7733,11 +7733,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "大投枪",
+    "displayName": "卓越标枪",
     "itemTier": "扩展",
-    "normalItemDisplayName": "投枪",
-    "exceptionalItemDisplayName": "大投枪",
-    "eliteItemDisplayName": "冥河投枪",
+    "normalItemDisplayName": "短标枪",
+    "exceptionalItemDisplayName": "卓越标枪",
+    "eliteItemDisplayName": "冥河标枪",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -7789,11 +7789,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "辛比兰战矛",
+    "displayName": "锐矛",
     "itemTier": "扩展",
     "normalItemDisplayName": "短矛",
-    "exceptionalItemDisplayName": "辛比兰战矛",
-    "eliteItemDisplayName": "炎魔之矛",
+    "exceptionalItemDisplayName": "锐矛",
+    "eliteItemDisplayName": "炎魔长矛",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -7845,11 +7845,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "投矛",
+    "displayName": "阔针长矛",
     "itemTier": "扩展",
-    "normalItemDisplayName": "战戟",
-    "exceptionalItemDisplayName": "投矛",
-    "eliteItemDisplayName": "幽魂战戟",
+    "normalItemDisplayName": "大长刀",
+    "exceptionalItemDisplayName": "阔针长矛",
+    "eliteItemDisplayName": "鬼魂尖枪",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -7903,7 +7903,7 @@
     },
     "displayName": "鱼叉",
     "itemTier": "扩展",
-    "normalItemDisplayName": "投掷长矛",
+    "normalItemDisplayName": "飞矛",
     "exceptionalItemDisplayName": "鱼叉",
     "eliteItemDisplayName": "翼鱼叉",
     "onlyClassDisplayText": null,
@@ -7957,10 +7957,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战矛",
+    "displayName": "巨战长矛",
     "itemTier": "扩展",
     "normalItemDisplayName": "长矛",
-    "exceptionalItemDisplayName": "战矛",
+    "exceptionalItemDisplayName": "巨战长矛",
     "eliteItemDisplayName": "亥伯龙之矛",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -8018,11 +8018,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "鱼叉",
+    "displayName": "魔鬼之叉",
     "itemTier": "扩展",
     "normalItemDisplayName": "三叉戟",
-    "exceptionalItemDisplayName": "鱼叉",
-    "eliteItemDisplayName": "冥河长枪",
+    "exceptionalItemDisplayName": "魔鬼之叉",
+    "eliteItemDisplayName": "冥河之枪",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -8079,11 +8079,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战叉",
+    "displayName": "巨战之叉",
     "itemTier": "扩展",
-    "normalItemDisplayName": "三叉枪",
-    "exceptionalItemDisplayName": "战叉",
-    "eliteItemDisplayName": "捕人叉",
+    "normalItemDisplayName": "叉",
+    "exceptionalItemDisplayName": "巨战之叉",
+    "eliteItemDisplayName": "刺人枪",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -8140,11 +8140,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "日式长枪",
+    "displayName": "三叉长枪",
     "itemTier": "扩展",
-    "normalItemDisplayName": "梭镖枪",
-    "exceptionalItemDisplayName": "日式长枪",
-    "eliteItemDisplayName": "幽魂之矛",
+    "normalItemDisplayName": "大战戟",
+    "exceptionalItemDisplayName": "三叉长枪",
+    "eliteItemDisplayName": "鬼魂之矛",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -8203,7 +8203,7 @@
     },
     "displayName": "长枪",
     "itemTier": "扩展",
-    "normalItemDisplayName": "长枪",
+    "normalItemDisplayName": "矛",
     "exceptionalItemDisplayName": "长枪",
     "eliteItemDisplayName": "战枪",
     "onlyClassDisplayText": null,
@@ -8262,10 +8262,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "洛查伯战斧",
+    "displayName": "罗佳柏斧",
     "itemTier": "扩展",
-    "normalItemDisplayName": "阔头枪",
-    "exceptionalItemDisplayName": "洛查伯战斧",
+    "normalItemDisplayName": "大砍刀",
+    "exceptionalItemDisplayName": "罗佳柏斧",
     "eliteItemDisplayName": "食人魔之斧",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -8323,11 +8323,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "比尔",
+    "displayName": "比尔长刀",
     "itemTier": "扩展",
-    "normalItemDisplayName": "战戟",
-    "exceptionalItemDisplayName": "钩镰枪",
-    "eliteItemDisplayName": "巨神戟",
+    "normalItemDisplayName": "钩镰枪",
+    "exceptionalItemDisplayName": "比尔长刀",
+    "eliteItemDisplayName": "巨神之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -8388,7 +8388,7 @@
     "itemTier": "扩展",
     "normalItemDisplayName": "镰刀",
     "exceptionalItemDisplayName": "战斗镰刀",
-    "eliteItemDisplayName": "镰刀",
+    "eliteItemDisplayName": "锐利之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -8445,11 +8445,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "阔头枪",
+    "displayName": "战戟",
     "itemTier": "扩展",
-    "normalItemDisplayName": "长柄斧",
-    "exceptionalItemDisplayName": "阔头枪",
-    "eliteItemDisplayName": "秘仪之斧",
+    "normalItemDisplayName": "长柄战斧",
+    "exceptionalItemDisplayName": "战戟",
+    "eliteItemDisplayName": "神秘之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -8506,11 +8506,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "鸦嘴战锤",
+    "displayName": "双锋战戟",
     "itemTier": "扩展",
-    "normalItemDisplayName": "长柄战斧",
-    "exceptionalItemDisplayName": "鸦嘴战锤",
-    "eliteItemDisplayName": "大战戟",
+    "normalItemDisplayName": "长戟",
+    "exceptionalItemDisplayName": "双锋战戟",
+    "eliteItemDisplayName": "巨长斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -8569,9 +8569,9 @@
     },
     "displayName": "残酷镰刀",
     "itemTier": "扩展",
-    "normalItemDisplayName": "战镰",
+    "normalItemDisplayName": "巨战镰刀",
     "exceptionalItemDisplayName": "残酷镰刀",
-    "eliteItemDisplayName": "巨型镰刀",
+    "eliteItemDisplayName": "鲛尾巨斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -8628,11 +8628,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "僧院法杖",
+    "displayName": "乔木棒",
     "itemTier": "扩展",
-    "normalItemDisplayName": "短法杖",
-    "exceptionalItemDisplayName": "僧院法杖",
-    "eliteItemDisplayName": "步行杖",
+    "normalItemDisplayName": "短棍",
+    "exceptionalItemDisplayName": "乔木棒",
+    "eliteItemDisplayName": "手杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -8689,11 +8689,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "长柄法杖",
+    "displayName": "六尺棍",
     "itemTier": "扩展",
-    "normalItemDisplayName": "长法杖",
-    "exceptionalItemDisplayName": "长柄法杖",
-    "eliteItemDisplayName": "石笋之锤",
+    "normalItemDisplayName": "长棍",
+    "exceptionalItemDisplayName": "六尺棍",
+    "eliteItemDisplayName": "钟乳石之杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -8750,10 +8750,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "雪松法杖",
+    "displayName": "杉木之棍",
     "itemTier": "扩展",
-    "normalItemDisplayName": "节瘤法杖",
-    "exceptionalItemDisplayName": "雪松法杖",
+    "normalItemDisplayName": "多节棍",
+    "exceptionalItemDisplayName": "杉木之棍",
     "eliteItemDisplayName": "长老之杖",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -8811,11 +8811,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "哥特法杖",
+    "displayName": "哥德之棍",
     "itemTier": "扩展",
     "normalItemDisplayName": "战斗法杖",
-    "exceptionalItemDisplayName": "哥特法杖",
-    "eliteItemDisplayName": "橡木短棍",
+    "exceptionalItemDisplayName": "哥德之棍",
+    "eliteItemDisplayName": "树皮之杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -8872,10 +8872,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "符文法杖",
+    "displayName": "符文之棍",
     "itemTier": "扩展",
-    "normalItemDisplayName": "战法杖",
-    "exceptionalItemDisplayName": "符文法杖",
+    "normalItemDisplayName": "巨战法杖",
+    "exceptionalItemDisplayName": "符文之棍",
     "eliteItemDisplayName": "执政官之杖",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -8923,10 +8923,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "锋锐弓",
+    "displayName": "锋锐之弓",
     "itemTier": "扩展",
     "normalItemDisplayName": "短弓",
-    "exceptionalItemDisplayName": "锋锐弓",
+    "exceptionalItemDisplayName": "锋锐之弓",
     "eliteItemDisplayName": "蜘蛛弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -9025,11 +9025,11 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "雪松弓",
+    "displayName": "杉木弓",
     "itemTier": "扩展",
     "normalItemDisplayName": "长弓",
-    "exceptionalItemDisplayName": "雪松弓",
-    "eliteItemDisplayName": "暗影弓",
+    "exceptionalItemDisplayName": "杉木弓",
+    "eliteItemDisplayName": "阴影弓",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -9080,7 +9080,7 @@
     "itemTier": "扩展",
     "normalItemDisplayName": "组合弓",
     "exceptionalItemDisplayName": "双弓",
-    "eliteItemDisplayName": "大弓",
+    "eliteItemDisplayName": "巨弓",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -9178,10 +9178,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "大攻城弓",
+    "displayName": "长攻城弓",
     "itemTier": "扩展",
     "normalItemDisplayName": "长战斗弓",
-    "exceptionalItemDisplayName": "大攻城弓",
+    "exceptionalItemDisplayName": "长攻城弓",
     "eliteItemDisplayName": "十字军之弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -9231,9 +9231,9 @@
     "secondItemType": null,
     "displayName": "符文之弓",
     "itemTier": "扩展",
-    "normalItemDisplayName": "短战弓",
+    "normalItemDisplayName": "短巨战弓",
     "exceptionalItemDisplayName": "符文之弓",
-    "eliteItemDisplayName": "守护之弓",
+    "eliteItemDisplayName": "庇护之弓",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -9280,10 +9280,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "哥特之弓",
+    "displayName": "哥德弓",
     "itemTier": "扩展",
-    "normalItemDisplayName": "长战弓",
-    "exceptionalItemDisplayName": "哥特之弓",
+    "normalItemDisplayName": "长巨战弓",
+    "exceptionalItemDisplayName": "哥德弓",
     "eliteItemDisplayName": "九头蛇弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -9331,10 +9331,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "劲弩",
+    "displayName": "石弓",
     "itemTier": "扩展",
     "normalItemDisplayName": "轻十字弓",
-    "exceptionalItemDisplayName": "劲弩",
+    "exceptionalItemDisplayName": "石弓",
     "eliteItemDisplayName": "弹丸弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -9386,7 +9386,7 @@
     "itemTier": "扩展",
     "normalItemDisplayName": "十字弓",
     "exceptionalItemDisplayName": "攻城十字弓",
-    "eliteItemDisplayName": "蛇魔十字弓",
+    "eliteItemDisplayName": "蛇魔女十字弓",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -9433,10 +9433,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "攻城弩",
+    "displayName": "弩炮",
     "itemTier": "扩展",
     "normalItemDisplayName": "重十字弓",
-    "exceptionalItemDisplayName": "攻城弩",
+    "exceptionalItemDisplayName": "弩炮",
     "eliteItemDisplayName": "巨神十字弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -9484,10 +9484,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "诸葛弩",
+    "displayName": "巧工弩",
     "itemTier": "扩展",
     "normalItemDisplayName": "连射十字弓",
-    "exceptionalItemDisplayName": "诸葛弩",
+    "exceptionalItemDisplayName": "巧工弩",
     "eliteItemDisplayName": "恶魔十字弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -9548,8 +9548,8 @@
     "displayName": "克林姆的连枷",
     "itemTier": "普通",
     "normalItemDisplayName": "克林姆的连枷",
-    "exceptionalItemDisplayName": "皮鞭",
-    "eliteItemDisplayName": "天罚之锤",
+    "exceptionalItemDisplayName": "铁皮鞭",
+    "eliteItemDisplayName": "鞭",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -9601,11 +9601,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "克林姆的意志",
+    "displayName": "强化克林姆连枷",
     "itemTier": "普通",
-    "normalItemDisplayName": "克林姆的意志",
-    "exceptionalItemDisplayName": "皮鞭",
-    "eliteItemDisplayName": "天罚之锤",
+    "normalItemDisplayName": "强化克林姆连枷",
+    "exceptionalItemDisplayName": "铁皮鞭",
+    "eliteItemDisplayName": "鞭",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -9660,8 +9660,8 @@
     "displayName": "拳剑",
     "itemTier": "普通",
     "normalItemDisplayName": "拳剑",
-    "exceptionalItemDisplayName": "曲刃拳剑",
-    "eliteItemDisplayName": "苏瓦雅",
+    "exceptionalItemDisplayName": "格斗刃",
+    "eliteItemDisplayName": "近身刃",
     "onlyClassDisplayText": "仅刺客",
     "uniques": null,
     "dontDisplay": false,
@@ -9769,10 +9769,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "手斧拳套",
+    "displayName": "斧手",
     "itemTier": "普通",
-    "normalItemDisplayName": "手斧拳套",
-    "exceptionalItemDisplayName": "束带刃",
+    "normalItemDisplayName": "斧手",
+    "exceptionalItemDisplayName": "格斗爪",
     "eliteItemDisplayName": "战拳",
     "onlyClassDisplayText": "仅刺客",
     "uniques": null,
@@ -9825,11 +9825,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "拳刃",
+    "displayName": "腰刀",
     "itemTier": "普通",
-    "normalItemDisplayName": "拳刃",
+    "normalItemDisplayName": "腰刀",
     "exceptionalItemDisplayName": "手镰",
-    "eliteItemDisplayName": "战斗拳刃",
+    "eliteItemDisplayName": "斗腰刀",
     "onlyClassDisplayText": "仅刺客",
     "uniques": null,
     "dontDisplay": false,
@@ -9885,7 +9885,7 @@
     "itemTier": "普通",
     "normalItemDisplayName": "爪",
     "exceptionalItemDisplayName": "巨爪",
-    "eliteItemDisplayName": "野性之爪",
+    "eliteItemDisplayName": "猛禽爪",
     "onlyClassDisplayText": "仅刺客",
     "uniques": null,
     "dontDisplay": false,
@@ -9941,7 +9941,7 @@
     "itemTier": "普通",
     "normalItemDisplayName": "刃爪",
     "exceptionalItemDisplayName": "巨鹰爪",
-    "eliteItemDisplayName": "符文之爪",
+    "eliteItemDisplayName": "符文爪",
     "onlyClassDisplayText": "仅刺客",
     "uniques": null,
     "dontDisplay": false,
@@ -9993,11 +9993,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "剪刃拳剑",
+    "displayName": "剪咬刃",
     "itemTier": "普通",
-    "normalItemDisplayName": "剪刃拳剑",
-    "exceptionalItemDisplayName": "剪刃拳刀",
-    "eliteItemDisplayName": "剪刃苏瓦雅",
+    "normalItemDisplayName": "剪咬刃",
+    "exceptionalItemDisplayName": "格斗剪",
+    "eliteItemDisplayName": "近身剪",
     "onlyClassDisplayText": "仅刺客",
     "uniques": null,
     "dontDisplay": false,
@@ -10049,11 +10049,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "曲刃拳剑",
+    "displayName": "格斗刃",
     "itemTier": "扩展",
     "normalItemDisplayName": "拳剑",
-    "exceptionalItemDisplayName": "曲刃拳剑",
-    "eliteItemDisplayName": "苏瓦雅",
+    "exceptionalItemDisplayName": "格斗刃",
+    "eliteItemDisplayName": "近身刃",
     "onlyClassDisplayText": "仅刺客",
     "uniques": [
       {
@@ -10166,10 +10166,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "束带刃",
+    "displayName": "格斗爪",
     "itemTier": "扩展",
-    "normalItemDisplayName": "手斧拳套",
-    "exceptionalItemDisplayName": "束带刃",
+    "normalItemDisplayName": "斧手",
+    "exceptionalItemDisplayName": "格斗爪",
     "eliteItemDisplayName": "战拳",
     "onlyClassDisplayText": "仅刺客",
     "uniques": null,
@@ -10224,9 +10224,9 @@
     },
     "displayName": "手镰",
     "itemTier": "扩展",
-    "normalItemDisplayName": "拳刃",
+    "normalItemDisplayName": "腰刀",
     "exceptionalItemDisplayName": "手镰",
-    "eliteItemDisplayName": "战斗拳刃",
+    "eliteItemDisplayName": "斗腰刀",
     "onlyClassDisplayText": "仅刺客",
     "uniques": null,
     "dontDisplay": false,
@@ -10282,7 +10282,7 @@
     "itemTier": "扩展",
     "normalItemDisplayName": "爪",
     "exceptionalItemDisplayName": "巨爪",
-    "eliteItemDisplayName": "野性之爪",
+    "eliteItemDisplayName": "猛禽爪",
     "onlyClassDisplayText": "仅刺客",
     "uniques": null,
     "dontDisplay": false,
@@ -10338,7 +10338,7 @@
     "itemTier": "扩展",
     "normalItemDisplayName": "刃爪",
     "exceptionalItemDisplayName": "巨鹰爪",
-    "eliteItemDisplayName": "符文之爪",
+    "eliteItemDisplayName": "符文爪",
     "onlyClassDisplayText": "仅刺客",
     "uniques": [
       {
@@ -10395,11 +10395,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "剪刃拳刀",
+    "displayName": "格斗剪",
     "itemTier": "扩展",
-    "normalItemDisplayName": "剪刃拳剑",
-    "exceptionalItemDisplayName": "剪刃拳刀",
-    "eliteItemDisplayName": "剪刃苏瓦雅",
+    "normalItemDisplayName": "剪咬刃",
+    "exceptionalItemDisplayName": "格斗剪",
+    "eliteItemDisplayName": "近身剪",
     "onlyClassDisplayText": "仅刺客",
     "uniques": null,
     "dontDisplay": false,
@@ -10451,11 +10451,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "苏瓦雅",
+    "displayName": "近身刃",
     "itemTier": "精英",
     "normalItemDisplayName": "拳剑",
-    "exceptionalItemDisplayName": "曲刃拳剑",
-    "eliteItemDisplayName": "苏瓦雅",
+    "exceptionalItemDisplayName": "格斗刃",
+    "eliteItemDisplayName": "近身刃",
     "onlyClassDisplayText": "仅刺客",
     "uniques": null,
     "dontDisplay": false,
@@ -10574,8 +10574,8 @@
     },
     "displayName": "战拳",
     "itemTier": "精英",
-    "normalItemDisplayName": "手斧拳套",
-    "exceptionalItemDisplayName": "束带刃",
+    "normalItemDisplayName": "斧手",
+    "exceptionalItemDisplayName": "格斗爪",
     "eliteItemDisplayName": "战拳",
     "onlyClassDisplayText": "仅刺客",
     "uniques": [
@@ -10633,11 +10633,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战斗拳刃",
+    "displayName": "斗腰刀",
     "itemTier": "精英",
-    "normalItemDisplayName": "拳刃",
+    "normalItemDisplayName": "腰刀",
     "exceptionalItemDisplayName": "手镰",
-    "eliteItemDisplayName": "战斗拳刃",
+    "eliteItemDisplayName": "斗腰刀",
     "onlyClassDisplayText": "仅刺客",
     "uniques": [
       {
@@ -10694,11 +10694,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "野性之爪",
+    "displayName": "猛禽爪",
     "itemTier": "精英",
     "normalItemDisplayName": "爪",
     "exceptionalItemDisplayName": "巨爪",
-    "eliteItemDisplayName": "野性之爪",
+    "eliteItemDisplayName": "猛禽爪",
     "onlyClassDisplayText": "仅刺客",
     "uniques": [
       {
@@ -10755,11 +10755,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "符文之爪",
+    "displayName": "符文爪",
     "itemTier": "精英",
     "normalItemDisplayName": "刃爪",
     "exceptionalItemDisplayName": "巨鹰爪",
-    "eliteItemDisplayName": "符文之爪",
+    "eliteItemDisplayName": "符文爪",
     "onlyClassDisplayText": "仅刺客",
     "uniques": [
       {
@@ -10816,11 +10816,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "剪刃苏瓦雅",
+    "displayName": "近身剪",
     "itemTier": "精英",
-    "normalItemDisplayName": "剪刃拳剑",
-    "exceptionalItemDisplayName": "剪刃拳刀",
-    "eliteItemDisplayName": "剪刃苏瓦雅",
+    "normalItemDisplayName": "剪咬刃",
+    "exceptionalItemDisplayName": "格斗剪",
+    "eliteItemDisplayName": "近身剪",
     "onlyClassDisplayText": "仅刺客",
     "uniques": [
       {
@@ -10877,11 +10877,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "战斧",
+    "displayName": "战钺",
     "itemTier": "精英",
     "normalItemDisplayName": "手斧",
-    "exceptionalItemDisplayName": "短柄斧",
-    "eliteItemDisplayName": "战斧",
+    "exceptionalItemDisplayName": "小斧",
+    "eliteItemDisplayName": "战钺",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -10938,11 +10938,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "小弯刀",
+    "displayName": "弯月斧",
     "itemTier": "精英",
     "normalItemDisplayName": "斧",
-    "exceptionalItemDisplayName": "砍刀",
-    "eliteItemDisplayName": "小弯刀",
+    "exceptionalItemDisplayName": "切肉斧",
+    "eliteItemDisplayName": "弯月斧",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -10997,7 +10997,7 @@
     "displayName": "双头斧",
     "itemTier": "精英",
     "normalItemDisplayName": "双刃斧",
-    "exceptionalItemDisplayName": "双斧",
+    "exceptionalItemDisplayName": "强化双斧",
     "eliteItemDisplayName": "双头斧",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -11058,7 +11058,7 @@
     "displayName": "战刺",
     "itemTier": "精英",
     "normalItemDisplayName": "军用锹",
-    "exceptionalItemDisplayName": "鸦嘴锄",
+    "exceptionalItemDisplayName": "喙钳",
     "eliteItemDisplayName": "战刺",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -11118,9 +11118,9 @@
     },
     "displayName": "狂战士斧",
     "itemTier": "精英",
-    "normalItemDisplayName": "战斧",
-    "exceptionalItemDisplayName": "蛇刀",
-    "eliteItemDisplayName": "狂战士之斧",
+    "normalItemDisplayName": "巨战斧",
+    "exceptionalItemDisplayName": "纳卡",
+    "eliteItemDisplayName": "狂战士斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -11177,11 +11177,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "野性之斧",
+    "displayName": "猛禽斧",
     "itemTier": "精英",
     "normalItemDisplayName": "巨斧",
-    "exceptionalItemDisplayName": "军用斧",
-    "eliteItemDisplayName": "野性之斧",
+    "exceptionalItemDisplayName": "军斧",
+    "eliteItemDisplayName": "猛禽斧",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -11236,7 +11236,7 @@
     "displayName": "银刃斧",
     "itemTier": "精英",
     "normalItemDisplayName": "阔斧",
-    "exceptionalItemDisplayName": "长柄斧",
+    "exceptionalItemDisplayName": "钩斧",
     "eliteItemDisplayName": "银刃斧",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -11294,11 +11294,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "刽子手之斧",
+    "displayName": "斩首斧",
     "itemTier": "精英",
     "normalItemDisplayName": "战斗斧",
-    "exceptionalItemDisplayName": "塔巴尔战斧",
-    "eliteItemDisplayName": "刽子手之斧",
+    "exceptionalItemDisplayName": "战斗斧",
+    "eliteItemDisplayName": "斩首斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -11359,11 +11359,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "冠军之斧",
+    "displayName": "豪杰斧",
     "itemTier": "精英",
-    "normalItemDisplayName": "大斧",
-    "exceptionalItemDisplayName": "哥特之斧",
-    "eliteItemDisplayName": "冠军之斧",
+    "normalItemDisplayName": "卓越之斧",
+    "exceptionalItemDisplayName": "哥德之斧",
+    "eliteItemDisplayName": "豪杰斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -11420,11 +11420,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "荣耀之斧",
+    "displayName": "荣光之斧",
     "itemTier": "精英",
-    "normalItemDisplayName": "巨战斧",
+    "normalItemDisplayName": "大斧",
     "exceptionalItemDisplayName": "古代之斧",
-    "eliteItemDisplayName": "荣耀之斧",
+    "eliteItemDisplayName": "荣光之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -11481,11 +11481,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "抛光之杖",
+    "displayName": "洗练法杖",
     "itemTier": "精英",
-    "normalItemDisplayName": "法杖",
+    "normalItemDisplayName": "杖",
     "exceptionalItemDisplayName": "烧焦之杖",
-    "eliteItemDisplayName": "抛光之杖",
+    "eliteItemDisplayName": "洗练法杖",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -11537,11 +11537,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "幽魂之杖",
+    "displayName": "鬼魂法杖",
     "itemTier": "精英",
     "normalItemDisplayName": "紫杉之杖",
-    "exceptionalItemDisplayName": "石化之杖",
-    "eliteItemDisplayName": "幽魂之杖",
+    "exceptionalItemDisplayName": "净化之杖",
+    "eliteItemDisplayName": "鬼魂法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -11598,11 +11598,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "巫妖之杖",
+    "displayName": "巫妖法杖",
     "itemTier": "精英",
     "normalItemDisplayName": "骨杖",
-    "exceptionalItemDisplayName": "坟墓之杖",
-    "eliteItemDisplayName": "巫妖之杖",
+    "exceptionalItemDisplayName": "古墓之杖",
+    "eliteItemDisplayName": "巫妖法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -11659,11 +11659,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "出土之杖",
+    "displayName": "破隐法杖",
     "itemTier": "精英",
     "normalItemDisplayName": "残酷之杖",
     "exceptionalItemDisplayName": "墓地之杖",
-    "eliteItemDisplayName": "出土之杖",
+    "eliteItemDisplayName": "破隐法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -11732,11 +11732,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "警棍",
+    "displayName": "战仪杖",
     "itemTier": "精英",
-    "normalItemDisplayName": "棍棒",
-    "exceptionalItemDisplayName": "短棍",
-    "eliteItemDisplayName": "警棍",
+    "normalItemDisplayName": "木棒",
+    "exceptionalItemDisplayName": "棍棒",
+    "eliteItemDisplayName": "战仪杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -11793,11 +11793,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "威猛权杖",
+    "displayName": "强威权杖",
     "itemTier": "精英",
     "normalItemDisplayName": "权杖",
     "exceptionalItemDisplayName": "符文权杖",
-    "eliteItemDisplayName": "威猛权杖",
+    "eliteItemDisplayName": "强威权杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -11858,11 +11858,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "炽天使之杖",
+    "displayName": "炽天使法杖",
     "itemTier": "精英",
-    "normalItemDisplayName": "大权杖",
-    "exceptionalItemDisplayName": "圣水之杖",
-    "eliteItemDisplayName": "炽天使之杖",
+    "normalItemDisplayName": "雄伟权杖",
+    "exceptionalItemDisplayName": "圣水喷杖",
+    "eliteItemDisplayName": "炽天使法杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -11925,8 +11925,8 @@
     },
     "displayName": "神使之杖",
     "itemTier": "精英",
-    "normalItemDisplayName": "战权杖",
-    "exceptionalItemDisplayName": "神圣权杖",
+    "normalItemDisplayName": "巨战权杖",
+    "exceptionalItemDisplayName": "神属权杖",
     "eliteItemDisplayName": "神使之杖",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -11996,11 +11996,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "暴君之棍",
+    "displayName": "暴君之棒",
     "itemTier": "精英",
-    "normalItemDisplayName": "钉锤",
-    "exceptionalItemDisplayName": "倒刺棍棒",
-    "eliteItemDisplayName": "暴君之棍",
+    "normalItemDisplayName": "狼牙棒",
+    "exceptionalItemDisplayName": "倒钩锤",
+    "eliteItemDisplayName": "暴君之棒",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -12115,7 +12115,7 @@
     },
     "displayName": "恶魔流星锤",
     "itemTier": "精英",
-    "normalItemDisplayName": "晨星锤",
+    "normalItemDisplayName": "流星锤",
     "exceptionalItemDisplayName": "锯齿流星锤",
     "eliteItemDisplayName": "恶魔流星锤",
     "onlyClassDisplayText": null,
@@ -12174,11 +12174,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "天罚之锤",
+    "displayName": "鞭",
     "itemTier": "精英",
-    "normalItemDisplayName": "连枷",
-    "exceptionalItemDisplayName": "皮鞭",
-    "eliteItemDisplayName": "天罚之锤",
+    "normalItemDisplayName": "链枷",
+    "exceptionalItemDisplayName": "铁皮鞭",
+    "eliteItemDisplayName": "鞭",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -12241,8 +12241,8 @@
     },
     "displayName": "传说之锤",
     "itemTier": "精英",
-    "normalItemDisplayName": "战锤",
-    "exceptionalItemDisplayName": "战斗锤",
+    "normalItemDisplayName": "巨战铁锤",
+    "exceptionalItemDisplayName": "战斗铁锤",
     "eliteItemDisplayName": "传说之锤",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -12306,8 +12306,8 @@
     },
     "displayName": "食人魔之锤",
     "itemTier": "精英",
-    "normalItemDisplayName": "巨锤",
-    "exceptionalItemDisplayName": "战棍",
+    "normalItemDisplayName": "大木棍",
+    "exceptionalItemDisplayName": "巨战木棍",
     "eliteItemDisplayName": "食人魔之锤",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -12367,8 +12367,8 @@
     },
     "displayName": "雷锤",
     "itemTier": "精英",
-    "normalItemDisplayName": "大锤",
-    "exceptionalItemDisplayName": "铁锤",
+    "normalItemDisplayName": "卓越巨棍",
+    "exceptionalItemDisplayName": "战锤",
     "eliteItemDisplayName": "雷锤",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -12434,11 +12434,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "弯刃刀",
+    "displayName": "短剑",
     "itemTier": "精英",
     "normalItemDisplayName": "短剑",
     "exceptionalItemDisplayName": "罗马短剑",
-    "eliteItemDisplayName": "弯刃刀",
+    "eliteItemDisplayName": "短剑",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -12490,11 +12490,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "弯月刀",
+    "displayName": "土耳其剑",
     "itemTier": "精英",
     "normalItemDisplayName": "弯刀",
-    "exceptionalItemDisplayName": "弯刀",
-    "eliteItemDisplayName": "弯月刀",
+    "exceptionalItemDisplayName": "微弯剑",
+    "eliteItemDisplayName": "土耳其剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -12551,11 +12551,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "优雅之刃",
+    "displayName": "优雅之剑",
     "itemTier": "精英",
     "normalItemDisplayName": "军刀",
-    "exceptionalItemDisplayName": "波斯弯刀",
-    "eliteItemDisplayName": "优雅之刃",
+    "exceptionalItemDisplayName": "虚伪之刃",
+    "eliteItemDisplayName": "优雅之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -12612,11 +12612,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "九头蛇之刃",
+    "displayName": "九头蛇刃",
     "itemTier": "精英",
-    "normalItemDisplayName": "弯月刀",
-    "exceptionalItemDisplayName": "塔瓦弯刀",
-    "eliteItemDisplayName": "九头蛇之刃",
+    "normalItemDisplayName": "弯形大刀",
+    "exceptionalItemDisplayName": "圆月弯刀",
+    "eliteItemDisplayName": "九头蛇刃",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -12671,7 +12671,7 @@
     "displayName": "幻化之刃",
     "itemTier": "精英",
     "normalItemDisplayName": "水晶剑",
-    "exceptionalItemDisplayName": "次元之刃",
+    "exceptionalItemDisplayName": "空间之刃",
     "eliteItemDisplayName": "幻化之刃",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -12798,11 +12798,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "秘仪之剑",
+    "displayName": "神秘之剑",
     "itemTier": "精英",
     "normalItemDisplayName": "长剑",
-    "exceptionalItemDisplayName": "符文之剑",
-    "eliteItemDisplayName": "秘仪之剑",
+    "exceptionalItemDisplayName": "符文剑",
+    "eliteItemDisplayName": "神秘之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -12859,11 +12859,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "神话之剑",
+    "displayName": "秘仪之剑",
     "itemTier": "精英",
-    "normalItemDisplayName": "战剑",
+    "normalItemDisplayName": "巨战之剑",
     "exceptionalItemDisplayName": "古代之剑",
-    "eliteItemDisplayName": "神话之剑",
+    "eliteItemDisplayName": "秘仪之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -12923,7 +12923,7 @@
     "displayName": "传说之剑",
     "itemTier": "精英",
     "normalItemDisplayName": "双手剑",
-    "exceptionalItemDisplayName": "宽刃剑",
+    "exceptionalItemDisplayName": "双刃大剑",
     "eliteItemDisplayName": "传说之剑",
     "onlyClassDisplayText": null,
     "uniques": null,
@@ -12979,7 +12979,7 @@
     "displayName": "高地之剑",
     "itemTier": "精英",
     "normalItemDisplayName": "双刃大刀",
-    "exceptionalItemDisplayName": "达契亚镰刀",
+    "exceptionalItemDisplayName": "双刃镰",
     "eliteItemDisplayName": "高地之剑",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -13039,8 +13039,8 @@
     },
     "displayName": "炎魔之刃",
     "itemTier": "精英",
-    "normalItemDisplayName": "巨剑",
-    "exceptionalItemDisplayName": "獠牙剑",
+    "normalItemDisplayName": "大剑",
+    "exceptionalItemDisplayName": "长牙剑",
     "eliteItemDisplayName": "炎魔之刃",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -13100,8 +13100,8 @@
     },
     "displayName": "冠军之剑",
     "itemTier": "精英",
-    "normalItemDisplayName": "混种大剑",
-    "exceptionalItemDisplayName": "哥特之剑",
+    "normalItemDisplayName": "巨剑",
+    "exceptionalItemDisplayName": "哥德剑",
     "eliteItemDisplayName": "冠军之剑",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -13159,11 +13159,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "巨神长剑",
+    "displayName": "巨神之剑",
     "itemTier": "精英",
-    "normalItemDisplayName": "焰形剑",
-    "exceptionalItemDisplayName": "双手巨剑",
-    "eliteItemDisplayName": "巨神长剑",
+    "normalItemDisplayName": "双手饰剑",
+    "exceptionalItemDisplayName": "瑞韩德之剑",
+    "eliteItemDisplayName": "巨神之剑",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -13222,8 +13222,8 @@
     },
     "displayName": "巨神之刃",
     "itemTier": "精英",
-    "normalItemDisplayName": "大剑",
-    "exceptionalItemDisplayName": "行刑之剑",
+    "normalItemDisplayName": "卓越之剑",
+    "exceptionalItemDisplayName": "死刑之剑",
     "eliteItemDisplayName": "巨神之刃",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -13281,11 +13281,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "骨小刀",
+    "displayName": "骸骨小刀",
     "itemTier": "精英",
     "normalItemDisplayName": "匕首",
-    "exceptionalItemDisplayName": "刺剑",
-    "eliteItemDisplayName": "骨小刀",
+    "exceptionalItemDisplayName": "锐匕",
+    "eliteItemDisplayName": "骸骨小刀",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -13342,11 +13342,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "秘银尖枪",
+    "displayName": "秘银尖刺",
     "itemTier": "精英",
-    "normalItemDisplayName": "短剑",
-    "exceptionalItemDisplayName": "圆刃匕首",
-    "eliteItemDisplayName": "秘银尖枪",
+    "normalItemDisplayName": "长匕首",
+    "exceptionalItemDisplayName": "诗歌匕首",
+    "eliteItemDisplayName": "秘银尖刺",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -13403,11 +13403,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "牙刃",
+    "displayName": "齿缘小刀",
     "itemTier": "精英",
-    "normalItemDisplayName": "马来匕首",
-    "exceptionalItemDisplayName": "五刃剑",
-    "eliteItemDisplayName": "牙刃",
+    "normalItemDisplayName": "波形刀",
+    "exceptionalItemDisplayName": "强波刀",
+    "eliteItemDisplayName": "齿缘小刀",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -13466,8 +13466,8 @@
     },
     "displayName": "传说尖刺",
     "itemTier": "精英",
-    "normalItemDisplayName": "刀刃",
-    "exceptionalItemDisplayName": "狭长匕首",
+    "normalItemDisplayName": "刀锋之",
+    "exceptionalItemDisplayName": "小剑",
     "eliteItemDisplayName": "传说尖刺",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -13525,11 +13525,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "飞行小刀",
+    "displayName": "飞刀",
     "itemTier": "精英",
-    "normalItemDisplayName": "投掷小刀",
+    "normalItemDisplayName": "飞刀",
     "exceptionalItemDisplayName": "战斗飞镖",
-    "eliteItemDisplayName": "飞行小刀",
+    "eliteItemDisplayName": "飞刀",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -13581,11 +13581,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "飞行斧",
+    "displayName": "飞斧",
     "itemTier": "精英",
-    "normalItemDisplayName": "投掷斧",
-    "exceptionalItemDisplayName": "法兰克飞斧",
-    "eliteItemDisplayName": "飞行斧",
+    "normalItemDisplayName": "飞斧",
+    "exceptionalItemDisplayName": "法兰飞斧",
+    "eliteItemDisplayName": "飞斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -13645,7 +13645,7 @@
     "displayName": "翼刀",
     "itemTier": "精英",
     "normalItemDisplayName": "平衡小刀",
-    "exceptionalItemDisplayName": "战镖",
+    "exceptionalItemDisplayName": "巨战飞镖",
     "eliteItemDisplayName": "翼刀",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -13706,7 +13706,7 @@
     "displayName": "翼斧",
     "itemTier": "精英",
     "normalItemDisplayName": "平衡斧",
-    "exceptionalItemDisplayName": "投掷斧",
+    "exceptionalItemDisplayName": "短战戟",
     "eliteItemDisplayName": "翼斧",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -13764,11 +13764,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "亥伯龙标枪",
+    "displayName": "亥伯龙之枪",
     "itemTier": "精英",
     "normalItemDisplayName": "标枪",
-    "exceptionalItemDisplayName": "战枪",
-    "eliteItemDisplayName": "亥伯龙标枪",
+    "exceptionalItemDisplayName": "巨战标枪",
+    "eliteItemDisplayName": "亥伯龙之枪",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -13820,11 +13820,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "冥河投枪",
+    "displayName": "冥河标枪",
     "itemTier": "精英",
-    "normalItemDisplayName": "投枪",
-    "exceptionalItemDisplayName": "大投枪",
-    "eliteItemDisplayName": "冥河投枪",
+    "normalItemDisplayName": "短标枪",
+    "exceptionalItemDisplayName": "卓越标枪",
+    "eliteItemDisplayName": "冥河标枪",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -13876,11 +13876,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "炎魔之矛",
+    "displayName": "炎魔长矛",
     "itemTier": "精英",
     "normalItemDisplayName": "短矛",
-    "exceptionalItemDisplayName": "辛比兰战矛",
-    "eliteItemDisplayName": "炎魔之矛",
+    "exceptionalItemDisplayName": "锐矛",
+    "eliteItemDisplayName": "炎魔长矛",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -13937,11 +13937,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "幽魂战戟",
+    "displayName": "鬼魂尖枪",
     "itemTier": "精英",
-    "normalItemDisplayName": "战戟",
-    "exceptionalItemDisplayName": "投矛",
-    "eliteItemDisplayName": "幽魂战戟",
+    "normalItemDisplayName": "大长刀",
+    "exceptionalItemDisplayName": "阔针长矛",
+    "eliteItemDisplayName": "鬼魂尖枪",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -14000,7 +14000,7 @@
     },
     "displayName": "翼鱼叉",
     "itemTier": "精英",
-    "normalItemDisplayName": "投掷长矛",
+    "normalItemDisplayName": "飞矛",
     "exceptionalItemDisplayName": "鱼叉",
     "eliteItemDisplayName": "翼鱼叉",
     "onlyClassDisplayText": null,
@@ -14062,7 +14062,7 @@
     "displayName": "亥伯龙之矛",
     "itemTier": "精英",
     "normalItemDisplayName": "长矛",
-    "exceptionalItemDisplayName": "战矛",
+    "exceptionalItemDisplayName": "巨战长矛",
     "eliteItemDisplayName": "亥伯龙之矛",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -14120,11 +14120,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "冥河长枪",
+    "displayName": "冥河之枪",
     "itemTier": "精英",
     "normalItemDisplayName": "三叉戟",
-    "exceptionalItemDisplayName": "鱼叉",
-    "eliteItemDisplayName": "冥河长枪",
+    "exceptionalItemDisplayName": "魔鬼之叉",
+    "eliteItemDisplayName": "冥河之枪",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -14176,11 +14176,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "捕人叉",
+    "displayName": "刺人枪",
     "itemTier": "精英",
-    "normalItemDisplayName": "三叉枪",
-    "exceptionalItemDisplayName": "战叉",
-    "eliteItemDisplayName": "捕人叉",
+    "normalItemDisplayName": "叉",
+    "exceptionalItemDisplayName": "巨战之叉",
+    "eliteItemDisplayName": "刺人枪",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -14237,11 +14237,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "幽魂之矛",
+    "displayName": "鬼魂之矛",
     "itemTier": "精英",
-    "normalItemDisplayName": "梭镖枪",
-    "exceptionalItemDisplayName": "日式长枪",
-    "eliteItemDisplayName": "幽魂之矛",
+    "normalItemDisplayName": "大战戟",
+    "exceptionalItemDisplayName": "三叉长枪",
+    "eliteItemDisplayName": "鬼魂之矛",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -14300,7 +14300,7 @@
     },
     "displayName": "战枪",
     "itemTier": "精英",
-    "normalItemDisplayName": "长枪",
+    "normalItemDisplayName": "矛",
     "exceptionalItemDisplayName": "长枪",
     "eliteItemDisplayName": "战枪",
     "onlyClassDisplayText": null,
@@ -14365,8 +14365,8 @@
     },
     "displayName": "食人魔之斧",
     "itemTier": "精英",
-    "normalItemDisplayName": "阔头枪",
-    "exceptionalItemDisplayName": "洛查伯战斧",
+    "normalItemDisplayName": "大砍刀",
+    "exceptionalItemDisplayName": "罗佳柏斧",
     "eliteItemDisplayName": "食人魔之斧",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -14428,11 +14428,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "巨神戟",
+    "displayName": "巨神之斧",
     "itemTier": "精英",
-    "normalItemDisplayName": "战戟",
-    "exceptionalItemDisplayName": "钩镰枪",
-    "eliteItemDisplayName": "巨神戟",
+    "normalItemDisplayName": "钩镰枪",
+    "exceptionalItemDisplayName": "比尔长刀",
+    "eliteItemDisplayName": "巨神之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -14489,11 +14489,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "镰刀",
+    "displayName": "锐利之斧",
     "itemTier": "精英",
     "normalItemDisplayName": "镰刀",
     "exceptionalItemDisplayName": "战斗镰刀",
-    "eliteItemDisplayName": "镰刀",
+    "eliteItemDisplayName": "锐利之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -14550,11 +14550,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "秘仪之斧",
+    "displayName": "神秘之斧",
     "itemTier": "精英",
-    "normalItemDisplayName": "长柄斧",
-    "exceptionalItemDisplayName": "阔头枪",
-    "eliteItemDisplayName": "秘仪之斧",
+    "normalItemDisplayName": "长柄战斧",
+    "exceptionalItemDisplayName": "战戟",
+    "eliteItemDisplayName": "神秘之斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -14611,11 +14611,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "大战戟",
+    "displayName": "巨长斧",
     "itemTier": "精英",
-    "normalItemDisplayName": "长柄战斧",
-    "exceptionalItemDisplayName": "鸦嘴战锤",
-    "eliteItemDisplayName": "大战戟",
+    "normalItemDisplayName": "长戟",
+    "exceptionalItemDisplayName": "双锋战戟",
+    "eliteItemDisplayName": "巨长斧",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -14667,11 +14667,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "巨型镰刀",
+    "displayName": "鲛尾巨斧",
     "itemTier": "精英",
-    "normalItemDisplayName": "战镰",
+    "normalItemDisplayName": "巨战镰刀",
     "exceptionalItemDisplayName": "残酷镰刀",
-    "eliteItemDisplayName": "巨型镰刀",
+    "eliteItemDisplayName": "鲛尾巨斧",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -14728,11 +14728,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "步行杖",
+    "displayName": "手杖",
     "itemTier": "精英",
-    "normalItemDisplayName": "短法杖",
-    "exceptionalItemDisplayName": "僧院法杖",
-    "eliteItemDisplayName": "步行杖",
+    "normalItemDisplayName": "短棍",
+    "exceptionalItemDisplayName": "乔木棒",
+    "eliteItemDisplayName": "手杖",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -14784,11 +14784,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "石笋之锤",
+    "displayName": "钟乳石之杖",
     "itemTier": "精英",
-    "normalItemDisplayName": "长法杖",
-    "exceptionalItemDisplayName": "长柄法杖",
-    "eliteItemDisplayName": "石笋之锤",
+    "normalItemDisplayName": "长棍",
+    "exceptionalItemDisplayName": "六尺棍",
+    "eliteItemDisplayName": "钟乳石之杖",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -14842,8 +14842,8 @@
     },
     "displayName": "长老之杖",
     "itemTier": "精英",
-    "normalItemDisplayName": "节瘤法杖",
-    "exceptionalItemDisplayName": "雪松法杖",
+    "normalItemDisplayName": "多节棍",
+    "exceptionalItemDisplayName": "杉木之棍",
     "eliteItemDisplayName": "长老之杖",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -14901,11 +14901,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "橡木短棍",
+    "displayName": "树皮之杖",
     "itemTier": "精英",
     "normalItemDisplayName": "战斗法杖",
-    "exceptionalItemDisplayName": "哥特法杖",
-    "eliteItemDisplayName": "橡木短棍",
+    "exceptionalItemDisplayName": "哥德之棍",
+    "eliteItemDisplayName": "树皮之杖",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -14964,8 +14964,8 @@
     },
     "displayName": "执政官之杖",
     "itemTier": "精英",
-    "normalItemDisplayName": "战法杖",
-    "exceptionalItemDisplayName": "符文法杖",
+    "normalItemDisplayName": "巨战法杖",
+    "exceptionalItemDisplayName": "符文之棍",
     "eliteItemDisplayName": "执政官之杖",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -15020,7 +15020,7 @@
     "displayName": "蜘蛛弓",
     "itemTier": "精英",
     "normalItemDisplayName": "短弓",
-    "exceptionalItemDisplayName": "锋锐弓",
+    "exceptionalItemDisplayName": "锋锐之弓",
     "eliteItemDisplayName": "蜘蛛弓",
     "onlyClassDisplayText": null,
     "uniques": null,
@@ -15118,11 +15118,11 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "暗影弓",
+    "displayName": "阴影弓",
     "itemTier": "精英",
     "normalItemDisplayName": "长弓",
-    "exceptionalItemDisplayName": "雪松弓",
-    "eliteItemDisplayName": "暗影弓",
+    "exceptionalItemDisplayName": "杉木弓",
+    "eliteItemDisplayName": "阴影弓",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -15164,11 +15164,11 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "大弓",
+    "displayName": "巨弓",
     "itemTier": "精英",
     "normalItemDisplayName": "组合弓",
     "exceptionalItemDisplayName": "双弓",
-    "eliteItemDisplayName": "大弓",
+    "eliteItemDisplayName": "巨弓",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -15259,7 +15259,7 @@
     "displayName": "十字军之弓",
     "itemTier": "精英",
     "normalItemDisplayName": "长战斗弓",
-    "exceptionalItemDisplayName": "大攻城弓",
+    "exceptionalItemDisplayName": "长攻城弓",
     "eliteItemDisplayName": "十字军之弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -15307,11 +15307,11 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "守护之弓",
+    "displayName": "庇护之弓",
     "itemTier": "精英",
-    "normalItemDisplayName": "短战弓",
+    "normalItemDisplayName": "短巨战弓",
     "exceptionalItemDisplayName": "符文之弓",
-    "eliteItemDisplayName": "守护之弓",
+    "eliteItemDisplayName": "庇护之弓",
     "onlyClassDisplayText": null,
     "uniques": [
       {
@@ -15364,8 +15364,8 @@
     "secondItemType": null,
     "displayName": "九头蛇弓",
     "itemTier": "精英",
-    "normalItemDisplayName": "长战弓",
-    "exceptionalItemDisplayName": "哥特之弓",
+    "normalItemDisplayName": "长巨战弓",
+    "exceptionalItemDisplayName": "哥德弓",
     "eliteItemDisplayName": "九头蛇弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -15420,7 +15420,7 @@
     "displayName": "弹丸弓",
     "itemTier": "精英",
     "normalItemDisplayName": "轻十字弓",
-    "exceptionalItemDisplayName": "劲弩",
+    "exceptionalItemDisplayName": "石弓",
     "eliteItemDisplayName": "弹丸弓",
     "onlyClassDisplayText": null,
     "uniques": null,
@@ -15463,11 +15463,11 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "蛇魔十字弓",
+    "displayName": "蛇魔女十字弓",
     "itemTier": "精英",
     "normalItemDisplayName": "十字弓",
     "exceptionalItemDisplayName": "攻城十字弓",
-    "eliteItemDisplayName": "蛇魔十字弓",
+    "eliteItemDisplayName": "蛇魔女十字弓",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -15512,7 +15512,7 @@
     "displayName": "巨神十字弓",
     "itemTier": "精英",
     "normalItemDisplayName": "重十字弓",
-    "exceptionalItemDisplayName": "攻城弩",
+    "exceptionalItemDisplayName": "弩炮",
     "eliteItemDisplayName": "巨神十字弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -15563,7 +15563,7 @@
     "displayName": "恶魔十字弓",
     "itemTier": "精英",
     "normalItemDisplayName": "连射十字弓",
-    "exceptionalItemDisplayName": "诸葛弩",
+    "exceptionalItemDisplayName": "巧工弩",
     "eliteItemDisplayName": "恶魔十字弓",
     "onlyClassDisplayText": null,
     "uniques": [
@@ -15611,10 +15611,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "鹰之宝珠",
+    "displayName": "鹰之法珠",
     "itemTier": "普通",
-    "normalItemDisplayName": "鹰之宝珠",
-    "exceptionalItemDisplayName": "发光之球",
+    "normalItemDisplayName": "鹰之法珠",
+    "exceptionalItemDisplayName": "灵光法珠",
     "eliteItemDisplayName": "天堂之石",
     "onlyClassDisplayText": "仅法师",
     "uniques": null,
@@ -15657,10 +15657,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "神圣之球",
+    "displayName": "神圣天球",
     "itemTier": "普通",
-    "normalItemDisplayName": "神圣之球",
-    "exceptionalItemDisplayName": "水晶之球",
+    "normalItemDisplayName": "神圣天球",
+    "exceptionalItemDisplayName": "水晶天球",
     "eliteItemDisplayName": "怪异之球",
     "onlyClassDisplayText": "仅法师",
     "uniques": null,
@@ -15703,9 +15703,9 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "烟熏之球",
+    "displayName": "拢烟之球",
     "itemTier": "普通",
-    "normalItemDisplayName": "烟熏之球",
+    "normalItemDisplayName": "拢烟之球",
     "exceptionalItemDisplayName": "云雾之球",
     "eliteItemDisplayName": "恶魔之心",
     "onlyClassDisplayText": "仅法师",
@@ -15749,11 +15749,11 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "握扣之球",
+    "displayName": "握扣法珠",
     "itemTier": "普通",
-    "normalItemDisplayName": "握扣之球",
+    "normalItemDisplayName": "握扣法珠",
     "exceptionalItemDisplayName": "闪耀之球",
-    "eliteItemDisplayName": "漩涡之球",
+    "eliteItemDisplayName": "漩涡球",
     "onlyClassDisplayText": "仅法师",
     "uniques": null,
     "dontDisplay": false,
@@ -15795,10 +15795,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "贾瑞德之石",
+    "displayName": "龙石",
     "itemTier": "普通",
-    "normalItemDisplayName": "贾瑞德之石",
-    "exceptionalItemDisplayName": "漩涡之球",
+    "normalItemDisplayName": "龙石",
+    "exceptionalItemDisplayName": "涡流水晶",
     "eliteItemDisplayName": "次元碎片",
     "onlyClassDisplayText": "仅法师",
     "uniques": null,
@@ -15841,10 +15841,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "牡鹿之弓",
+    "displayName": "男性之弓",
     "itemTier": "普通",
-    "normalItemDisplayName": "牡鹿之弓",
-    "exceptionalItemDisplayName": "梣木弓",
+    "normalItemDisplayName": "男性之弓",
+    "exceptionalItemDisplayName": "灰木之弓",
     "eliteItemDisplayName": "女族长之弓",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": null,
@@ -15887,10 +15887,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "反射弓",
+    "displayName": "反射之弓",
     "itemTier": "普通",
-    "normalItemDisplayName": "反射弓",
-    "exceptionalItemDisplayName": "典礼长弓",
+    "normalItemDisplayName": "反射之弓",
+    "exceptionalItemDisplayName": "祭典之弓",
     "eliteItemDisplayName": "大院长之弓",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": null,
@@ -15943,10 +15943,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "少女长矛",
+    "displayName": "女士之矛",
     "itemTier": "普通",
-    "normalItemDisplayName": "少女长矛",
-    "exceptionalItemDisplayName": "典礼长矛",
+    "normalItemDisplayName": "女士之矛",
+    "exceptionalItemDisplayName": "祭典之矛",
     "eliteItemDisplayName": "女族长之矛",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": null,
@@ -15999,11 +15999,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "少女长枪",
+    "displayName": "女士长矛",
     "itemTier": "普通",
-    "normalItemDisplayName": "少女长枪",
-    "exceptionalItemDisplayName": "典礼长枪",
-    "eliteItemDisplayName": "女族长长枪",
+    "normalItemDisplayName": "女士长矛",
+    "exceptionalItemDisplayName": "祭典之长矛",
+    "eliteItemDisplayName": "女族长之长矛",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": null,
     "dontDisplay": false,
@@ -16055,11 +16055,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "少女标枪",
+    "displayName": "女士标枪",
     "itemTier": "普通",
-    "normalItemDisplayName": "少女标枪",
-    "exceptionalItemDisplayName": "典礼标枪",
-    "eliteItemDisplayName": "女族长标枪",
+    "normalItemDisplayName": "女士标枪",
+    "exceptionalItemDisplayName": "祭典之标枪",
+    "eliteItemDisplayName": "女族长之标枪",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": [
       {
@@ -16106,10 +16106,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "发光之球",
+    "displayName": "灵光法珠",
     "itemTier": "扩展",
-    "normalItemDisplayName": "鹰之宝珠",
-    "exceptionalItemDisplayName": "发光之球",
+    "normalItemDisplayName": "鹰之法珠",
+    "exceptionalItemDisplayName": "灵光法珠",
     "eliteItemDisplayName": "天堂之石",
     "onlyClassDisplayText": "仅法师",
     "uniques": [
@@ -16157,10 +16157,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "水晶之球",
+    "displayName": "水晶天球",
     "itemTier": "扩展",
-    "normalItemDisplayName": "神圣之球",
-    "exceptionalItemDisplayName": "水晶之球",
+    "normalItemDisplayName": "神圣天球",
+    "exceptionalItemDisplayName": "水晶天球",
     "eliteItemDisplayName": "怪异之球",
     "onlyClassDisplayText": "仅法师",
     "uniques": [
@@ -16210,7 +16210,7 @@
     "secondItemType": null,
     "displayName": "云雾之球",
     "itemTier": "扩展",
-    "normalItemDisplayName": "烟熏之球",
+    "normalItemDisplayName": "拢烟之球",
     "exceptionalItemDisplayName": "云雾之球",
     "eliteItemDisplayName": "恶魔之心",
     "onlyClassDisplayText": "仅法师",
@@ -16256,9 +16256,9 @@
     "secondItemType": null,
     "displayName": "闪耀之球",
     "itemTier": "扩展",
-    "normalItemDisplayName": "握扣之球",
+    "normalItemDisplayName": "握扣法珠",
     "exceptionalItemDisplayName": "闪耀之球",
-    "eliteItemDisplayName": "漩涡之球",
+    "eliteItemDisplayName": "漩涡球",
     "onlyClassDisplayText": "仅法师",
     "uniques": null,
     "dontDisplay": false,
@@ -16300,10 +16300,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "漩涡之球",
+    "displayName": "涡流水晶",
     "itemTier": "扩展",
-    "normalItemDisplayName": "贾瑞德之石",
-    "exceptionalItemDisplayName": "漩涡之球",
+    "normalItemDisplayName": "龙石",
+    "exceptionalItemDisplayName": "涡流水晶",
     "eliteItemDisplayName": "次元碎片",
     "onlyClassDisplayText": "仅法师",
     "uniques": [
@@ -16351,10 +16351,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "梣木弓",
+    "displayName": "灰木之弓",
     "itemTier": "扩展",
-    "normalItemDisplayName": "牡鹿之弓",
-    "exceptionalItemDisplayName": "梣木弓",
+    "normalItemDisplayName": "男性之弓",
+    "exceptionalItemDisplayName": "灰木之弓",
     "eliteItemDisplayName": "女族长之弓",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": null,
@@ -16397,10 +16397,10 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "典礼长弓",
+    "displayName": "祭典之弓",
     "itemTier": "扩展",
-    "normalItemDisplayName": "反射弓",
-    "exceptionalItemDisplayName": "典礼长弓",
+    "normalItemDisplayName": "反射之弓",
+    "exceptionalItemDisplayName": "祭典之弓",
     "eliteItemDisplayName": "大院长之弓",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": [
@@ -16458,10 +16458,10 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "典礼长矛",
+    "displayName": "祭典之矛",
     "itemTier": "扩展",
-    "normalItemDisplayName": "少女长矛",
-    "exceptionalItemDisplayName": "典礼长矛",
+    "normalItemDisplayName": "女士之矛",
+    "exceptionalItemDisplayName": "祭典之矛",
     "eliteItemDisplayName": "女族长之矛",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": null,
@@ -16514,11 +16514,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "典礼长枪",
+    "displayName": "祭典之长矛",
     "itemTier": "扩展",
-    "normalItemDisplayName": "少女长枪",
-    "exceptionalItemDisplayName": "典礼长枪",
-    "eliteItemDisplayName": "女族长长枪",
+    "normalItemDisplayName": "女士长矛",
+    "exceptionalItemDisplayName": "祭典之长矛",
+    "eliteItemDisplayName": "女族长之长矛",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": [
       {
@@ -16575,11 +16575,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "典礼标枪",
+    "displayName": "祭典之标枪",
     "itemTier": "扩展",
-    "normalItemDisplayName": "少女标枪",
-    "exceptionalItemDisplayName": "典礼标枪",
-    "eliteItemDisplayName": "女族长标枪",
+    "normalItemDisplayName": "女士标枪",
+    "exceptionalItemDisplayName": "祭典之标枪",
+    "eliteItemDisplayName": "女族长之标枪",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": [
       {
@@ -16628,8 +16628,8 @@
     "secondItemType": null,
     "displayName": "天堂之石",
     "itemTier": "精英",
-    "normalItemDisplayName": "鹰之宝珠",
-    "exceptionalItemDisplayName": "发光之球",
+    "normalItemDisplayName": "鹰之法珠",
+    "exceptionalItemDisplayName": "灵光法珠",
     "eliteItemDisplayName": "天堂之石",
     "onlyClassDisplayText": "仅法师",
     "uniques": null,
@@ -16674,8 +16674,8 @@
     "secondItemType": null,
     "displayName": "怪异之球",
     "itemTier": "精英",
-    "normalItemDisplayName": "神圣之球",
-    "exceptionalItemDisplayName": "水晶之球",
+    "normalItemDisplayName": "神圣天球",
+    "exceptionalItemDisplayName": "水晶天球",
     "eliteItemDisplayName": "怪异之球",
     "onlyClassDisplayText": "仅法师",
     "uniques": [
@@ -16725,7 +16725,7 @@
     "secondItemType": null,
     "displayName": "恶魔之心",
     "itemTier": "精英",
-    "normalItemDisplayName": "烟熏之球",
+    "normalItemDisplayName": "拢烟之球",
     "exceptionalItemDisplayName": "云雾之球",
     "eliteItemDisplayName": "恶魔之心",
     "onlyClassDisplayText": "仅法师",
@@ -16774,11 +16774,11 @@
       "dontDisplay": false
     },
     "secondItemType": null,
-    "displayName": "漩涡之球",
+    "displayName": "漩涡球",
     "itemTier": "精英",
-    "normalItemDisplayName": "握扣之球",
+    "normalItemDisplayName": "握扣法珠",
     "exceptionalItemDisplayName": "闪耀之球",
-    "eliteItemDisplayName": "漩涡之球",
+    "eliteItemDisplayName": "漩涡球",
     "onlyClassDisplayText": "仅法师",
     "uniques": [
       {
@@ -16827,8 +16827,8 @@
     "secondItemType": null,
     "displayName": "次元碎片",
     "itemTier": "精英",
-    "normalItemDisplayName": "贾瑞德之石",
-    "exceptionalItemDisplayName": "漩涡之球",
+    "normalItemDisplayName": "龙石",
+    "exceptionalItemDisplayName": "涡流水晶",
     "eliteItemDisplayName": "次元碎片",
     "onlyClassDisplayText": "仅法师",
     "uniques": [
@@ -16878,8 +16878,8 @@
     "secondItemType": null,
     "displayName": "女族长之弓",
     "itemTier": "精英",
-    "normalItemDisplayName": "牡鹿之弓",
-    "exceptionalItemDisplayName": "梣木弓",
+    "normalItemDisplayName": "男性之弓",
+    "exceptionalItemDisplayName": "灰木之弓",
     "eliteItemDisplayName": "女族长之弓",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": [
@@ -16929,8 +16929,8 @@
     "secondItemType": null,
     "displayName": "大院长之弓",
     "itemTier": "精英",
-    "normalItemDisplayName": "反射弓",
-    "exceptionalItemDisplayName": "典礼长弓",
+    "normalItemDisplayName": "反射之弓",
+    "exceptionalItemDisplayName": "祭典之弓",
     "eliteItemDisplayName": "大院长之弓",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": [
@@ -16990,8 +16990,8 @@
     },
     "displayName": "女族长之矛",
     "itemTier": "精英",
-    "normalItemDisplayName": "少女长矛",
-    "exceptionalItemDisplayName": "典礼长矛",
+    "normalItemDisplayName": "女士之矛",
+    "exceptionalItemDisplayName": "祭典之矛",
     "eliteItemDisplayName": "女族长之矛",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": [
@@ -17049,11 +17049,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "女族长长枪",
+    "displayName": "女族长之长矛",
     "itemTier": "精英",
-    "normalItemDisplayName": "少女长枪",
-    "exceptionalItemDisplayName": "典礼长枪",
-    "eliteItemDisplayName": "女族长长枪",
+    "normalItemDisplayName": "女士长矛",
+    "exceptionalItemDisplayName": "祭典之长矛",
+    "eliteItemDisplayName": "女族长之长矛",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": [
       {
@@ -17114,11 +17114,11 @@
       "throwable": "0",
       "dontDisplay": false
     },
-    "displayName": "女族长标枪",
+    "displayName": "女族长之标枪",
     "itemTier": "精英",
-    "normalItemDisplayName": "少女标枪",
-    "exceptionalItemDisplayName": "典礼标枪",
-    "eliteItemDisplayName": "女族长标枪",
+    "normalItemDisplayName": "女士标枪",
+    "exceptionalItemDisplayName": "祭典之标枪",
+    "eliteItemDisplayName": "女族长之标枪",
     "onlyClassDisplayText": "仅亚马逊",
     "uniques": [
       {
@@ -17238,9 +17238,9 @@
     },
     "displayName": "崩裂大槌",
     "itemTier": "普通",
-    "normalItemDisplayName": "碎骨之锤",
-    "exceptionalItemDisplayName": "碎裂之锤",
-    "eliteItemDisplayName": "毁灭之锤",
+    "normalItemDisplayName": "崩裂大槌",
+    "exceptionalItemDisplayName": "瓦解大槌",
+    "eliteItemDisplayName": "毁灭大槌",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -17294,9 +17294,9 @@
     },
     "displayName": "瓦解大槌",
     "itemTier": "扩展",
-    "normalItemDisplayName": "碎骨之锤",
-    "exceptionalItemDisplayName": "碎裂之锤",
-    "eliteItemDisplayName": "毁灭之锤",
+    "normalItemDisplayName": "崩裂大槌",
+    "exceptionalItemDisplayName": "瓦解大槌",
+    "eliteItemDisplayName": "毁灭大槌",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,
@@ -17350,9 +17350,9 @@
     },
     "displayName": "毁灭大槌",
     "itemTier": "精英",
-    "normalItemDisplayName": "碎骨之锤",
-    "exceptionalItemDisplayName": "碎裂之锤",
-    "eliteItemDisplayName": "毁灭之锤",
+    "normalItemDisplayName": "崩裂大槌",
+    "exceptionalItemDisplayName": "瓦解大槌",
+    "eliteItemDisplayName": "毁灭大槌",
     "onlyClassDisplayText": null,
     "uniques": null,
     "dontDisplay": false,

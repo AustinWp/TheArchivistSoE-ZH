@@ -104,17 +104,42 @@ def main():
         return _on.resolve(code)[0]
 
     changes = 0
+
+    # 一个物品有**多个**名字字段，前端渲染用的是 displayName（`displayName || name`）。
+    # 只改 name 不改 displayName → 页面上还是旧名字（巧工弩事故的第二次翻车）。
+    TIER_FIELDS = [
+        ("normalItemDisplayName", "normalTierCode"),
+        ("exceptionalItemDisplayName", "exceptionalTierCode"),
+        ("eliteItemDisplayName", "eliteTierCode"),
+    ]
+
     for fn, top in [("Weapons.json", "name"), ("Armors.json", "name")]:
         p = os.path.join(ROOT, "public", "data", fn)
         data = json.load(open(p, encoding="utf-8"))
+
         for it in data:
             w = want(it.get("code"))
-            got = it.get(top)
-            if w and got and w != got:
-                print(f"  {fn}: {it.get('code')} 「{got}」→「{w}」")
-                changes += 1
-                if not args.check:
-                    it[top] = w
+
+            # 物品自身：name + displayName
+            for field in (top, "displayName"):
+                got = it.get(field)
+                if w and got and w != got:
+                    print(f"  {fn}: {it.get('code')}.{field} 「{got}」→「{w}」")
+                    changes += 1
+                    if not args.check:
+                        it[field] = w
+
+            # 三个阶位的显示名（各自按对应 code 取名）
+            for field, tier_code in TIER_FIELDS:
+                got = it.get(field)
+                if not got:
+                    continue
+                w2 = want(it.get(tier_code))
+                if w2 and w2 != got:
+                    print(f"  {fn}: {it.get('code')}.{field} 「{got}」→「{w2}」")
+                    changes += 1
+                    if not args.check:
+                        it[field] = w2
         if not args.check:
             with open(p, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
