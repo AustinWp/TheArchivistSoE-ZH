@@ -33,6 +33,40 @@ def load_rows(name):
     return [r.split("\t") for r in rows]
 
 
+def build_eternal_map():
+    """英文物品名 → 官方「基础类型」名。
+
+    官方串表里每个基础物品有一条 `StrEternal<英文名去掉空格/连字符>` 的条目，
+    值形如 `基础类型：巧工弩`。**很多物品的 namestr/code 在串表里根本没有条目**
+    （例如 `8rx` Chu-Ko-Nu），这时就只能靠这条规律取官方中文名。
+    """
+    official = json.load(open(os.path.join(ROOT, "public", "data", "official_zh.json"),
+                              encoding="utf-8"))["names"]
+
+    eternal = {}
+    for k, v in official.items():
+        if not k.startswith("StrEternal"):
+            continue
+        s = clean(v)
+        if s.startswith("基础类型："):
+            eternal[k[len("StrEternal"):]] = s[len("基础类型："):]
+
+    out = {}
+    for t in TABLES:
+        rows = load_rows(t)
+        hdr = rows[0]
+        if "code" not in hdr or "name" not in hdr:
+            continue
+        ci, ni = hdr.index("code"), hdr.index("name")
+        for r in rows[1:]:
+            if len(r) <= max(ci, ni) or not r[ci].strip():
+                continue
+            key = re.sub(r"[^A-Za-z0-9]", "", r[ni].strip())
+            if key in eternal:
+                out[r[ci].strip().lower()] = eternal[key]
+    return out
+
+
 def build_key_map():
     """code → 游戏实际使用的字符串键（namestr 优先）。"""
     out = {}
@@ -60,12 +94,14 @@ def main():
                 json.load(open(os.path.join(ROOT, "public", "data", "official_zh.json"),
                                encoding="utf-8"))["names"].items()}
     keys = build_key_map()
+    eternal = build_eternal_map()
 
     def want(code):
+        """取名优先级：namestr/code 键 → `StrEternal<英文名>` 基础类型名。"""
         if not code:
             return None
         k = keys.get(str(code).lower(), str(code).lower())
-        return official.get(k)
+        return official.get(k) or eternal.get(str(code).lower())
 
     changes = 0
     for fn, top in [("Weapons.json", "name"), ("Armors.json", "name")]:

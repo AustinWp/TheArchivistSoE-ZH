@@ -180,7 +180,7 @@
     "highlight": false
   },
   {
-    "name": "巨盔",
+    "name": "卓越头盔",
     "minDefense": 30,
     "maxDefense": 35,
     "requiredStrength": "63",
@@ -315,7 +315,7 @@
     "highlight": false
   },
   {
-    "name": "棉布甲",
+    "name": "布甲",
     "minDefense": 9,
     "maxDefense": 11,
     "requiredStrength": "12",
@@ -495,7 +495,7 @@
     "highlight": false
   },
   {
-    "name": "环状甲",
+    "name": "锁环甲",
     "minDefense": 49,
     "maxDefense": 51,
     "requiredStrength": "36",
@@ -675,7 +675,7 @@
     "highlight": false
   },
   {
-    "name": "镶板甲",
+    "name": "板甲",
     "minDefense": 81,
     "maxDefense": 84,
     "requiredStrength": "51",
@@ -720,7 +720,7 @@
     "highlight": false
   },
   {
-    "name": "板甲",
+    "name": "铠甲",
     "minDefense": 103,
     "maxDefense": 108,
     "requiredStrength": "65",
@@ -765,7 +765,7 @@
     "highlight": false
   },
   {
-    "name": "战甲",
+    "name": "实战铠甲",
     "minDefense": 100,
     "maxDefense": 102,
     "requiredStrength": "55",
@@ -810,7 +810,7 @@
     "highlight": false
   },
   {
-    "name": "哥特板甲",
+    "name": "哥德战甲",
     "minDefense": 124,
     "maxDefense": 128,
     "requiredStrength": "70",
@@ -855,7 +855,7 @@
     "highlight": false
   },
   {
-    "name": "全身板甲",
+    "name": "高级战甲",
     "minDefense": 145,
     "maxDefense": 150,
     "requiredStrength": "80",
@@ -990,7 +990,7 @@
     "highlight": false
   },
   {
-    "name": "小圆盾",
+    "name": "圆盾",
     "minDefense": 4,
     "maxDefense": 6,
     "requiredStrength": "12",
@@ -1035,7 +1035,7 @@
     "highlight": false
   },
   {
-    "name": "小盾",
+    "name": "小盾牌",
     "minDefense": 8,
     "maxDefense": 10,
     "requiredStrength": "22",
@@ -1080,7 +1080,7 @@
     "highlight": false
   },
   {
-    "name": "大盾",
+    "name": "大盾牌",
     "minDefense": 12,
     "maxDefense": 14,
     "requiredStrength": "34",
@@ -1125,7 +1125,7 @@
     "highlight": false
   },
   {
-    "name": "鸢盾",
+    "name": "轻盾",
     "minDefense": 16,
     "maxDefense": 18,
     "requiredStrength": "47",
@@ -1215,7 +1215,7 @@
     "highlight": false
   },
   {
-    "name": "哥特盾",
+    "name": "哥德盾牌",
     "minDefense": 30,
     "maxDefense": 35,
     "requiredStrength": "60",
@@ -1395,7 +1395,7 @@
     "highlight": false
   },
   {
-    "name": "轻手套",
+    "name": "轻型铁手套",
     "minDefense": 9,
     "maxDefense": 11,
     "requiredStrength": "45",
@@ -1640,7 +1640,7 @@
     "highlight": false
   },
   {
-    "name": "轻板靴",
+    "name": "轻型板甲靴",
     "minDefense": 9,
     "maxDefense": 11,
     "requiredStrength": "50",
@@ -1775,7 +1775,7 @@
     "highlight": false
   },
   {
-    "name": "轻腰带",
+    "name": "轻扣带",
     "minDefense": 3,
     "maxDefense": 3,
     "requiredStrength": "0",
@@ -1865,7 +1865,7 @@
     "highlight": false
   },
   {
-    "name": "重腰带",
+    "name": "重扣带",
     "minDefense": 6,
     "maxDefense": 6,
     "requiredStrength": "45",
@@ -1955,7 +1955,7 @@
     "highlight": false
   },
   {
-    "name": "骸骨头盔",
+    "name": "白骨头盔",
     "minDefense": 33,
     "maxDefense": 36,
     "requiredStrength": "25",
@@ -2000,7 +2000,7 @@
     "highlight": false
   },
   {
-    "name": "白骨之盾",
+    "name": "白骨盾牌",
     "minDefense": 10,
     "maxDefense": 30,
     "requiredStrength": "25",
@@ -2055,7 +2055,7 @@
     "highlight": false
   },
   {
-    "name": "尖刺盾",
+    "name": "尖刺盾牌",
     "minDefense": 15,
     "maxDefense": 25,
     "requiredStrength": "30",
@@ -2155,7 +2155,7 @@
     "highlight": false
   },
   {
-    "name": "轻型头盔",
+    "name": "轻便头盔",
     "minDefense": 52,
     "maxDefense": 62,
     "requiredStrength": "43",
@@ -2200,7 +2200,7 @@
     "highlight": false
   },
   {
-    "name": "轻便头盔",
+    "name": "无颊头盔",
     "minDefense": 63,
     "maxDefense": 72,
     "requiredStrength": "59",
@@ -2335,7 +2335,7 @@
     "highlight": false
   },
   {
-    "name": "大皇冠",
+    "name": "巨皇冠",
     "minDefense": 78,
     "maxDefense": 113,
     "requiredStrength": "103",
@@ -2470,7 +2470,7 @@
     "highlight": false
   },
   {
-    "name": "蛇皮甲",
+    "name": "海蛇皮甲",
     "minDefense": 116,
     "maxDefense": 122,
     "requiredStrength": "43",
@@ -2560,7 +2560,7 @@
     "highlight": false
   },
   {
-    "name": "格栅甲",
+    "name": "盘绕战甲",
     "minDefense": 148,
     "maxDefense": 156,
     "requiredStrength": "61",
@@ -2605,7 +2605,7 @@
     "highlight": false
   },
   {
-    "name": "环甲",
+    "name": "连扣战甲",
     "minDefense": 172,
     "maxDefense": 180,
     "requiredStrength": "74",
@@ -2650,7 +2650,7 @@
     "highlight": false
   },
   {
-    "name": "叠瓦甲",
+    "name": "提格莱特战甲",
     "minDefense": 193,
     "maxDefense": 202,
     "requiredStrength": "86",
@@ -2695,7 +2695,7 @@
     "highlight": false
   },
   {
-    "name": "网眼甲",
+    "name": "织网战甲",
     "minDefense": 207,
     "maxDefense": 216,
     "requiredStrength": "92",
@@ -2740,7 +2740,7 @@
     "highlight": false
   },
   {
-    "name": "胸甲",
+    "name": "护胸甲",
     "minDefense": 170,
     "maxDefense": 176,
     "requiredStrength": "65",
@@ -2785,7 +2785,7 @@
     "highlight": false
   },
   {
-    "name": "赤褐甲",
+    "name": "罗瑟战甲",
     "minDefense": 223,
     "maxDefense": 233,
     "requiredStrength": "97",
@@ -2830,7 +2830,7 @@
     "highlight": false
   },
   {
-    "name": "圣堂武士外套",
+    "name": "圣堂武士外袍",
     "minDefense": 264,
     "maxDefense": 278,
     "requiredStrength": "118",
@@ -2875,7 +2875,7 @@
     "highlight": false
   },
   {
-    "name": "鲨齿甲",
+    "name": "鲨齿战甲",
     "minDefense": 246,
     "maxDefense": 255,
     "requiredStrength": "103",
@@ -2920,7 +2920,7 @@
     "highlight": false
   },
   {
-    "name": "浮雕板甲",
+    "name": "凸纹战甲",
     "minDefense": 291,
     "maxDefense": 304,
     "requiredStrength": "125",
@@ -2965,7 +2965,7 @@
     "highlight": false
   },
   {
-    "name": "混沌铠甲",
+    "name": "混沌战甲",
     "minDefense": 323,
     "maxDefense": 340,
     "requiredStrength": "140",
@@ -3100,7 +3100,7 @@
     "highlight": false
   },
   {
-    "name": "防御者盾",
+    "name": "防御盾",
     "minDefense": 41,
     "maxDefense": 49,
     "requiredStrength": "38",
@@ -3145,7 +3145,7 @@
     "highlight": false
   },
   {
-    "name": "圆盾",
+    "name": "圆型盾",
     "minDefense": 47,
     "maxDefense": 55,
     "requiredStrength": "53",
@@ -3190,7 +3190,7 @@
     "highlight": false
   },
   {
-    "name": "长盾",
+    "name": "鳞盾",
     "minDefense": 53,
     "maxDefense": 61,
     "requiredStrength": "71",
@@ -3460,7 +3460,7 @@
     "highlight": false
   },
   {
-    "name": "重护腕",
+    "name": "重型手镯",
     "minDefense": 37,
     "maxDefense": 44,
     "requiredStrength": "58",
@@ -3505,7 +3505,7 @@
     "highlight": false
   },
   {
-    "name": "战斗手套",
+    "name": "战场手套",
     "minDefense": 39,
     "maxDefense": 47,
     "requiredStrength": "88",
@@ -3640,7 +3640,7 @@
     "highlight": false
   },
   {
-    "name": "鲨皮靴",
+    "name": "鲨皮之靴",
     "minDefense": 33,
     "maxDefense": 39,
     "requiredStrength": "47",
@@ -3685,7 +3685,7 @@
     "highlight": false
   },
   {
-    "name": "网眼靴",
+    "name": "织网之靴",
     "minDefense": 37,
     "maxDefense": 44,
     "requiredStrength": "65",
@@ -3730,7 +3730,7 @@
     "highlight": false
   },
   {
-    "name": "战斗靴",
+    "name": "战场之靴",
     "minDefense": 39,
     "maxDefense": 47,
     "requiredStrength": "95",
@@ -3775,7 +3775,7 @@
     "highlight": false
   },
   {
-    "name": "战靴",
+    "name": "巨战之靴",
     "minDefense": 43,
     "maxDefense": 53,
     "requiredStrength": "125",
@@ -3820,7 +3820,7 @@
     "highlight": false
   },
   {
-    "name": "魔皮腰带",
+    "name": "魔皮勋带",
     "minDefense": 29,
     "maxDefense": 34,
     "requiredStrength": "20",
@@ -3910,7 +3910,7 @@
     "highlight": false
   },
   {
-    "name": "网眼腰带",
+    "name": "织网腰带",
     "minDefense": 35,
     "maxDefense": 40,
     "requiredStrength": "58",
@@ -3955,7 +3955,7 @@
     "highlight": false
   },
   {
-    "name": "战斗腰带",
+    "name": "战场腰带",
     "minDefense": 37,
     "maxDefense": 42,
     "requiredStrength": "88",
@@ -4000,7 +4000,7 @@
     "highlight": false
   },
   {
-    "name": "战腰带",
+    "name": "巨战腰带",
     "minDefense": 41,
     "maxDefense": 52,
     "requiredStrength": "110",
@@ -4045,7 +4045,7 @@
     "highlight": false
   },
   {
-    "name": "冷酷头盔",
+    "name": "残酷头盔",
     "minDefense": 60,
     "maxDefense": 125,
     "requiredStrength": "58",
@@ -4145,7 +4145,7 @@
     "highlight": false
   },
   {
-    "name": "倒刺盾",
+    "name": "倒刺护盾",
     "minDefense": 58,
     "maxDefense": 78,
     "requiredStrength": "65",
@@ -4240,7 +4240,7 @@
     "highlight": false
   },
   {
-    "name": "鹰头盔",
+    "name": "飞鹰头盔",
     "minDefense": 4,
     "maxDefense": 15,
     "requiredStrength": "20",
@@ -4365,7 +4365,7 @@
     "highlight": false
   },
   {
-    "name": "幽灵面具",
+    "name": "灵魂狼头面具",
     "minDefense": 22,
     "maxDefense": 35,
     "requiredStrength": "30",
@@ -4445,7 +4445,7 @@
     "highlight": false
   },
   {
-    "name": "獠牙头盔",
+    "name": "尖牙盔",
     "minDefense": 15,
     "maxDefense": 20,
     "requiredStrength": "35",
@@ -4525,7 +4525,7 @@
     "highlight": false
   },
   {
-    "name": "突击头盔",
+    "name": "突击盔",
     "minDefense": 30,
     "maxDefense": 35,
     "requiredStrength": "55",
@@ -4565,7 +4565,7 @@
     "highlight": false
   },
   {
-    "name": "复仇者头盔",
+    "name": "复仇者之盔",
     "minDefense": 35,
     "maxDefense": 50,
     "requiredStrength": "65",
@@ -4645,7 +4645,7 @@
     "highlight": false
   },
   {
-    "name": "圆盾",
+    "name": "轻圆盾",
     "minDefense": 10,
     "maxDefense": 18,
     "requiredStrength": "26",
@@ -4730,7 +4730,7 @@
     "highlight": false
   },
   {
-    "name": "艾琳之盾",
+    "name": "艾文之盾",
     "minDefense": 26,
     "maxDefense": 36,
     "requiredStrength": "50",
@@ -4810,7 +4810,7 @@
     "highlight": false
   },
   {
-    "name": "保存之首",
+    "name": "防腐之首",
     "minDefense": 2,
     "maxDefense": 5,
     "requiredStrength": "12",
@@ -4890,7 +4890,7 @@
     "highlight": false
   },
   {
-    "name": "解缚者之首",
+    "name": "揭露者之首",
     "minDefense": 6,
     "maxDefense": 10,
     "requiredStrength": "18",
@@ -4930,7 +4930,7 @@
     "highlight": false
   },
   {
-    "name": "石魔像之首",
+    "name": "石像鬼之首",
     "minDefense": 10,
     "maxDefense": 16,
     "requiredStrength": "20",
@@ -5010,7 +5010,7 @@
     "highlight": false
   },
   {
-    "name": "头环",
+    "name": "饰环",
     "minDefense": 20,
     "maxDefense": 30,
     "requiredStrength": "0",
@@ -5135,7 +5135,7 @@
     "highlight": false
   },
   {
-    "name": "头冠",
+    "name": "王位",
     "minDefense": 50,
     "maxDefense": 60,
     "requiredStrength": "0",
@@ -5188,7 +5188,7 @@
     "highlight": false
   },
   {
-    "name": "谐角之冠",
+    "name": "军帽",
     "minDefense": 98,
     "maxDefense": 141,
     "requiredStrength": "50",
@@ -5237,7 +5237,7 @@
     "highlight": false
   },
   {
-    "name": "九头蛇之首",
+    "name": "九头蛇头盖骨圆帽",
     "minDefense": 101,
     "maxDefense": 145,
     "requiredStrength": "84",
@@ -5277,7 +5277,7 @@
     "highlight": false
   },
   {
-    "name": "轻盔",
+    "name": "活动头盔",
     "minDefense": 105,
     "maxDefense": 149,
     "requiredStrength": "109",
@@ -5322,7 +5322,7 @@
     "highlight": false
   },
   {
-    "name": "巨螺",
+    "name": "巨贝头盔",
     "minDefense": 110,
     "maxDefense": 154,
     "requiredStrength": "142",
@@ -5371,7 +5371,7 @@
     "highlight": false
   },
   {
-    "name": "尖顶头盔",
+    "name": "螺旋头盔",
     "minDefense": 114,
     "maxDefense": 159,
     "requiredStrength": "192",
@@ -5420,7 +5420,7 @@
     "highlight": false
   },
   {
-    "name": "王冠",
+    "name": "头冠",
     "minDefense": 111,
     "maxDefense": 165,
     "requiredStrength": "174",
@@ -5465,7 +5465,7 @@
     "highlight": false
   },
   {
-    "name": "恶魔头盖骨",
+    "name": "恶魔头盖骨面具",
     "minDefense": 101,
     "maxDefense": 154,
     "requiredStrength": "102",
@@ -5559,7 +5559,7 @@
     "highlight": false
   },
   {
-    "name": "虫壳甲",
+    "name": "古龙皮",
     "minDefense": 287,
     "maxDefense": 322,
     "requiredStrength": "84",
@@ -5599,7 +5599,7 @@
     "highlight": false
   },
   {
-    "name": "圣甲虫壳甲",
+    "name": "圣甲虫壳皮甲",
     "minDefense": 309,
     "maxDefense": 349,
     "requiredStrength": "95",
@@ -5729,7 +5729,7 @@
     "highlight": false
   },
   {
-    "name": "鳞甲",
+    "name": "甲壳铠鳞甲",
     "minDefense": 428,
     "maxDefense": 495,
     "requiredStrength": "149",
@@ -5769,7 +5769,7 @@
     "highlight": false
   },
   {
-    "name": "骨织甲",
+    "name": "骸骨链甲",
     "minDefense": 419,
     "maxDefense": 489,
     "requiredStrength": "158",
@@ -5809,7 +5809,7 @@
     "highlight": false
   },
   {
-    "name": "大锁子甲",
+    "name": "巨型鳞铠胸甲",
     "minDefense": 371,
     "maxDefense": 420,
     "requiredStrength": "118",
@@ -5894,7 +5894,7 @@
     "highlight": false
   },
   {
-    "name": "地狱熔炉板甲",
+    "name": "地狱锻铸板甲",
     "minDefense": 536,
     "maxDefense": 625,
     "requiredStrength": "196",
@@ -5934,7 +5934,7 @@
     "highlight": false
   },
   {
-    "name": "北海巨妖之壳",
+    "name": "海妖壳甲",
     "minDefense": 501,
     "maxDefense": 576,
     "requiredStrength": "174",
@@ -6073,7 +6073,7 @@
     "highlight": false
   },
   {
-    "name": "神圣铠甲",
+    "name": "神圣盔甲",
     "minDefense": 633,
     "maxDefense": 730,
     "requiredStrength": "232",
@@ -6171,7 +6171,7 @@
     "highlight": false
   },
   {
-    "name": "火炉盾",
+    "name": "防寒圆盾",
     "minDefense": 95,
     "maxDefense": 110,
     "requiredStrength": "77",
@@ -6216,7 +6216,7 @@
     "highlight": false
   },
   {
-    "name": "月盾",
+    "name": "月精灵护盾",
     "minDefense": 108,
     "maxDefense": 123,
     "requiredStrength": "100",
@@ -6355,7 +6355,7 @@
     "highlight": false
   },
   {
-    "name": "圣盾",
+    "name": "庇护",
     "minDefense": 215,
     "maxDefense": 241,
     "requiredStrength": "219",
@@ -6404,7 +6404,7 @@
     "highlight": false
   },
   {
-    "name": "守卫盾",
+    "name": "囚房",
     "minDefense": 183,
     "maxDefense": 207,
     "requiredStrength": "185",
@@ -6457,7 +6457,7 @@
     "highlight": false
   },
   {
-    "name": "荆棘手套",
+    "name": "荆棘连指手套",
     "minDefense": 54,
     "maxDefense": 62,
     "requiredStrength": "50",
@@ -6547,7 +6547,7 @@
     "highlight": false
   },
   {
-    "name": "护腕",
+    "name": "吸血鬼手套",
     "minDefense": 59,
     "maxDefense": 67,
     "requiredStrength": "106",
@@ -6592,7 +6592,7 @@
     "highlight": false
   },
   {
-    "name": "十字军手套",
+    "name": "十字军铁手套",
     "minDefense": 59,
     "maxDefense": 68,
     "requiredStrength": "151",
@@ -6641,7 +6641,7 @@
     "highlight": false
   },
   {
-    "name": "食人魔手套",
+    "name": "食人魔铁手套",
     "minDefense": 62,
     "maxDefense": 71,
     "requiredStrength": "185",
@@ -6690,7 +6690,7 @@
     "highlight": false
   },
   {
-    "name": "虫壳靴",
+    "name": "飞龙皮靴",
     "minDefense": 54,
     "maxDefense": 62,
     "requiredStrength": "50",
@@ -6780,7 +6780,7 @@
     "highlight": false
   },
   {
-    "name": "骨织靴",
+    "name": "骸骨靴",
     "minDefense": 59,
     "maxDefense": 67,
     "requiredStrength": "118",
@@ -6825,7 +6825,7 @@
     "highlight": false
   },
   {
-    "name": "镜面靴",
+    "name": "镜化靴",
     "minDefense": 59,
     "maxDefense": 68,
     "requiredStrength": "163",
@@ -6874,7 +6874,7 @@
     "highlight": false
   },
   {
-    "name": "侍卫胫甲",
+    "name": "极速靴",
     "minDefense": 62,
     "maxDefense": 71,
     "requiredStrength": "208",
@@ -7058,7 +7058,7 @@
     "highlight": false
   },
   {
-    "name": "巨魔腰带",
+    "name": "洞穴巨魔腰带",
     "minDefense": 59,
     "maxDefense": 66,
     "requiredStrength": "151",
@@ -7156,7 +7156,7 @@
     "highlight": false
   },
   {
-    "name": "骸骨面甲",
+    "name": "骸骨面罩",
     "minDefense": 100,
     "maxDefense": 157,
     "requiredStrength": "106",
@@ -7201,7 +7201,7 @@
     "highlight": false
   },
   {
-    "name": "巨魔巢穴",
+    "name": "洞穴巨魔巢穴骨盾",
     "minDefense": 158,
     "maxDefense": 173,
     "requiredStrength": "106",
@@ -7256,7 +7256,7 @@
     "highlight": false
   },
   {
-    "name": "刀锋盾",
+    "name": "刀刃刺盾",
     "minDefense": 147,
     "maxDefense": 163,
     "requiredStrength": "118",
@@ -7311,7 +7311,7 @@
     "highlight": false
   },
   {
-    "name": "阿尔法头盔",
+    "name": "阿尔发头盔",
     "minDefense": 52,
     "maxDefense": 62,
     "requiredStrength": "44",
@@ -7436,7 +7436,7 @@
     "highlight": false
   },
   {
-    "name": "神圣羽毛",
+    "name": "神圣羽毛头带",
     "minDefense": 58,
     "maxDefense": 87,
     "requiredStrength": "62",
@@ -7476,7 +7476,7 @@
     "highlight": false
   },
   {
-    "name": "图腾面具",
+    "name": "图腾面具狼盔",
     "minDefense": 73,
     "maxDefense": 98,
     "requiredStrength": "65",
@@ -7570,7 +7570,7 @@
     "highlight": false
   },
   {
-    "name": "狮头盔",
+    "name": "狮头尖盔",
     "minDefense": 63,
     "maxDefense": 75,
     "requiredStrength": "73",
@@ -7615,7 +7615,7 @@
     "highlight": false
   },
   {
-    "name": "狂怒面具",
+    "name": "狂怒面具刺盔",
     "minDefense": 78,
     "maxDefense": 90,
     "requiredStrength": "88",
@@ -7655,7 +7655,7 @@
     "highlight": false
   },
   {
-    "name": "野蛮头盔",
+    "name": "蛮族头盔",
     "minDefense": 85,
     "maxDefense": 98,
     "requiredStrength": "103",
@@ -7695,7 +7695,7 @@
     "highlight": false
   },
   {
-    "name": "杀戮者头盔",
+    "name": "杀手防护面甲",
     "minDefense": 93,
     "maxDefense": 120,
     "requiredStrength": "118",
@@ -7740,7 +7740,7 @@
     "highlight": false
   },
   {
-    "name": "艾卡拉小盾",
+    "name": "亚克南圆盾",
     "minDefense": 101,
     "maxDefense": 125,
     "requiredStrength": "44",
@@ -7780,7 +7780,7 @@
     "highlight": false
   },
   {
-    "name": "艾卡拉圆盾",
+    "name": "亚克南轻圆盾",
     "minDefense": 113,
     "maxDefense": 137,
     "requiredStrength": "59",
@@ -7820,7 +7820,7 @@
     "highlight": false
   },
   {
-    "name": "保护者盾",
+    "name": "防护者盾牌",
     "minDefense": 129,
     "maxDefense": 153,
     "requiredStrength": "69",
@@ -7909,7 +7909,7 @@
     "highlight": false
   },
   {
-    "name": "皇家盾",
+    "name": "皇家盾牌",
     "minDefense": 156,
     "maxDefense": 181,
     "requiredStrength": "114",
@@ -7949,7 +7949,7 @@
     "highlight": false
   },
   {
-    "name": "木乃伊之首",
+    "name": "木乃伊印记",
     "minDefense": 38,
     "maxDefense": 48,
     "requiredStrength": "38",
@@ -7994,7 +7994,7 @@
     "highlight": false
   },
   {
-    "name": "图腾面具",
+    "name": "物神印记",
     "minDefense": 41,
     "maxDefense": 52,
     "requiredStrength": "41",
@@ -8034,7 +8034,7 @@
     "highlight": false
   },
   {
-    "name": "司事之首",
+    "name": "司事印记",
     "minDefense": 44,
     "maxDefense": 55,
     "requiredStrength": "47",
@@ -8074,7 +8074,7 @@
     "highlight": false
   },
   {
-    "name": "唱诗者之首",
+    "name": "领唱者印记",
     "minDefense": 50,
     "maxDefense": 64,
     "requiredStrength": "50",
@@ -8114,7 +8114,7 @@
     "highlight": false
   },
   {
-    "name": "圣职者之首",
+    "name": "祭司战利品",
     "minDefense": 58,
     "maxDefense": 70,
     "requiredStrength": "58",
@@ -8294,7 +8294,7 @@
     "highlight": false
   },
   {
-    "name": "天穹之灵",
+    "name": "天空之灵",
     "minDefense": 103,
     "maxDefense": 155,
     "requiredStrength": "113",
@@ -8339,7 +8339,7 @@
     "highlight": false
   },
   {
-    "name": "梦之灵",
+    "name": "幽梦之灵",
     "minDefense": 109,
     "maxDefense": 159,
     "requiredStrength": "118",
@@ -8424,7 +8424,7 @@
     "highlight": false
   },
   {
-    "name": "狂怒面甲",
+    "name": "暴怒面甲",
     "minDefense": 105,
     "maxDefense": 150,
     "requiredStrength": "129",
@@ -8514,7 +8514,7 @@
     "highlight": false
   },
   {
-    "name": "征服者王冠",
+    "name": "征服者之冠",
     "minDefense": 114,
     "maxDefense": 159,
     "requiredStrength": "174",
@@ -8559,7 +8559,7 @@
     "highlight": false
   },
   {
-    "name": "守护者王冠",
+    "name": "守护者皇冠面甲",
     "minDefense": 117,
     "maxDefense": 168,
     "requiredStrength": "196",
@@ -8653,7 +8653,7 @@
     "highlight": false
   },
   {
-    "name": "神圣圆盾",
+    "name": "神圣轻圆盾",
     "minDefense": 130,
     "maxDefense": 155,
     "requiredStrength": "109",
@@ -8738,7 +8738,7 @@
     "highlight": false
   },
   {
-    "name": "萨卡兰姆盾",
+    "name": "撒卡兰姆盾牌",
     "minDefense": 185,
     "maxDefense": 214,
     "requiredStrength": "142",
@@ -8783,7 +8783,7 @@
     "highlight": false
   },
   {
-    "name": "漩涡盾",
+    "name": "旋风盾",
     "minDefense": 205,
     "maxDefense": 243,
     "requiredStrength": "148",
@@ -8828,7 +8828,7 @@
     "highlight": false
   },
   {
-    "name": "仆从之首",
+    "name": "随侍之骨",
     "minDefense": 95,
     "maxDefense": 139,
     "requiredStrength": "77",
@@ -8913,7 +8913,7 @@
     "highlight": false
   },
   {
-    "name": "监工之首",
+    "name": "监视者之骨",
     "minDefense": 98,
     "maxDefense": 142,
     "requiredStrength": "91",
@@ -8958,7 +8958,7 @@
     "highlight": false
   },
   {
-    "name": "魅魔之首",
+    "name": "魅魔头骨",
     "minDefense": 100,
     "maxDefense": 146,
     "requiredStrength": "95",
@@ -9003,7 +9003,7 @@
     "highlight": false
   },
   {
-    "name": "血王之首",
+    "name": "血王之骨",
     "minDefense": 103,
     "maxDefense": 148,
     "requiredStrength": "106",

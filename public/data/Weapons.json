@@ -244,7 +244,7 @@
     "highlight": false
   },
   {
-    "name": "战斧",
+    "name": "巨战斧",
     "type": "axe",
     "secondType": "1han",
     "code": "wax",
@@ -488,7 +488,7 @@
     "highlight": false
   },
   {
-    "name": "大斧",
+    "name": "卓越之斧",
     "type": "axe",
     "secondType": "2han",
     "code": "gax",
@@ -549,7 +549,7 @@
     "highlight": false
   },
   {
-    "name": "巨战斧",
+    "name": "大斧",
     "type": "axe",
     "secondType": "2han",
     "code": "gix",
@@ -610,7 +610,7 @@
     "highlight": false
   },
   {
-    "name": "法杖",
+    "name": "杖",
     "type": "wand",
     "secondType": "1han",
     "code": "wnd",
@@ -854,7 +854,7 @@
     "highlight": false
   },
   {
-    "name": "棍棒",
+    "name": "木棒",
     "type": "club",
     "secondType": "1han",
     "code": "clb",
@@ -976,7 +976,7 @@
     "highlight": false
   },
   {
-    "name": "大权杖",
+    "name": "雄伟权杖",
     "type": "scep",
     "secondType": "1han",
     "code": "gsc",
@@ -1037,7 +1037,7 @@
     "highlight": false
   },
   {
-    "name": "战权杖",
+    "name": "巨战权杖",
     "type": "scep",
     "secondType": "1han",
     "code": "wsp",
@@ -1098,7 +1098,7 @@
     "highlight": false
   },
   {
-    "name": "钉锤",
+    "name": "狼牙棒",
     "type": "club",
     "secondType": "1han",
     "code": "spc",
@@ -1220,7 +1220,7 @@
     "highlight": false
   },
   {
-    "name": "晨星锤",
+    "name": "流星锤",
     "type": "mace",
     "secondType": "1han",
     "code": "mst",
@@ -1281,7 +1281,7 @@
     "highlight": false
   },
   {
-    "name": "连枷",
+    "name": "链枷",
     "type": "mace",
     "secondType": "1han",
     "code": "fla",
@@ -1342,7 +1342,7 @@
     "highlight": false
   },
   {
-    "name": "战锤",
+    "name": "巨战铁锤",
     "type": "hamm",
     "secondType": "1han",
     "code": "whm",
@@ -1403,7 +1403,7 @@
     "highlight": false
   },
   {
-    "name": "巨锤",
+    "name": "大木棍",
     "type": "hamm",
     "secondType": "2han",
     "code": "mau",
@@ -1464,7 +1464,7 @@
     "highlight": false
   },
   {
-    "name": "大锤",
+    "name": "卓越巨棍",
     "type": "hamm",
     "secondType": "2han",
     "code": "gma",
@@ -1708,7 +1708,7 @@
     "highlight": false
   },
   {
-    "name": "弯月刀",
+    "name": "弯形大刀",
     "type": "swor",
     "secondType": "1han",
     "code": "flc",
@@ -1947,7 +1947,7 @@
     "highlight": false
   },
   {
-    "name": "战剑",
+    "name": "巨战之剑",
     "type": "swor",
     "secondType": "1han",
     "code": "wsd",
@@ -2130,7 +2130,7 @@
     "highlight": false
   },
   {
-    "name": "巨剑",
+    "name": "大剑",
     "type": "swor",
     "secondType": "2hsw",
     "code": "gis",
@@ -2191,7 +2191,7 @@
     "highlight": false
   },
   {
-    "name": "混种大剑",
+    "name": "巨剑",
     "type": "swor",
     "secondType": "2hsw",
     "code": "bsw",
@@ -2252,7 +2252,7 @@
     "highlight": false
   },
   {
-    "name": "焰形剑",
+    "name": "双手饰剑",
     "type": "swor",
     "secondType": "2hsw",
     "code": "flb",
@@ -2313,7 +2313,7 @@
     "highlight": false
   },
   {
-    "name": "大剑",
+    "name": "卓越之剑",
     "type": "swor",
     "secondType": "2hsw",
     "code": "gsd",
@@ -2435,7 +2435,7 @@
     "highlight": false
   },
   {
-    "name": "短剑",
+    "name": "长匕首",
     "type": "knif",
     "secondType": "1han",
     "code": "dir",
@@ -2496,7 +2496,7 @@
     "highlight": false
   },
   {
-    "name": "马来匕首",
+    "name": "波形刀",
     "type": "knif",
     "secondType": "1han",
     "code": "kri",
@@ -2557,7 +2557,7 @@
     "highlight": false
   },
   {
-    "name": "刀刃",
+    "name": "刀锋之",
     "type": "knif",
     "secondType": "1han",
     "code": "bld",
@@ -2618,7 +2618,7 @@
     "highlight": false
   },
   {
-    "name": "投掷小刀",
+    "name": "飞刀",
     "type": "tkni",
     "secondType": "1han",
     "code": "tkf",
@@ -2674,7 +2674,7 @@
     "highlight": false
   },
   {
-    "name": "投掷斧",
+    "name": "飞斧",
     "type": "taxe",
     "secondType": "1han",
     "code": "tax",
@@ -2898,7 +2898,7 @@
     "highlight": false
   },
   {
-    "name": "投枪",
+    "name": "短标枪",
     "type": "jave",
     "secondType": "1han",
     "code": "pil",
@@ -3010,7 +3010,7 @@
     "highlight": false
   },
   {
-    "name": "战戟",
+    "name": "大长刀",
     "type": "jave",
     "secondType": "1han",
     "code": "glv",
@@ -3066,7 +3066,7 @@
     "highlight": false
   },
   {
-    "name": "投掷长矛",
+    "name": "飞矛",
     "type": "jave",
     "secondType": "1han",
     "code": "tsp",
@@ -3244,7 +3244,7 @@
     "highlight": false
   },
   {
-    "name": "三叉枪",
+    "name": "叉",
     "type": "spea",
     "secondType": "2han",
     "code": "brn",
@@ -3305,7 +3305,7 @@
     "highlight": false
   },
   {
-    "name": "梭镖枪",
+    "name": "大战戟",
     "type": "spea",
     "secondType": "2han",
     "code": "spt",
@@ -3366,7 +3366,7 @@
     "highlight": false
   },
   {
-    "name": "长枪",
+    "name": "矛",
     "type": "spea",
     "secondType": "2han",
     "code": "pik",
@@ -3427,7 +3427,7 @@
     "highlight": false
   },
   {
-    "name": "阔头枪",
+    "name": "大砍刀",
     "type": "pole",
     "secondType": "2han",
     "code": "bar",
@@ -3488,7 +3488,7 @@
     "highlight": false
   },
   {
-    "name": "战戟",
+    "name": "钩镰枪",
     "type": "pole",
     "secondType": "2han",
     "code": "vou",
@@ -3610,7 +3610,7 @@
     "highlight": false
   },
   {
-    "name": "长柄斧",
+    "name": "长柄战斧",
     "type": "pole",
     "secondType": "2han",
     "code": "pax",
@@ -3671,7 +3671,7 @@
     "highlight": false
   },
   {
-    "name": "长柄战斧",
+    "name": "长戟",
     "type": "pole",
     "secondType": "2han",
     "code": "hal",
@@ -3732,7 +3732,7 @@
     "highlight": false
   },
   {
-    "name": "战镰",
+    "name": "巨战镰刀",
     "type": "sc9",
     "secondType": "2han",
     "code": "wsc",
@@ -3793,7 +3793,7 @@
     "highlight": false
   },
   {
-    "name": "短法杖",
+    "name": "短棍",
     "type": "staf",
     "secondType": "2han",
     "code": "sst",
@@ -3854,7 +3854,7 @@
     "highlight": false
   },
   {
-    "name": "长法杖",
+    "name": "长棍",
     "type": "staf",
     "secondType": "2han",
     "code": "lst",
@@ -3915,7 +3915,7 @@
     "highlight": false
   },
   {
-    "name": "节瘤法杖",
+    "name": "多节棍",
     "type": "staf",
     "secondType": "2han",
     "code": "cst",
@@ -4037,7 +4037,7 @@
     "highlight": false
   },
   {
-    "name": "战法杖",
+    "name": "巨战法杖",
     "type": "staf",
     "secondType": "2han",
     "code": "wst",
@@ -4404,7 +4404,7 @@
     "highlight": false
   },
   {
-    "name": "短战弓",
+    "name": "短巨战弓",
     "type": "bow",
     "secondType": "",
     "code": "swb",
@@ -4455,7 +4455,7 @@
     "highlight": false
   },
   {
-    "name": "长战弓",
+    "name": "长巨战弓",
     "type": "bow",
     "secondType": "",
     "code": "lwb",
@@ -4766,7 +4766,7 @@
     "highlight": false
   },
   {
-    "name": "短柄斧",
+    "name": "小斧",
     "type": "axe",
     "secondType": "1han",
     "code": "9ha",
@@ -4827,7 +4827,7 @@
     "highlight": false
   },
   {
-    "name": "砍刀",
+    "name": "切肉斧",
     "type": "axe",
     "secondType": "1han",
     "code": "9ax",
@@ -4888,7 +4888,7 @@
     "highlight": false
   },
   {
-    "name": "双斧",
+    "name": "强化双斧",
     "type": "axe",
     "secondType": "1han",
     "code": "92a",
@@ -4949,7 +4949,7 @@
     "highlight": false
   },
   {
-    "name": "鸦嘴锄",
+    "name": "喙钳",
     "type": "axe",
     "secondType": "1han",
     "code": "9mp",
@@ -5010,7 +5010,7 @@
     "highlight": false
   },
   {
-    "name": "蛇刀",
+    "name": "纳卡",
     "type": "axe",
     "secondType": "1han",
     "code": "9wa",
@@ -5071,7 +5071,7 @@
     "highlight": false
   },
   {
-    "name": "军用斧",
+    "name": "军斧",
     "type": "axe",
     "secondType": "2han",
     "code": "9la",
@@ -5132,7 +5132,7 @@
     "highlight": false
   },
   {
-    "name": "长柄斧",
+    "name": "钩斧",
     "type": "axe",
     "secondType": "2han",
     "code": "9ba",
@@ -5193,7 +5193,7 @@
     "highlight": false
   },
   {
-    "name": "塔巴尔战斧",
+    "name": "战斗斧",
     "type": "axe",
     "secondType": "2han",
     "code": "9bt",
@@ -5254,7 +5254,7 @@
     "highlight": false
   },
   {
-    "name": "哥特之斧",
+    "name": "哥德之斧",
     "type": "axe",
     "secondType": "2han",
     "code": "9ga",
@@ -5437,7 +5437,7 @@
     "highlight": false
   },
   {
-    "name": "石化之杖",
+    "name": "净化之杖",
     "type": "wand",
     "secondType": "1han",
     "code": "9yw",
@@ -5498,7 +5498,7 @@
     "highlight": false
   },
   {
-    "name": "坟墓之杖",
+    "name": "古墓之杖",
     "type": "wand",
     "secondType": "1han",
     "code": "9bw",
@@ -5624,7 +5624,7 @@
     "highlight": false
   },
   {
-    "name": "短棍",
+    "name": "棍棒",
     "type": "club",
     "secondType": "1han",
     "code": "9cl",
@@ -5746,7 +5746,7 @@
     "highlight": false
   },
   {
-    "name": "圣水之杖",
+    "name": "圣水喷杖",
     "type": "scep",
     "secondType": "1han",
     "code": "9qs",
@@ -5807,7 +5807,7 @@
     "highlight": false
   },
   {
-    "name": "神圣权杖",
+    "name": "神属权杖",
     "type": "scep",
     "secondType": "1han",
     "code": "9ws",
@@ -5868,7 +5868,7 @@
     "highlight": false
   },
   {
-    "name": "倒刺棍棒",
+    "name": "倒钩锤",
     "type": "club",
     "secondType": "1han",
     "code": "9sp",
@@ -6051,7 +6051,7 @@
     "highlight": false
   },
   {
-    "name": "皮鞭",
+    "name": "铁皮鞭",
     "type": "mace",
     "secondType": "1han",
     "code": "9fl",
@@ -6112,7 +6112,7 @@
     "highlight": false
   },
   {
-    "name": "战斗锤",
+    "name": "战斗铁锤",
     "type": "hamm",
     "secondType": "1han",
     "code": "9wh",
@@ -6173,7 +6173,7 @@
     "highlight": false
   },
   {
-    "name": "战棍",
+    "name": "巨战木棍",
     "type": "hamm",
     "secondType": "2han",
     "code": "9m9",
@@ -6356,7 +6356,7 @@
     "highlight": false
   },
   {
-    "name": "弯刀",
+    "name": "微弯剑",
     "type": "swor",
     "secondType": "1han",
     "code": "9sm",
@@ -6417,7 +6417,7 @@
     "highlight": false
   },
   {
-    "name": "波斯弯刀",
+    "name": "虚伪之刃",
     "type": "swor",
     "secondType": "1han",
     "code": "9sb",
@@ -6478,7 +6478,7 @@
     "highlight": false
   },
   {
-    "name": "塔瓦弯刀",
+    "name": "圆月弯刀",
     "type": "swor",
     "secondType": "1han",
     "code": "9fc",
@@ -6539,7 +6539,7 @@
     "highlight": false
   },
   {
-    "name": "次元之刃",
+    "name": "空间之刃",
     "type": "swor",
     "secondType": "crys",
     "code": "9cr",
@@ -6661,7 +6661,7 @@
     "highlight": false
   },
   {
-    "name": "符文之剑",
+    "name": "符文剑",
     "type": "swor",
     "secondType": "1han",
     "code": "9ls",
@@ -6783,7 +6783,7 @@
     "highlight": false
   },
   {
-    "name": "宽刃剑",
+    "name": "双刃大剑",
     "type": "swor",
     "secondType": "2hsw",
     "code": "92h",
@@ -6844,7 +6844,7 @@
     "highlight": false
   },
   {
-    "name": "达契亚镰刀",
+    "name": "双刃镰",
     "type": "swor",
     "secondType": "2hsw",
     "code": "9cm",
@@ -6905,7 +6905,7 @@
     "highlight": false
   },
   {
-    "name": "獠牙剑",
+    "name": "长牙剑",
     "type": "swor",
     "secondType": "2hsw",
     "code": "9gs",
@@ -6966,7 +6966,7 @@
     "highlight": false
   },
   {
-    "name": "哥特之剑",
+    "name": "哥德剑",
     "type": "swor",
     "secondType": "2hsw",
     "code": "9b9",
@@ -7027,7 +7027,7 @@
     "highlight": false
   },
   {
-    "name": "双手巨剑",
+    "name": "瑞韩德之剑",
     "type": "swor",
     "secondType": "2hsw",
     "code": "9fb",
@@ -7088,7 +7088,7 @@
     "highlight": false
   },
   {
-    "name": "行刑之剑",
+    "name": "死刑之剑",
     "type": "swor",
     "secondType": "2hsw",
     "code": "9gd",
@@ -7149,7 +7149,7 @@
     "highlight": false
   },
   {
-    "name": "刺剑",
+    "name": "锐匕",
     "type": "knif",
     "secondType": "1han",
     "code": "9dg",
@@ -7210,7 +7210,7 @@
     "highlight": false
   },
   {
-    "name": "圆刃匕首",
+    "name": "诗歌匕首",
     "type": "knif",
     "secondType": "1han",
     "code": "9di",
@@ -7271,7 +7271,7 @@
     "highlight": false
   },
   {
-    "name": "五刃剑",
+    "name": "强波刀",
     "type": "knif",
     "secondType": "1han",
     "code": "9kr",
@@ -7454,7 +7454,7 @@
     "highlight": false
   },
   {
-    "name": "法兰克飞斧",
+    "name": "法兰飞斧",
     "type": "taxe",
     "secondType": "1han",
     "code": "9ta",
@@ -7515,7 +7515,7 @@
     "highlight": false
   },
   {
-    "name": "战镖",
+    "name": "巨战飞镖",
     "type": "tkni",
     "secondType": "1han",
     "code": "9bk",
@@ -7571,7 +7571,7 @@
     "highlight": false
   },
   {
-    "name": "投掷斧",
+    "name": "短战戟",
     "type": "taxe",
     "secondType": "1han",
     "code": "9b8",
@@ -7632,7 +7632,7 @@
     "highlight": false
   },
   {
-    "name": "战枪",
+    "name": "巨战标枪",
     "type": "jave",
     "secondType": "1han",
     "code": "9ja",
@@ -7688,7 +7688,7 @@
     "highlight": false
   },
   {
-    "name": "大投枪",
+    "name": "卓越标枪",
     "type": "jave",
     "secondType": "1han",
     "code": "9pi",
@@ -7744,7 +7744,7 @@
     "highlight": false
   },
   {
-    "name": "辛比兰战矛",
+    "name": "锐矛",
     "type": "jave",
     "secondType": "1han",
     "code": "9s9",
@@ -7800,7 +7800,7 @@
     "highlight": false
   },
   {
-    "name": "投矛",
+    "name": "阔针长矛",
     "type": "jave",
     "secondType": "1han",
     "code": "9gl",
@@ -7912,7 +7912,7 @@
     "highlight": false
   },
   {
-    "name": "战矛",
+    "name": "巨战长矛",
     "type": "spea",
     "secondType": "2han",
     "code": "9sr",
@@ -7973,7 +7973,7 @@
     "highlight": false
   },
   {
-    "name": "鱼叉",
+    "name": "魔鬼之叉",
     "type": "spea",
     "secondType": "2han",
     "code": "9tr",
@@ -8034,7 +8034,7 @@
     "highlight": false
   },
   {
-    "name": "战叉",
+    "name": "巨战之叉",
     "type": "spea",
     "secondType": "2han",
     "code": "9br",
@@ -8095,7 +8095,7 @@
     "highlight": false
   },
   {
-    "name": "日式长枪",
+    "name": "三叉长枪",
     "type": "spea",
     "secondType": "2han",
     "code": "9st",
@@ -8217,7 +8217,7 @@
     "highlight": false
   },
   {
-    "name": "洛查伯战斧",
+    "name": "罗佳柏斧",
     "type": "pole",
     "secondType": "2han",
     "code": "9b7",
@@ -8278,7 +8278,7 @@
     "highlight": false
   },
   {
-    "name": "比尔",
+    "name": "比尔长刀",
     "type": "pole",
     "secondType": "2han",
     "code": "9vo",
@@ -8400,7 +8400,7 @@
     "highlight": false
   },
   {
-    "name": "阔头枪",
+    "name": "战戟",
     "type": "pole",
     "secondType": "2han",
     "code": "9pa",
@@ -8583,7 +8583,7 @@
     "highlight": false
   },
   {
-    "name": "僧院法杖",
+    "name": "乔木棒",
     "type": "staf",
     "secondType": "2han",
     "code": "8ss",
@@ -8644,7 +8644,7 @@
     "highlight": false
   },
   {
-    "name": "长柄法杖",
+    "name": "六尺棍",
     "type": "staf",
     "secondType": "2han",
     "code": "8ls",
@@ -8705,7 +8705,7 @@
     "highlight": false
   },
   {
-    "name": "雪松法杖",
+    "name": "杉木之棍",
     "type": "staf",
     "secondType": "2han",
     "code": "8cs",
@@ -8766,7 +8766,7 @@
     "highlight": false
   },
   {
-    "name": "哥特法杖",
+    "name": "哥德之棍",
     "type": "staf",
     "secondType": "2han",
     "code": "8bs",
@@ -8827,7 +8827,7 @@
     "highlight": false
   },
   {
-    "name": "符文法杖",
+    "name": "符文之棍",
     "type": "staf",
     "secondType": "2han",
     "code": "8ws",
@@ -8888,7 +8888,7 @@
     "highlight": false
   },
   {
-    "name": "锋锐弓",
+    "name": "锋锐之弓",
     "type": "bow",
     "secondType": "",
     "code": "8sb",
@@ -8990,7 +8990,7 @@
     "highlight": false
   },
   {
-    "name": "雪松弓",
+    "name": "杉木弓",
     "type": "bow",
     "secondType": "",
     "code": "8lb",
@@ -9245,7 +9245,7 @@
     "highlight": false
   },
   {
-    "name": "哥特之弓",
+    "name": "哥德弓",
     "type": "bow",
     "secondType": "",
     "code": "8lw",
@@ -9296,7 +9296,7 @@
     "highlight": false
   },
   {
-    "name": "劲弩",
+    "name": "石弓",
     "type": "xbow",
     "secondType": "",
     "code": "8lx",
@@ -9398,7 +9398,7 @@
     "highlight": false
   },
   {
-    "name": "重弩",
+    "name": "弩炮",
     "type": "xbow",
     "secondType": "",
     "code": "8hx",
@@ -9449,7 +9449,7 @@
     "highlight": false
   },
   {
-    "name": "诸葛弩",
+    "name": "巧工弩",
     "type": "xbow",
     "secondType": "",
     "code": "8rx",
@@ -9500,7 +9500,7 @@
     "highlight": false
   },
   {
-    "name": "克林姆连枷",
+    "name": "克林姆的连枷",
     "type": "mace",
     "secondType": "1han",
     "code": "qf1",
@@ -9556,7 +9556,7 @@
     "highlight": false
   },
   {
-    "name": "超级克林姆连枷",
+    "name": "强化克林姆连枷",
     "type": "mace",
     "secondType": "1han",
     "code": "qf2",
@@ -9724,7 +9724,7 @@
     "highlight": false
   },
   {
-    "name": "手斧拳套",
+    "name": "斧手",
     "type": "h2h",
     "secondType": "1han",
     "code": "axf",
@@ -9780,7 +9780,7 @@
     "highlight": false
   },
   {
-    "name": "拳刃",
+    "name": "腰刀",
     "type": "h2h",
     "secondType": "1han",
     "code": "ces",
@@ -9948,7 +9948,7 @@
     "highlight": false
   },
   {
-    "name": "剪刃拳剑",
+    "name": "剪咬刃",
     "type": "h2h",
     "secondType": "1han",
     "code": "skr",
@@ -10004,7 +10004,7 @@
     "highlight": false
   },
   {
-    "name": "曲刃拳剑",
+    "name": "格斗刃",
     "type": "h2h",
     "secondType": "1han",
     "code": "9ar",
@@ -10121,7 +10121,7 @@
     "highlight": false
   },
   {
-    "name": "束带刃",
+    "name": "格斗爪",
     "type": "h2h",
     "secondType": "1han",
     "code": "9xf",
@@ -10350,7 +10350,7 @@
     "highlight": false
   },
   {
-    "name": "剪刃拳刀",
+    "name": "格斗剪",
     "type": "h2h2",
     "secondType": "1han",
     "code": "9qr",
@@ -10406,7 +10406,7 @@
     "highlight": false
   },
   {
-    "name": "苏瓦雅",
+    "name": "近身刃",
     "type": "h2h2",
     "secondType": "1han",
     "code": "7ar",
@@ -10588,7 +10588,7 @@
     "highlight": false
   },
   {
-    "name": "战斗拳刃",
+    "name": "斗腰刀",
     "type": "h2h2",
     "secondType": "1han",
     "code": "7cs",
@@ -10649,7 +10649,7 @@
     "highlight": false
   },
   {
-    "name": "野性之爪",
+    "name": "猛禽爪",
     "type": "h2h2",
     "secondType": "1han",
     "code": "7lw",
@@ -10710,7 +10710,7 @@
     "highlight": false
   },
   {
-    "name": "符文之爪",
+    "name": "符文爪",
     "type": "h2h2",
     "secondType": "1han",
     "code": "7tw",
@@ -10771,7 +10771,7 @@
     "highlight": false
   },
   {
-    "name": "剪刃苏瓦雅",
+    "name": "近身剪",
     "type": "h2h2",
     "secondType": "1han",
     "code": "7qr",
@@ -10832,7 +10832,7 @@
     "highlight": false
   },
   {
-    "name": "战斧",
+    "name": "战钺",
     "type": "axe",
     "secondType": "1han",
     "code": "7ha",
@@ -10893,7 +10893,7 @@
     "highlight": false
   },
   {
-    "name": "小弯刀",
+    "name": "弯月斧",
     "type": "axe",
     "secondType": "1han",
     "code": "7ax",
@@ -11132,7 +11132,7 @@
     "highlight": false
   },
   {
-    "name": "野性之斧",
+    "name": "猛禽斧",
     "type": "axe",
     "secondType": "2han",
     "code": "7la",
@@ -11249,7 +11249,7 @@
     "highlight": false
   },
   {
-    "name": "刽子手之斧",
+    "name": "斩首斧",
     "type": "axe",
     "secondType": "2han",
     "code": "7bt",
@@ -11314,7 +11314,7 @@
     "highlight": false
   },
   {
-    "name": "冠军之斧",
+    "name": "豪杰斧",
     "type": "axe",
     "secondType": "2han",
     "code": "7ga",
@@ -11375,7 +11375,7 @@
     "highlight": false
   },
   {
-    "name": "荣耀之斧",
+    "name": "荣光之斧",
     "type": "axe",
     "secondType": "2han",
     "code": "7gi",
@@ -11436,7 +11436,7 @@
     "highlight": false
   },
   {
-    "name": "抛光之杖",
+    "name": "洗练法杖",
     "type": "wand",
     "secondType": "1han",
     "code": "7wn",
@@ -11492,7 +11492,7 @@
     "highlight": false
   },
   {
-    "name": "幽魂之杖",
+    "name": "鬼魂法杖",
     "type": "wand",
     "secondType": "1han",
     "code": "7yw",
@@ -11553,7 +11553,7 @@
     "highlight": false
   },
   {
-    "name": "巫妖之杖",
+    "name": "巫妖法杖",
     "type": "wand",
     "secondType": "1han",
     "code": "7bw",
@@ -11614,7 +11614,7 @@
     "highlight": false
   },
   {
-    "name": "出土之杖",
+    "name": "破隐法杖",
     "type": "wand",
     "secondType": "1han",
     "code": "7gw",
@@ -11687,7 +11687,7 @@
     "highlight": false
   },
   {
-    "name": "警棍",
+    "name": "战仪杖",
     "type": "club",
     "secondType": "1han",
     "code": "7cl",
@@ -11748,7 +11748,7 @@
     "highlight": false
   },
   {
-    "name": "威猛权杖",
+    "name": "强威权杖",
     "type": "scep",
     "secondType": "1han",
     "code": "7sc",
@@ -11813,7 +11813,7 @@
     "highlight": false
   },
   {
-    "name": "炽天使之杖",
+    "name": "炽天使法杖",
     "type": "scep",
     "secondType": "1han",
     "code": "7qs",
@@ -11951,7 +11951,7 @@
     "highlight": false
   },
   {
-    "name": "暴君之棍",
+    "name": "暴君之棒",
     "type": "club",
     "secondType": "1han",
     "code": "7sp",
@@ -12129,7 +12129,7 @@
     "highlight": false
   },
   {
-    "name": "天罚之锤",
+    "name": "鞭",
     "type": "mace",
     "secondType": "1han",
     "code": "7fl",
@@ -12389,7 +12389,7 @@
     "highlight": false
   },
   {
-    "name": "弯刃刀",
+    "name": "短剑",
     "type": "swor",
     "secondType": "1han",
     "code": "7ss",
@@ -12445,7 +12445,7 @@
     "highlight": false
   },
   {
-    "name": "弯月刀",
+    "name": "土耳其剑",
     "type": "swor",
     "secondType": "1han",
     "code": "7sm",
@@ -12506,7 +12506,7 @@
     "highlight": false
   },
   {
-    "name": "优雅之刃",
+    "name": "优雅之剑",
     "type": "swor",
     "secondType": "1han",
     "code": "7sb",
@@ -12567,7 +12567,7 @@
     "highlight": false
   },
   {
-    "name": "九头蛇之刃",
+    "name": "九头蛇刃",
     "type": "swor",
     "secondType": "1han",
     "code": "7fc",
@@ -12753,7 +12753,7 @@
     "highlight": false
   },
   {
-    "name": "秘仪之剑",
+    "name": "神秘之剑",
     "type": "swor",
     "secondType": "1han",
     "code": "7ls",
@@ -12814,7 +12814,7 @@
     "highlight": false
   },
   {
-    "name": "神话之剑",
+    "name": "秘仪之剑",
     "type": "swor",
     "secondType": "1han",
     "code": "7wd",
@@ -13236,7 +13236,7 @@
     "highlight": false
   },
   {
-    "name": "骨小刀",
+    "name": "骸骨小刀",
     "type": "knif",
     "secondType": "1han",
     "code": "7dg",
@@ -13297,7 +13297,7 @@
     "highlight": false
   },
   {
-    "name": "秘银尖枪",
+    "name": "秘银尖刺",
     "type": "knif",
     "secondType": "1han",
     "code": "7di",
@@ -13358,7 +13358,7 @@
     "highlight": false
   },
   {
-    "name": "牙刃",
+    "name": "齿缘小刀",
     "type": "knif",
     "secondType": "1han",
     "code": "7kr",
@@ -13480,7 +13480,7 @@
     "highlight": false
   },
   {
-    "name": "飞行小刀",
+    "name": "飞刀",
     "type": "tkni",
     "secondType": "1han",
     "code": "7tk",
@@ -13536,7 +13536,7 @@
     "highlight": false
   },
   {
-    "name": "飞行斧",
+    "name": "飞斧",
     "type": "taxe",
     "secondType": "1han",
     "code": "7ta",
@@ -13719,7 +13719,7 @@
     "highlight": false
   },
   {
-    "name": "亥伯龙标枪",
+    "name": "亥伯龙之枪",
     "type": "jave",
     "secondType": "1han",
     "code": "7ja",
@@ -13775,7 +13775,7 @@
     "highlight": false
   },
   {
-    "name": "冥河投枪",
+    "name": "冥河标枪",
     "type": "jave",
     "secondType": "1han",
     "code": "7pi",
@@ -13831,7 +13831,7 @@
     "highlight": false
   },
   {
-    "name": "炎魔之矛",
+    "name": "炎魔长矛",
     "type": "jave",
     "secondType": "1han",
     "code": "7s7",
@@ -13892,7 +13892,7 @@
     "highlight": false
   },
   {
-    "name": "幽魂战戟",
+    "name": "鬼魂尖枪",
     "type": "jave",
     "secondType": "1han",
     "code": "7gl",
@@ -14075,7 +14075,7 @@
     "highlight": false
   },
   {
-    "name": "冥河长枪",
+    "name": "冥河之枪",
     "type": "spea",
     "secondType": "2han",
     "code": "7tr",
@@ -14131,7 +14131,7 @@
     "highlight": false
   },
   {
-    "name": "捕人叉",
+    "name": "刺人枪",
     "type": "spea",
     "secondType": "2han",
     "code": "7br",
@@ -14192,7 +14192,7 @@
     "highlight": false
   },
   {
-    "name": "幽魂之矛",
+    "name": "鬼魂之矛",
     "type": "spea",
     "secondType": "2han",
     "code": "7st",
@@ -14383,7 +14383,7 @@
     "highlight": false
   },
   {
-    "name": "巨神戟",
+    "name": "巨神之斧",
     "type": "pole",
     "secondType": "2han",
     "code": "7vo",
@@ -14444,7 +14444,7 @@
     "highlight": false
   },
   {
-    "name": "镰刀",
+    "name": "锐利之斧",
     "type": "sc9",
     "secondType": "2han",
     "code": "7s8",
@@ -14505,7 +14505,7 @@
     "highlight": false
   },
   {
-    "name": "秘仪之斧",
+    "name": "神秘之斧",
     "type": "pole",
     "secondType": "2han",
     "code": "7pa",
@@ -14566,7 +14566,7 @@
     "highlight": false
   },
   {
-    "name": "大战戟",
+    "name": "巨长斧",
     "type": "pole",
     "secondType": "2han",
     "code": "7h7",
@@ -14622,7 +14622,7 @@
     "highlight": false
   },
   {
-    "name": "巨型镰刀",
+    "name": "鲛尾巨斧",
     "type": "sc9",
     "secondType": "2han",
     "code": "7wc",
@@ -14683,7 +14683,7 @@
     "highlight": false
   },
   {
-    "name": "步行杖",
+    "name": "手杖",
     "type": "staf",
     "secondType": "2han",
     "code": "6ss",
@@ -14739,7 +14739,7 @@
     "highlight": false
   },
   {
-    "name": "石笋之锤",
+    "name": "钟乳石之杖",
     "type": "staf",
     "secondType": "2han",
     "code": "6ls",
@@ -14856,7 +14856,7 @@
     "highlight": false
   },
   {
-    "name": "橡木短棍",
+    "name": "树皮之杖",
     "type": "staf",
     "secondType": "2han",
     "code": "6bs",
@@ -15083,7 +15083,7 @@
     "highlight": false
   },
   {
-    "name": "暗影弓",
+    "name": "阴影弓",
     "type": "bow",
     "secondType": "",
     "code": "6lb",
@@ -15129,7 +15129,7 @@
     "highlight": false
   },
   {
-    "name": "大弓",
+    "name": "巨弓",
     "type": "bow",
     "secondType": "",
     "code": "6cb",
@@ -15272,7 +15272,7 @@
     "highlight": false
   },
   {
-    "name": "守护之弓",
+    "name": "庇护之弓",
     "type": "bow",
     "secondType": "",
     "code": "6sw",
@@ -15428,7 +15428,7 @@
     "highlight": false
   },
   {
-    "name": "蛇魔十字弓",
+    "name": "蛇魔女十字弓",
     "type": "xbow",
     "secondType": "",
     "code": "6mx",
@@ -15576,7 +15576,7 @@
     "highlight": false
   },
   {
-    "name": "鹰之宝珠",
+    "name": "鹰之法珠",
     "type": "orb",
     "secondType": "",
     "code": "ob1",
@@ -15622,7 +15622,7 @@
     "highlight": false
   },
   {
-    "name": "神圣之球",
+    "name": "神圣天球",
     "type": "orb",
     "secondType": "",
     "code": "ob2",
@@ -15668,7 +15668,7 @@
     "highlight": false
   },
   {
-    "name": "烟熏之球",
+    "name": "拢烟之球",
     "type": "orb",
     "secondType": "",
     "code": "ob3",
@@ -15714,7 +15714,7 @@
     "highlight": false
   },
   {
-    "name": "握扣之球",
+    "name": "握扣法珠",
     "type": "orb",
     "secondType": "",
     "code": "ob4",
@@ -15760,7 +15760,7 @@
     "highlight": false
   },
   {
-    "name": "龙之石",
+    "name": "龙石",
     "type": "orb",
     "secondType": "",
     "code": "ob5",
@@ -15806,7 +15806,7 @@
     "highlight": false
   },
   {
-    "name": "牡鹿之弓",
+    "name": "男性之弓",
     "type": "abow",
     "secondType": "",
     "code": "am1",
@@ -15852,7 +15852,7 @@
     "highlight": false
   },
   {
-    "name": "反射弓",
+    "name": "反射之弓",
     "type": "abow",
     "secondType": "",
     "code": "am2",
@@ -15898,7 +15898,7 @@
     "highlight": false
   },
   {
-    "name": "少女长矛",
+    "name": "女士之矛",
     "type": "aspe",
     "secondType": "2han",
     "code": "am3",
@@ -15954,7 +15954,7 @@
     "highlight": false
   },
   {
-    "name": "少女长枪",
+    "name": "女士长矛",
     "type": "aspe",
     "secondType": "2han",
     "code": "am4",
@@ -16010,7 +16010,7 @@
     "highlight": false
   },
   {
-    "name": "少女标枪",
+    "name": "女士标枪",
     "type": "ajav",
     "secondType": "1han",
     "code": "am5",
@@ -16071,7 +16071,7 @@
     "highlight": false
   },
   {
-    "name": "发光之球",
+    "name": "灵光法珠",
     "type": "orb",
     "secondType": "",
     "code": "ob6",
@@ -16122,7 +16122,7 @@
     "highlight": false
   },
   {
-    "name": "水晶之球",
+    "name": "水晶天球",
     "type": "orb",
     "secondType": "",
     "code": "ob7",
@@ -16265,7 +16265,7 @@
     "highlight": false
   },
   {
-    "name": "漩涡之球",
+    "name": "涡流水晶",
     "type": "orb",
     "secondType": "",
     "code": "oba",
@@ -16316,7 +16316,7 @@
     "highlight": false
   },
   {
-    "name": "梣木弓",
+    "name": "灰木之弓",
     "type": "abow",
     "secondType": "",
     "code": "am6",
@@ -16362,7 +16362,7 @@
     "highlight": false
   },
   {
-    "name": "典礼长弓",
+    "name": "祭典之弓",
     "type": "abow",
     "secondType": "",
     "code": "am7",
@@ -16413,7 +16413,7 @@
     "highlight": false
   },
   {
-    "name": "典礼长矛",
+    "name": "祭典之矛",
     "type": "aspe",
     "secondType": "2han",
     "code": "am8",
@@ -16469,7 +16469,7 @@
     "highlight": false
   },
   {
-    "name": "典礼长枪",
+    "name": "祭典之长矛",
     "type": "aspe",
     "secondType": "2han",
     "code": "am9",
@@ -16530,7 +16530,7 @@
     "highlight": false
   },
   {
-    "name": "典礼标枪",
+    "name": "祭典之标枪",
     "type": "ajav",
     "secondType": "1han",
     "code": "ama",
@@ -16739,7 +16739,7 @@
     "highlight": false
   },
   {
-    "name": "漩涡之球",
+    "name": "漩涡球",
     "type": "orb",
     "secondType": "",
     "code": "obe",
@@ -17004,7 +17004,7 @@
     "highlight": false
   },
   {
-    "name": "女族长长枪",
+    "name": "女族长之长矛",
     "type": "aspe",
     "secondType": "2han",
     "code": "ame",
@@ -17069,7 +17069,7 @@
     "highlight": false
   },
   {
-    "name": "女族长标枪",
+    "name": "女族长之标枪",
     "type": "ajav",
     "secondType": "1han",
     "code": "amf",

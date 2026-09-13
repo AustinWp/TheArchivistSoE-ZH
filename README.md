@@ -138,6 +138,26 @@ soe.txt: ModStrEnhancedDamage   → 增强伤害(ED)  ← 官方，是另一个�
 这样无论实际是一次还是两次都不会写错。**不要**再往正文里加「合成两次 / 合成一次 /
 第一次登记、第二次判定」这类说法。
 
+### 4.2 底材名的官方来源：`StrEternal<英文名>`
+
+**几百个基础物品的 `namestr`/`code` 在官方串表里根本没有条目**（例如 `8rx` 的 namestr 就是 `8rx`，
+串表里没有这个键）。它们的官方中文名只存在于另一处：
+
+```
+StrEternalChuKoNu  =  基础类型：巧工弩        ← 键 = StrEternal + 英文名去掉空格/连字符
+StrEternalBalista  =  基础类型：弩炮
+StrEternalShako    =  基础类型：军帽
+```
+
+取名优先级（`apply_official_item_names.py` 与审计工具都按这个口径）：
+
+1. `namestr` 键（为空则用 `code`）能在串表里查到 → **以它为准**
+2. 查不到 → 用 `StrEternal<英文名>` 的「基础类型」名兜底
+3. 都查不到 → 保留原值
+
+历史上没有第 2 层，导致 505 件底材里有 **298 件用的是社区旧译**（诸葛弩 / 重弩 / 谐角之冠…），
+与游戏里显示的名字不一致。审计第 3b 项专门盯这类问题。
+
 ### 5. 中文文案不在代码仓库
 
 `SOECN` 仓库只有 `data/local/LNG/ENG/patchstring.tbl`（英文，纯 ASCII），**没有中文串表**。

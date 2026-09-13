@@ -236,6 +236,67 @@ def main():
     print(f"  可比对 {checked3} 条，不一致 {bad3} 条")
 
     # ---------- 4) {{icon:CODE}} 与紧随其后的名称是否匹配 ----------
+    # 基础类型兜底：namestr/code 无条目时，官方名在 StrEternal<英文名> 里
+    def _eternal_names():
+        et = {}
+        for k, v in official.items():
+            if k.startswith("StrEternal"):
+                s_ = norm_name(v)
+                if s_.startswith("基础类型："):
+                    et[k[len("StrEternal"):]] = s_[len("基础类型："):]
+        out = {}
+        for tbl in ("Weapons.txt", "Armor.txt", "Misc.txt"):
+            pth = os.path.join(ROOT, "public", "data", "standard", tbl)
+            if not os.path.exists(pth):
+                continue
+            rows = open(pth, encoding="utf-8-sig", errors="replace").read().replace("\r\n", "\n").split("\n")
+            hdr = rows[0].split("\t")
+            if "code" not in hdr or "name" not in hdr:
+                continue
+            ci, ni = hdr.index("code"), hdr.index("name")
+            for r in rows[1:]:
+                f = r.split("\t")
+                if len(f) <= max(ci, ni) or not f[ci].strip():
+                    continue
+                key = re.sub(r"[^A-Za-z0-9]", "", f[ni].strip())
+                if key in et:
+                    out[f[ci].strip().lower()] = et[key]
+        return out
+
+    eternal = _eternal_names()
+    # 与 apply_official_item_names 的口径一致：namestr/code 键**有**官方条目时以它为准，
+    # 基础类型名只在没有条目时兜底 —— 否则会把正确的名字报成错误
+    _keys = {}
+    for tbl in ("Weapons.txt", "Armor.txt", "Misc.txt"):
+        pth = os.path.join(ROOT, "public", "data", "standard", tbl)
+        if not os.path.exists(pth):
+            continue
+        rows = open(pth, encoding="utf-8-sig", errors="replace").read().replace("\r\n", "\n").split("\n")
+        hdr = rows[0].split("\t")
+        if "code" not in hdr:
+            continue
+        ci = hdr.index("code")
+        ni = hdr.index("namestr") if "namestr" in hdr else None
+        for r in rows[1:]:
+            f = r.split("\t")
+            if len(f) <= ci or not f[ci].strip():
+                continue
+            ns = f[ni].strip() if ni is not None and len(f) > ni else ""
+            _keys[f[ci].strip().lower()] = (ns or f[ci].strip()).lower()
+    eternal = {c: w for c, w in eternal.items() if _keys.get(c, c) not in official}
+    print("\n== 3b. 底材名 ↔ 官方「基础类型」名 ==")
+    bad3b = 0
+    for fn in ("Weapons.json", "Armors.json"):
+        pth = os.path.join(ROOT, "public", "data", fn)
+        if not os.path.exists(pth):
+            continue
+        for it in json.load(open(pth, encoding="utf-8")):
+            w = eternal.get(str(it.get("code", "")).lower())
+            if w and norm_name(it.get("name", "")) != norm_name(w):
+                bad3b += 1
+                issues.append(f"[底材名不符] {fn} {it.get('code')}: 「{it.get('name')}」应为「{w}」")
+    print(f"  可比对 {len(eternal)} 条，不一致 {bad3b} 条")
+
     print("\n== 4. 图标标记 ↔ 名称一致性 ==")
     official_norm = {k: norm_name(v) for k, v in official.items()}
     # 站内为区分重名而自定的别名（官方串表未收录）
