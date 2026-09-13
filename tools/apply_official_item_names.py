@@ -163,14 +163,20 @@ def main():
                 w = want(b.get("code"))
                 if not w:
                     continue
-                for sub in ("name", "displayName"):
+                # 嵌套基底对象与 Weapons/Armors 同构：同样带 3 个阶位显示名
+                targets = [("name", b.get("code")), ("displayName", b.get("code"))]
+                for tier_field, tier_code in TIER_FIELDS:
+                    targets.append((tier_field, b.get(tier_code)))
+
+                for sub, src_code in targets:
                     got = b.get(sub)
-                    if got and w != got:
+                    w2 = want(src_code)
+                    if got and w2 and got != w2:
                         changes += 1
                         if not args.check:
-                            b[sub] = w
+                            b[sub] = w2
                         elif changes <= 12:
-                            print(f"  {rel}[{u.get('displayName')}].{field}.{sub}: 「{got}」→「{w}」")
+                            print(f"  {rel}[{u.get('displayName')}].{field}.{sub}: 「{got}」→「{w2}」")
 
         if not args.check:
             with open(p, "w", encoding="utf-8") as f:

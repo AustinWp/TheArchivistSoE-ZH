@@ -281,11 +281,19 @@ def main():
                 if not isinstance(b, dict) or not b.get("code"):
                     continue
                 w = _on.resolve(str(b["code"]).lower())[0]
-                for sub in ("name", "displayName"):
+                checks = [("name", b.get("code")), ("displayName", b.get("code"))]
+                for tf, tc in (("normalItemDisplayName", "normalTierCode"),
+                               ("exceptionalItemDisplayName", "exceptionalTierCode"),
+                               ("eliteItemDisplayName", "eliteTierCode")):
+                    checks.append((tf, b.get(tc)))
+
+                for sub, src_code in checks:
                     got = b.get(sub)
-                    if w and got and norm_name(got) != norm_name(w):
+                    w2 = _on.resolve(str(src_code or "").lower())[0]
+                    if w2 and got and norm_name(got) != norm_name(w2):
                         bad3b += 1
-                        issues.append(f"[底材名不符] {rel}[{u.get('displayName')}].{field}.{sub}: 「{got}」应为「{w}」")
+                        issues.append(
+                            f"[底材名不符] {rel}[{u.get('displayName')}].{field}.{sub}: 「{got}」应为「{w2}」")
 
     for fn in ("Weapons.json", "Armors.json"):
         pth = os.path.join(ROOT, "public", "data", fn)
