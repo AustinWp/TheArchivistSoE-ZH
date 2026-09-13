@@ -3810,6 +3810,11 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase, damnation = fal
                         : "神授宝珠";
 
     const baseTiers = uniqueBaseTiers(u);
+
+    // 本暗金**自己的**基底（只有它 + 宝珠才能产出这件暗金；同链其它阶位产出各自的暗金）
+    const ownBaseCode = n(u?.weaponBase?.code || u?.armorBase?.code).toLowerCase();
+    const ownTier = baseTiers.find((t) => t.code.toLowerCase() === ownBaseCode) || null;
+    const otherTiers = baseTiers.filter((t) => t.code.toLowerCase() !== ownBaseCode);
     const jeweleryBaseName = n(u?.jeweleryBase?.name) || n(u?.jeweleryBase?.displayName) || "";
 
     // 能否用「通货宝珠」制作：
@@ -3886,31 +3891,36 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase, damnation = fal
             {hasOccurrenceChanceCurrency && occurrenceChance !== occurrenceChanceCurrency && lineKV("通货出现几率：", String(occurrenceChanceCurrency), "")}
 
             {baseTiers.length ? (<>
-                <div className="line dim">
-                    用以下任意阶位的基底物品
-                    {damnation ? " + 机遇宝珠：" : " + 对应通货宝珠："}
-                    <span className="dim">
-                        （这三件只是本暗金对应的基底；换成别的底材，得到的就是那件底材的暗金）
-                    </span>
-                </div>
-                {baseTiers.map((t) => (
-                    <div key={t.code} className="line kv">
-                        <span>{t.label} 基底：</span>
-                        <span>
-                            {t.tab ? (<a
-                                className="d2link"
-                                href="#"
-                                onClick={(ev) => {
-                                    ev.preventDefault();
-                                    if (onGoBase) onGoBase(t.tab, t.code);
-                                }}
-                            >{t.name}</a>) : t.name}
-                            {!damnation ? (
-                                <span className="dim"> · {t.label === "精英" ? "神授宝珠" : "神话宝珠"}</span>
-                            ) : null}
-                        </span>
+                {(ownTier || baseTiers[0]) ? (() => {
+                    const t = ownTier || baseTiers[0];
+                    return (
+                        <div className="line kv">
+                            <span>{t.label} 基底：</span>
+                            <span>
+                                {t.tab ? (<a
+                                    className="d2link"
+                                    href="#"
+                                    onClick={(ev) => {
+                                        ev.preventDefault();
+                                        if (onGoBase) onGoBase(t.tab, t.code);
+                                    }}
+                                >{t.name}</a>) : t.name}
+                                {!damnation ? (
+                                    <span className="dim"> · {t.label === "精英" ? "神授宝珠" : "神话宝珠"}</span>
+                                ) : null}
+                                <span className="dim"> · 只有这件基底能产出本暗金</span>
+                            </span>
+                        </div>
+                    );
+                })() : null}
+
+                {otherTiers.length ? (
+                    <div className="line dim">
+                        同底材链的其它阶位（
+                        {otherTiers.map((t) => t.name).join(" / ")}
+                        ）会产出<strong>各自的暗金</strong>，不是本件
                     </div>
-                ))}
+                ) : null}
 
                 {damnation ? (
                     <div className="line dim">

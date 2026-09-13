@@ -270,6 +270,23 @@ def main():
     eternal = {c: w for c, w in eternal.items() if _keys.get(c, c) not in official}
     print("\n== 3b. 底材名 ↔ 官方「基础类型」名 ==")
     bad3b = 0
+    # 嵌套基底名：标准版 + 炼狱版（默认视图用的是后者）都要查
+    for rel in ("Uniques.json", os.path.join("damnation", "Uniques.json")):
+        pth_u = os.path.join(ROOT, "public", "data", rel)
+        if not os.path.exists(pth_u):
+            continue
+        for u in json.load(open(pth_u, encoding="utf-8")):
+            for field in ("weaponBase", "armorBase", "jeweleryBase"):
+                b = u.get(field)
+                if not isinstance(b, dict) or not b.get("code"):
+                    continue
+                w = _on.resolve(str(b["code"]).lower())[0]
+                for sub in ("name", "displayName"):
+                    got = b.get(sub)
+                    if w and got and norm_name(got) != norm_name(w):
+                        bad3b += 1
+                        issues.append(f"[底材名不符] {rel}[{u.get('displayName')}].{field}.{sub}: 「{got}」应为「{w}」")
+
     for fn in ("Weapons.json", "Armors.json"):
         pth = os.path.join(ROOT, "public", "data", fn)
         if not os.path.exists(pth):
@@ -345,10 +362,21 @@ def main():
                 _scan(v, rel, hits)
         return hits
 
+    scan_files = []
     for f in sorted(os.listdir(os.path.join(ROOT, "public", "data"))):
-        if not f.endswith(".json") or f in ("official_zh.json", "SiteUpdates.json", "ItemImages.json"):
+        if f.endswith(".json") and f not in ("official_zh.json", "SiteUpdates.json", "ItemImages.json"):
+            scan_files.append(os.path.join(ROOT, "public", "data", f))
+    # 子目录也要扫：炼狱模式（默认）加载的是 data/damnation/Uniques.json
+    for sub in ("damnation", "standard"):
+        d = os.path.join(ROOT, "public", "data", sub)
+        if not os.path.isdir(d):
             continue
-        pth = os.path.join(ROOT, "public", "data", f)
+        for f in sorted(os.listdir(d)):
+            if f.endswith(".json"):
+                scan_files.append(os.path.join(d, f))
+
+    for pth in scan_files:
+        f = os.path.relpath(pth, os.path.join(ROOT, "public", "data"))
         try:
             data = json.load(open(pth, encoding="utf-8"))
         except Exception:

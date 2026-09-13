@@ -369,7 +369,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战斧",
+      "name": "巨战斧",
       "type": "axe",
       "secondType": "1han",
       "code": "wax",
@@ -414,7 +414,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战斧",
+      "displayName": "巨战斧",
       "itemTier": "普通",
       "normalItemDisplayName": "战斧",
       "exceptionalItemDisplayName": "蛇刀",
@@ -726,7 +726,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "大斧",
+      "name": "卓越之斧",
       "type": "axe",
       "secondType": "2han",
       "code": "gax",
@@ -771,7 +771,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "大斧",
+      "displayName": "卓越之斧",
       "itemTier": "普通",
       "normalItemDisplayName": "大斧",
       "exceptionalItemDisplayName": "哥特之斧",
@@ -817,7 +817,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "巨战斧",
+      "name": "大斧",
       "type": "axe",
       "secondType": "2han",
       "code": "gix",
@@ -862,7 +862,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "巨战斧",
+      "displayName": "大斧",
       "itemTier": "普通",
       "normalItemDisplayName": "巨战斧",
       "exceptionalItemDisplayName": "古代之斧",
@@ -909,7 +909,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "法杖",
+      "name": "杖",
       "type": "wand",
       "secondType": "1han",
       "code": "wnd",
@@ -954,7 +954,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "法杖",
+      "displayName": "杖",
       "itemTier": "普通",
       "normalItemDisplayName": "法杖",
       "exceptionalItemDisplayName": "烧焦之杖",
@@ -1274,7 +1274,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "棍棒",
+      "name": "木棒",
       "type": "club",
       "secondType": "1han",
       "code": "clb",
@@ -1319,7 +1319,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "棍棒",
+      "displayName": "木棒",
       "itemTier": "普通",
       "normalItemDisplayName": "棍棒",
       "exceptionalItemDisplayName": "短棍",
@@ -1454,7 +1454,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "大权杖",
+      "name": "雄伟权杖",
       "type": "scep",
       "secondType": "1han",
       "code": "gsc",
@@ -1499,7 +1499,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "大权杖",
+      "displayName": "雄伟权杖",
       "itemTier": "普通",
       "normalItemDisplayName": "大权杖",
       "exceptionalItemDisplayName": "圣水之杖",
@@ -1547,7 +1547,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战权杖",
+      "name": "巨战权杖",
       "type": "scep",
       "secondType": "1han",
       "code": "wsp",
@@ -1592,7 +1592,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战权杖",
+      "displayName": "巨战权杖",
       "itemTier": "普通",
       "normalItemDisplayName": "战权杖",
       "exceptionalItemDisplayName": "神圣权杖",
@@ -1638,7 +1638,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "钉锤",
+      "name": "狼牙棒",
       "type": "club",
       "secondType": "1han",
       "code": "spc",
@@ -1683,7 +1683,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "钉锤",
+      "displayName": "狼牙棒",
       "itemTier": "普通",
       "normalItemDisplayName": "钉锤",
       "exceptionalItemDisplayName": "倒刺棍棒",
@@ -1816,7 +1816,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "晨星锤",
+      "name": "流星锤",
       "type": "mace",
       "secondType": "1han",
       "code": "mst",
@@ -1861,7 +1861,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "晨星锤",
+      "displayName": "流星锤",
       "itemTier": "普通",
       "normalItemDisplayName": "晨星锤",
       "exceptionalItemDisplayName": "锯齿流星锤",
@@ -1907,7 +1907,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "连枷",
+      "name": "链枷",
       "type": "mace",
       "secondType": "1han",
       "code": "fla",
@@ -1952,7 +1952,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "连枷",
+      "displayName": "链枷",
       "itemTier": "普通",
       "normalItemDisplayName": "连枷",
       "exceptionalItemDisplayName": "皮鞭",
@@ -1998,7 +1998,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战锤",
+      "name": "巨战铁锤",
       "type": "hamm",
       "secondType": "1han",
       "code": "whm",
@@ -2043,7 +2043,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战锤",
+      "displayName": "巨战铁锤",
       "itemTier": "普通",
       "normalItemDisplayName": "战锤",
       "exceptionalItemDisplayName": "战斗锤",
@@ -2087,7 +2087,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "巨锤",
+      "name": "大木棍",
       "type": "hamm",
       "secondType": "2han",
       "code": "mau",
@@ -2132,7 +2132,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "巨锤",
+      "displayName": "大木棍",
       "itemTier": "普通",
       "normalItemDisplayName": "巨锤",
       "exceptionalItemDisplayName": "战棍",
@@ -2176,7 +2176,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "大锤",
+      "name": "卓越巨棍",
       "type": "hamm",
       "secondType": "2han",
       "code": "gma",
@@ -2221,7 +2221,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "大锤",
+      "displayName": "卓越巨棍",
       "itemTier": "普通",
       "normalItemDisplayName": "大锤",
       "exceptionalItemDisplayName": "铁锤",
@@ -2536,7 +2536,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "弯月刀",
+      "name": "弯形大刀",
       "type": "swor",
       "secondType": "1han",
       "code": "flc",
@@ -2581,7 +2581,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "弯月刀",
+      "displayName": "弯形大刀",
       "itemTier": "普通",
       "normalItemDisplayName": "弯月刀",
       "exceptionalItemDisplayName": "塔瓦弯刀",
@@ -2805,7 +2805,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战剑",
+      "name": "巨战之剑",
       "type": "swor",
       "secondType": "1han",
       "code": "wsd",
@@ -2850,7 +2850,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战剑",
+      "displayName": "巨战之剑",
       "itemTier": "普通",
       "normalItemDisplayName": "战剑",
       "exceptionalItemDisplayName": "古代之剑",
@@ -3075,7 +3075,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "巨剑",
+      "name": "大剑",
       "type": "swor",
       "secondType": "2hsw",
       "code": "gis",
@@ -3120,7 +3120,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "巨剑",
+      "displayName": "大剑",
       "itemTier": "普通",
       "normalItemDisplayName": "巨剑",
       "exceptionalItemDisplayName": "獠牙剑",
@@ -3164,7 +3164,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "混种大剑",
+      "name": "巨剑",
       "type": "swor",
       "secondType": "2hsw",
       "code": "bsw",
@@ -3209,7 +3209,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "混种大剑",
+      "displayName": "巨剑",
       "itemTier": "普通",
       "normalItemDisplayName": "混种大剑",
       "exceptionalItemDisplayName": "哥特之剑",
@@ -3254,7 +3254,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "焰形剑",
+      "name": "双手饰剑",
       "type": "swor",
       "secondType": "2hsw",
       "code": "flb",
@@ -3299,7 +3299,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "焰形剑",
+      "displayName": "双手饰剑",
       "itemTier": "普通",
       "normalItemDisplayName": "焰形剑",
       "exceptionalItemDisplayName": "双手巨剑",
@@ -3344,7 +3344,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "大剑",
+      "name": "卓越之剑",
       "type": "swor",
       "secondType": "2hsw",
       "code": "gsd",
@@ -3389,7 +3389,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "大剑",
+      "displayName": "卓越之剑",
       "itemTier": "普通",
       "normalItemDisplayName": "大剑",
       "exceptionalItemDisplayName": "行刑之剑",
@@ -3524,7 +3524,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "短剑",
+      "name": "长匕首",
       "type": "knif",
       "secondType": "1han",
       "code": "dir",
@@ -3569,7 +3569,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "短剑",
+      "displayName": "长匕首",
       "itemTier": "普通",
       "normalItemDisplayName": "短剑",
       "exceptionalItemDisplayName": "圆刃匕首",
@@ -3615,7 +3615,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "马来匕首",
+      "name": "波形刀",
       "type": "knif",
       "secondType": "1han",
       "code": "kri",
@@ -3660,7 +3660,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "马来匕首",
+      "displayName": "波形刀",
       "itemTier": "普通",
       "normalItemDisplayName": "马来匕首",
       "exceptionalItemDisplayName": "五刃剑",
@@ -3707,7 +3707,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "刀刃",
+      "name": "刀锋之",
       "type": "knif",
       "secondType": "1han",
       "code": "bld",
@@ -3752,7 +3752,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "刀刃",
+      "displayName": "刀锋之",
       "itemTier": "普通",
       "normalItemDisplayName": "刀刃",
       "exceptionalItemDisplayName": "狭长匕首",
@@ -3976,7 +3976,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "三叉枪",
+      "name": "叉",
       "type": "spea",
       "secondType": "2han",
       "code": "brn",
@@ -4021,7 +4021,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "三叉枪",
+      "displayName": "叉",
       "itemTier": "普通",
       "normalItemDisplayName": "三叉枪",
       "exceptionalItemDisplayName": "战叉",
@@ -4066,7 +4066,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "梭镖枪",
+      "name": "大战戟",
       "type": "spea",
       "secondType": "2han",
       "code": "spt",
@@ -4111,7 +4111,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "梭镖枪",
+      "displayName": "大战戟",
       "itemTier": "普通",
       "normalItemDisplayName": "梭镖枪",
       "exceptionalItemDisplayName": "日式长枪",
@@ -4156,7 +4156,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "长枪",
+      "name": "矛",
       "type": "spea",
       "secondType": "2han",
       "code": "pik",
@@ -4201,7 +4201,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "长枪",
+      "displayName": "矛",
       "itemTier": "普通",
       "normalItemDisplayName": "长枪",
       "exceptionalItemDisplayName": "长枪",
@@ -4247,7 +4247,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "阔头枪",
+      "name": "大砍刀",
       "type": "pole",
       "secondType": "2han",
       "code": "bar",
@@ -4292,7 +4292,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "阔头枪",
+      "displayName": "大砍刀",
       "itemTier": "普通",
       "normalItemDisplayName": "阔头枪",
       "exceptionalItemDisplayName": "洛查伯战斧",
@@ -4335,7 +4335,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战戟",
+      "name": "钩镰枪",
       "type": "pole",
       "secondType": "2han",
       "code": "vou",
@@ -4380,7 +4380,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战戟",
+      "displayName": "钩镰枪",
       "itemTier": "普通",
       "normalItemDisplayName": "战戟",
       "exceptionalItemDisplayName": "钩镰枪",
@@ -4515,7 +4515,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "长柄斧",
+      "name": "长柄战斧",
       "type": "pole",
       "secondType": "2han",
       "code": "pax",
@@ -4560,7 +4560,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "长柄斧",
+      "displayName": "长柄战斧",
       "itemTier": "普通",
       "normalItemDisplayName": "长柄斧",
       "exceptionalItemDisplayName": "阔头枪",
@@ -4604,7 +4604,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "长柄战斧",
+      "name": "长戟",
       "type": "pole",
       "secondType": "2han",
       "code": "hal",
@@ -4649,7 +4649,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "长柄战斧",
+      "displayName": "长戟",
       "itemTier": "普通",
       "normalItemDisplayName": "长柄战斧",
       "exceptionalItemDisplayName": "鸦嘴战锤",
@@ -4696,7 +4696,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战镰",
+      "name": "巨战镰刀",
       "type": "sc9",
       "secondType": "2han",
       "code": "wsc",
@@ -4741,7 +4741,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战镰",
+      "displayName": "巨战镰刀",
       "itemTier": "普通",
       "normalItemDisplayName": "战镰",
       "exceptionalItemDisplayName": "残酷镰刀",
@@ -4786,7 +4786,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "短法杖",
+      "name": "短棍",
       "type": "staf",
       "secondType": "2han",
       "code": "sst",
@@ -4831,7 +4831,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "短法杖",
+      "displayName": "短棍",
       "itemTier": "普通",
       "normalItemDisplayName": "短法杖",
       "exceptionalItemDisplayName": "僧院法杖",
@@ -4878,7 +4878,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "长法杖",
+      "name": "长棍",
       "type": "staf",
       "secondType": "2han",
       "code": "lst",
@@ -4923,7 +4923,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "长法杖",
+      "displayName": "长棍",
       "itemTier": "普通",
       "normalItemDisplayName": "长法杖",
       "exceptionalItemDisplayName": "长柄法杖",
@@ -4971,7 +4971,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "节瘤法杖",
+      "name": "多节棍",
       "type": "staf",
       "secondType": "2han",
       "code": "cst",
@@ -5016,7 +5016,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "节瘤法杖",
+      "displayName": "多节棍",
       "itemTier": "普通",
       "normalItemDisplayName": "节瘤法杖",
       "exceptionalItemDisplayName": "雪松法杖",
@@ -5157,7 +5157,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战法杖",
+      "name": "巨战法杖",
       "type": "staf",
       "secondType": "2han",
       "code": "wst",
@@ -5202,7 +5202,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战法杖",
+      "displayName": "巨战法杖",
       "itemTier": "普通",
       "normalItemDisplayName": "战法杖",
       "exceptionalItemDisplayName": "符文法杖",
@@ -5733,7 +5733,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "短战弓",
+      "name": "短巨战弓",
       "type": "bow",
       "secondType": "",
       "code": "swb",
@@ -5768,7 +5768,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "短战弓",
+      "displayName": "短巨战弓",
       "itemTier": "普通",
       "normalItemDisplayName": "短战弓",
       "exceptionalItemDisplayName": "符文之弓",
@@ -5815,7 +5815,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "长战弓",
+      "name": "长巨战弓",
       "type": "bow",
       "secondType": "",
       "code": "lwb",
@@ -5850,7 +5850,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "长战弓",
+      "displayName": "长巨战弓",
       "itemTier": "普通",
       "normalItemDisplayName": "长战弓",
       "exceptionalItemDisplayName": "哥特之弓",
@@ -6510,7 +6510,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "骸骨头盔",
+      "name": "白骨头盔",
       "minDefense": 33,
       "maxDefense": 36,
       "requiredStrength": "25",
@@ -6540,7 +6540,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "骸骨头盔",
+      "displayName": "白骨头盔",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "骸骨头盔",
       "exceptionalItemDisplayName": "冷酷头盔",
@@ -6584,7 +6584,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "巨盔",
+      "name": "卓越头盔",
       "minDefense": 30,
       "maxDefense": 35,
       "requiredStrength": "63",
@@ -6614,7 +6614,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "巨盔",
+      "displayName": "卓越头盔",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "巨盔",
       "exceptionalItemDisplayName": "翼盔",
@@ -6807,7 +6807,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "棉布甲",
+      "name": "布甲",
       "minDefense": 9,
       "maxDefense": 11,
       "requiredStrength": "12",
@@ -6837,7 +6837,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "棉布甲",
+      "displayName": "布甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "棉布甲",
       "exceptionalItemDisplayName": "鬼魂战甲",
@@ -7104,7 +7104,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "环状甲",
+      "name": "锁环甲",
       "minDefense": 49,
       "maxDefense": 51,
       "requiredStrength": "36",
@@ -7134,7 +7134,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "环状甲",
+      "displayName": "锁环甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "环状甲",
       "exceptionalItemDisplayName": "环甲",
@@ -7402,7 +7402,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "镶板甲",
+      "name": "板甲",
       "minDefense": 81,
       "maxDefense": 84,
       "requiredStrength": "51",
@@ -7432,7 +7432,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "镶板甲",
+      "displayName": "板甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "镶板甲",
       "exceptionalItemDisplayName": "赤褐甲",
@@ -7476,7 +7476,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "板甲",
+      "name": "铠甲",
       "minDefense": 103,
       "maxDefense": 108,
       "requiredStrength": "65",
@@ -7506,7 +7506,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "板甲",
+      "displayName": "铠甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "板甲",
       "exceptionalItemDisplayName": "圣堂武士外套",
@@ -7550,7 +7550,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "战甲",
+      "name": "实战铠甲",
       "minDefense": 100,
       "maxDefense": 102,
       "requiredStrength": "55",
@@ -7580,7 +7580,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "战甲",
+      "displayName": "实战铠甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "战甲",
       "exceptionalItemDisplayName": "鲨齿甲",
@@ -7623,7 +7623,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "哥特板甲",
+      "name": "哥德战甲",
       "minDefense": 124,
       "maxDefense": 128,
       "requiredStrength": "70",
@@ -7653,7 +7653,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "哥特板甲",
+      "displayName": "哥德战甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "哥特板甲",
       "exceptionalItemDisplayName": "浮雕板甲",
@@ -7696,7 +7696,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "全身板甲",
+      "name": "高级战甲",
       "minDefense": 145,
       "maxDefense": 150,
       "requiredStrength": "80",
@@ -7726,7 +7726,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "全身板甲",
+      "displayName": "高级战甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "全身板甲",
       "exceptionalItemDisplayName": "混沌铠甲",
@@ -7919,7 +7919,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "小圆盾",
+      "name": "圆盾",
       "minDefense": 4,
       "maxDefense": 6,
       "requiredStrength": "12",
@@ -7949,7 +7949,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "小圆盾",
+      "displayName": "圆盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "小圆盾",
       "exceptionalItemDisplayName": "防御者盾",
@@ -7994,7 +7994,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "小盾",
+      "name": "小盾牌",
       "minDefense": 8,
       "maxDefense": 10,
       "requiredStrength": "22",
@@ -8024,7 +8024,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "小盾",
+      "displayName": "小盾牌",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "小盾",
       "exceptionalItemDisplayName": "圆盾",
@@ -8070,7 +8070,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "大盾",
+      "name": "大盾牌",
       "minDefense": 12,
       "maxDefense": 14,
       "requiredStrength": "34",
@@ -8100,7 +8100,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "大盾",
+      "displayName": "大盾牌",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "大盾",
       "exceptionalItemDisplayName": "长盾",
@@ -8145,7 +8145,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "白骨之盾",
+      "name": "白骨盾牌",
       "minDefense": 10,
       "maxDefense": 30,
       "requiredStrength": "25",
@@ -8185,7 +8185,7 @@
         "dontDisplay": false
       },
       "itemTier": "普通",
-      "displayName": "白骨之盾",
+      "displayName": "白骨盾牌",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "白骨之盾",
       "exceptionalItemDisplayName": "冷酷之盾",
@@ -8231,7 +8231,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "尖刺盾",
+      "name": "尖刺盾牌",
       "minDefense": 15,
       "maxDefense": 25,
       "requiredStrength": "30",
@@ -8271,7 +8271,7 @@
         "dontDisplay": false
       },
       "itemTier": "普通",
-      "displayName": "尖刺盾",
+      "displayName": "尖刺盾牌",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "尖刺盾",
       "exceptionalItemDisplayName": "倒刺盾",
@@ -8315,7 +8315,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "鸢盾",
+      "name": "轻盾",
       "minDefense": 16,
       "maxDefense": 18,
       "requiredStrength": "47",
@@ -8345,7 +8345,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "鸢盾",
+      "displayName": "轻盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "鸢盾",
       "exceptionalItemDisplayName": "龙盾",
@@ -8465,7 +8465,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "哥特盾",
+      "name": "哥德盾牌",
       "minDefense": 30,
       "maxDefense": 35,
       "requiredStrength": "60",
@@ -8495,7 +8495,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "哥特盾",
+      "displayName": "哥德盾牌",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "哥特盾",
       "exceptionalItemDisplayName": "古代之盾",
@@ -8539,7 +8539,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "手套(L)",
+      "name": "手套",
       "minDefense": 2,
       "maxDefense": 3,
       "requiredStrength": "0",
@@ -8569,7 +8569,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "皮手套",
+      "displayName": "手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "皮手套",
       "exceptionalItemDisplayName": "魔皮手套",
@@ -8688,7 +8688,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "护腕(M)",
+      "name": "护腕",
       "minDefense": 8,
       "maxDefense": 9,
       "requiredStrength": "25",
@@ -8718,7 +8718,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "锁链手套",
+      "displayName": "护腕",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "锁链手套",
       "exceptionalItemDisplayName": "重护腕",
@@ -8763,7 +8763,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "轻手套",
+      "name": "轻型铁手套",
       "minDefense": 9,
       "maxDefense": 11,
       "requiredStrength": "45",
@@ -8793,7 +8793,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "轻手套",
+      "displayName": "轻型铁手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻手套",
       "exceptionalItemDisplayName": "战斗手套",
@@ -8837,7 +8837,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "手套(H)",
+      "name": "铁手套",
       "minDefense": 12,
       "maxDefense": 15,
       "requiredStrength": "60",
@@ -8867,7 +8867,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "手套",
+      "displayName": "铁手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "手套",
       "exceptionalItemDisplayName": "战手套",
@@ -8942,7 +8942,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "靴子",
+      "displayName": "皮靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "靴子",
       "exceptionalItemDisplayName": "魔皮靴",
@@ -9130,7 +9130,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "轻板靴",
+      "name": "轻型板甲靴",
       "minDefense": 9,
       "maxDefense": 11,
       "requiredStrength": "50",
@@ -9160,7 +9160,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "轻板靴",
+      "displayName": "轻型板甲靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻板靴",
       "exceptionalItemDisplayName": "战斗靴",
@@ -9235,7 +9235,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "胫甲",
+      "displayName": "板甲靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "胫甲",
       "exceptionalItemDisplayName": "战靴",
@@ -9281,7 +9281,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "饰带(L)",
+      "name": "饰带",
       "minDefense": 2,
       "maxDefense": 2,
       "requiredStrength": "0",
@@ -9354,7 +9354,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "轻腰带",
+      "name": "轻扣带",
       "minDefense": 3,
       "maxDefense": 3,
       "requiredStrength": "0",
@@ -9384,7 +9384,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "轻腰带",
+      "displayName": "轻扣带",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻腰带",
       "exceptionalItemDisplayName": "鲨皮腰带",
@@ -9428,7 +9428,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "腰带(M)",
+      "name": "扣带",
       "minDefense": 5,
       "maxDefense": 5,
       "requiredStrength": "25",
@@ -9458,7 +9458,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "腰带",
+      "displayName": "扣带",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "腰带",
       "exceptionalItemDisplayName": "网眼腰带",
@@ -9502,7 +9502,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "重腰带",
+      "name": "重扣带",
       "minDefense": 6,
       "maxDefense": 6,
       "requiredStrength": "45",
@@ -9532,7 +9532,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "重腰带",
+      "displayName": "重扣带",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "重腰带",
       "exceptionalItemDisplayName": "战斗腰带",
@@ -9576,7 +9576,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "束带(H)",
+      "name": "束带",
       "minDefense": 8,
       "maxDefense": 11,
       "requiredStrength": "60",
@@ -9606,7 +9606,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "板条腰带",
+      "displayName": "束带",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "板条腰带",
       "exceptionalItemDisplayName": "战腰带",
@@ -9907,7 +9907,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "短柄斧",
+      "name": "小斧",
       "type": "axe",
       "secondType": "1han",
       "code": "9ha",
@@ -9952,7 +9952,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "短柄斧",
+      "displayName": "小斧",
       "itemTier": "扩展",
       "normalItemDisplayName": "手斧",
       "exceptionalItemDisplayName": "短柄斧",
@@ -9998,7 +9998,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "砍刀",
+      "name": "切肉斧",
       "type": "axe",
       "secondType": "1han",
       "code": "9ax",
@@ -10043,7 +10043,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "砍刀",
+      "displayName": "切肉斧",
       "itemTier": "扩展",
       "normalItemDisplayName": "斧",
       "exceptionalItemDisplayName": "砍刀",
@@ -10089,7 +10089,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "双斧",
+      "name": "强化双斧",
       "type": "axe",
       "secondType": "1han",
       "code": "92a",
@@ -10134,7 +10134,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "双斧",
+      "displayName": "强化双斧",
       "itemTier": "扩展",
       "normalItemDisplayName": "双刃斧",
       "exceptionalItemDisplayName": "双斧",
@@ -10183,7 +10183,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "鸦嘴锄",
+      "name": "喙钳",
       "type": "axe",
       "secondType": "1han",
       "code": "9mp",
@@ -10228,7 +10228,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "鸦嘴锄",
+      "displayName": "喙钳",
       "itemTier": "扩展",
       "normalItemDisplayName": "军用锹",
       "exceptionalItemDisplayName": "鸦嘴锄",
@@ -10272,7 +10272,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "蛇刀",
+      "name": "纳卡",
       "type": "axe",
       "secondType": "1han",
       "code": "9wa",
@@ -10317,7 +10317,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "蛇刀",
+      "displayName": "纳卡",
       "itemTier": "扩展",
       "normalItemDisplayName": "战斧",
       "exceptionalItemDisplayName": "蛇刀",
@@ -10362,7 +10362,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "军用斧",
+      "name": "军斧",
       "type": "axe",
       "secondType": "2han",
       "code": "9la",
@@ -10407,7 +10407,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "军用斧",
+      "displayName": "军斧",
       "itemTier": "扩展",
       "normalItemDisplayName": "巨斧",
       "exceptionalItemDisplayName": "军用斧",
@@ -10454,7 +10454,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "长柄斧",
+      "name": "钩斧",
       "type": "axe",
       "secondType": "2han",
       "code": "9ba",
@@ -10499,7 +10499,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "长柄斧",
+      "displayName": "钩斧",
       "itemTier": "扩展",
       "normalItemDisplayName": "阔斧",
       "exceptionalItemDisplayName": "长柄斧",
@@ -10548,7 +10548,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "塔巴尔战斧",
+      "name": "战斗斧",
       "type": "axe",
       "secondType": "2han",
       "code": "9bt",
@@ -10593,7 +10593,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "塔巴尔战斧",
+      "displayName": "战斗斧",
       "itemTier": "扩展",
       "normalItemDisplayName": "战斗斧",
       "exceptionalItemDisplayName": "塔巴尔战斧",
@@ -10640,7 +10640,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "哥特之斧",
+      "name": "哥德之斧",
       "type": "axe",
       "secondType": "2han",
       "code": "9ga",
@@ -10685,7 +10685,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "哥特之斧",
+      "displayName": "哥德之斧",
       "itemTier": "扩展",
       "normalItemDisplayName": "大斧",
       "exceptionalItemDisplayName": "哥特之斧",
@@ -10915,7 +10915,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "石化之杖",
+      "name": "净化之杖",
       "type": "wand",
       "secondType": "1han",
       "code": "9yw",
@@ -10960,7 +10960,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "石化之杖",
+      "displayName": "净化之杖",
       "itemTier": "扩展",
       "normalItemDisplayName": "紫杉之杖",
       "exceptionalItemDisplayName": "石化之杖",
@@ -11007,7 +11007,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "坟墓之杖",
+      "name": "古墓之杖",
       "type": "wand",
       "secondType": "1han",
       "code": "9bw",
@@ -11052,7 +11052,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "坟墓之杖",
+      "displayName": "古墓之杖",
       "itemTier": "扩展",
       "normalItemDisplayName": "骨杖",
       "exceptionalItemDisplayName": "坟墓之杖",
@@ -11191,7 +11191,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "短棍",
+      "name": "棍棒",
       "type": "club",
       "secondType": "1han",
       "code": "9cl",
@@ -11236,7 +11236,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "短棍",
+      "displayName": "棍棒",
       "itemTier": "扩展",
       "normalItemDisplayName": "棍棒",
       "exceptionalItemDisplayName": "短棍",
@@ -11374,7 +11374,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "圣水之杖",
+      "name": "圣水喷杖",
       "type": "scep",
       "secondType": "1han",
       "code": "9qs",
@@ -11419,7 +11419,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "圣水之杖",
+      "displayName": "圣水喷杖",
       "itemTier": "扩展",
       "normalItemDisplayName": "大权杖",
       "exceptionalItemDisplayName": "圣水之杖",
@@ -11466,7 +11466,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "神圣权杖",
+      "name": "神属权杖",
       "type": "scep",
       "secondType": "1han",
       "code": "9ws",
@@ -11511,7 +11511,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "神圣权杖",
+      "displayName": "神属权杖",
       "itemTier": "扩展",
       "normalItemDisplayName": "战权杖",
       "exceptionalItemDisplayName": "神圣权杖",
@@ -11561,7 +11561,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "倒刺棍棒",
+      "name": "倒钩锤",
       "type": "club",
       "secondType": "1han",
       "code": "9sp",
@@ -11606,7 +11606,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "倒刺棍棒",
+      "displayName": "倒钩锤",
       "itemTier": "扩展",
       "normalItemDisplayName": "钉锤",
       "exceptionalItemDisplayName": "倒刺棍棒",
@@ -11839,7 +11839,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "皮鞭",
+      "name": "铁皮鞭",
       "type": "mace",
       "secondType": "1han",
       "code": "9fl",
@@ -11884,7 +11884,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "皮鞭",
+      "displayName": "铁皮鞭",
       "itemTier": "扩展",
       "normalItemDisplayName": "连枷",
       "exceptionalItemDisplayName": "皮鞭",
@@ -11930,7 +11930,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战斗锤",
+      "name": "战斗铁锤",
       "type": "hamm",
       "secondType": "1han",
       "code": "9wh",
@@ -11975,7 +11975,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战斗锤",
+      "displayName": "战斗铁锤",
       "itemTier": "扩展",
       "normalItemDisplayName": "战锤",
       "exceptionalItemDisplayName": "战斗锤",
@@ -12020,7 +12020,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战棍",
+      "name": "巨战木棍",
       "type": "hamm",
       "secondType": "2han",
       "code": "9m9",
@@ -12065,7 +12065,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战棍",
+      "displayName": "巨战木棍",
       "itemTier": "扩展",
       "normalItemDisplayName": "巨锤",
       "exceptionalItemDisplayName": "战棍",
@@ -12111,7 +12111,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "铁锤",
+      "name": "战锤",
       "type": "hamm",
       "secondType": "2han",
       "code": "9gm",
@@ -12156,7 +12156,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "铁锤",
+      "displayName": "战锤",
       "itemTier": "扩展",
       "normalItemDisplayName": "大锤",
       "exceptionalItemDisplayName": "铁锤",
@@ -12297,7 +12297,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "弯刀",
+      "name": "微弯剑",
       "type": "swor",
       "secondType": "1han",
       "code": "9sm",
@@ -12342,7 +12342,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "弯刀",
+      "displayName": "微弯剑",
       "itemTier": "扩展",
       "normalItemDisplayName": "弯刀",
       "exceptionalItemDisplayName": "弯刀",
@@ -12388,7 +12388,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "波斯弯刀",
+      "name": "虚伪之刃",
       "type": "swor",
       "secondType": "1han",
       "code": "9sb",
@@ -12433,7 +12433,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "波斯弯刀",
+      "displayName": "虚伪之刃",
       "itemTier": "扩展",
       "normalItemDisplayName": "军刀",
       "exceptionalItemDisplayName": "波斯弯刀",
@@ -12480,7 +12480,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "塔瓦弯刀",
+      "name": "圆月弯刀",
       "type": "swor",
       "secondType": "1han",
       "code": "9fc",
@@ -12525,7 +12525,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "塔瓦弯刀",
+      "displayName": "圆月弯刀",
       "itemTier": "扩展",
       "normalItemDisplayName": "弯月刀",
       "exceptionalItemDisplayName": "塔瓦弯刀",
@@ -12570,7 +12570,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "次元之刃",
+      "name": "空间之刃",
       "type": "swor",
       "secondType": "crys",
       "code": "9cr",
@@ -12615,7 +12615,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "次元之刃",
+      "displayName": "空间之刃",
       "itemTier": "扩展",
       "normalItemDisplayName": "水晶剑",
       "exceptionalItemDisplayName": "次元之刃",
@@ -12750,7 +12750,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "符文之剑",
+      "name": "符文剑",
       "type": "swor",
       "secondType": "1han",
       "code": "9ls",
@@ -12795,7 +12795,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "符文之剑",
+      "displayName": "符文剑",
       "itemTier": "扩展",
       "normalItemDisplayName": "长剑",
       "exceptionalItemDisplayName": "符文之剑",
@@ -12933,7 +12933,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "宽刃剑",
+      "name": "双刃大剑",
       "type": "swor",
       "secondType": "2hsw",
       "code": "92h",
@@ -12978,7 +12978,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "宽刃剑",
+      "displayName": "双刃大剑",
       "itemTier": "扩展",
       "normalItemDisplayName": "双手剑",
       "exceptionalItemDisplayName": "宽刃剑",
@@ -13023,7 +13023,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "达契亚镰刀",
+      "name": "双刃镰",
       "type": "swor",
       "secondType": "2hsw",
       "code": "9cm",
@@ -13068,7 +13068,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "达契亚镰刀",
+      "displayName": "双刃镰",
       "itemTier": "扩展",
       "normalItemDisplayName": "双刃大刀",
       "exceptionalItemDisplayName": "达契亚镰刀",
@@ -13115,7 +13115,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "獠牙剑",
+      "name": "长牙剑",
       "type": "swor",
       "secondType": "2hsw",
       "code": "9gs",
@@ -13160,7 +13160,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "獠牙剑",
+      "displayName": "长牙剑",
       "itemTier": "扩展",
       "normalItemDisplayName": "巨剑",
       "exceptionalItemDisplayName": "獠牙剑",
@@ -13206,7 +13206,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "哥特之剑",
+      "name": "哥德剑",
       "type": "swor",
       "secondType": "2hsw",
       "code": "9b9",
@@ -13251,7 +13251,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "哥特之剑",
+      "displayName": "哥德剑",
       "itemTier": "扩展",
       "normalItemDisplayName": "混种大剑",
       "exceptionalItemDisplayName": "哥特之剑",
@@ -13299,7 +13299,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "双手巨剑",
+      "name": "瑞韩德之剑",
       "type": "swor",
       "secondType": "2hsw",
       "code": "9fb",
@@ -13344,7 +13344,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "双手巨剑",
+      "displayName": "瑞韩德之剑",
       "itemTier": "扩展",
       "normalItemDisplayName": "焰形剑",
       "exceptionalItemDisplayName": "双手巨剑",
@@ -13392,7 +13392,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "行刑之剑",
+      "name": "死刑之剑",
       "type": "swor",
       "secondType": "2hsw",
       "code": "9gd",
@@ -13437,7 +13437,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "行刑之剑",
+      "displayName": "死刑之剑",
       "itemTier": "扩展",
       "normalItemDisplayName": "大剑",
       "exceptionalItemDisplayName": "行刑之剑",
@@ -13486,7 +13486,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "刺剑",
+      "name": "锐匕",
       "type": "knif",
       "secondType": "1han",
       "code": "9dg",
@@ -13531,7 +13531,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "刺剑",
+      "displayName": "锐匕",
       "itemTier": "扩展",
       "normalItemDisplayName": "匕首",
       "exceptionalItemDisplayName": "刺剑",
@@ -13580,7 +13580,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "圆刃匕首",
+      "name": "诗歌匕首",
       "type": "knif",
       "secondType": "1han",
       "code": "9di",
@@ -13625,7 +13625,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "圆刃匕首",
+      "displayName": "诗歌匕首",
       "itemTier": "扩展",
       "normalItemDisplayName": "短剑",
       "exceptionalItemDisplayName": "圆刃匕首",
@@ -13673,7 +13673,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "五刃剑",
+      "name": "强波刀",
       "type": "knif",
       "secondType": "1han",
       "code": "9kr",
@@ -13718,7 +13718,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "五刃剑",
+      "displayName": "强波刀",
       "itemTier": "扩展",
       "normalItemDisplayName": "马来匕首",
       "exceptionalItemDisplayName": "五刃剑",
@@ -13766,7 +13766,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "狭长匕首",
+      "name": "小剑",
       "type": "knif",
       "secondType": "1han",
       "code": "9bl",
@@ -13811,7 +13811,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "狭长匕首",
+      "displayName": "小剑",
       "itemTier": "扩展",
       "normalItemDisplayName": "刀刃",
       "exceptionalItemDisplayName": "狭长匕首",
@@ -13857,7 +13857,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战矛",
+      "name": "巨战长矛",
       "type": "spea",
       "secondType": "2han",
       "code": "9sr",
@@ -13902,7 +13902,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战矛",
+      "displayName": "巨战长矛",
       "itemTier": "扩展",
       "normalItemDisplayName": "长矛",
       "exceptionalItemDisplayName": "战矛",
@@ -13950,7 +13950,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "鱼叉",
+      "name": "魔鬼之叉",
       "type": "spea",
       "secondType": "2han",
       "code": "9tr",
@@ -13995,7 +13995,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "鱼叉",
+      "displayName": "魔鬼之叉",
       "itemTier": "扩展",
       "normalItemDisplayName": "三叉戟",
       "exceptionalItemDisplayName": "鱼叉",
@@ -14041,7 +14041,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战叉",
+      "name": "巨战之叉",
       "type": "spea",
       "secondType": "2han",
       "code": "9br",
@@ -14086,7 +14086,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战叉",
+      "displayName": "巨战之叉",
       "itemTier": "扩展",
       "normalItemDisplayName": "三叉枪",
       "exceptionalItemDisplayName": "战叉",
@@ -14131,7 +14131,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "日式长枪",
+      "name": "三叉长枪",
       "type": "spea",
       "secondType": "2han",
       "code": "9st",
@@ -14176,7 +14176,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "日式长枪",
+      "displayName": "三叉长枪",
       "itemTier": "扩展",
       "normalItemDisplayName": "梭镖枪",
       "exceptionalItemDisplayName": "日式长枪",
@@ -14315,7 +14315,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "洛查伯战斧",
+      "name": "罗佳柏斧",
       "type": "pole",
       "secondType": "2han",
       "code": "9b7",
@@ -14360,7 +14360,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "洛查伯战斧",
+      "displayName": "罗佳柏斧",
       "itemTier": "扩展",
       "normalItemDisplayName": "阔头枪",
       "exceptionalItemDisplayName": "洛查伯战斧",
@@ -14406,7 +14406,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "钩镰枪",
+      "name": "比尔长刀",
       "type": "pole",
       "secondType": "2han",
       "code": "9vo",
@@ -14451,7 +14451,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "钩镰枪",
+      "displayName": "比尔长刀",
       "itemTier": "扩展",
       "normalItemDisplayName": "战戟",
       "exceptionalItemDisplayName": "钩镰枪",
@@ -14588,7 +14588,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "阔头枪",
+      "name": "战戟",
       "type": "pole",
       "secondType": "2han",
       "code": "9pa",
@@ -14633,7 +14633,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "阔头枪",
+      "displayName": "战戟",
       "itemTier": "扩展",
       "normalItemDisplayName": "长柄斧",
       "exceptionalItemDisplayName": "阔头枪",
@@ -14680,7 +14680,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "鸦嘴战锤",
+      "name": "双锋战戟",
       "type": "pole",
       "secondType": "2han",
       "code": "9h9",
@@ -14725,7 +14725,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "鸦嘴战锤",
+      "displayName": "双锋战戟",
       "itemTier": "扩展",
       "normalItemDisplayName": "长柄战斧",
       "exceptionalItemDisplayName": "鸦嘴战锤",
@@ -14864,7 +14864,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "僧院法杖",
+      "name": "乔木棒",
       "type": "staf",
       "secondType": "2han",
       "code": "8ss",
@@ -14909,7 +14909,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "僧院法杖",
+      "displayName": "乔木棒",
       "itemTier": "扩展",
       "normalItemDisplayName": "短法杖",
       "exceptionalItemDisplayName": "僧院法杖",
@@ -14955,7 +14955,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "长柄法杖",
+      "name": "六尺棍",
       "type": "staf",
       "secondType": "2han",
       "code": "8ls",
@@ -15000,7 +15000,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "长柄法杖",
+      "displayName": "六尺棍",
       "itemTier": "扩展",
       "normalItemDisplayName": "长法杖",
       "exceptionalItemDisplayName": "长柄法杖",
@@ -15048,7 +15048,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "雪松法杖",
+      "name": "杉木之棍",
       "type": "staf",
       "secondType": "2han",
       "code": "8cs",
@@ -15093,7 +15093,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "雪松法杖",
+      "displayName": "杉木之棍",
       "itemTier": "扩展",
       "normalItemDisplayName": "节瘤法杖",
       "exceptionalItemDisplayName": "雪松法杖",
@@ -15141,7 +15141,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "哥特法杖",
+      "name": "哥德之棍",
       "type": "staf",
       "secondType": "2han",
       "code": "8bs",
@@ -15186,7 +15186,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "哥特法杖",
+      "displayName": "哥德之棍",
       "itemTier": "扩展",
       "normalItemDisplayName": "战斗法杖",
       "exceptionalItemDisplayName": "哥特法杖",
@@ -15233,7 +15233,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "符文法杖",
+      "name": "符文之棍",
       "type": "staf",
       "secondType": "2han",
       "code": "8ws",
@@ -15278,7 +15278,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "符文法杖",
+      "displayName": "符文之棍",
       "itemTier": "扩展",
       "normalItemDisplayName": "战法杖",
       "exceptionalItemDisplayName": "符文法杖",
@@ -15324,7 +15324,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "锋锐弓",
+      "name": "锋锐之弓",
       "type": "bow",
       "secondType": "",
       "code": "8sb",
@@ -15359,7 +15359,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "锋锐弓",
+      "displayName": "锋锐之弓",
       "itemTier": "扩展",
       "normalItemDisplayName": "短弓",
       "exceptionalItemDisplayName": "锋锐弓",
@@ -15486,7 +15486,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "雪松弓",
+      "name": "杉木弓",
       "type": "bow",
       "secondType": "",
       "code": "8lb",
@@ -15521,7 +15521,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "雪松弓",
+      "displayName": "杉木弓",
       "itemTier": "扩展",
       "normalItemDisplayName": "长弓",
       "exceptionalItemDisplayName": "雪松弓",
@@ -15761,7 +15761,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "大攻城弓",
+      "displayName": "长攻城弓",
       "itemTier": "扩展",
       "normalItemDisplayName": "长战斗弓",
       "exceptionalItemDisplayName": "大攻城弓",
@@ -15894,7 +15894,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "哥特之弓",
+      "name": "哥德弓",
       "type": "bow",
       "secondType": "",
       "code": "8lw",
@@ -15929,7 +15929,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "哥特之弓",
+      "displayName": "哥德弓",
       "itemTier": "扩展",
       "normalItemDisplayName": "长战弓",
       "exceptionalItemDisplayName": "哥特之弓",
@@ -15975,7 +15975,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "劲弩",
+      "name": "石弓",
       "type": "xbow",
       "secondType": "",
       "code": "8lx",
@@ -16010,7 +16010,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "劲弩",
+      "displayName": "石弓",
       "itemTier": "扩展",
       "normalItemDisplayName": "轻十字弓",
       "exceptionalItemDisplayName": "劲弩",
@@ -16139,7 +16139,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "重弩",
+      "name": "弩炮",
       "type": "xbow",
       "secondType": "",
       "code": "8hx",
@@ -16174,7 +16174,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "攻城弩",
+      "displayName": "弩炮",
       "itemTier": "扩展",
       "normalItemDisplayName": "重十字弓",
       "exceptionalItemDisplayName": "攻城弩",
@@ -16221,7 +16221,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "诸葛弩",
+      "name": "巧工弩",
       "type": "xbow",
       "secondType": "",
       "code": "8rx",
@@ -16256,7 +16256,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "诸葛弩",
+      "displayName": "巧工弩",
       "itemTier": "扩展",
       "normalItemDisplayName": "连射十字弓",
       "exceptionalItemDisplayName": "诸葛弩",
@@ -16377,7 +16377,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "轻型头盔",
+      "name": "轻便头盔",
       "minDefense": 52,
       "maxDefense": 62,
       "requiredStrength": "43",
@@ -16407,7 +16407,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "轻型头盔",
+      "displayName": "轻便头盔",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "骷髅帽",
       "exceptionalItemDisplayName": "轻型头盔",
@@ -16452,7 +16452,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "轻便头盔",
+      "name": "无颊头盔",
       "minDefense": 63,
       "maxDefense": 72,
       "requiredStrength": "59",
@@ -16482,7 +16482,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "轻便头盔",
+      "displayName": "无颊头盔",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "头盔",
       "exceptionalItemDisplayName": "轻便头盔",
@@ -16677,7 +16677,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "大皇冠",
+      "name": "巨皇冠",
       "minDefense": 78,
       "maxDefense": 113,
       "requiredStrength": "103",
@@ -16707,7 +16707,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "大皇冠",
+      "displayName": "巨皇冠",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "皇冠",
       "exceptionalItemDisplayName": "大皇冠",
@@ -16827,7 +16827,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "冷酷头盔",
+      "name": "残酷头盔",
       "minDefense": 60,
       "maxDefense": 125,
       "requiredStrength": "58",
@@ -16857,7 +16857,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "冷酷头盔",
+      "displayName": "残酷头盔",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "骸骨头盔",
       "exceptionalItemDisplayName": "冷酷头盔",
@@ -16977,7 +16977,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "蛇皮甲",
+      "name": "海蛇皮甲",
       "minDefense": 116,
       "maxDefense": 122,
       "requiredStrength": "43",
@@ -17007,7 +17007,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "蛇皮甲",
+      "displayName": "海蛇皮甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "皮甲",
       "exceptionalItemDisplayName": "蛇皮甲",
@@ -17124,7 +17124,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "格栅甲",
+      "name": "盘绕战甲",
       "minDefense": 148,
       "maxDefense": 156,
       "requiredStrength": "61",
@@ -17154,7 +17154,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "格栅甲",
+      "displayName": "盘绕战甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "镶嵌甲",
       "exceptionalItemDisplayName": "格栅甲",
@@ -17198,7 +17198,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "环甲",
+      "name": "连扣战甲",
       "minDefense": 172,
       "maxDefense": 180,
       "requiredStrength": "74",
@@ -17228,7 +17228,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "环甲",
+      "displayName": "连扣战甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "环状甲",
       "exceptionalItemDisplayName": "环甲",
@@ -17274,7 +17274,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "叠瓦甲",
+      "name": "提格莱特战甲",
       "minDefense": 193,
       "maxDefense": 202,
       "requiredStrength": "86",
@@ -17304,7 +17304,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "叠瓦甲",
+      "displayName": "提格莱特战甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "鳞甲",
       "exceptionalItemDisplayName": "叠瓦甲",
@@ -17349,7 +17349,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "网眼甲",
+      "name": "织网战甲",
       "minDefense": 207,
       "maxDefense": 216,
       "requiredStrength": "92",
@@ -17379,7 +17379,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "网眼甲",
+      "displayName": "织网战甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "锁子甲",
       "exceptionalItemDisplayName": "网眼甲",
@@ -17421,7 +17421,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "胸甲",
+      "name": "护胸甲",
       "minDefense": 170,
       "maxDefense": 176,
       "requiredStrength": "65",
@@ -17451,7 +17451,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "胸甲",
+      "displayName": "护胸甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "胸甲",
       "exceptionalItemDisplayName": "胸甲",
@@ -17498,7 +17498,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "赤褐甲",
+      "name": "罗瑟战甲",
       "minDefense": 223,
       "maxDefense": 233,
       "requiredStrength": "97",
@@ -17528,7 +17528,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "赤褐甲",
+      "displayName": "罗瑟战甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "镶板甲",
       "exceptionalItemDisplayName": "赤褐甲",
@@ -17571,7 +17571,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "圣堂武士外套",
+      "name": "圣堂武士外袍",
       "minDefense": 264,
       "maxDefense": 278,
       "requiredStrength": "118",
@@ -17601,7 +17601,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "圣堂武士外套",
+      "displayName": "圣堂武士外袍",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "板甲",
       "exceptionalItemDisplayName": "圣堂武士外套",
@@ -17649,7 +17649,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "鲨齿甲",
+      "name": "鲨齿战甲",
       "minDefense": 246,
       "maxDefense": 255,
       "requiredStrength": "103",
@@ -17679,7 +17679,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "鲨齿甲",
+      "displayName": "鲨齿战甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "战甲",
       "exceptionalItemDisplayName": "鲨齿甲",
@@ -17724,7 +17724,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "浮雕板甲",
+      "name": "凸纹战甲",
       "minDefense": 291,
       "maxDefense": 304,
       "requiredStrength": "125",
@@ -17754,7 +17754,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "浮雕板甲",
+      "displayName": "凸纹战甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "哥特板甲",
       "exceptionalItemDisplayName": "浮雕板甲",
@@ -17801,7 +17801,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "混沌铠甲",
+      "name": "混沌战甲",
       "minDefense": 323,
       "maxDefense": 340,
       "requiredStrength": "140",
@@ -17831,7 +17831,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "混沌铠甲",
+      "displayName": "混沌战甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "全身板甲",
       "exceptionalItemDisplayName": "混沌铠甲",
@@ -17905,7 +17905,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "华丽板甲",
+      "displayName": "华丽战甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "古代装甲",
       "exceptionalItemDisplayName": "华丽板甲",
@@ -18026,7 +18026,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "防御者盾",
+      "name": "防御盾",
       "minDefense": 41,
       "maxDefense": 49,
       "requiredStrength": "38",
@@ -18056,7 +18056,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "防御者盾",
+      "displayName": "防御盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "小圆盾",
       "exceptionalItemDisplayName": "防御者盾",
@@ -18100,7 +18100,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "圆盾",
+      "name": "圆型盾",
       "minDefense": 47,
       "maxDefense": 55,
       "requiredStrength": "53",
@@ -18130,7 +18130,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "圆盾",
+      "displayName": "圆型盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "小盾",
       "exceptionalItemDisplayName": "圆盾",
@@ -18174,7 +18174,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "长盾",
+      "name": "鳞盾",
       "minDefense": 53,
       "maxDefense": 61,
       "requiredStrength": "71",
@@ -18204,7 +18204,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "长盾",
+      "displayName": "鳞盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "大盾",
       "exceptionalItemDisplayName": "长盾",
@@ -18564,7 +18564,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "倒刺盾",
+      "name": "倒刺护盾",
       "minDefense": 58,
       "maxDefense": 78,
       "requiredStrength": "65",
@@ -18604,7 +18604,7 @@
         "dontDisplay": false
       },
       "itemTier": "扩展",
-      "displayName": "倒刺盾",
+      "displayName": "倒刺护盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "尖刺盾",
       "exceptionalItemDisplayName": "倒刺盾",
@@ -18799,7 +18799,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "重护腕",
+      "name": "重型手镯",
       "minDefense": 37,
       "maxDefense": 44,
       "requiredStrength": "58",
@@ -18829,7 +18829,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "重护腕",
+      "displayName": "重型手镯",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "锁链手套",
       "exceptionalItemDisplayName": "重护腕",
@@ -18873,7 +18873,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "战斗手套",
+      "name": "战场手套",
       "minDefense": 39,
       "maxDefense": 47,
       "requiredStrength": "88",
@@ -18903,7 +18903,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "战斗手套",
+      "displayName": "战场手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻手套",
       "exceptionalItemDisplayName": "战斗手套",
@@ -18948,7 +18948,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "战手套",
+      "name": "战争护手",
       "minDefense": 43,
       "maxDefense": 53,
       "requiredStrength": "110",
@@ -18978,7 +18978,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "战手套",
+      "displayName": "战争护手",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "手套",
       "exceptionalItemDisplayName": "战手套",
@@ -19099,7 +19099,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "鲨皮靴",
+      "name": "鲨皮之靴",
       "minDefense": 33,
       "maxDefense": 39,
       "requiredStrength": "47",
@@ -19129,7 +19129,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "鲨皮靴",
+      "displayName": "鲨皮之靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "重靴",
       "exceptionalItemDisplayName": "鲨皮靴",
@@ -19176,7 +19176,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "网眼靴",
+      "name": "织网之靴",
       "minDefense": 37,
       "maxDefense": 44,
       "requiredStrength": "65",
@@ -19206,7 +19206,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "网眼靴",
+      "displayName": "织网之靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "锁链靴",
       "exceptionalItemDisplayName": "网眼靴",
@@ -19250,7 +19250,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "战斗靴",
+      "name": "战场之靴",
       "minDefense": 39,
       "maxDefense": 47,
       "requiredStrength": "95",
@@ -19280,7 +19280,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "战斗靴",
+      "displayName": "战场之靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻板靴",
       "exceptionalItemDisplayName": "战斗靴",
@@ -19327,7 +19327,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "战靴",
+      "name": "巨战之靴",
       "minDefense": 43,
       "maxDefense": 53,
       "requiredStrength": "125",
@@ -19357,7 +19357,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "战靴",
+      "displayName": "巨战之靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "胫甲",
       "exceptionalItemDisplayName": "战靴",
@@ -19402,7 +19402,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "魔皮腰带",
+      "name": "魔皮勋带",
       "minDefense": 29,
       "maxDefense": 34,
       "requiredStrength": "20",
@@ -19432,7 +19432,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "魔皮腰带",
+      "displayName": "魔皮勋带",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "饰带",
       "exceptionalItemDisplayName": "魔皮腰带",
@@ -19549,7 +19549,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "网眼腰带",
+      "name": "织网腰带",
       "minDefense": 35,
       "maxDefense": 40,
       "requiredStrength": "58",
@@ -19579,7 +19579,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "网眼腰带",
+      "displayName": "织网腰带",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "腰带",
       "exceptionalItemDisplayName": "网眼腰带",
@@ -19624,7 +19624,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "战斗腰带",
+      "name": "战场腰带",
       "minDefense": 37,
       "maxDefense": 42,
       "requiredStrength": "88",
@@ -19654,7 +19654,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "战斗腰带",
+      "displayName": "战场腰带",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "重腰带",
       "exceptionalItemDisplayName": "战斗腰带",
@@ -19699,7 +19699,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "战腰带",
+      "name": "巨战腰带",
       "minDefense": 41,
       "maxDefense": 52,
       "requiredStrength": "110",
@@ -19729,7 +19729,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "战腰带",
+      "displayName": "巨战腰带",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "板条腰带",
       "exceptionalItemDisplayName": "战腰带",
@@ -19774,7 +19774,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "谐角之冠",
+      "name": "军帽",
       "minDefense": 98,
       "maxDefense": 141,
       "requiredStrength": "50",
@@ -19804,7 +19804,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "谐角之冠",
+      "displayName": "军帽",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "帽子",
       "exceptionalItemDisplayName": "战帽",
@@ -19848,7 +19848,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "尖顶头盔",
+      "name": "螺旋头盔",
       "minDefense": 114,
       "maxDefense": 159,
       "requiredStrength": "192",
@@ -19878,7 +19878,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "尖顶头盔",
+      "displayName": "螺旋头盔",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "巨盔",
       "exceptionalItemDisplayName": "翼盔",
@@ -20073,7 +20073,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "月盾",
+      "name": "月精灵护盾",
       "minDefense": 108,
       "maxDefense": 123,
       "requiredStrength": "100",
@@ -20103,7 +20103,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "月盾",
+      "displayName": "月精灵护盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "小盾",
       "exceptionalItemDisplayName": "圆盾",
@@ -20227,7 +20227,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "刽子手之斧",
+      "name": "斩首斧",
       "type": "axe",
       "secondType": "2han",
       "code": "7bt",
@@ -20272,7 +20272,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "刽子手之斧",
+      "displayName": "斩首斧",
       "itemTier": "精英",
       "normalItemDisplayName": "战斗斧",
       "exceptionalItemDisplayName": "塔巴尔战斧",
@@ -20318,7 +20318,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "冠军之斧",
+      "name": "豪杰斧",
       "type": "axe",
       "secondType": "2han",
       "code": "7ga",
@@ -20363,7 +20363,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "冠军之斧",
+      "displayName": "豪杰斧",
       "itemTier": "精英",
       "normalItemDisplayName": "大斧",
       "exceptionalItemDisplayName": "哥特之斧",
@@ -20966,7 +20966,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "骨小刀",
+      "name": "骸骨小刀",
       "type": "knif",
       "secondType": "1han",
       "code": "7dg",
@@ -21011,7 +21011,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "骨小刀",
+      "displayName": "骸骨小刀",
       "itemTier": "精英",
       "normalItemDisplayName": "匕首",
       "exceptionalItemDisplayName": "刺剑",
@@ -21099,7 +21099,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "巨型镰刀",
+      "name": "鲛尾巨斧",
       "type": "sc9",
       "secondType": "2han",
       "code": "7wc",
@@ -21144,7 +21144,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "巨型镰刀",
+      "displayName": "鲛尾巨斧",
       "itemTier": "精英",
       "normalItemDisplayName": "战镰",
       "exceptionalItemDisplayName": "残酷镰刀",
@@ -21787,7 +21787,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "杀戮者头盔",
+      "name": "杀手防护面甲",
       "minDefense": 93,
       "maxDefense": 120,
       "requiredStrength": "118",
@@ -21817,7 +21817,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "杀戮者头盔",
+      "displayName": "杀手防护面甲",
       "onlyClassDisplayText": "仅野蛮人",
       "normalItemDisplayName": "复仇者头盔",
       "exceptionalItemDisplayName": "杀戮者头盔",
@@ -21864,7 +21864,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "圣职者之首",
+      "name": "祭司战利品",
       "minDefense": 58,
       "maxDefense": 70,
       "requiredStrength": "58",
@@ -21894,7 +21894,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "圣职者之首",
+      "displayName": "祭司战利品",
       "onlyClassDisplayText": "仅死灵法师",
       "normalItemDisplayName": "恶魔之首",
       "exceptionalItemDisplayName": "圣职者之首",
@@ -21941,7 +21941,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "典礼标枪",
+      "name": "祭典之标枪",
       "type": "ajav",
       "secondType": "1han",
       "code": "ama",
@@ -21986,7 +21986,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "典礼标枪",
+      "displayName": "祭典之标枪",
       "itemTier": "扩展",
       "normalItemDisplayName": "少女标枪",
       "exceptionalItemDisplayName": "典礼标枪",
@@ -22034,7 +22034,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "典礼长弓",
+      "name": "祭典之弓",
       "type": "abow",
       "secondType": "",
       "code": "am7",
@@ -22069,7 +22069,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "典礼长弓",
+      "displayName": "祭典之弓",
       "itemTier": "扩展",
       "normalItemDisplayName": "反射弓",
       "exceptionalItemDisplayName": "典礼长弓",
@@ -22118,7 +22118,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "典礼长枪",
+      "name": "祭典之长矛",
       "type": "aspe",
       "secondType": "2han",
       "code": "am9",
@@ -22163,7 +22163,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "典礼长枪",
+      "displayName": "祭典之长矛",
       "itemTier": "扩展",
       "normalItemDisplayName": "少女长枪",
       "exceptionalItemDisplayName": "典礼长枪",
@@ -22212,7 +22212,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "漩涡之球",
+      "name": "涡流水晶",
       "type": "orb",
       "secondType": "",
       "code": "oba",
@@ -22247,7 +22247,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "漩涡之球",
+      "displayName": "涡流水晶",
       "itemTier": "扩展",
       "normalItemDisplayName": "贾瑞德之石",
       "exceptionalItemDisplayName": "漩涡之球",
@@ -22464,7 +22464,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "图腾面具",
+      "name": "图腾面具狼盔",
       "minDefense": 73,
       "maxDefense": 98,
       "requiredStrength": "65",
@@ -22494,7 +22494,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "图腾面具",
+      "displayName": "图腾面具狼盔",
       "onlyClassDisplayText": "仅德鲁伊",
       "normalItemDisplayName": "幽灵面具",
       "exceptionalItemDisplayName": "图腾面具",
@@ -22542,7 +22542,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "法兰克飞斧",
+      "name": "法兰飞斧",
       "type": "taxe",
       "secondType": "1han",
       "code": "9ta",
@@ -22587,7 +22587,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "法兰克飞斧",
+      "displayName": "法兰飞斧",
       "itemTier": "扩展",
       "normalItemDisplayName": "投掷斧",
       "exceptionalItemDisplayName": "法兰克飞斧",
@@ -22632,7 +22632,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "优雅之刃",
+      "name": "优雅之剑",
       "type": "swor",
       "secondType": "1han",
       "code": "7sb",
@@ -22677,7 +22677,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "优雅之刃",
+      "displayName": "优雅之剑",
       "itemTier": "精英",
       "normalItemDisplayName": "军刀",
       "exceptionalItemDisplayName": "波斯弯刀",
@@ -22722,7 +22722,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "弯月刀",
+      "name": "土耳其剑",
       "type": "swor",
       "secondType": "1han",
       "code": "7sm",
@@ -22767,7 +22767,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "弯月刀",
+      "displayName": "土耳其剑",
       "itemTier": "精英",
       "normalItemDisplayName": "弯刀",
       "exceptionalItemDisplayName": "弯刀",
@@ -23076,7 +23076,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战斧",
+      "name": "战钺",
       "type": "axe",
       "secondType": "1han",
       "code": "7ha",
@@ -23121,7 +23121,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战斧",
+      "displayName": "战钺",
       "itemTier": "精英",
       "normalItemDisplayName": "手斧",
       "exceptionalItemDisplayName": "短柄斧",
@@ -23166,7 +23166,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "暴君之棍",
+      "name": "暴君之棒",
       "type": "club",
       "secondType": "1han",
       "code": "7sp",
@@ -23211,7 +23211,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "暴君之棍",
+      "displayName": "暴君之棒",
       "itemTier": "精英",
       "normalItemDisplayName": "钉锤",
       "exceptionalItemDisplayName": "倒刺棍棒",
@@ -23256,7 +23256,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "轻盔",
+      "name": "活动头盔",
       "minDefense": 105,
       "maxDefense": 149,
       "requiredStrength": "109",
@@ -23286,7 +23286,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "轻盔",
+      "displayName": "活动头盔",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "头盔",
       "exceptionalItemDisplayName": "轻便头盔",
@@ -23333,7 +23333,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "秘仪之斧",
+      "name": "神秘之斧",
       "type": "pole",
       "secondType": "2han",
       "code": "7pa",
@@ -23378,7 +23378,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "秘仪之斧",
+      "displayName": "神秘之斧",
       "itemTier": "精英",
       "normalItemDisplayName": "长柄斧",
       "exceptionalItemDisplayName": "阔头枪",
@@ -23427,7 +23427,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "出土之杖",
+      "name": "破隐法杖",
       "type": "wand",
       "secondType": "1han",
       "code": "7gw",
@@ -23472,7 +23472,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "出土之杖",
+      "displayName": "破隐法杖",
       "itemTier": "精英",
       "normalItemDisplayName": "残酷之杖",
       "exceptionalItemDisplayName": "墓地之杖",
@@ -23697,7 +23697,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "牙刃",
+      "name": "齿缘小刀",
       "type": "knif",
       "secondType": "1han",
       "code": "7kr",
@@ -23742,7 +23742,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "牙刃",
+      "displayName": "齿缘小刀",
       "itemTier": "精英",
       "normalItemDisplayName": "马来匕首",
       "exceptionalItemDisplayName": "五刃剑",
@@ -23835,7 +23835,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "巨神长剑",
+      "displayName": "巨神之剑",
       "itemTier": "精英",
       "normalItemDisplayName": "焰形剑",
       "exceptionalItemDisplayName": "双手巨剑",
@@ -23882,7 +23882,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "天罚之锤",
+      "name": "鞭",
       "type": "mace",
       "secondType": "1han",
       "code": "7fl",
@@ -23927,7 +23927,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "天罚之锤",
+      "displayName": "鞭",
       "itemTier": "精英",
       "normalItemDisplayName": "连枷",
       "exceptionalItemDisplayName": "皮鞭",
@@ -24161,7 +24161,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "侍卫胫甲",
+      "name": "极速靴",
       "minDefense": 62,
       "maxDefense": 71,
       "requiredStrength": "208",
@@ -24191,7 +24191,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "侍卫胫甲",
+      "displayName": "极速靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "胫甲",
       "exceptionalItemDisplayName": "战靴",
@@ -24312,7 +24312,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "神圣铠甲",
+      "name": "神圣盔甲",
       "minDefense": 633,
       "maxDefense": 730,
       "requiredStrength": "232",
@@ -24342,7 +24342,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "神圣铠甲",
+      "displayName": "神圣盔甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "古代装甲",
       "exceptionalItemDisplayName": "华丽板甲",
@@ -24391,7 +24391,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "护腕",
+      "name": "吸血鬼手套",
       "minDefense": 59,
       "maxDefense": 67,
       "requiredStrength": "106",
@@ -24421,7 +24421,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "护腕",
+      "displayName": "吸血鬼手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "锁链手套",
       "exceptionalItemDisplayName": "重护腕",
@@ -24556,7 +24556,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "狂战士之斧",
+      "name": "狂战士斧",
       "type": "axe",
       "secondType": "1han",
       "code": "7wa",
@@ -24601,7 +24601,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "狂战士之斧",
+      "displayName": "狂战士斧",
       "itemTier": "精英",
       "normalItemDisplayName": "战斧",
       "exceptionalItemDisplayName": "蛇刀",
@@ -24647,7 +24647,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "荣耀之斧",
+      "name": "荣光之斧",
       "type": "axe",
       "secondType": "2han",
       "code": "7gi",
@@ -24692,7 +24692,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "荣耀之斧",
+      "displayName": "荣光之斧",
       "itemTier": "精英",
       "normalItemDisplayName": "巨战斧",
       "exceptionalItemDisplayName": "古代之斧",
@@ -24827,7 +24827,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "北海巨妖之壳",
+      "name": "海妖壳甲",
       "minDefense": 501,
       "maxDefense": 576,
       "requiredStrength": "174",
@@ -24857,7 +24857,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "北海巨妖之壳",
+      "displayName": "海妖壳甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "战甲",
       "exceptionalItemDisplayName": "鲨齿甲",
@@ -25211,7 +25211,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "捕人叉",
+      "name": "刺人枪",
       "type": "spea",
       "secondType": "2han",
       "code": "7br",
@@ -25256,7 +25256,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "捕人叉",
+      "displayName": "刺人枪",
       "itemTier": "精英",
       "normalItemDisplayName": "三叉枪",
       "exceptionalItemDisplayName": "战叉",
@@ -25470,7 +25470,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "镰刀",
+      "name": "锐利之斧",
       "type": "sc9",
       "secondType": "2han",
       "code": "7s8",
@@ -25515,7 +25515,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "镰刀",
+      "displayName": "锐利之斧",
       "itemTier": "精英",
       "normalItemDisplayName": "镰刀",
       "exceptionalItemDisplayName": "战斗镰刀",
@@ -25719,7 +25719,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "神圣圆盾",
+      "name": "神圣轻圆盾",
       "minDefense": 130,
       "maxDefense": 155,
       "requiredStrength": "109",
@@ -25749,7 +25749,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "神圣圆盾",
+      "displayName": "神圣轻圆盾",
       "onlyClassDisplayText": "仅圣骑士",
       "normalItemDisplayName": "圆盾",
       "exceptionalItemDisplayName": "艾卡拉圆盾",
@@ -25795,7 +25795,7 @@
     "rarity": "2",
     "carryOne": "",
     "armorBase": {
-      "name": "血王之首",
+      "name": "血王之骨",
       "minDefense": 103,
       "maxDefense": 148,
       "requiredStrength": "106",
@@ -25825,7 +25825,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "血王之首",
+      "displayName": "血王之骨",
       "onlyClassDisplayText": "仅死灵法师",
       "normalItemDisplayName": "恶魔之首",
       "exceptionalItemDisplayName": "圣职者之首",
@@ -25870,7 +25870,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "守护之弓",
+      "name": "庇护之弓",
       "type": "bow",
       "secondType": "",
       "code": "6sw",
@@ -25905,7 +25905,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "守护之弓",
+      "displayName": "庇护之弓",
       "itemTier": "精英",
       "normalItemDisplayName": "短战弓",
       "exceptionalItemDisplayName": "符文之弓",
@@ -26125,7 +26125,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "战斗拳刃",
+      "name": "斗腰刀",
       "type": "h2h2",
       "secondType": "1han",
       "code": "7cs",
@@ -26170,7 +26170,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "战斗拳刃",
+      "displayName": "斗腰刀",
       "itemTier": "精英",
       "normalItemDisplayName": "拳刃",
       "exceptionalItemDisplayName": "手镰",
@@ -26219,7 +26219,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "飞行斧",
+      "name": "飞斧",
       "type": "taxe",
       "secondType": "1han",
       "code": "7ta",
@@ -26264,7 +26264,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "飞行斧",
+      "displayName": "飞斧",
       "itemTier": "精英",
       "normalItemDisplayName": "投掷斧",
       "exceptionalItemDisplayName": "法兰克飞斧",
@@ -26307,7 +26307,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "头冠",
+      "name": "王位",
       "minDefense": 50,
       "maxDefense": 60,
       "requiredStrength": "0",
@@ -26337,7 +26337,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "头冠",
+      "displayName": "王位",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "宝冠",
       "exceptionalItemDisplayName": "三重冠",
@@ -26469,7 +26469,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "女族长标枪",
+      "name": "女族长之标枪",
       "type": "ajav",
       "secondType": "1han",
       "code": "amf",
@@ -26514,7 +26514,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "女族长标枪",
+      "displayName": "女族长之标枪",
       "itemTier": "精英",
       "normalItemDisplayName": "少女标枪",
       "exceptionalItemDisplayName": "典礼标枪",
@@ -26560,7 +26560,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "炎魔之矛",
+      "name": "炎魔长矛",
       "type": "jave",
       "secondType": "1han",
       "code": "7s7",
@@ -26605,7 +26605,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "炎魔之矛",
+      "displayName": "炎魔长矛",
       "itemTier": "精英",
       "normalItemDisplayName": "短矛",
       "exceptionalItemDisplayName": "辛比兰战矛",
@@ -26650,7 +26650,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "魅魔之首",
+      "name": "魅魔头骨",
       "minDefense": 100,
       "maxDefense": 146,
       "requiredStrength": "95",
@@ -26680,7 +26680,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "魅魔之首",
+      "displayName": "魅魔头骨",
       "onlyClassDisplayText": "仅死灵法师",
       "normalItemDisplayName": "石魔像之首",
       "exceptionalItemDisplayName": "唱诗者之首",
@@ -26816,7 +26816,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "尖顶头盔",
+      "name": "螺旋头盔",
       "minDefense": 114,
       "maxDefense": 159,
       "requiredStrength": "192",
@@ -26846,7 +26846,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "尖顶头盔",
+      "displayName": "螺旋头盔",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "巨盔",
       "exceptionalItemDisplayName": "翼盔",
@@ -26892,7 +26892,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "王冠",
+      "name": "头冠",
       "minDefense": 111,
       "maxDefense": 165,
       "requiredStrength": "174",
@@ -26922,7 +26922,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "王冠",
+      "displayName": "头冠",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "皇冠",
       "exceptionalItemDisplayName": "大皇冠",
@@ -26969,7 +26969,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "恶魔头盖骨",
+      "name": "恶魔头盖骨面具",
       "minDefense": 101,
       "maxDefense": 154,
       "requiredStrength": "102",
@@ -26999,7 +26999,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "恶魔头盖骨",
+      "displayName": "恶魔头盖骨面具",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "面具",
       "exceptionalItemDisplayName": "死亡面具",
@@ -27046,7 +27046,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "萨卡兰姆盾",
+      "name": "撒卡兰姆盾牌",
       "minDefense": 185,
       "maxDefense": 214,
       "requiredStrength": "142",
@@ -27076,7 +27076,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "萨卡兰姆盾",
+      "displayName": "撒卡兰姆盾牌",
       "onlyClassDisplayText": "仅圣骑士",
       "normalItemDisplayName": "艾琳之盾",
       "exceptionalItemDisplayName": "镀金盾",
@@ -27198,7 +27198,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "圣盾",
+      "name": "庇护",
       "minDefense": 215,
       "maxDefense": 241,
       "requiredStrength": "219",
@@ -27228,7 +27228,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "圣盾",
+      "displayName": "庇护",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "塔盾",
       "exceptionalItemDisplayName": "大盾",
@@ -27272,7 +27272,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "天穹之灵",
+      "name": "天空之灵",
       "minDefense": 103,
       "maxDefense": 155,
       "requiredStrength": "113",
@@ -27302,7 +27302,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "天穹之灵",
+      "displayName": "天空之灵",
       "onlyClassDisplayText": "仅德鲁伊",
       "normalItemDisplayName": "猎鹰面具",
       "exceptionalItemDisplayName": "神圣羽毛",
@@ -27348,7 +27348,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "巫妖之杖",
+      "name": "巫妖法杖",
       "type": "wand",
       "secondType": "1han",
       "code": "7bw",
@@ -27393,7 +27393,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "巫妖之杖",
+      "displayName": "巫妖法杖",
       "itemTier": "精英",
       "normalItemDisplayName": "骨杖",
       "exceptionalItemDisplayName": "坟墓之杖",
@@ -27615,7 +27615,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "狂怒面甲",
+      "name": "暴怒面甲",
       "minDefense": 105,
       "maxDefense": 150,
       "requiredStrength": "129",
@@ -27645,7 +27645,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "狂怒面甲",
+      "displayName": "暴怒面甲",
       "onlyClassDisplayText": "仅野蛮人",
       "normalItemDisplayName": "獠牙头盔",
       "exceptionalItemDisplayName": "狮头盔",
@@ -27690,7 +27690,7 @@
     "rarity": "4",
     "carryOne": "",
     "armorBase": {
-      "name": "守卫盾",
+      "name": "囚房",
       "minDefense": 183,
       "maxDefense": 207,
       "requiredStrength": "185",
@@ -27720,7 +27720,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "守卫盾",
+      "displayName": "囚房",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "哥特盾",
       "exceptionalItemDisplayName": "古代之盾",
@@ -27955,7 +27955,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "天罚之锤",
+      "name": "鞭",
       "type": "mace",
       "secondType": "1han",
       "code": "7fl",
@@ -28000,7 +28000,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "天罚之锤",
+      "displayName": "鞭",
       "itemTier": "精英",
       "normalItemDisplayName": "连枷",
       "exceptionalItemDisplayName": "皮鞭",
@@ -28046,7 +28046,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "征服者王冠",
+      "name": "征服者之冠",
       "minDefense": 114,
       "maxDefense": 159,
       "requiredStrength": "174",
@@ -28076,7 +28076,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "征服者王冠",
+      "displayName": "征服者之冠",
       "onlyClassDisplayText": "仅野蛮人",
       "normalItemDisplayName": "突击头盔",
       "exceptionalItemDisplayName": "野蛮头盔",
@@ -28122,7 +28122,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "刀锋盾",
+      "name": "刀刃刺盾",
       "minDefense": 147,
       "maxDefense": 163,
       "requiredStrength": "118",
@@ -28162,7 +28162,7 @@
         "dontDisplay": false
       },
       "itemTier": "精英",
-      "displayName": "刀锋盾",
+      "displayName": "刀刃刺盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "尖刺盾",
       "exceptionalItemDisplayName": "倒刺盾",
@@ -28281,7 +28281,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "秘仪之剑",
+      "name": "神秘之剑",
       "type": "swor",
       "secondType": "1han",
       "code": "7ls",
@@ -28326,7 +28326,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "秘仪之剑",
+      "displayName": "神秘之剑",
       "itemTier": "精英",
       "normalItemDisplayName": "长剑",
       "exceptionalItemDisplayName": "符文之剑",
@@ -28372,7 +28372,7 @@
     "rarity": "8",
     "carryOne": "",
     "armorBase": {
-      "name": "神圣铠甲",
+      "name": "神圣盔甲",
       "minDefense": 633,
       "maxDefense": 730,
       "requiredStrength": "232",
@@ -28402,7 +28402,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "神圣铠甲",
+      "displayName": "神圣盔甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "古代装甲",
       "exceptionalItemDisplayName": "华丽板甲",
@@ -28533,7 +28533,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "野性之爪",
+      "name": "猛禽爪",
       "type": "h2h2",
       "secondType": "1han",
       "code": "7lw",
@@ -28578,7 +28578,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "野性之爪",
+      "displayName": "猛禽爪",
       "itemTier": "精英",
       "normalItemDisplayName": "爪",
       "exceptionalItemDisplayName": "巨爪",
@@ -28701,7 +28701,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "骨织靴",
+      "name": "骸骨靴",
       "minDefense": 59,
       "maxDefense": 67,
       "requiredStrength": "118",
@@ -28731,7 +28731,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "骨织靴",
+      "displayName": "骸骨靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "锁链靴",
       "exceptionalItemDisplayName": "网眼靴",
@@ -28778,7 +28778,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "威猛权杖",
+      "name": "强威权杖",
       "type": "scep",
       "secondType": "1han",
       "code": "7sc",
@@ -28823,7 +28823,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "威猛权杖",
+      "displayName": "强威权杖",
       "itemTier": "精英",
       "normalItemDisplayName": "权杖",
       "exceptionalItemDisplayName": "符文权杖",
@@ -28871,7 +28871,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "虫壳靴",
+      "name": "飞龙皮靴",
       "minDefense": 54,
       "maxDefense": 62,
       "requiredStrength": "50",
@@ -28901,7 +28901,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "虫壳靴",
+      "displayName": "飞龙皮靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "靴子",
       "exceptionalItemDisplayName": "魔皮靴",
@@ -29322,7 +29322,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "骸骨面甲",
+      "name": "骸骨面罩",
       "minDefense": 100,
       "maxDefense": 157,
       "requiredStrength": "106",
@@ -29352,7 +29352,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "骸骨面甲",
+      "displayName": "骸骨面罩",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "骸骨头盔",
       "exceptionalItemDisplayName": "冷酷头盔",
@@ -29708,7 +29708,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "警棍",
+      "name": "战仪杖",
       "type": "club",
       "secondType": "1han",
       "code": "7cl",
@@ -29753,7 +29753,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "警棍",
+      "displayName": "战仪杖",
       "itemTier": "精英",
       "normalItemDisplayName": "棍棒",
       "exceptionalItemDisplayName": "短棍",
@@ -29888,7 +29888,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "幽魂战戟",
+      "name": "鬼魂尖枪",
       "type": "jave",
       "secondType": "1han",
       "code": "7gl",
@@ -29933,7 +29933,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "幽魂战戟",
+      "displayName": "鬼魂尖枪",
       "itemTier": "精英",
       "normalItemDisplayName": "战戟",
       "exceptionalItemDisplayName": "投矛",
@@ -30160,7 +30160,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "威猛权杖",
+      "name": "强威权杖",
       "type": "scep",
       "secondType": "1han",
       "code": "7sc",
@@ -30205,7 +30205,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "威猛权杖",
+      "displayName": "强威权杖",
       "itemTier": "精英",
       "normalItemDisplayName": "权杖",
       "exceptionalItemDisplayName": "符文权杖",
@@ -30253,7 +30253,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "巨魔巢穴",
+      "name": "洞穴巨魔巢穴骨盾",
       "minDefense": 158,
       "maxDefense": 173,
       "requiredStrength": "106",
@@ -30293,7 +30293,7 @@
         "dontDisplay": false
       },
       "itemTier": "精英",
-      "displayName": "巨魔巢穴",
+      "displayName": "洞穴巨魔巢穴骨盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "白骨之盾",
       "exceptionalItemDisplayName": "冷酷之盾",
@@ -30339,7 +30339,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "食人魔手套",
+      "name": "食人魔铁手套",
       "minDefense": 62,
       "maxDefense": 71,
       "requiredStrength": "185",
@@ -30369,7 +30369,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "食人魔手套",
+      "displayName": "食人魔铁手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "手套",
       "exceptionalItemDisplayName": "战手套",
@@ -30771,7 +30771,7 @@
     "rarity": "0",
     "carryOne": "",
     "armorBase": {
-      "name": "镜面靴",
+      "name": "镜化靴",
       "minDefense": 59,
       "maxDefense": 68,
       "requiredStrength": "163",
@@ -30801,7 +30801,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "镜面靴",
+      "displayName": "镜化靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻板靴",
       "exceptionalItemDisplayName": "战斗靴",
@@ -30844,7 +30844,7 @@
     "rarity": "0",
     "carryOne": "",
     "armorBase": {
-      "name": "巨螺",
+      "name": "巨贝头盔",
       "minDefense": 110,
       "maxDefense": 154,
       "requiredStrength": "142",
@@ -30874,7 +30874,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "巨螺",
+      "displayName": "巨贝头盔",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "高级头盔",
       "exceptionalItemDisplayName": "轻钢盔",
@@ -30995,7 +30995,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "剪刃苏瓦雅",
+      "name": "近身剪",
       "type": "h2h2",
       "secondType": "1han",
       "code": "7qr",
@@ -31040,7 +31040,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "剪刃苏瓦雅",
+      "displayName": "近身剪",
       "itemTier": "精英",
       "normalItemDisplayName": "剪刃拳剑",
       "exceptionalItemDisplayName": "剪刃拳刀",
@@ -31180,7 +31180,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "少女标枪",
+      "name": "女士标枪",
       "type": "ajav",
       "secondType": "1han",
       "code": "am5",
@@ -31225,7 +31225,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "少女标枪",
+      "displayName": "女士标枪",
       "itemTier": "普通",
       "normalItemDisplayName": "少女标枪",
       "exceptionalItemDisplayName": "典礼标枪",
@@ -31268,7 +31268,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "鹰头盔",
+      "name": "飞鹰头盔",
       "minDefense": 4,
       "maxDefense": 15,
       "requiredStrength": "20",
@@ -31298,7 +31298,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "鹰头盔",
+      "displayName": "飞鹰头盔",
       "onlyClassDisplayText": "仅德鲁伊",
       "normalItemDisplayName": "鹰头盔",
       "exceptionalItemDisplayName": "狮鹫头饰",
@@ -31492,7 +31492,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "曲刃拳剑",
+      "name": "格斗刃",
       "type": "h2h",
       "secondType": "1han",
       "code": "9ar",
@@ -31537,7 +31537,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "曲刃拳剑",
+      "displayName": "格斗刃",
       "itemTier": "扩展",
       "normalItemDisplayName": "拳剑",
       "exceptionalItemDisplayName": "曲刃拳剑",
@@ -31583,7 +31583,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "木乃伊之首",
+      "name": "木乃伊印记",
       "minDefense": 38,
       "maxDefense": 48,
       "requiredStrength": "38",
@@ -31613,7 +31613,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "木乃伊之首",
+      "displayName": "木乃伊印记",
       "onlyClassDisplayText": "仅死灵法师",
       "normalItemDisplayName": "保存之首",
       "exceptionalItemDisplayName": "木乃伊之首",
@@ -31658,7 +31658,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "发光之球",
+      "name": "灵光法珠",
       "type": "orb",
       "secondType": "",
       "code": "ob6",
@@ -31693,7 +31693,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "发光之球",
+      "displayName": "灵光法珠",
       "itemTier": "扩展",
       "normalItemDisplayName": "鹰之宝珠",
       "exceptionalItemDisplayName": "发光之球",
@@ -31738,7 +31738,7 @@
     "rarity": "0",
     "carryOne": "",
     "armorBase": {
-      "name": "巨魔腰带[S]",
+      "name": "洞穴巨魔腰带",
       "minDefense": 59,
       "maxDefense": 66,
       "requiredStrength": "151",
@@ -31768,7 +31768,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "带孔巨魔腰带",
+      "displayName": "洞穴巨魔腰带",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "",
       "exceptionalItemDisplayName": "",
@@ -31812,7 +31812,7 @@
     "rarity": "0",
     "carryOne": "",
     "armorBase": {
-      "name": "骨织甲[S]",
+      "name": "骸骨链甲",
       "minDefense": 399,
       "maxDefense": 505,
       "requiredStrength": "158",
@@ -31842,7 +31842,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "带孔骨织甲",
+      "displayName": "骸骨链甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "",
       "exceptionalItemDisplayName": "",
@@ -31892,7 +31892,7 @@
       "type": "amus",
       "secondType": "",
       "nameString": "amu",
-      "displayName": "带孔项链"
+      "displayName": "项链"
     },
     "dropRate": "6,67%",
     "occurrenceChance": null,
@@ -31929,7 +31929,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "轻手套",
+      "name": "轻型铁手套",
       "minDefense": 9,
       "maxDefense": 11,
       "requiredStrength": "45",
@@ -31959,7 +31959,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "轻手套",
+      "displayName": "轻型铁手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻手套",
       "exceptionalItemDisplayName": "战斗手套",
@@ -32003,7 +32003,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "轻手套",
+      "name": "轻型铁手套",
       "minDefense": 9,
       "maxDefense": 11,
       "requiredStrength": "45",
@@ -32033,7 +32033,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "轻手套",
+      "displayName": "轻型铁手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻手套",
       "exceptionalItemDisplayName": "战斗手套",
@@ -32077,7 +32077,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "轻手套",
+      "name": "轻型铁手套",
       "minDefense": 9,
       "maxDefense": 11,
       "requiredStrength": "45",
@@ -32107,7 +32107,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "轻手套",
+      "displayName": "轻型铁手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻手套",
       "exceptionalItemDisplayName": "战斗手套",
@@ -32152,7 +32152,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "女族长长枪",
+      "name": "女族长之长矛",
       "type": "aspe",
       "secondType": "2han",
       "code": "ame",
@@ -32197,7 +32197,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "女族长长枪",
+      "displayName": "女族长之长矛",
       "itemTier": "精英",
       "normalItemDisplayName": "少女长枪",
       "exceptionalItemDisplayName": "典礼长枪",
@@ -32241,7 +32241,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "十字军手套",
+      "name": "十字军铁手套",
       "minDefense": 59,
       "maxDefense": 68,
       "requiredStrength": "151",
@@ -32271,7 +32271,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "十字军手套",
+      "displayName": "十字军铁手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻手套",
       "exceptionalItemDisplayName": "战斗手套",
@@ -32316,7 +32316,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "橡木短棍",
+      "name": "树皮之杖",
       "type": "staf",
       "secondType": "2han",
       "code": "6bs",
@@ -32361,7 +32361,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "橡木短棍",
+      "displayName": "树皮之杖",
       "itemTier": "精英",
       "normalItemDisplayName": "战斗法杖",
       "exceptionalItemDisplayName": "哥特法杖",
@@ -32408,7 +32408,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "炽天使之杖",
+      "name": "炽天使法杖",
       "type": "scep",
       "secondType": "1han",
       "code": "7qs",
@@ -32453,7 +32453,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "炽天使之杖",
+      "displayName": "炽天使法杖",
       "itemTier": "精英",
       "normalItemDisplayName": "大权杖",
       "exceptionalItemDisplayName": "圣水之杖",
@@ -32498,7 +32498,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "监工之首",
+      "name": "监视者之骨",
       "minDefense": 98,
       "maxDefense": 142,
       "requiredStrength": "91",
@@ -32528,7 +32528,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "监工之首",
+      "displayName": "监视者之骨",
       "onlyClassDisplayText": "仅死灵法师",
       "normalItemDisplayName": "解缚者之首",
       "exceptionalItemDisplayName": "司事之首",
@@ -32576,7 +32576,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "符文之爪",
+      "name": "符文爪",
       "type": "h2h2",
       "secondType": "1han",
       "code": "7tw",
@@ -32621,7 +32621,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "符文之爪",
+      "displayName": "符文爪",
       "itemTier": "精英",
       "normalItemDisplayName": "刃爪",
       "exceptionalItemDisplayName": "巨鹰爪",
@@ -32742,7 +32742,7 @@
     "rarity": "2",
     "carryOne": "",
     "armorBase": {
-      "name": "守护者王冠",
+      "name": "守护者皇冠面甲",
       "minDefense": 117,
       "maxDefense": 168,
       "requiredStrength": "196",
@@ -32772,7 +32772,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "守护者王冠",
+      "displayName": "守护者皇冠面甲",
       "onlyClassDisplayText": "仅野蛮人",
       "normalItemDisplayName": "复仇者头盔",
       "exceptionalItemDisplayName": "杀戮者头盔",
@@ -32816,7 +32816,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "梦之灵",
+      "name": "幽梦之灵",
       "minDefense": 109,
       "maxDefense": 159,
       "requiredStrength": "118",
@@ -32846,7 +32846,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "梦之灵",
+      "displayName": "幽梦之灵",
       "onlyClassDisplayText": "仅德鲁伊",
       "normalItemDisplayName": "幽灵面具",
       "exceptionalItemDisplayName": "图腾面具",
@@ -32901,7 +32901,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t51",
-      "displayName": "地图"
+      "displayName": "扎尔的圣所"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -32952,7 +32952,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t52",
-      "displayName": "地图"
+      "displayName": "冥河洞穴"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -32992,7 +32992,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "炽天使之杖",
+      "name": "炽天使法杖",
       "type": "scep",
       "secondType": "1han",
       "code": "7qs",
@@ -33037,7 +33037,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "炽天使之杖",
+      "displayName": "炽天使法杖",
       "itemTier": "精英",
       "normalItemDisplayName": "大权杖",
       "exceptionalItemDisplayName": "圣水之杖",
@@ -33164,7 +33164,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t53",
-      "displayName": "地图"
+      "displayName": "堕落花园"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -33203,7 +33203,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "幽魂之矛",
+      "name": "鬼魂之矛",
       "type": "spea",
       "secondType": "2han",
       "code": "7st",
@@ -33248,7 +33248,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "幽魂之矛",
+      "displayName": "鬼魂之矛",
       "itemTier": "精英",
       "normalItemDisplayName": "梭镖枪",
       "exceptionalItemDisplayName": "日式长枪",
@@ -33537,7 +33537,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "荆棘手套",
+      "name": "荆棘连指手套",
       "minDefense": 54,
       "maxDefense": 62,
       "requiredStrength": "50",
@@ -33567,7 +33567,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "荆棘手套",
+      "displayName": "荆棘连指手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "皮手套",
       "exceptionalItemDisplayName": "魔皮手套",
@@ -33612,7 +33612,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "秘银尖枪",
+      "name": "秘银尖刺",
       "type": "knif",
       "secondType": "1han",
       "code": "7di",
@@ -33657,7 +33657,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "秘银尖枪",
+      "displayName": "秘银尖刺",
       "itemTier": "精英",
       "normalItemDisplayName": "短剑",
       "exceptionalItemDisplayName": "圆刃匕首",
@@ -33957,7 +33957,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "漩涡盾",
+      "name": "旋风盾",
       "minDefense": 205,
       "maxDefense": 243,
       "requiredStrength": "148",
@@ -33987,7 +33987,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "漩涡盾",
+      "displayName": "旋风盾",
       "onlyClassDisplayText": "仅圣骑士",
       "normalItemDisplayName": "皇冠之盾",
       "exceptionalItemDisplayName": "皇家盾",
@@ -34035,7 +34035,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "水晶之球",
+      "name": "水晶天球",
       "type": "orb",
       "secondType": "",
       "code": "ob7",
@@ -34070,7 +34070,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "水晶之球",
+      "displayName": "水晶天球",
       "itemTier": "扩展",
       "normalItemDisplayName": "神圣之球",
       "exceptionalItemDisplayName": "水晶之球",
@@ -34116,7 +34116,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "投掷斧",
+      "name": "短战戟",
       "type": "taxe",
       "secondType": "1han",
       "code": "9b8",
@@ -34161,7 +34161,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "投掷斧",
+      "displayName": "短战戟",
       "itemTier": "扩展",
       "normalItemDisplayName": "平衡斧",
       "exceptionalItemDisplayName": "投掷斧",
@@ -34208,7 +34208,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "狮头盔",
+      "name": "狮头尖盔",
       "minDefense": 63,
       "maxDefense": 75,
       "requiredStrength": "73",
@@ -34238,7 +34238,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "狮头盔",
+      "displayName": "狮头尖盔",
       "onlyClassDisplayText": "仅野蛮人",
       "normalItemDisplayName": "獠牙头盔",
       "exceptionalItemDisplayName": "狮头盔",
@@ -34285,7 +34285,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "阿尔法头盔",
+      "name": "阿尔发头盔",
       "minDefense": 52,
       "maxDefense": 62,
       "requiredStrength": "44",
@@ -34315,7 +34315,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "阿尔法头盔",
+      "displayName": "阿尔发头盔",
       "onlyClassDisplayText": "仅德鲁伊",
       "normalItemDisplayName": "狼头",
       "exceptionalItemDisplayName": "阿尔法头盔",
@@ -34361,7 +34361,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "地狱之子之首",
+      "name": "地狱爪牙之骨",
       "minDefense": 96,
       "maxDefense": 141,
       "requiredStrength": "82",
@@ -34391,7 +34391,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "地狱之子之首",
+      "displayName": "地狱爪牙之骨",
       "onlyClassDisplayText": "仅死灵法师",
       "normalItemDisplayName": "僵尸之首",
       "exceptionalItemDisplayName": "图腾面具",
@@ -34446,7 +34446,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t54",
-      "displayName": "地图"
+      "displayName": "帝国宫殿"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -34495,7 +34495,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t55",
-      "displayName": "地图"
+      "displayName": "外虚空"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -34545,7 +34545,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv",
-      "displayName": "箭矢"
+      "displayName": "粗制箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,08%",
@@ -34588,7 +34588,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv2",
-      "displayName": "锋锐箭矢"
+      "displayName": "精良箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,31%",
@@ -34632,7 +34632,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv2",
-      "displayName": "锋锐箭矢"
+      "displayName": "精良箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,23%",
@@ -34676,7 +34676,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv3",
-      "displayName": "剃刀箭矢"
+      "displayName": "锋利箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,23%",
@@ -34720,7 +34720,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv3",
-      "displayName": "剃刀箭矢"
+      "displayName": "锋利箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,23%",
@@ -34764,7 +34764,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv3",
-      "displayName": "剃刀箭矢"
+      "displayName": "锋利箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,08%",
@@ -34808,7 +34808,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv",
-      "displayName": "弩矢"
+      "displayName": "轻型弩失"
     },
     "dropRate": null,
     "occurrenceChance": "0,08%",
@@ -34851,7 +34851,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv2",
-      "displayName": "重弩矢"
+      "displayName": "重型弩失"
     },
     "dropRate": null,
     "occurrenceChance": "0,23%",
@@ -34895,7 +34895,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv2",
-      "displayName": "重弩矢"
+      "displayName": "重型弩失"
     },
     "dropRate": null,
     "occurrenceChance": "0,08%",
@@ -34939,7 +34939,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv3",
-      "displayName": "战弩矢"
+      "displayName": "战争弩矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,16%",
@@ -34981,7 +34981,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv3",
-      "displayName": "战弩矢"
+      "displayName": "战争弩矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,16%",
@@ -35023,7 +35023,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv3",
-      "displayName": "战弩矢"
+      "displayName": "战争弩矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,08%",
@@ -35146,7 +35146,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t56",
-      "displayName": "地图"
+      "displayName": "乌瑞城"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -35187,7 +35187,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "坟墓之杖",
+      "name": "古墓之杖",
       "type": "wand",
       "secondType": "1han",
       "code": "9bw",
@@ -35232,7 +35232,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "坟墓之杖",
+      "displayName": "古墓之杖",
       "itemTier": "扩展",
       "normalItemDisplayName": "骨杖",
       "exceptionalItemDisplayName": "坟墓之杖",
@@ -35279,7 +35279,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "幽魂之杖",
+      "name": "鬼魂法杖",
       "type": "wand",
       "secondType": "1han",
       "code": "7yw",
@@ -35324,7 +35324,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "幽魂之杖",
+      "displayName": "鬼魂法杖",
       "itemTier": "精英",
       "normalItemDisplayName": "紫杉之杖",
       "exceptionalItemDisplayName": "石化之杖",
@@ -35453,7 +35453,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "漩涡之球",
+      "name": "漩涡球",
       "type": "orb",
       "secondType": "",
       "code": "obe",
@@ -35488,7 +35488,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "漩涡之球",
+      "displayName": "漩涡球",
       "itemTier": "精英",
       "normalItemDisplayName": "握扣之球",
       "exceptionalItemDisplayName": "闪耀之球",
@@ -35533,7 +35533,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "巨螺",
+      "name": "巨贝头盔",
       "minDefense": 110,
       "maxDefense": 154,
       "requiredStrength": "142",
@@ -35563,7 +35563,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "巨螺",
+      "displayName": "巨贝头盔",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "高级头盔",
       "exceptionalItemDisplayName": "轻钢盔",
@@ -35615,7 +35615,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t57",
-      "displayName": "地图"
+      "displayName": "精灵领域"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -35655,7 +35655,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "巨神戟",
+      "name": "巨神之斧",
       "type": "pole",
       "secondType": "2han",
       "code": "7vo",
@@ -35700,7 +35700,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "巨神戟",
+      "displayName": "巨神之斧",
       "itemTier": "精英",
       "normalItemDisplayName": "战戟",
       "exceptionalItemDisplayName": "钩镰枪",
@@ -35833,7 +35833,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t58",
-      "displayName": "地图"
+      "displayName": "纳克鲁尔深渊"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -36313,7 +36313,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "神话之剑",
+      "name": "秘仪之剑",
       "type": "swor",
       "secondType": "1han",
       "code": "7wd",
@@ -36358,7 +36358,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "神话之剑",
+      "displayName": "秘仪之剑",
       "itemTier": "精英",
       "normalItemDisplayName": "战剑",
       "exceptionalItemDisplayName": "古代之剑",
@@ -36485,7 +36485,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "优雅圆盾",
+      "name": "雅致圆盾",
       "minDefense": 165,
       "maxDefense": 180,
       "requiredStrength": "230",
@@ -36515,7 +36515,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "优雅圆盾",
+      "displayName": "雅致圆盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "华丽圆盾",
       "exceptionalItemDisplayName": "巴洛克圆盾",
@@ -36560,7 +36560,7 @@
     "rarity": "3",
     "carryOne": "",
     "armorBase": {
-      "name": "优雅圆盾",
+      "name": "雅致圆盾",
       "minDefense": 165,
       "maxDefense": 180,
       "requiredStrength": "230",
@@ -36590,7 +36590,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "优雅圆盾",
+      "displayName": "雅致圆盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "华丽圆盾",
       "exceptionalItemDisplayName": "巴洛克圆盾",
@@ -36636,7 +36636,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "出土之杖",
+      "name": "破隐法杖",
       "type": "wand",
       "secondType": "1han",
       "code": "7gw",
@@ -36681,7 +36681,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "出土之杖",
+      "displayName": "破隐法杖",
       "itemTier": "精英",
       "normalItemDisplayName": "残酷之杖",
       "exceptionalItemDisplayName": "墓地之杖",
@@ -37106,7 +37106,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "血王之首",
+      "name": "血王之骨",
       "minDefense": 103,
       "maxDefense": 148,
       "requiredStrength": "106",
@@ -37136,7 +37136,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "血王之首",
+      "displayName": "血王之骨",
       "onlyClassDisplayText": "仅死灵法师",
       "normalItemDisplayName": "恶魔之首",
       "exceptionalItemDisplayName": "圣职者之首",
@@ -37221,7 +37221,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "守护者王冠",
+      "name": "守护者皇冠面甲",
       "minDefense": 117,
       "maxDefense": 168,
       "requiredStrength": "196",
@@ -37251,7 +37251,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "守护者王冠",
+      "displayName": "守护者皇冠面甲",
       "onlyClassDisplayText": "仅野蛮人",
       "normalItemDisplayName": "复仇者头盔",
       "exceptionalItemDisplayName": "杀戮者头盔",
@@ -37335,7 +37335,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "轻手套",
+      "name": "轻型铁手套",
       "minDefense": 9,
       "maxDefense": 11,
       "requiredStrength": "45",
@@ -37365,7 +37365,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "轻手套",
+      "displayName": "轻型铁手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻手套",
       "exceptionalItemDisplayName": "战斗手套",
@@ -37595,7 +37595,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "虔诚头盔",
+      "name": "虔敬头盔",
       "minDefense": 140,
       "maxDefense": 190,
       "requiredStrength": "190",
@@ -37625,7 +37625,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "虔诚头盔",
+      "displayName": "虔敬头盔",
       "onlyClassDisplayText": "仅圣骑士",
       "normalItemDisplayName": "祝福头盔",
       "exceptionalItemDisplayName": "圣洁头盔",
@@ -37669,7 +37669,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "虔诚头盔",
+      "name": "虔敬头盔",
       "minDefense": 140,
       "maxDefense": 190,
       "requiredStrength": "190",
@@ -37699,7 +37699,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "虔诚头盔",
+      "displayName": "虔敬头盔",
       "onlyClassDisplayText": "仅圣骑士",
       "normalItemDisplayName": "祝福头盔",
       "exceptionalItemDisplayName": "圣洁头盔",
@@ -37834,7 +37834,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "猎人头罩",
+      "name": "猎手兜帽",
       "minDefense": 120,
       "maxDefense": 170,
       "requiredStrength": "125",
@@ -37864,7 +37864,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "猎人头罩",
+      "displayName": "猎手兜帽",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "破旧头罩",
       "exceptionalItemDisplayName": "皮头罩",
@@ -37993,7 +37993,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv3",
-      "displayName": "战弩矢"
+      "displayName": "战争弩矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,08%",
@@ -38035,7 +38035,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv3",
-      "displayName": "剃刀箭矢"
+      "displayName": "锋利箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,08%",
@@ -38141,7 +38141,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "靴子",
+      "displayName": "皮靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "靴子",
       "exceptionalItemDisplayName": "魔皮靴",
@@ -38181,7 +38181,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "破旧头罩",
+      "name": "破旧兜帽",
       "minDefense": 42,
       "maxDefense": 45,
       "requiredStrength": "30",
@@ -38211,7 +38211,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "破旧头罩",
+      "displayName": "破旧兜帽",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "破旧头罩",
       "exceptionalItemDisplayName": "皮头罩",
@@ -38364,7 +38364,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "开明长袍",
+      "name": "启迪长袍",
       "minDefense": 150,
       "maxDefense": 200,
       "requiredStrength": "0",
@@ -38394,7 +38394,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "开明长袍",
+      "displayName": "启迪长袍",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "破旧长袍",
       "exceptionalItemDisplayName": "丝绸长袍",
@@ -38675,7 +38675,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "巨魔腰带",
+      "name": "洞穴巨魔腰带",
       "minDefense": 59,
       "maxDefense": 66,
       "requiredStrength": "151",
@@ -38705,7 +38705,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "巨魔腰带",
+      "displayName": "洞穴巨魔腰带",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "重腰带",
       "exceptionalItemDisplayName": "战斗腰带",
@@ -38748,7 +38748,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "血王之首",
+      "name": "血王之骨",
       "minDefense": 103,
       "maxDefense": 148,
       "requiredStrength": "106",
@@ -38778,7 +38778,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "血王之首",
+      "displayName": "血王之骨",
       "onlyClassDisplayText": "仅死灵法师",
       "normalItemDisplayName": "恶魔之首",
       "exceptionalItemDisplayName": "圣职者之首",
@@ -38822,7 +38822,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "圣盾",
+      "name": "庇护",
       "minDefense": 215,
       "maxDefense": 241,
       "requiredStrength": "219",
@@ -38852,7 +38852,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "圣盾",
+      "displayName": "庇护",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "塔盾",
       "exceptionalItemDisplayName": "大盾",
@@ -38897,7 +38897,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "刽子手之斧",
+      "name": "斩首斧",
       "type": "axe",
       "secondType": "2han",
       "code": "7bt",
@@ -38942,7 +38942,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "刽子手之斧",
+      "displayName": "斩首斧",
       "itemTier": "精英",
       "normalItemDisplayName": "战斗斧",
       "exceptionalItemDisplayName": "塔巴尔战斧",
@@ -39031,7 +39031,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "食人魔手套",
+      "name": "食人魔铁手套",
       "minDefense": 62,
       "maxDefense": 71,
       "requiredStrength": "185",
@@ -39061,7 +39061,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "食人魔手套",
+      "displayName": "食人魔铁手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "手套",
       "exceptionalItemDisplayName": "战手套",
@@ -39315,7 +39315,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "镜面靴",
+      "name": "镜化靴",
       "minDefense": 59,
       "maxDefense": 68,
       "requiredStrength": "163",
@@ -39345,7 +39345,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "镜面靴",
+      "displayName": "镜化靴",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻板靴",
       "exceptionalItemDisplayName": "战斗靴",
@@ -39388,7 +39388,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "头冠",
+      "name": "王位",
       "minDefense": 50,
       "maxDefense": 60,
       "requiredStrength": "0",
@@ -39418,7 +39418,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "头冠",
+      "displayName": "王位",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "宝冠",
       "exceptionalItemDisplayName": "三重冠",
@@ -39769,7 +39769,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "谐角之冠",
+      "name": "军帽",
       "minDefense": 98,
       "maxDefense": 141,
       "requiredStrength": "50",
@@ -39799,7 +39799,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "谐角之冠",
+      "displayName": "军帽",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "帽子",
       "exceptionalItemDisplayName": "战帽",
@@ -39925,7 +39925,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "守护之弓",
+      "name": "庇护之弓",
       "type": "bow",
       "secondType": "",
       "code": "6sw",
@@ -39960,7 +39960,7 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "守护之弓",
+      "displayName": "庇护之弓",
       "itemTier": "精英",
       "normalItemDisplayName": "短战弓",
       "exceptionalItemDisplayName": "符文之弓",
@@ -40005,7 +40005,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "女族长长枪",
+      "name": "女族长之长矛",
       "type": "aspe",
       "secondType": "2han",
       "code": "ame",
@@ -40050,7 +40050,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "女族长长枪",
+      "displayName": "女族长之长矛",
       "itemTier": "精英",
       "normalItemDisplayName": "少女长枪",
       "exceptionalItemDisplayName": "典礼长枪",
@@ -40309,7 +40309,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "月盾",
+      "name": "月精灵护盾",
       "minDefense": 108,
       "maxDefense": 123,
       "requiredStrength": "100",
@@ -40339,7 +40339,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "月盾",
+      "displayName": "月精灵护盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "小盾",
       "exceptionalItemDisplayName": "圆盾",
@@ -40386,7 +40386,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "出土之杖",
+      "name": "破隐法杖",
       "type": "wand",
       "secondType": "1han",
       "code": "7gw",
@@ -40431,7 +40431,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "出土之杖",
+      "displayName": "破隐法杖",
       "itemTier": "精英",
       "normalItemDisplayName": "残酷之杖",
       "exceptionalItemDisplayName": "墓地之杖",
@@ -40476,7 +40476,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "出土之杖",
+      "name": "破隐法杖",
       "type": "wand",
       "secondType": "1han",
       "code": "7gw",
@@ -40521,7 +40521,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "出土之杖",
+      "displayName": "破隐法杖",
       "itemTier": "精英",
       "normalItemDisplayName": "残酷之杖",
       "exceptionalItemDisplayName": "墓地之杖",
@@ -40565,7 +40565,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "守卫盾",
+      "name": "囚房",
       "minDefense": 183,
       "maxDefense": 207,
       "requiredStrength": "185",
@@ -40595,7 +40595,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "守卫盾",
+      "displayName": "囚房",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "哥特盾",
       "exceptionalItemDisplayName": "古代之盾",
@@ -40734,7 +40734,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "神圣铠甲",
+      "name": "神圣盔甲",
       "minDefense": 633,
       "maxDefense": 730,
       "requiredStrength": "232",
@@ -40764,7 +40764,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "神圣铠甲",
+      "displayName": "神圣盔甲",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "古代装甲",
       "exceptionalItemDisplayName": "华丽板甲",
@@ -40813,7 +40813,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "头冠",
+      "name": "王位",
       "minDefense": 50,
       "maxDefense": 60,
       "requiredStrength": "0",
@@ -40843,7 +40843,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "头冠",
+      "displayName": "王位",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "宝冠",
       "exceptionalItemDisplayName": "三重冠",
@@ -40962,7 +40962,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "十字军手套",
+      "name": "十字军铁手套",
       "minDefense": 59,
       "maxDefense": 68,
       "requiredStrength": "151",
@@ -40992,7 +40992,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "十字军手套",
+      "displayName": "十字军铁手套",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "轻手套",
       "exceptionalItemDisplayName": "战斗手套",
@@ -41036,7 +41036,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "恶魔头盖骨",
+      "name": "恶魔头盖骨面具",
       "minDefense": 101,
       "maxDefense": 154,
       "requiredStrength": "102",
@@ -41066,7 +41066,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "恶魔头盖骨",
+      "displayName": "恶魔头盖骨面具",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "面具",
       "exceptionalItemDisplayName": "死亡面具",
@@ -41361,7 +41361,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "简朴长袍",
+      "name": "朴素长袍",
       "minDefense": 0,
       "maxDefense": 0,
       "requiredStrength": "0",
@@ -41391,7 +41391,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "简朴长袍",
+      "displayName": "朴素长袍",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "简朴长袍",
       "exceptionalItemDisplayName": "",
@@ -43651,7 +43651,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "火炉盾",
+      "name": "防寒圆盾",
       "minDefense": 95,
       "maxDefense": 110,
       "requiredStrength": "77",
@@ -43681,7 +43681,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "火炉盾",
+      "displayName": "防寒圆盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "小圆盾",
       "exceptionalItemDisplayName": "防御者盾",
@@ -43724,7 +43724,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "守卫盾",
+      "name": "囚房",
       "minDefense": 183,
       "maxDefense": 207,
       "requiredStrength": "185",
@@ -43754,7 +43754,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "守卫盾",
+      "displayName": "囚房",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "哥特盾",
       "exceptionalItemDisplayName": "古代之盾",

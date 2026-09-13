@@ -146,27 +146,36 @@ def main():
                 f.write("\n")
 
     # 暗金里嵌套的 base 名（weaponBase / armorBase / jeweleryBase）
-    p = os.path.join(ROOT, "public", "data", "Uniques.json")
-    data = json.load(open(p, encoding="utf-8"))
-    for u in data:
-        for field in ("weaponBase", "armorBase", "jeweleryBase"):
-            b = u.get(field)
-            if not isinstance(b, dict):
-                continue
-            w = want(b.get("code"))
-            if not w:
-                continue
-            for sub in ("name", "displayName"):
-                got = b.get(sub)
-                if got and w != got:
-                    print(f"  Uniques.json[{u.get('displayName')}].{field}.{sub}: 「{got}」→「{w}」")
-                    changes += 1
-                    if not args.check:
-                        b[sub] = w
-    if not args.check:
-        with open(p, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-            f.write("\n")
+    #
+    # ⚠️ 必须连 `damnation/Uniques.json` 一起处理：炼狱模式（本站默认）加载的是它，
+    #    只修标准版等于**默认视图根本没修**（巧工弩「修了还是看不到」就是这么来的）。
+    for rel in ("Uniques.json", os.path.join("damnation", "Uniques.json")):
+        p = os.path.join(ROOT, "public", "data", rel)
+        if not os.path.exists(p):
+            continue
+
+        data = json.load(open(p, encoding="utf-8"))
+        for u in data:
+            for field in ("weaponBase", "armorBase", "jeweleryBase"):
+                b = u.get(field)
+                if not isinstance(b, dict):
+                    continue
+                w = want(b.get("code"))
+                if not w:
+                    continue
+                for sub in ("name", "displayName"):
+                    got = b.get(sub)
+                    if got and w != got:
+                        changes += 1
+                        if not args.check:
+                            b[sub] = w
+                        elif changes <= 12:
+                            print(f"  {rel}[{u.get('displayName')}].{field}.{sub}: 「{got}」→「{w}」")
+
+        if not args.check:
+            with open(p, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+                f.write("\n")
 
     print(f"{'需要修正' if args.check else '已修正'} {changes} 处底材名")
     return 0
