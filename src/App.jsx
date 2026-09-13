@@ -4160,8 +4160,8 @@ function TabsBar({
             ))}
 
             <div className="tabsRight">
-                <label className="toggleWrap topBarToggle">
-                    <span className="toggleLabel">毁灭</span>
+                <label className="toggleWrap topBarToggle" title="国服实际运行炼狱（毁灭）模式；关闭此开关查看标准模式资料">
+                    <span className="toggleLabel">炼狱模式</span>
                     <div className="toggle">
                         <input
                             type="checkbox"
@@ -4215,8 +4215,9 @@ function buildTabUrl(nextTab) {
 }
 
 export default function App() {
+    // 国服实际运行「炼狱（毁灭）模式」→ 默认打开；只有显式关掉过（localStorage = "false"）才保持标准模式
     const [damnationMode, setDamnationMode] = React.useState(
-        localStorage.getItem("damnation") === "true"
+        localStorage.getItem("damnation") !== "false"
     );
     const weapons = useJson("Weapons.json", damnationMode);
     const armors = useJson("Armors.json", damnationMode);
@@ -5004,6 +5005,18 @@ export default function App() {
         <div className="wrap">
             <TabsBar tab={tab} setTab={setTab} damnationMode={damnationMode} toggleDamnationMode={toggleDamnationMode}/>
 
+            {!damnationMode ? (
+                <div className="modeNotice">
+                    <div className="modeNoticeTitle">⚠️ 当前是「标准模式」视图 —— 不是国服的运行模式</div>
+                    <div className="modeNoticeBody">
+                        国服实际运行 <strong>炼狱（毁灭）模式</strong>。本视图下的内容
+                        （神话宝珠 / 神授宝珠、完美级以下精华掉落、炼狱熔炉消耗 25 / 15 / 25 等）
+                        在国服<strong>不适用</strong>；打开右上角「
+                        <strong>炼狱模式</strong>」开关查看国服数据。
+                    </div>
+                </div>
+            ) : null}
+
             {tab === "help" ? (<HelpPanel/>) : tab === "calculators" ? (<>
                     <div className="calcWide">
                         <div className="panels">
@@ -5034,6 +5047,7 @@ export default function App() {
                     data={season1.data}
                     loading={season1.loading}
                     error={season1.error}
+                    damnation={damnationMode}
                     search={season1Search}
                     onLink={handleMarkdownAppLink}
                     emptyLabel="没有符合搜索条件的赛季条目。"
@@ -5055,6 +5069,7 @@ export default function App() {
                     data={kiln.data}
                     loading={kiln.loading}
                     error={kiln.error}
+                    damnation={damnationMode}
                     search={kilnSearch}
                     onLink={handleMarkdownAppLink}
                 />
@@ -5096,6 +5111,7 @@ export default function App() {
                     data={ascendancies.data}
                     loading={ascendancies.loading}
                     error={ascendancies.error}
+                    damnation={damnationMode}
                     search={ascendanciesSearch}
                     onLink={handleMarkdownAppLink}
                 />
@@ -5116,6 +5132,7 @@ export default function App() {
                     data={mapping.data}
                     loading={mapping.loading}
                     error={mapping.error}
+                    damnation={damnationMode}
                     search={mappingSearch}
                     onLink={handleMarkdownAppLink}
                 />
@@ -5170,6 +5187,7 @@ export default function App() {
                     data={skills.data}
                     loading={skills.loading}
                     error={skills.error}
+                    damnation={damnationMode}
                     search={skillsSearch}
                     onLink={handleMarkdownAppLink}
                 />
@@ -5252,6 +5270,7 @@ export default function App() {
                     data={standard.data}
                     loading={standard.loading}
                     error={standard.error}
+                    damnation={damnationMode}
                     search={changesSearch}
                     onLink={handleMarkdownAppLink}
                 />
