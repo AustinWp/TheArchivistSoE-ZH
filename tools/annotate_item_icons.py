@@ -60,6 +60,10 @@ def load_recipe_codes():
     return codes
 
 
+# 官方串表里符文类条目带「符文：」前缀（如 `r02 = 符文：艾德`），正文里只写名字 → 建表时去掉
+CATEGORY_PREFIX_RE = re.compile(r"^(符文|宝石|护符|戒指|项链|武器|护甲|珠宝)：")
+
+
 def build_name_map():
     official = {k: clean(v) for k, v in
                 json.load(open(os.path.join(ROOT, "public", "data", "official_zh.json"),
@@ -75,6 +79,7 @@ def build_name_map():
             continue
         if c not in codes:          # 只标注配方里真正用到的物品
             continue
+        zh = CATEGORY_PREFIX_RE.sub("", zh)
         if not (2 <= len(zh) <= 10):
             continue
         name2code.setdefault(zh, c)
@@ -90,26 +95,29 @@ def build_name_map():
     # 长名优先，避免短名抢先匹配
     ordered = sorted(name2code.items(), key=lambda kv: -len(kv[0]))
 
-    # 若某个名字是另一个物品名的前缀（如「制图师」⊂「制图师凿子·贪婪」），
-    # 直接标注会挂错图标 → 这类短名一律跳过
-    all_names = [nm for nm, _ in ordered]
-    safe = []
-    for nm, code in ordered:
-        if any(other != nm and other.startswith(nm) for other in all_names):
-            continue
-        safe.append((nm, code))
-
-    # 补充：更长的那件物品**没有**官方中文名时，上面的前缀规则发现不了，
-    # 只能人工列出来（审计第 4 项会持续盯着这类错配）
+    # 更长的那件物品**没有**官方中文名时，长名优先也救不了（只会把短名标上），
+    # 这类只能人工排除（审计第 4 项会持续盯着这类错配）
     SKIP_AMBIGUOUS = {
         "制图师",      # → 制图师凿子 / 制图师法珠
         "拉苏克谜盒",  # → 拉苏克谜盒碎片
     }
 
-    return [(nm, code) for nm, code in safe if nm not in SKIP_AMBIGUOUS]
+    return [(nm, code) for nm, code in ordered if nm not in SKIP_AMBIGUOUS]
 
 
 CODE_SPAN_RE = re.compile(r"(`[^`]*`)")
+
+
+# 由 main() 在每轮开始前按 pairs 构建（pairs 已按长名优先排序）
+_NAME_ALT = None
+_NAME2CODE = {}
+
+
+def build_matcher(pairs):
+    """把「名字 → 代码」表编译成一个长名优先的交替正则。"""
+    global _NAME_ALT, _NAME2CODE
+    _NAME2CODE = dict(pairs)
+    _NAME_ALT = re.compile("|".join(re.escape(nm) for nm, _ in pairs))
 
 
 def annotate(text, pairs):
@@ -129,18 +137,18 @@ def annotate(text, pairs):
         if piece.startswith("`") and piece.endswith("`"):
             continue
 
-        out = piece
-        for name, code in pairs:
-            pattern = re.compile(r"(?<!\{icon:%s\})%s" % (re.escape(code), re.escape(name)))
+        # 一次性用「全部名字」的交替正则替换：alternation 取最左最长匹配，
+        # 这样「伊司（6号）」能命中「伊司」，「制图师凿子·贪婪」不会被「制图师」抢走
+        def repl(m, _map=_NAME2CODE):
+            nonlocal n
+            name = m.group(0)
+            code = _map.get(name)
+            if not code:
+                return name
+            n += 1
+            return "{{icon:%s}}%s" % (code, name)
 
-            def repl(m, _code=code, _name=name):
-                nonlocal n
-                n += 1
-                return "{{icon:%s}}%s" % (_code, _name)
-
-            out = pattern.sub(repl, out)
-
-        pieces[pi] = out
+        pieces[pi] = _NAME_ALT.sub(repl, piece)
 
     return "".join(pieces), n
 
@@ -151,6 +159,7 @@ def main():
     args = ap.parse_args()
 
     pairs = build_name_map()
+    build_matcher(pairs)
     print(f"可标注的物品名 {len(pairs)} 个（长名优先）")
 
     total = 0

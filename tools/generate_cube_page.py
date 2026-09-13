@@ -272,8 +272,18 @@ def main():
     low = fn(ST, section="RUNE DOWNGRADING - non-stacked")
     high = fn(ST, section="RUNE DOWNGRADING (High Runes) - non stacked")
     low_dm = fn(DM, section="RUNE DOWNGRADING - non-stacked")
+    # 符文名 + 编号（与前端 runeLabel 的「拉尔（8号）」一致）
+    RUNE_NUM = {n: i + 1 for i, n in enumerate([
+        "El", "Eld", "Tir", "Nef", "Eth", "Ith", "Tal", "Ral", "Ort", "Thul", "Amn", "Sol",
+        "Shael", "Dol", "Hel", "Io", "Lum", "Ko", "Fal", "Lem", "Pul", "Um", "Mal", "Ist",
+        "Gul", "Vex", "Ohm", "Lo", "Sur", "Ber", "Jah", "Cham", "Zod"])}
+
     def dname(x):
-        return RUNE_ZH.get(x.capitalize(), x)
+        key = x.capitalize()
+        name = RUNE_ZH.get(key, x)
+        num = RUNE_NUM.get(key)
+
+        return f"{name}（{num}号）" if num else name
 
     def downgrade_table(rows):
         t = []
