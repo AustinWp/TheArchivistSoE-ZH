@@ -13816,7 +13816,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "狭长匕首",
+      "displayName": "小剑",
       "itemTier": "扩展",
       "normalItemDisplayName": "刀刃",
       "exceptionalItemDisplayName": "狭长匕首",
@@ -18983,7 +18983,7 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "战手套",
+      "displayName": "战争护手",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "手套",
       "exceptionalItemDisplayName": "战手套",
@@ -24622,7 +24622,7 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "狂战士之斧",
+      "displayName": "狂战士斧",
       "itemTier": "精英",
       "normalItemDisplayName": "战斧",
       "exceptionalItemDisplayName": "蛇刀",
@@ -32968,7 +32968,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t51",
-      "displayName": "地图"
+      "displayName": "扎尔的圣所"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -33019,7 +33019,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t52",
-      "displayName": "地图"
+      "displayName": "冥河洞穴"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -33231,7 +33231,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t53",
-      "displayName": "地图"
+      "displayName": "堕落花园"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -34458,7 +34458,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "地狱之子之首",
+      "displayName": "地狱爪牙之骨",
       "onlyClassDisplayText": "仅死灵法师",
       "normalItemDisplayName": "僵尸之首",
       "exceptionalItemDisplayName": "图腾面具",
@@ -34513,7 +34513,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t54",
-      "displayName": "地图"
+      "displayName": "帝国宫殿"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -34562,7 +34562,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t55",
-      "displayName": "地图"
+      "displayName": "外虚空"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -34612,7 +34612,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv",
-      "displayName": "箭矢"
+      "displayName": "粗制箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,07%",
@@ -34655,7 +34655,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv2",
-      "displayName": "锋锐箭矢"
+      "displayName": "精良箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,29%",
@@ -34699,7 +34699,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv2",
-      "displayName": "锋锐箭矢"
+      "displayName": "精良箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,22%",
@@ -34743,7 +34743,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv3",
-      "displayName": "剃刀箭矢"
+      "displayName": "锋利箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,29%",
@@ -34788,7 +34788,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv3",
-      "displayName": "剃刀箭矢"
+      "displayName": "锋利箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,29%",
@@ -34833,7 +34833,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv3",
-      "displayName": "剃刀箭矢"
+      "displayName": "锋利箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,07%",
@@ -34877,7 +34877,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv",
-      "displayName": "弩矢"
+      "displayName": "轻型弩失"
     },
     "dropRate": null,
     "occurrenceChance": "0,07%",
@@ -34920,7 +34920,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv2",
-      "displayName": "重弩矢"
+      "displayName": "重型弩失"
     },
     "dropRate": null,
     "occurrenceChance": "0,22%",
@@ -34964,7 +34964,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv2",
-      "displayName": "重弩矢"
+      "displayName": "重型弩失"
     },
     "dropRate": null,
     "occurrenceChance": "0,07%",
@@ -35008,7 +35008,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv3",
-      "displayName": "战弩矢"
+      "displayName": "战争弩矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,22%",
@@ -35053,7 +35053,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv3",
-      "displayName": "战弩矢"
+      "displayName": "战争弩矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,22%",
@@ -35101,7 +35101,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv3",
-      "displayName": "战弩矢"
+      "displayName": "战争弩矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,07%",
@@ -35227,7 +35227,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t56",
-      "displayName": "地图"
+      "displayName": "乌瑞城"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -35696,7 +35696,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t57",
-      "displayName": "地图"
+      "displayName": "精灵领域"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -35914,7 +35914,7 @@
       "type": "t5m",
       "secondType": "t5me",
       "nameString": "t58",
-      "displayName": "地图"
+      "displayName": "纳克鲁尔深渊"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -36584,7 +36584,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "优雅圆盾",
+      "displayName": "雅致圆盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "华丽圆盾",
       "exceptionalItemDisplayName": "巴洛克圆盾",
@@ -36659,7 +36659,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "优雅圆盾",
+      "displayName": "雅致圆盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "华丽圆盾",
       "exceptionalItemDisplayName": "巴洛克圆盾",
@@ -37694,7 +37694,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "虔诚头盔",
+      "displayName": "虔敬头盔",
       "onlyClassDisplayText": "仅圣骑士",
       "normalItemDisplayName": "祝福头盔",
       "exceptionalItemDisplayName": "圣洁头盔",
@@ -37768,7 +37768,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "虔诚头盔",
+      "displayName": "虔敬头盔",
       "onlyClassDisplayText": "仅圣骑士",
       "normalItemDisplayName": "祝福头盔",
       "exceptionalItemDisplayName": "圣洁头盔",
@@ -37933,7 +37933,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "猎人头罩",
+      "displayName": "猎手兜帽",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "破旧头罩",
       "exceptionalItemDisplayName": "皮头罩",
@@ -38068,7 +38068,7 @@
       "type": "xboq",
       "secondType": "",
       "nameString": "cqv3",
-      "displayName": "战弩矢"
+      "displayName": "战争弩矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,07%",
@@ -38110,7 +38110,7 @@
       "type": "bowq",
       "secondType": "",
       "nameString": "aqv3",
-      "displayName": "剃刀箭矢"
+      "displayName": "锋利箭矢"
     },
     "dropRate": null,
     "occurrenceChance": "0,07%",
@@ -38286,7 +38286,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "破旧头罩",
+      "displayName": "破旧兜帽",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "破旧头罩",
       "exceptionalItemDisplayName": "皮头罩",
@@ -38469,7 +38469,7 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "开明长袍",
+      "displayName": "启迪长袍",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "破旧长袍",
       "exceptionalItemDisplayName": "丝绸长袍",
@@ -41460,7 +41460,7 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "简朴长袍",
+      "displayName": "朴素长袍",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "简朴长袍",
       "exceptionalItemDisplayName": "",

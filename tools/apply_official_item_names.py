@@ -93,12 +93,15 @@ def main():
             if not isinstance(b, dict):
                 continue
             w = want(b.get("code"))
-            got = b.get("name")
-            if w and got and w != got:
-                print(f"  Uniques.json[{u.get('displayName')}].{field}: 「{got}」→「{w}」")
-                changes += 1
-                if not args.check:
-                    b["name"] = w
+            if not w:
+                continue
+            for sub in ("name", "displayName"):
+                got = b.get(sub)
+                if got and w != got:
+                    print(f"  Uniques.json[{u.get('displayName')}].{field}.{sub}: 「{got}」→「{w}」")
+                    changes += 1
+                    if not args.check:
+                        b[sub] = w
     if not args.check:
         with open(p, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)

@@ -537,6 +537,40 @@ function itemSpriteUrl(code, kind) {
     return `${import.meta.env.BASE_URL}item-images/${name}.png`;
 }
 
+// ---------------------------------------------------------------- 物品代码索引
+// 由 App 在渲染期写入（武器 + 护甲），供「暗金制作底材」等处按 code 反查名称与所在标签页。
+let ITEM_CODE_INDEX = {};
+
+function setItemCodeIndex(map) {
+    ITEM_CODE_INDEX = map && typeof map === "object" ? map : {};
+}
+
+function itemCodeInfo(code) {
+    return ITEM_CODE_INDEX[String(code ?? "").trim().toLowerCase()] || null;
+}
+
+// 暗金的基底阶位（普通 / 扩展 / 精英）；首饰与护符没有阶位，返回空数组
+function uniqueBaseTiers(u) {
+    const b = u?.weaponBase || u?.armorBase;
+    if (!b) return [];
+
+    const out = [];
+    const push = (label, code) => {
+        const c = n(code);
+        if (!c) return;
+        if (out.some((x) => x.code.toLowerCase() === c.toLowerCase())) return;
+
+        const info = itemCodeInfo(c);
+        out.push({label, code: c, name: info?.name || c, tab: info?.tab || null});
+    };
+
+    push("普通", b.normalTierCode);
+    push("扩展", b.exceptionalTierCode);
+    push("精英", b.eliteTierCode);
+
+    return out;
+}
+
 function getItemFallbackIconUrl(tab, item) {
     if (tab === "weapons") {
         const key = weaponIconKeyForItem(item);
@@ -3605,7 +3639,7 @@ function AffixesPanel({data, loading, error, sort, onChangeSort}) {
     </div>);
 }
 
-function UniqueTooltip({u, openDropCalculator, onLink}) {
+function UniqueTooltip({u, openDropCalculator, onLink, onGoBase}) {
     if (!u) return <div className="emptyState">请选择物品。</div>;
 
     const title = n(u?.displayName) || "Unknown Unique";
@@ -3675,9 +3709,16 @@ function UniqueTooltip({u, openDropCalculator, onLink}) {
         ? "神话宝珠"
         : divineOrbIndexes.has(u?.index)
             ? "神授宝珠"
-            : (u?.itemTier === "普通" || u?.itemTier === "扩展")
+            : u?.code === "cm3"          // 大型护符
                 ? "神话宝珠"
-                : "神授宝珠";
+                : u?.code === "cm4"      // 华丽护符
+                    ? "神授宝珠"
+                    : (u?.itemTier === "普通" || u?.itemTier === "扩展")
+                        ? "神话宝珠"
+                        : "神授宝珠";
+
+    const baseTiers = uniqueBaseTiers(u);
+    const jeweleryBaseName = n(u?.jeweleryBase?.name) || n(u?.jeweleryBase?.displayName) || "";
 
     return (<>
         {itemSpriteUrl(u?.code, "u") ? (
@@ -3745,11 +3786,38 @@ function UniqueTooltip({u, openDropCalculator, onLink}) {
             <div className="hr"/>
             <div className="dropHeader">制作</div>
             {hasOccurrenceChanceCurrency && occurrenceChance !== occurrenceChanceCurrency && lineKV("通货出现几率：", String(occurrenceChanceCurrency), "")}
-            <br/>
-            <div className="line dim">
-                你可以用其基底物品配合{" "}
-                <span className="highlight">{creationOrb}</span> 制作这件暗金装备。
-            </div>
+
+            {baseTiers.length ? (<>
+                <div className="line dim">用以下任意阶位的基底物品 + 对应通货宝珠：</div>
+                {baseTiers.map((t) => (
+                    <div key={t.code} className="line kv">
+                        <span>{t.label} 基底：</span>
+                        <span>
+                            {t.tab ? (<a
+                                className="d2link"
+                                href="#"
+                                onClick={(ev) => {
+                                    ev.preventDefault();
+                                    if (onGoBase) onGoBase(t.tab, t.code);
+                                }}
+                            >{t.name}</a>) : t.name}
+                            <span className="dim"> · {t.label === "精英" ? "神授宝珠" : "神话宝珠"}</span>
+                        </span>
+                    </div>
+                ))}
+                <div className="line dim">
+                    普通 / 扩展基底用 <span className="highlight">神话宝珠</span>，
+                    精英基底用 <span className="highlight">神授宝珠</span>；结果必定为有形。
+                </div>
+            </>) : jeweleryBaseName ? (<>
+                <div className="line kv">
+                    <span>基底物品：</span>
+                    <span>{jeweleryBaseName} <span className="dim"> · {creationOrb}</span></span>
+                </div>
+                <div className="line dim">
+                    用该基底物品 + <span className="highlight">{creationOrb}</span> 制作；结果必定为有形。
+                </div>
+            </>) : null}
         </>) : null}
 
         {u?.hellforged ? (<>
@@ -4004,6 +4072,21 @@ export default function App() {
     const season1 = useJson("SeasonS1.json", damnationMode);
     const itemImages = useJsonObject("ItemImages.json");
 
+    // 物品代码索引：武器 + 护甲（同样在渲染期写入模块级缓存）
+    {
+        const idx = {};
+
+        for (const [tabKey, dataset] of [["weapons", weapons], ["armors", armors]]) {
+            for (const it of (dataset?.data || [])) {
+                const c = String(it?.code ?? "").trim().toLowerCase();
+                if (!c || idx[c]) continue;
+                idx[c] = {name: n(it?.displayName) || n(it?.name) || c, tab: tabKey};
+            }
+        }
+
+        setItemCodeIndex(idx);
+    }
+
     // 在渲染期同步写入贴图映射（写模块级缓存，幂等、不触发额外渲染）。
     // 不能放在 useEffect 里：effect 在本次渲染提交之后才执行，而映射变化本身
     // 不会引起重渲染，列表会一直停留在 SVG 图标上。
@@ -4159,6 +4242,7 @@ export default function App() {
     const [uberValue, setUberValue] = useState(false);
     const [hellforgedValue, setHellforgedValue] = useState(false);
     const [pendingUniqueCode, setPendingUniqueCode] = useState("");
+    const [pendingItemJump, setPendingItemJump] = useState(null);
     const [pendingSacredMatch, setPendingSacredMatch] = useState(null);
     const [highlightOnly, setHighlightOnly] = useState(false);
     const [affixTypeValue, setAffixTypeValue] = useState("");
@@ -4493,6 +4577,16 @@ export default function App() {
     }, [pendingUniqueCode, tab, dataset.loading, dataset.data]);
 
     useEffect(() => {
+        if (!pendingItemJump) return;
+        if (tab !== pendingItemJump.tab) return;
+        if (dataset.loading) return;
+
+        const idx = dataset.data.findIndex((it) => n(it?.code) === pendingItemJump.code);
+        if (idx >= 0) setActiveIndex(idx);
+        setPendingItemJump(null);
+    }, [pendingItemJump, tab, dataset.loading, dataset.data]);
+
+    useEffect(() => {
         if (!pendingSacredMatch) return;
         if (tab !== "sacreds") return;
         if (sacreds.loading) return;
@@ -4558,6 +4652,24 @@ export default function App() {
         const all = dataset.data;
         const idx = all.findIndex((it) => n(it?.code) === c);
         if (idx >= 0) setActiveIndex(idx);
+    }
+
+    // 跳到「武器 / 护甲」页并定位到指定 code（用于暗金制作底材的跳转）
+    function jumpToItem(targetTab, code) {
+        const c = n(code);
+        if (!c) return;
+
+        skipAutoIndexRef.current = true;
+
+        setTab(targetTab);
+        setSearch("");
+        setTypeValue("");
+        setTierValue("");
+        setSocketsValue("");
+        setUberValue(false);
+        setHellforgedValue(false);
+        setHighlightOnly(false);
+        setPendingItemJump({tab: targetTab, code: c});
     }
 
     function jumpToUnique(code) {
@@ -5110,6 +5222,7 @@ export default function App() {
                         onGoUnique={jumpToUnique}
                     />)}
                     {tab === "uniques" && <UniqueTooltip u={activeItem} onLink={handleMarkdownAppLink}
+                                                         onGoBase={jumpToItem}
                                                          openDropCalculator={openDropCalculator}/>}
                     {tab === "sacreds" && <SacredTooltip s={activeItem} onLink={handleMarkdownAppLink}/>}
                     {tab === "fatecards" && (<FateCardTooltip card={activeItem}/>
