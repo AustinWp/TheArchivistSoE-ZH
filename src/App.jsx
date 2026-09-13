@@ -3926,8 +3926,7 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase, damnation = fal
 
                 {damnation ? (
                     <div className="line dim">
-                        底材 + <span className="highlight">机遇宝珠</span> 放入方块
-                        <span className="highlight">合成两次</span>（第一次登记、第二次判定）：
+                        底材 + <span className="highlight">机遇宝珠</span> 放入方块判定：
                         成功 → 同底材暗金（必定有形）；失败 → 物品被摧毁并获得 1×普通钥匙。
                         摧毁率随基底阶位变化（普通 50% / 扩展 75% / 精英 90%），
                         详见「魔方配方 → 机遇宝珠系统」。
@@ -3947,7 +3946,7 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase, damnation = fal
                     </span>
                 </div>
                 {damnation ? (<div className="line dim">
-                    <span className="highlight">机遇宝珠</span> + 该基底物品，合成两次（第一次登记、第二次判定）：
+                    <span className="highlight">机遇宝珠</span> + 该基底物品放入方块：
                     成功 → 同底材暗金（必定有形）；失败 → 物品被摧毁并获得 1×普通钥匙。
                 </div>) : (<div className="line dim">
                     用该基底物品 + <span className="highlight">{creationOrb}</span> 制作；结果必定为有形。
