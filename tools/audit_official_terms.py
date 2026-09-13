@@ -56,10 +56,8 @@ SKIP_FILES = {
     "s1-patch-notes.md",    # 官方说明原文存档
     "s1-verification.md",
     "apply_zh_terms.py",    # 替换词表本身
-    "zh_dict.py",           # 旧词典（已标注，仅参考）
-    "TRANSLATION_GUIDE.md",
+    "",
     "audit_official_terms.py",
-    "item_names.py",        # 早期人工词典，已标 DEPRECATED 且无任何工具引用
 }
 # 这些文件已标 DEPRECATED，不参与扫描
 SKIP_PREFIXES = ("translate_",)

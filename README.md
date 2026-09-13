@@ -108,7 +108,8 @@ soe.txt: ModStrEnhancedDamage   → 增强伤害(ED)  ← 官方，是另一个�
 | `oroc` | **机遇宝珠** | 炼狱模式专属 | ❌ 机会宝珠 |
 | `jewf` / `jewp` | 珠宝碎片 / 珠宝匠棱镜 | 珠宝系材料 | — |
 
-> `tools/zh_dict.py`、`tools/TRANSLATION_GUIDE.md` 是早期人工翻译字典，**不在刷新流程里**；
+> 早期人工翻译字典（`zh_dict.py` / `item_names.py` / `TRANSLATION_GUIDE.md` / 三个 `translate_*.py`）已于 2026-09 清理删除 ——
+> 它们的译名已过时（诸葛弩 / 重弩 / 谐角之冠…），留着只会误导。需要时看 git 历史。
 > `translate_*.py` 三个一次性脚本已标 `DEPRECATED`，**不要再运行**（它们的术语是官方对齐之前的旧译）。
 
 
@@ -195,7 +196,7 @@ StrEternalShako    =  基础类型：军帽
    `298 / 505` 这个数字第一天就会跳出来。
 
 4. **历史包袱**
-   早期 `translate_data.py` 用社区译名批量生成数据；后来补了「对齐官方串表」的步骤，
+   早期那套翻译脚本（**已删除**，见 git 历史）用社区译名批量生成数据；后来补了「对齐官方串表」的步骤，
    但只覆盖能查到的那部分，剩下的静静留着 —— 表面看「已经对齐过了」。
 
 **已做的机制性修复**
@@ -244,7 +245,7 @@ python3 tools/verify_dropcalc_tables.py --repo /tmp/SOECN_repo \
 
 | 缺口 | 数字 | 原因 / 处置 |
 |---|---|---|
-| 词缀 | 前缀缺 85 / 后缀缺 111 | 早期 `translate_data.py` **只收录它有中文译文的条目**（缺失项 version/mod 分布杂乱，不是模式过滤）。补齐需要「属性码 → 中文模板」映射，靠推断有风险 → **暂不补**，保持可见 |
+| 词缀 | 前缀缺 85 / 后缀缺 111 | 早期翻译脚本（**已删除**）**只收录它有中文译文的条目**（缺失项 version/mod 分布杂乱，不是模式过滤）。补齐需要「属性码 → 中文模板」映射，靠推断有风险 → **暂不补**，保持可见 |
 | 暗金「驯服」 | 1 条 | `rarity=0`（掉率 0）且一半属性是隐藏项（`aura-hidden` / `static-modifier-display`），`occurrenceChance` 无法忠实重建 → 登记在审计第 3d 项的例外里 |
 | 任务物品 | 6 条 | 国王之杖 / 赫拉迪克法杖 等，`quest` 列非空，不进暗金列表 |
 | 升华灵魂石系列 | 19 条 | 源码 `UniqueItems.txt` 里有，但属**升华**内容，已在「升华」页收录 |
@@ -295,6 +296,20 @@ python3 tools/verify_dropcalc_tables.py --repo /tmp/SOECN_repo \
 **只改 `name` 不改 `displayName`，页面上就还是旧名字** —— 巧工弩第一次修复后又"没生效"，
 就是栽在这里（`name` 已是「巧工弩」，`displayName` 还是「诸葛弩」）。
 `apply_official_item_names.py` 现在会把这 5 个字段一起对齐，审计第 3b 项也逐字段校验。
+
+### 4.5 按需运行的分析工具（不在刷新流程里）
+
+这些是排查用的**诊断脚本**，平时不用跑，但别删 —— 它们是复查数据的依据：
+
+| 工具 | 用途 |
+|---|---|
+| `verify_dropcalc_tables.py` | 掉落计算器 10 张表 vs 国服源码（需 `--repo` / `--sha`） |
+| `affix_deep_align.py` / `affix_depth_diff.py` | 词缀与游戏表的三层比对（缺 196 条的结论就出自这里） |
+| `unique_prop_parser.py` / `unique_prop_diff.py` | 暗金属性串 → (property, min, max) 解析与数值 diff |
+| `diff_game_tables.py` | 全表差异报告（游戏仓库 vs 站点数据） |
+| `sync_dropcalc_tables.py` | 同步游戏数据表到新提交（保留中文列） |
+| `build_item_images.py` / `fetch_item_images.py` | 物品贴图映射表与下载 |
+| `gen_skills_data.py` | `SkillsData.json` 生成 |
 
 ### 5. 中文文案不在代码仓库
 
