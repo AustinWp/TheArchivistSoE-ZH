@@ -20,6 +20,10 @@ ROOT = os.path.dirname(HERE)
 
 TABLES = ["Weapons.txt", "Armor.txt", "Misc.txt"]
 
+# 取值链路的唯一实现（namestr/code → StrEternal<英文名>）都在这里，别再手写一遍
+sys.path.insert(0, HERE)
+from official_names import OfficialNames  # noqa: E402
+
 
 def clean(v):
     return re.sub(r"\\[a-z]+;", "", str(v)).strip()
@@ -93,15 +97,11 @@ def main():
     official = {k: clean(v) for k, v in
                 json.load(open(os.path.join(ROOT, "public", "data", "official_zh.json"),
                                encoding="utf-8"))["names"].items()}
-    keys = build_key_map()
-    eternal = build_eternal_map()
+    _on = OfficialNames()
 
     def want(code):
         """取名优先级：namestr/code 键 → `StrEternal<英文名>` 基础类型名。"""
-        if not code:
-            return None
-        k = keys.get(str(code).lower(), str(code).lower())
-        return official.get(k) or eternal.get(str(code).lower())
+        return _on.resolve(code)[0]
 
     changes = 0
     for fn, top in [("Weapons.json", "name"), ("Armors.json", "name")]:

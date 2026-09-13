@@ -69,38 +69,16 @@ CATEGORY_PREFIX_RE = re.compile(r"^(符文|宝石|护符|戒指|项链|武器|�
 
 
 def build_eternal_names():
-    """`StrEternal<英文名>` → code 的官方基础类型名。
+    """官方「基础类型」名 → code（取值链路见 official_names.py）。"""
+    sys.path.insert(0, HERE)
+    from official_names import OfficialNames
 
-    很多基础物品的 namestr/code 在官方串表里没有条目（如 `8rx` Chu-Ko-Nu），
-    官方中文名只存在于 `StrEternalChuKoNu = 基础类型：巧工弩`。不带上这层，
-    这些物品名就永远拿不到图标。
-    """
-    official = json.load(open(os.path.join(ROOT, "public", "data", "official_zh.json"),
-                              encoding="utf-8"))["names"]
-    eternal = {}
-    for k, v in official.items():
-        if k.startswith("StrEternal"):
-            val = clean(v)
-            if val.startswith("基础类型："):
-                eternal[k[len("StrEternal"):]] = val[len("基础类型："):]
-
+    on = OfficialNames()
     out = {}
-    for tbl in ("Weapons.txt", "Armor.txt", "Misc.txt"):
-        p = os.path.join(ROOT, "public", "data", "standard", tbl)
-        if not os.path.exists(p):
-            continue
-        rows = open(p, encoding="utf-8-sig", errors="replace").read().replace("\r\n", "\n").split("\n")
-        hdr = rows[0].split("\t")
-        if "code" not in hdr or "name" not in hdr:
-            continue
-        ci, ni = hdr.index("code"), hdr.index("name")
-        for r in rows[1:]:
-            f = r.split("\t")
-            if len(f) <= max(ci, ni) or not f[ci].strip():
-                continue
-            key = re.sub(r"[^A-Za-z0-9]", "", f[ni].strip())
-            if key in eternal:
-                out[f[ci].strip().lower()] = eternal[key]
+    for code in on.rows:
+        zh, src = on.resolve(code)
+        if zh and src == "StrEternal":
+            out[code] = zh
     return out
 
 

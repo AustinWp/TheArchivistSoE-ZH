@@ -1260,7 +1260,7 @@
     "highlight": false
   },
   {
-    "name": "手套(L)",
+    "name": "手套",
     "minDefense": 2,
     "maxDefense": 3,
     "requiredStrength": "0",
@@ -1350,7 +1350,7 @@
     "highlight": false
   },
   {
-    "name": "护腕(M)",
+    "name": "护腕",
     "minDefense": 8,
     "maxDefense": 9,
     "requiredStrength": "25",
@@ -1456,7 +1456,7 @@
     "highlight": false
   },
   {
-    "name": "手套(H)",
+    "name": "铁手套",
     "minDefense": 12,
     "maxDefense": 15,
     "requiredStrength": "60",
@@ -1730,7 +1730,7 @@
     "highlight": false
   },
   {
-    "name": "饰带(L)",
+    "name": "饰带",
     "minDefense": 2,
     "maxDefense": 2,
     "requiredStrength": "0",
@@ -1820,7 +1820,7 @@
     "highlight": false
   },
   {
-    "name": "腰带(M)",
+    "name": "扣带",
     "minDefense": 5,
     "maxDefense": 5,
     "requiredStrength": "25",
@@ -1910,7 +1910,7 @@
     "highlight": false
   },
   {
-    "name": "束带(H)",
+    "name": "束带",
     "minDefense": 8,
     "maxDefense": 11,
     "requiredStrength": "60",
@@ -4970,7 +4970,7 @@
     "highlight": false
   },
   {
-    "name": "恶魔之首",
+    "name": "恶魔头盖骨面具",
     "minDefense": 15,
     "maxDefense": 20,
     "requiredStrength": "25",
@@ -7396,7 +7396,7 @@
     "highlight": false
   },
   {
-    "name": "猎人之面",
+    "name": "猎人的伪装",
     "minDefense": 67,
     "maxDefense": 81,
     "requiredStrength": "56",
@@ -9056,7 +9056,7 @@
     "highlight": false
   },
   {
-    "name": "骨织甲[S]",
+    "name": "骸骨链甲",
     "minDefense": 399,
     "maxDefense": 505,
     "requiredStrength": "158",
@@ -9101,7 +9101,7 @@
     "highlight": false
   },
   {
-    "name": "巨魔腰带[S]",
+    "name": "洞穴巨魔腰带",
     "minDefense": 59,
     "maxDefense": 66,
     "requiredStrength": "151",

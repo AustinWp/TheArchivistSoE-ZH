@@ -236,34 +236,18 @@ def main():
     print(f"  可比对 {checked3} 条，不一致 {bad3} 条")
 
     # ---------- 4) {{icon:CODE}} 与紧随其后的名称是否匹配 ----------
-    # 基础类型兜底：namestr/code 无条目时，官方名在 StrEternal<英文名> 里
-    def _eternal_names():
-        et = {}
-        for k, v in official.items():
-            if k.startswith("StrEternal"):
-                s_ = norm_name(v)
-                if s_.startswith("基础类型："):
-                    et[k[len("StrEternal"):]] = s_[len("基础类型："):]
-        out = {}
-        for tbl in ("Weapons.txt", "Armor.txt", "Misc.txt"):
-            pth = os.path.join(ROOT, "public", "data", "standard", tbl)
-            if not os.path.exists(pth):
-                continue
-            rows = open(pth, encoding="utf-8-sig", errors="replace").read().replace("\r\n", "\n").split("\n")
-            hdr = rows[0].split("\t")
-            if "code" not in hdr or "name" not in hdr:
-                continue
-            ci, ni = hdr.index("code"), hdr.index("name")
-            for r in rows[1:]:
-                f = r.split("\t")
-                if len(f) <= max(ci, ni) or not f[ci].strip():
-                    continue
-                key = re.sub(r"[^A-Za-z0-9]", "", f[ni].strip())
-                if key in et:
-                    out[f[ci].strip().lower()] = et[key]
-        return out
+    # 基础类型兜底：统一走 tools/official_names.py（唯一实现，别在这里再写一遍）
+    sys.path.insert(0, os.path.join(ROOT, "tools"))
+    from official_names import OfficialNames  # noqa: E402
 
-    eternal = _eternal_names()
+    _on = OfficialNames()
+    _eternal_raw = {}
+    for _c in _on.rows:
+        _zh, _src = _on.resolve(_c)
+        if _zh and _src == "StrEternal":
+            _eternal_raw[_c] = _zh
+
+    eternal = _eternal_raw
     # 与 apply_official_item_names 的口径一致：namestr/code 键**有**官方条目时以它为准，
     # 基础类型名只在没有条目时兜底 —— 否则会把正确的名字报成错误
     _keys = {}
@@ -296,6 +280,33 @@ def main():
                 bad3b += 1
                 issues.append(f"[底材名不符] {fn} {it.get('code')}: 「{it.get('name')}」应为「{w}」")
     print(f"  可比对 {len(eternal)} 条，不一致 {bad3b} 条")
+
+    # ---------- 5) 官方中文名覆盖率 ----------
+    print("\n== 5. 官方中文名覆盖率 ==")
+    stat, unregistered = _on.coverage()
+    print("  取名来源: " + " · ".join(f"{k} {v}" for k, v in sorted(stat.items())))
+
+    # 站点**真正展示**的装备必须能追溯到官方名；追溯不到的必须显式登记
+    shown = set()
+    for fn in ("Weapons.json", "Armors.json"):
+        pth = os.path.join(ROOT, "public", "data", fn)
+        if os.path.exists(pth):
+            for it in json.load(open(pth, encoding="utf-8")):
+                shown.add(str(it.get("code", "")).lower())
+    pth = os.path.join(ROOT, "public", "data", "Uniques.json")
+    if os.path.exists(pth):
+        for u in json.load(open(pth, encoding="utf-8")):
+            for field in ("weaponBase", "armorBase", "jeweleryBase"):
+                b = u.get(field)
+                if isinstance(b, dict) and b.get("code"):
+                    shown.add(str(b["code"]).lower())
+
+    naked = sorted(c for c in shown if _on.classify(c)[1] == "未登记")
+    print(f"  展示中的装备无官方来源且未登记: {len(naked)} 件")
+    if naked:
+        for c in naked[:20]:
+            issues.append(f"[名字来源未登记] {c}: {_on.rows.get(c, ('', ''))[1]!r} "
+                          f"—— 请补进 tools/official_names.py 的 BASE_GAME_NAME 或 NO_OFFICIAL_NAME")
 
     print("\n== 4. 图标标记 ↔ 名称一致性 ==")
     official_norm = {k: norm_name(v) for k, v in official.items()}

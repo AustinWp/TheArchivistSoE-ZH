@@ -6234,7 +6234,7 @@
     "highlight": false
   },
   {
-    "name": "铁锤",
+    "name": "战锤",
     "type": "hamm",
     "secondType": "2han",
     "code": "9gm",
@@ -8461,7 +8461,7 @@
     "highlight": false
   },
   {
-    "name": "鸦嘴战锤",
+    "name": "双锋战戟",
     "type": "pole",
     "secondType": "2han",
     "code": "9h9",
