@@ -82,6 +82,65 @@ const TABS = {
     essences: "精华"
 };
 
+// 二级目录：一级分组 → 二级标签页（key 必须存在于上方 TABS）
+// 分组顺序即导航顺序；组内顺序即二级标签顺序。默认标签见 DEFAULT_TAB。
+const TAB_GROUPS = [
+    // tabs 只有一项时，一级直接进入该页（不再显示二级行）
+    {
+        id: "season",
+        title: "赛季",
+        icon: "✦",
+        tabs: ["season1"],
+    },
+    {
+        id: "changelog",
+        title: "更新日志",
+        icon: "❖",
+        tabs: ["changelog"],
+    },
+    {
+        id: "items",
+        title: "装备资料",
+        icon: "⚔",
+        tabs: ["weapons", "armors", "uniques", "runewords", "affixes"],
+    },
+    {
+        id: "craft",
+        title: "制作强化",
+        icon: "⚒",
+        tabs: ["cube", "sacreds", "corruptions", "essences", "kiln", "fatecards"],
+    },
+    {
+        id: "character",
+        title: "角色成长",
+        icon: "✧",
+        tabs: ["skills", "ascendancies", "builds"],
+    },
+    {
+        id: "gameplay",
+        title: "玩法模式",
+        icon: "◈",
+        tabs: ["changes", "damnation", "mapping"],
+    },
+    {
+        id: "tools",
+        title: "工具帮助",
+        icon: "⚙",
+        tabs: ["dropcalc", "calculators", "help"],
+    },
+];
+
+// 默认落地页：赛季页
+const DEFAULT_TAB = "season1";
+
+function groupOfTab(tab) {
+    const g = TAB_GROUPS.find((x) => x.tabs.includes(tab));
+    return g ? g.id : TAB_GROUPS[0].id;
+}
+
+
+
+
 const ALL_RUNES = ["El", "Eld", "Tir", "Nef", "Eth", "Ith", "Tal", "Ral", "Ort", "Thul", "Amn", "Sol", "Shael", "Dol", "Hel", "Io", "Lum", "Ko", "Fal", "Lem", "Pul", "Um", "Mal", "Ist", "Gul", "Vex", "Ohm", "Lo", "Sur", "Ber", "Jah", "Cham", "Zod"];
 
 // 符文中文名 + 编号（暗黑 2 官方译名）
@@ -1458,6 +1517,16 @@ function InfoPanel({title, markdownText, isOpen, onToggle, onLink}) {
             <Markdown text={markdownText} onLink={onLink}/>
         </div>) : null}
     </div>);
+}
+
+function renderTabBadge(tab) {
+    const value = TABS[tab];
+
+    if (value && typeof value === "object" && value.badge) {
+        return <span className="tabBadge">{value.badge}</span>;
+    }
+
+    return null;
 }
 
 function renderTabTitle(tab) {
@@ -3853,26 +3922,40 @@ function TabsBar({
                      damnationMode,
                      toggleDamnationMode,
                  }) {
-    // 全部标签页直接平铺展示，窄屏时由 CSS 自动换行（自适应）
-    const allKeys = Object.keys(TABS);
+    const activeGroupId = groupOfTab(tab);
+    const activeGroup = TAB_GROUPS.find((g) => g.id === activeGroupId) || TAB_GROUPS[0];
+    const activeIsDirect = activeGroup.tabs.length === 1;
 
-    return (
-        <div className="tabsPanel">
-            <div className="tabsLeft">
-                <div className="tabs">
-                    {allKeys.map((key) => (
-                        <div
-                            key={key}
-                            className={"tab" + (tab === key ? " active" : "")}
-                            onClick={() => setTab(key)}
-                            role="button"
-                            tabIndex={0}
-                        >
-                            {renderTabTitle(key)}
-                        </div>
-                    ))}
-                </div>
-            </div>
+    // 记住每个分组最后停留的二级标签，切回来时不会迷路
+    const lastByGroupRef = React.useRef({});
+    React.useEffect(() => {
+        lastByGroupRef.current[activeGroupId] = tab;
+    }, [tab, activeGroupId]);
+
+    const openGroup = (g) => {
+        if (g.id === activeGroupId) return;
+
+        const remembered = lastByGroupRef.current[g.id];
+        setTab(g.tabs.includes(remembered) ? remembered : g.tabs[0]);
+    };
+
+    return (<div className="tabsPanel">
+        <div className="navGroupRow">
+            {TAB_GROUPS.map((g) => (
+                <button
+                    key={g.id}
+                    type="button"
+                    className={"navGroup"
+                        + (g.id === activeGroupId ? " active" : "")
+                        + (g.tabs.length === 1 ? " navGroupDirect" : "")}
+                    onClick={() => (g.tabs.length === 1 ? setTab(g.tabs[0]) : openGroup(g))}
+                    aria-current={g.id === activeGroupId ? "page" : undefined}
+                >
+                    {g.icon ? <span className="navGroupIcon" aria-hidden="true">{g.icon}</span> : null}
+                    {g.title}
+                    {g.tabs.length === 1 && renderTabBadge(g.tabs[0])}
+                </button>
+            ))}
 
             <div className="tabsRight">
                 <label className="toggleWrap topBarToggle">
@@ -3888,9 +3971,46 @@ function TabsBar({
                 </label>
             </div>
         </div>
-    );
+
+        {activeIsDirect ? null : (<div className="tabsSubRow">
+            {activeGroup.tabs.map((key) => (
+                <div
+                    key={key}
+                    className={"tab" + (tab === key ? " active" : "")}
+                    onClick={() => setTab(key)}
+                    role="button"
+                    tabIndex={0}
+                >
+                    {renderTabTitle(key)}
+                </div>
+            ))}
+        </div>)}
+    </div>);
 }
 
+
+// 当前标签写进地址栏（?tab=xxx），方便分享直达；默认页不带参数
+function readTabFromUrl() {
+    try {
+        const t = new URLSearchParams(window.location.search).get("tab");
+
+        return t && Object.prototype.hasOwnProperty.call(TABS, t) ? t : null;
+    } catch {
+        return null;
+    }
+}
+
+function buildTabUrl(nextTab) {
+    const url = new URL(window.location.href);
+
+    if (nextTab && nextTab !== DEFAULT_TAB) {
+        url.searchParams.set("tab", nextTab);
+    } else {
+        url.searchParams.delete("tab");
+    }
+
+    return url.pathname + url.search + url.hash;
+}
 
 export default function App() {
     const [damnationMode, setDamnationMode] = React.useState(
@@ -3933,7 +4053,34 @@ export default function App() {
     const [pendingLinkTarget, setPendingLinkTarget] = useState(null);
     const [showTopButton, setShowTopButton] = useState(false);
 
-    const [tab, setTab] = useState("weapons");
+    const [tab, setTab] = useState(() => readTabFromUrl() || DEFAULT_TAB);
+
+    // 标签变化 → 同步地址栏（首次用 replace，避免落地就多一条历史）
+    const firstUrlSyncRef = React.useRef(true);
+    React.useEffect(() => {
+        const url = buildTabUrl(tab);
+
+        if (firstUrlSyncRef.current) {
+            firstUrlSyncRef.current = false;
+            window.history.replaceState({tab}, "", url);
+        } else if (window.location.pathname + window.location.search !== url) {
+            window.history.pushState({tab}, "", url);
+        }
+    }, [tab]);
+
+    // 浏览器前进 / 后退 → 回到对应标签
+    React.useEffect(() => {
+        const onPopState = () => {
+            const t = readTabFromUrl();
+
+            if (t) setTab(t);
+        };
+
+        window.addEventListener("popstate", onPopState);
+
+        return () => window.removeEventListener("popstate", onPopState);
+    }, []);
+
     const [dropCalculatorRequest, setDropCalculatorRequest] = useState(null);
 
     const openDropCalculator = (itemName) => {

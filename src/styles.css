@@ -207,9 +207,67 @@ body {
     gap: 12px;
 }
 
+/* 二级目录：一级分组行 + 二级标签行 */
 .tabsPanel {
-    justify-content: space-between;
-    gap: 12px;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+}
+
+.navGroupRow {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.navGroup {
+    cursor: pointer;
+    user-select: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+
+    padding: 9px 16px;
+    border-radius: 10px;
+
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.10);
+    color: rgba(255, 255, 255, 0.72);
+
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+}
+
+.navGroup:hover {
+    color: var(--c-white);
+    border-color: rgba(202, 161, 74, 0.45);
+}
+
+.navGroup.active {
+    color: #1b1408;
+    background: linear-gradient(180deg, #f0d089, #c9a24d);
+    border-color: #e2c078;
+    box-shadow: 0 6px 16px rgba(201, 162, 77, 0.22);
+}
+
+.navGroupIcon {
+    font-size: 13px;
+    opacity: 0.9;
+}
+
+.tabsRight {
+    margin-left: auto;
+}
+
+.tabsSubRow {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+
+    padding-top: 10px;
+    border-top: 1px dashed rgba(255, 255, 255, 0.08);
 }
 
 .tabsLeft {
