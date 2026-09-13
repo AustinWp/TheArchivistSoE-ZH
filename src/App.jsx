@@ -756,6 +756,52 @@ function renderInlineMarkdown(text, onLink) {
         return out;
     }
 
+    // `{{icon:CODE}}` → 物品小图标（用于配方页里的材料/成品）
+    const ICON_TOKEN_RE = /\{\{icon:([A-Za-z0-9_]+)\}\}/g;
+
+    function renderTextWithIcons(str, keyPrefix) {
+        const out = [];
+        let last = 0;
+        let m;
+        let idx = 0;
+
+        ICON_TOKEN_RE.lastIndex = 0;
+
+        while ((m = ICON_TOKEN_RE.exec(str)) !== null) {
+            if (m.index > last) {
+                out.push(<React.Fragment key={`${keyPrefix}-i-${idx}`}>
+                    {renderWithLinks(str.slice(last, m.index), `${keyPrefix}-i-${idx}`)}
+                </React.Fragment>);
+            }
+
+            const src = itemSpriteUrl(m[1], null);
+            if (src) {
+                out.push(<img
+                    key={`${keyPrefix}-icon-${idx}`}
+                    className="mdItemIcon"
+                    src={src}
+                    alt=""
+                    loading="lazy"
+                    decoding="async"
+                    onError={(e) => {
+                        e.currentTarget.style.display = "none";
+                    }}
+                />);
+            }
+
+            last = ICON_TOKEN_RE.lastIndex;
+            idx += 1;
+        }
+
+        if (last < str.length) {
+            out.push(<React.Fragment key={`${keyPrefix}-itail`}>
+                {renderWithLinks(str.slice(last), `${keyPrefix}-itail`)}
+            </React.Fragment>);
+        }
+
+        return out;
+    }
+
     return parts.map((part, idx) => {
         if (part.startsWith("`") && part.endsWith("`")) {
             return (<code key={idx} className="mdCode">
@@ -779,9 +825,9 @@ function renderInlineMarkdown(text, onLink) {
                     </em>);
                 }
 
-                // this is the plain text segment: run link parsing here
+                // this is the plain text segment: icons → links
                 return (<React.Fragment key={`${idx}-${j}-${k}`}>
-                    {renderWithLinks(it, `${idx}-${j}-${k}`)}
+                    {renderTextWithIcons(it, `${idx}-${j}-${k}`)}
                 </React.Fragment>);
             });
         });
@@ -1822,6 +1868,8 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
     const [difficulty, setDifficulty] = React.useState("");
     const [players, setPlayers] = React.useState("1");
     const [mf, setMf] = React.useState("");
+    const [progress, setProgress] = React.useState("");
+    const dropCalcRunIdRef = React.useRef(0);
 
     useEffect(() => {
         if (!request) return;
@@ -1875,11 +1923,6 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
         });
     }
 
-    function byLower(rows, column, value) {
-        const needle = n(value).toLowerCase();
-        return rows.find((r) => n(r[column]).toLowerCase() === needle);
-    }
-
     function applyPicks(probability, picks) {
         if (picks === 1) return probability;
 
@@ -1887,19 +1930,44 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
         return 1 - Math.pow(1 - probability, cappedPicks);
     }
 
-    function getRootTc(tcRows, tcName, monsterLevel) {
-        const start = byLower(tcRows, "Treasure Class", tcName);
+    // TC 名 → 行 的索引（原来每次线性扫 1800 行，遍历时被调用上万次）
+    function buildTcIndex(tcRows) {
+        const byName = new Map();
+        const byGroup = new Map();
+
+        for (const r of tcRows) {
+            const name = n(r["Treasure Class"]).toLowerCase();
+            if (name && !byName.has(name)) byName.set(name, r);
+
+            const g = n(r.group);
+            if (!g) continue;
+            if (!byGroup.has(g)) byGroup.set(g, []);
+            byGroup.get(g).push(r);
+        }
+
+        // 与原来「filter level<=L 后按 level 降序取第一个」等价：预先降序，查找时取第一个满足的
+        for (const arr of byGroup.values()) {
+            arr.sort((a, b) => num(b.level) - num(a.level));
+        }
+
+        return {byName, byGroup};
+    }
+
+    function tcRow(ctx, name) {
+        return ctx.tcIndex?.byName.get(n(name).toLowerCase()) || null;
+    }
+
+    function getRootTc(ctx, tcName, monsterLevel) {
+        const start = tcRow(ctx, tcName);
         if (!start) return tcName;
 
         const group = n(start.group);
         if (!group) return tcName;
 
-        const candidates = tcRows
-            .filter((r) => n(r.group) === group)
-            .filter((r) => num(r.level) <= monsterLevel)
-            .sort((a, b) => num(b.level) - num(a.level));
+        const candidates = ctx.tcIndex?.byGroup.get(group) || [];
+        const hit = candidates.find((r) => num(r.level) <= monsterLevel);
 
-        return n(candidates[0]?.["Treasure Class"] || tcName);
+        return n(hit?.["Treasure Class"] || tcName);
     }
 
     function buildTypeRarityMap(itemTypes) {
@@ -2181,7 +2249,7 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
         const name = n(outcomeName);
         if (!name) return;
 
-        const tc = byLower(ctx.treasure, "Treasure Class", name);
+        const tc = tcRow(ctx, name);
         const autoRows = ctx.autoTcs.get(name);
 
         const isRegularTc = !!tc;
@@ -2328,19 +2396,26 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
     }
 
     function calculateDropChanceFromRoot(ctx, rootTc) {
-        const acc = makeAccumulator();
+        // 遍历结果只取决于 TC 结构与目标物品，与怪物等级无关 → 同一个 rootTc 只算一次
+        let acc = ctx.accCache.get(rootTc);
 
-        collectPaths(
-            ctx,
-            rootTc,
-            1,
-            1,
-            1,
-            1,
-            {unique: 0, set: 0, rare: 0, magic: 0},
-            acc,
-            1
-        );
+        if (!acc) {
+            acc = makeAccumulator();
+
+            collectPaths(
+                ctx,
+                rootTc,
+                1,
+                1,
+                1,
+                1,
+                {unique: 0, set: 0, rare: 0, magic: 0},
+                acc,
+                1
+            );
+
+            ctx.accCache.set(rootTc, acc);
+        }
 
         let none = 1;
 
@@ -2522,7 +2597,19 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
 
             const out = [];
 
-            for (const mon of monStats) {
+            const tcIndex = buildTcIndex(treasure);
+            const accCache = new Map();
+            const __runId = ++dropCalcRunIdRef.current;
+
+            for (let mi = 0; mi < monStats.length; mi++) {
+                // 分片让出主线程：2000 个怪物逐个算会长时间阻塞，界面会像卡死
+                if (mi % 120 === 0) {
+                    if (dropCalcRunIdRef.current !== __runId) return;
+                    setProgress(`计算中… ${mi}/${monStats.length}`);
+                    await new Promise((r) => setTimeout(r, 0));
+                }
+
+                const mon = monStats[mi];
                 const monsterId = n(mon.Id);
                 if (!monsterId) continue;
 
@@ -2548,10 +2635,12 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
                     continue;
                 }
 
-                const rootTc = getRootTc(treasure, tcName, monsterLevel);
+                const rootTc = getRootTc({tcIndex}, tcName, monsterLevel);
 
                 const ctx = {
                     treasure,
+                    tcIndex,
+                    accCache,
                     autoTcs,
                     itemRatio,
                     uniqueItems,
@@ -2585,12 +2674,15 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
 
             out.sort((a, b) => b.chance - a.chance);
 
+            if (dropCalcRunIdRef.current !== __runId) return;
+
             setRows(out);
             setPage(1);
         } catch (e) {
             setRows([]);
             setError(e instanceof Error ? e.message : String(e));
         } finally {
+            setProgress("");
             setLoading(false);
         }
     }
@@ -2719,7 +2811,7 @@ function DropCalculatorPanel({request, clearRequest, damnationMode}) {
                             {loading && (
                                 <tr>
                                     <td colSpan="5" className="table-message">
-                                        计算中…
+                                        计算中…{progress ? ` ${progress.replace("计算中… ", "")}` : ""}
                                     </td>
                                 </tr>
                             )}

@@ -2982,3 +2982,17 @@ a.mdLink {
     color: var(--muted, #8b8b93);
     font-size: 12px;
 }
+
+/* 配方页正文里的物品小图标 */
+.mdItemIcon {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+    image-rendering: pixelated;
+
+    margin-right: 3px;
+    vertical-align: -4px;
+
+    filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.6));
+}
