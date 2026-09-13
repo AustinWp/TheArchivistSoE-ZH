@@ -93,12 +93,6 @@ const TAB_GROUPS = [
         tabs: ["season1"],
     },
     {
-        id: "changelog",
-        title: "更新日志",
-        icon: "❖",
-        tabs: ["changelog"],
-    },
-    {
         id: "items",
         title: "装备资料",
         icon: "⚔",
@@ -127,6 +121,12 @@ const TAB_GROUPS = [
         title: "工具帮助",
         icon: "⚙",
         tabs: ["dropcalc", "calculators", "help"],
+    },
+    {
+        id: "changelog",
+        title: "更新日志",
+        icon: "❖",
+        tabs: ["changelog"],
     },
 ];
 

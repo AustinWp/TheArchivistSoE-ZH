@@ -19,6 +19,9 @@ SRC = os.path.join(ROOT, "docs", "reference", "s1-patch-notes.md")
 OUT = os.path.join(ROOT, "public", "data", "SeasonS1.json")
 VERIFY = os.path.join(ROOT, "docs", "reference", "s1-verification.md")
 
+# 不收录到页面的区块（仍保留在 docs/reference/s1-patch-notes.md 原文存档里）
+SKIP_SECTIONS = {"赛季前言"}
+
 # 页面区块标题映射（Markdown 二级标题 → 页面标题）
 TITLE_MAP = {
     "S1 更新内容（正式服 9/11 上线）": None,  # 按三级标题（职业）再切分
@@ -184,6 +187,9 @@ def build():
     })
 
     for idx, sec in enumerate(split_sections(md)):
+        if sec["title"] in SKIP_SECTIONS:
+            continue
+
         title = TITLE_MAP.get(sec["title"], sec["title"])
         title = sec["title"] if title is None else title
         text = trim(sec["lines"])

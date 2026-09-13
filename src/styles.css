@@ -252,6 +252,13 @@ body {
     box-shadow: 0 6px 16px rgba(201, 162, 77, 0.22);
 }
 
+/* 一级项选中时，徽标要反色，否则金底金字看不见 */
+.navGroup.active .tabBadge {
+    color: #4a3210;
+    border-color: rgba(74, 50, 16, 0.55);
+    background: rgba(255, 255, 255, 0.28);
+}
+
 .navGroupIcon {
     font-size: 13px;
     opacity: 0.9;
