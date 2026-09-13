@@ -485,7 +485,31 @@ function isHellforged(u) {
     return u?.hellforged;
 }
 
-function getItemIconUrl(tab, item) {
+// ---------------------------------------------------------------- 物品库存贴图
+// 映射表 public/data/ItemImages.json 由 tools/build_item_images.py 从游戏数据表
+// （Weapons/Armor/Misc.txt 的 invfile / uniqueinvfile / setinvfile）生成；
+// 贴图文件位于 public/item-images/<name>.png（tools/fetch_item_images.py 获取）。
+let ITEM_SPRITE_MAP = {};
+
+function setItemSpriteMap(map) {
+    ITEM_SPRITE_MAP = map && typeof map === "object" ? map : {};
+}
+
+// kind: "u" 暗金 / "s" 套装 / 其它 = 基础底材
+function itemSpriteUrl(code, kind) {
+    const key = String(code ?? "").trim().toLowerCase();
+    if (!key) return null;
+
+    const rec = ITEM_SPRITE_MAP[key];
+    if (!rec) return null;
+
+    const name = (kind && rec[kind]) || rec.b;
+    if (!name) return null;
+
+    return `${import.meta.env.BASE_URL}item-images/${name}.png`;
+}
+
+function getItemFallbackIconUrl(tab, item) {
     if (tab === "weapons") {
         const key = weaponIconKeyForItem(item);
         return key ? WEAPON_ICON_MAP[key] : null;
@@ -513,6 +537,23 @@ function getItemIconUrl(tab, item) {
     }
 
     return null;
+}
+
+// 游戏库存贴图（位图）。暗金优先用「暗金专属贴图」，缺失时回落到基础底材贴图。
+function getItemSpriteUrl(tab, item) {
+    if (tab === "weapons" || tab === "armors") {
+        return itemSpriteUrl(item?.code, null);
+    }
+
+    if (tab === "uniques") {
+        return itemSpriteUrl(item?.code, "u") || itemSpriteUrl(item?.code, null);
+    }
+
+    return null;
+}
+
+function getItemIconUrl(tab, item) {
+    return getItemSpriteUrl(tab, item) || getItemFallbackIconUrl(tab, item);
 }
 
 function getUniqueBaseIconUrl(u) {
@@ -1074,6 +1115,43 @@ function useJson(fileName, damnationMode) {
     return state;
 }
 
+// 与 useJson 相同，但用于**对象**型数据文件（useJson 会把非数组结果丢弃）
+function useJsonObject(fileName) {
+    const [state, setState] = React.useState({loading: true, data: null, error: null});
+
+    React.useEffect(() => {
+        let cancelled = false;
+        const url = `${import.meta.env.BASE_URL}data/${fileName}`;
+
+        setState((s) => ({...s, loading: true, error: null}));
+
+        fetch(url, {cache: "no-store"})
+            .then((r) => {
+                if (!r.ok) throw new Error(`HTTP ${r.status} ${r.statusText}`);
+                return r.json();
+            })
+            .then((json) => {
+                if (cancelled) return;
+                setState({
+                    loading: false,
+                    data: json && typeof json === "object" && !Array.isArray(json) ? json : null,
+                    error: null,
+                });
+            })
+            .catch((e) => {
+                if (cancelled) return;
+                const err = e instanceof Error ? e : new Error(String(e));
+                setState({loading: false, data: null, error: err});
+            });
+
+        return () => {
+            cancelled = true;
+        };
+    }, [fileName]);
+
+    return state;
+}
+
 function lineKV(k, v, extraClass = "", tooltipText = "") {
     var showTooltip = tooltipText !== null && tooltipText !== "";
     return (<div className={("line kv " + (extraClass || "")).trim()}>
@@ -1415,6 +1493,8 @@ function ListPanel({title, countLabel, items, activeIndex, setActiveIndex, subLa
             {items.length === 0 ? (
                 <div className="emptyState">没有符合筛选条件的物品。</div>) : (items.map((it, i) => {
                 const iconUrl = getItemIconUrl(tab, it);
+                const fallbackIconUrl = getItemFallbackIconUrl(tab, it);
+                const isSprite = !!getItemSpriteUrl(tab, it);
 
                 return (<div
                     key={`${i}::${n(it?.code)}::${n(it?.displayName) || n(it?.name)}`}
@@ -1424,7 +1504,25 @@ function ListPanel({title, countLabel, items, activeIndex, setActiveIndex, subLa
                     role="listitem"
                 >
                     <div className="ico">
-                        {iconUrl ? (<img src={iconUrl} className="icon" alt=""/>) : null}
+                        {iconUrl ? (
+                            <img
+                                src={iconUrl}
+                                className={isSprite ? "itemSprite" : "icon"}
+                                alt=""
+                                loading="lazy"
+                                decoding="async"
+                                onError={(e) => {
+                                    const el = e.currentTarget;
+                                    if (fallbackIconUrl && el.dataset.fallback !== "1") {
+                                        el.dataset.fallback = "1";
+                                        el.src = fallbackIconUrl;
+                                        el.className = "icon";
+                                    } else {
+                                        el.style.display = "none";
+                                    }
+                                }}
+                            />
+                        ) : null}
                     </div>
                     <div className="meta">
                         <div className={tab === "uniques" ? "uniqueName" : "name"}>
@@ -2906,6 +3004,9 @@ function WeaponTooltip({w, onGoCode, onGoUnique}) {
     },];
 
     return (<>
+        {itemSpriteUrl(w?.code) ? (
+            <div className="tipSpriteBox"><img src={itemSpriteUrl(w?.code)} alt="" className="tipSprite" onError={(e) => { e.currentTarget.parentElement.style.display = "none"; }}/></div>
+        ) : null}
         <div className="tipTitle">{title}</div>
         <div className="tipSubtitle">{weaponTypeLabel(w)}</div>
         <div className="hr"/>
@@ -2953,6 +3054,9 @@ function ArmorTooltip({a, onGoCode, onGoUnique}) {
     },];
 
     return (<>
+        {itemSpriteUrl(a?.code) ? (
+            <div className="tipSpriteBox"><img src={itemSpriteUrl(a?.code)} alt="" className="tipSprite" onError={(e) => { e.currentTarget.parentElement.style.display = "none"; }}/></div>
+        ) : null}
         <div className="tipTitle">{title}</div>
         <div className="tipSubtitle">{armorTypeLabel(a)}</div>
         <div className="hr"/>
@@ -3538,6 +3642,9 @@ function UniqueTooltip({u, openDropCalculator, onLink}) {
                 : "神授宝珠";
 
     return (<>
+        {itemSpriteUrl(u?.code, "u") ? (
+            <div className="tipSpriteBox"><img src={itemSpriteUrl(u?.code, "u")} alt="" className="tipSprite" onError={(e) => { e.currentTarget.parentElement.style.display = "none"; }}/></div>
+        ) : null}
         <div className="tipUniqueTitle">{title}</div>
         <div className="tipSubtitle">
             {baseName}
@@ -3806,6 +3913,12 @@ export default function App() {
     const fateCards = useJson("FateCards.json", damnationMode);
     const kiln = useJson("Kiln.json", damnationMode);
     const season1 = useJson("SeasonS1.json", damnationMode);
+    const itemImages = useJsonObject("ItemImages.json");
+
+    // 在渲染期同步写入贴图映射（写模块级缓存，幂等、不触发额外渲染）。
+    // 不能放在 useEffect 里：effect 在本次渲染提交之后才执行，而映射变化本身
+    // 不会引起重渲染，列表会一直停留在 SVG 图标上。
+    setItemSpriteMap(itemImages?.data?.images ?? null);
 
     const INFO_OPEN_STORAGE_KEY = "the-archivist-v1";
     const searchInputRef = React.useRef(null);
@@ -4892,7 +5005,11 @@ export default function App() {
         <footer className="footer">
             <div className="footerInner">
                     <span className="footerLeft">作者 <a className="footerGitLink" target="_blank"
-                                                       href="https://github.com/Lukaszpg">MindH1ve</a></span>
+                                                       href="https://github.com/Lukaszpg">MindH1ve</a>
+                        <span className="footerNote"> · 物品贴图取自游戏客户端（国服档案站 <a
+                            className="footerGitLink" target="_blank"
+                            href="https://bd.wdjwxh.com">bd.wdjwxh.com</a> 转换）</span>
+                    </span>
 
                 <a
                     className="footerRight"
