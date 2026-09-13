@@ -3814,7 +3814,6 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase, damnation = fal
     // 本暗金**自己的**基底（只有它 + 宝珠才能产出这件暗金；同链其它阶位产出各自的暗金）
     const ownBaseCode = n(u?.weaponBase?.code || u?.armorBase?.code).toLowerCase();
     const ownTier = baseTiers.find((t) => t.code.toLowerCase() === ownBaseCode) || null;
-    const otherTiers = baseTiers.filter((t) => t.code.toLowerCase() !== ownBaseCode);
     const jeweleryBaseName = n(u?.jeweleryBase?.name) || n(u?.jeweleryBase?.displayName) || "";
 
     // 能否用「通货宝珠」制作：
@@ -3913,14 +3912,6 @@ function UniqueTooltip({u, openDropCalculator, onLink, onGoBase, damnation = fal
                         </div>
                     );
                 })() : null}
-
-                {otherTiers.length ? (
-                    <div className="line dim">
-                        同底材链的其它阶位（
-                        {otherTiers.map((t) => t.name).join(" / ")}
-                        ）会产出<strong>各自的暗金</strong>，不是本件
-                    </div>
-                ) : null}
 
                 {damnation ? (
                     <div className="line dim">
