@@ -366,7 +366,7 @@ index	version	enabled	ladder	rarity	nolimit	lvl	lvl req	code	*type	*uber	carry1	
 棘刺	100	1		1	1	78	70	upk	blade barrier			5	5000	dyel	dyel		invspku				ac%		120	150	thorns/lvl	240			dur		250	250	balance2		30	30	red-dmg%		15	25	dmg-norm		50	80																									0
 德古拉之握	100	1		1	1	84	76	uvg	vampirebone gloves			5	5000	dred	dred						ac%		90	120	lifesteal		8	12	openwounds		25	25	Deep-Wounds		240	320	heal-kill		5	10	str		20	30																									0
 霜风	100	1		1	1	78	70	7ls	cryptic sword			5	5000	cblu	cblu		invlsdu				dmg%		220	270	freeze		4	4	half-freeze		1	1	dmg-cold	150	237	486	swing2		25	25	aura	resist cold	6	6	oskill	230	2	2	coldskill		2	3													splash	358	100	1	0
-圣骑士的力量	100	1		8	1	82	74	uar	sacred armor			5	5000	cgrn	cgrn		invaaru				ac%		170	220	balance2		20	20	ac-miss		250	300	stam		40	50	str		20	30	vit		20	30	curse-effectiveness		20	20	aura	98	6	8	skill-duration		20	25													0
+圣堂武士的力量	100	1		8	1	82	74	uar	sacred armor			5	5000	cgrn	cgrn		invaaru				ac%		170	220	balance2		20	20	ac-miss		250	300	stam		40	50	str		20	30	vit		20	30	curse-effectiveness		20	20	aura	98	6	8	skill-duration		20	25													0
 艾斯屈塔的脾气	100	1		1	1	80	72	obc	eldritch orb			5	5000	cred							allskills		2	3	cast2		40	40	extra-fire		10	20	extra-ltng		10	20	enr		20	30	cast-skill	blaze	18	25	skill	teleport	4	5																					0
 火蜥蜴的利爪	100	1		1	1	75	67	7lw	feral claws			5	5000								dmg%		230	270	swing2		15	15	dmg-fire		236	480	res-fire		30	50	fireskill		3	4	pierce-fire		10	15	block-skill	Blaze	25	40																	splash	358	100	1	0
 沙暴之旅	100	1		1	1	72	64	uvb	scarabshell boots			5	5000								ac%		140	170	move2		30	30	balance2		20	20	res-pois-max		4	4	thorns		480	540	res-pois		30	50	rep-dur	10			str		10	15	vit		10	15	stamdrain		50	50									0

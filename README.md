@@ -40,7 +40,7 @@ npm run preview  # 预览构建产物
 
 - 原始来源：游戏模组仓库 [`wdjwxh/PD2-Sanctuary-of-Exile`](https://github.com/wdjwxh/PD2-Sanctuary-of-Exile) 的 `SOECN` 分支（commit `9b24eb72`，2026-09-11，国服 S1 正式服版本；上一基准 `374d8971`）
 - 数据流与重生成方法见 [`docs/reference/README.md`](docs/reference/README.md)
-- 校验：`python3 tools/verify_cube_claims.py`（41 条事实断言 + 页面表格自检，含国服 S1 拆解分档 / 随机狱铸配方已删除）
+- 校验：`python3 tools/verify_cube_claims.py`（**45 条**事实断言 + 页面表格自检，含国服 S1 拆解分档 / 随机狱铸配方已删除）
 - 重生成全部数据：`python3 tools/refresh_data.py`（解析 → 校验 → 生成页面数据 → 构建）
 - 待游戏内验证的疑点：`tools/generated/pending_verification.md`（生成物，运行 `python3 tools/parse_cubemain.py` 后生成）
 - 国服 S1 更新说明全文：`docs/reference/s1-patch-notes.md`；交叉验证结论：`docs/reference/s1-verification.md`
@@ -249,6 +249,7 @@ python3 tools/verify_dropcalc_tables.py --repo /tmp/SOECN_repo \
 |---|---|---|
 | 词缀 | **无法可靠枚举** | 早先按「行」比出「前缀缺 85 / 后缀缺 111」，**这个数字不可信**：源码 839 行里有 141 行是同一条词缀按物品类型重复登记。改按「属性码+数值」比对后，源码唯一组合 616 / 本站 569，但**既缺 273 又多 226** → 两组数据的 key 对不齐（`group` 编号体系不同、多属性行的组合方式不同）。抽查证实：有的确实缺（`mag% 10-15`、`res-ltng 31-50`），有的其实有但 group 号不同（`att 81-100`）。**结论：缺口真实存在但无法可靠列举，更不能靠模板猜着补 → 不做** |
 | ~~暗金「驯服」~~ | **已收录** | 查明它是**方块合成**产物（巴尔通行证 + 巴尔喘息 + 巴尔之握 → 驯服），`rarity=0` 只表示不掉落。官方串表里有 `The Taming` / `StrTamingAura` / `StrTamingHint`，已补入暗金表与魔方页 |
+| ~~暗金 `Templar's Might` 中文名~~ | **已校准** | 源码表里只有英文名 `Templar's Might`；旧译「圣骑士的力量」是早期翻译脚本遗留（`Uniques.json` + `UniqueItems.txt` 中文化副本各一处）。**国服客户端实机画面显示「圣堂武士的力量」**，并与官方串表的 `Templar Coat = 圣堂武士外袍` 同源 → 2026-09-14 统一为「圣堂武士的力量」（改 `Uniques.json` / `damnation/Uniques.json` / 两张 `UniqueItems.txt` 的中文 `index` 列） |
 | 任务物品 | 6 条 | 国王之杖 / 赫拉迪克法杖 等，`quest` 列非空，不进暗金列表 |
 | 升华灵魂石系列 | 19 条 | 源码 `UniqueItems.txt` 里有，但属**升华**内容，已在「升华」页收录 |
 | 基础游戏物品中文名 | 92 条已校准 | 珠宝 / 护身符 / 钥匙 / 宝石 / 药水走**基础游戏**中文串，SOE 串表（3854 条，仅为模组覆盖表）里没有。**改以 PD2 汉化 wiki 为准**（SOE 的底座）：对照表存档在 `docs/reference/pd2_zh_item_names.json`，登记在 `official_names.BASE_GAME_NAME`，审计第 3e 项逐条比对（当前 0 不一致，1 条登记的有意偏离：`key` 本站作「普通钥匙」以区别于「骷髅钥匙」） |

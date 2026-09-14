@@ -215,6 +215,20 @@ def main():
              and len([r for r in DM if r["section"] == "ORB OF CHANCE - OUTCOME - SUCCESS"]) == 52
              and not any(r["section"].startswith("ORB OF CHANCE") for r in ST))
 
+    # 「低成本路线」（页面「机遇宝珠系统」节）的两条前提：
+    #   1) 升阶公式只覆盖 稀有/套装/暗金 —— 白色/魔法没有升阶行，所以必须先点金；
+    #   2) 机遇宝珠组配方行 ilvl 留空、输出 lvl 固定 99 —— 源码不按输入底材设物品等级门槛。
+    asc = [r for r in DM if "->" in (r["description"] or "")
+           and any(k in (r["description"] or "").lower() for k in ("exceptional", "elite"))]
+    asc_txt = " ".join((r["description"] or "").lower() for r in asc)
+    ck.check("升阶公式无 白色/魔法/超强 底材（只有 rare/set/unique）—— 即「必须先点金」",
+             bool(asc) and not any(k in asc_txt for k in ("magic", "white", "superior")),
+             f"{len(asc)} 行升阶公式")
+    roll = [r for r in DM if r["section"] == "ORB OF CHANCE - ROLL"]
+    ck.check("机遇宝珠 52 行均 lvl=99 且 ilvl 留空（不按输入底材设物品等级门槛）",
+             len(roll) == 52 and {r["lvl"] for r in roll} == {"99"}
+             and {r["ilvl"] for r in roll} == {""})
+
     # ---------- 12) 文档已证错误行（应当删除/改写） ----------
     ck.group("L. 文档硬错误复核（改写后应为空/修正）")
     ck.check("无「炼狱熔炉+完美精华+晶化烬魂」格式的疯狂精华配方",

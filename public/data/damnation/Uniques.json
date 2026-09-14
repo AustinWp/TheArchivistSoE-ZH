@@ -28400,7 +28400,7 @@
     "hellforged": false
   },
   {
-    "index": "圣骑士的力量",
+    "index": "圣堂武士的力量",
     "enabled": "1",
     "level": 82,
     "requiredLevel": "74",
@@ -28453,7 +28453,7 @@
     "occurrenceChance": "0,58%",
     "occurrenceChanceCurrency": "0,58%",
     "itemTier": "精英",
-    "displayName": "圣骑士的力量",
+    "displayName": "圣堂武士的力量",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
