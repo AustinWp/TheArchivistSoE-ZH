@@ -1,6 +1,6 @@
 [
   {
-    "index": "啃咬者",
+    "index": "牙齿",
     "enabled": "1",
     "level": 7,
     "requiredLevel": "5",
@@ -69,7 +69,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "啃咬者",
+    "displayName": "牙齿",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "4 to 8",
     "displayTwoHandDamage": null,
@@ -179,7 +179,7 @@
     "hellforged": false
   },
   {
-    "index": "刀骨",
+    "index": "肩胛骨",
     "enabled": "1",
     "level": 20,
     "requiredLevel": "15",
@@ -248,7 +248,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "刀骨",
+    "displayName": "肩胛骨",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "6-7 to 16-19",
     "displayTwoHandDamage": null,
@@ -269,7 +269,7 @@
     "hellforged": false
   },
   {
-    "index": "裂魂",
+    "index": "切开骷髅",
     "enabled": "1",
     "level": 28,
     "requiredLevel": "21",
@@ -338,7 +338,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "劈颅者",
+    "displayName": "切开骷髅",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "11-12 to 17-19",
     "displayTwoHandDamage": null,
@@ -360,7 +360,7 @@
     "hellforged": false
   },
   {
-    "index": "耙痕",
+    "index": "火钩之伤",
     "enabled": "1",
     "level": 36,
     "requiredLevel": "27",
@@ -429,7 +429,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "耙痕",
+    "displayName": "火钩之伤",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "21-30 to 35-50",
     "displayTwoHandDamage": null,
@@ -538,7 +538,7 @@
     "hellforged": false
   },
   {
-    "index": "血腥之铲",
+    "index": "血块之铲",
     "enabled": "1",
     "level": 19,
     "requiredLevel": "14",
@@ -607,7 +607,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "血腥之铲",
+    "displayName": "血块之铲",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "13-15 to 32-36",
@@ -628,7 +628,7 @@
     "hellforged": false
   },
   {
-    "index": "酋长",
+    "index": "族长",
     "enabled": "1",
     "level": 26,
     "requiredLevel": "19",
@@ -697,7 +697,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "酋长",
+    "displayName": "族长",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "30-33 to 80-89",
@@ -717,7 +717,7 @@
     "hellforged": false
   },
   {
-    "index": "斩脑",
+    "index": "脑袋",
     "enabled": "1",
     "level": 34,
     "requiredLevel": "25",
@@ -786,7 +786,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "斩脑",
+    "displayName": "脑袋",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "38-41 to 81-90",
@@ -808,7 +808,7 @@
     "hellforged": false
   },
   {
-    "index": "庞然大物",
+    "index": "巨大无比",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "29",
@@ -877,7 +877,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "巨大",
+    "displayName": "巨大无比",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "69-82 to 141-178",
@@ -900,7 +900,7 @@
     "hellforged": false
   },
   {
-    "index": "伊罗的火炬",
+    "index": "衣洛的火炬",
     "enabled": "1",
     "level": 7,
     "requiredLevel": "5",
@@ -909,7 +909,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "杖",
+      "name": "法杖",
       "type": "wand",
       "secondType": "1han",
       "code": "wnd",
@@ -954,9 +954,9 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "杖",
+      "displayName": "法杖",
       "itemTier": "普通",
-      "normalItemDisplayName": "杖",
+      "normalItemDisplayName": "法杖",
       "exceptionalItemDisplayName": "烧焦之杖",
       "eliteItemDisplayName": "洗练法杖",
       "onlyClassDisplayText": null,
@@ -969,7 +969,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "伊罗的火炬",
+    "displayName": "衣洛的火炬",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -991,7 +991,7 @@
     "hellforged": false
   },
   {
-    "index": "漩涡之怒",
+    "index": "漩涡",
     "enabled": "1",
     "level": 19,
     "requiredLevel": "14",
@@ -1060,7 +1060,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "大漩涡",
+    "displayName": "漩涡",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -1083,7 +1083,7 @@
     "hellforged": false
   },
   {
-    "index": "墓穴脊椎",
+    "index": "墓穴之脊",
     "enabled": "1",
     "level": 27,
     "requiredLevel": "20",
@@ -1152,7 +1152,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "墓穴脊椎",
+    "displayName": "墓穴之脊",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -1175,7 +1175,7 @@
     "hellforged": false
   },
   {
-    "index": "乌米的悲叹",
+    "index": "乌米的恸哭",
     "enabled": "1",
     "level": 38,
     "requiredLevel": "28",
@@ -1244,7 +1244,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "乌米的悲叹",
+    "displayName": "乌米的恸哭",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -1265,7 +1265,7 @@
     "hellforged": false
   },
   {
-    "index": "费洛橡木",
+    "index": "凶猛橡树",
     "enabled": "1",
     "level": 4,
     "requiredLevel": "3",
@@ -1334,7 +1334,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "费洛橡木",
+    "displayName": "凶猛橡树",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "1 to 10",
     "displayTwoHandDamage": null,
@@ -1355,7 +1355,7 @@
     "hellforged": false
   },
   {
-    "index": "丧钟打击者",
+    "index": "敲击丧钟者",
     "enabled": "1",
     "level": 7,
     "requiredLevel": "5",
@@ -1424,7 +1424,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "丧钟打击者",
+    "displayName": "敲击丧钟者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "10 to 18",
     "displayTwoHandDamage": null,
@@ -1445,7 +1445,7 @@
     "hellforged": false
   },
   {
-    "index": "锈柄",
+    "index": "腐蚀的把手",
     "enabled": "1",
     "level": 23,
     "requiredLevel": "17",
@@ -1514,7 +1514,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "锈柄",
+    "displayName": "腐蚀的把手",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "15 to 34",
     "displayTwoHandDamage": null,
@@ -1538,7 +1538,7 @@
     "hellforged": false
   },
   {
-    "index": "风暴之眼",
+    "index": "暴风眼",
     "enabled": "1",
     "level": 31,
     "requiredLevel": "23",
@@ -1607,7 +1607,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "风暴之眼",
+    "displayName": "暴风眼",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "21-26 to 34-41",
     "displayTwoHandDamage": null,
@@ -1629,7 +1629,7 @@
     "hellforged": false
   },
   {
-    "index": "粗钉",
+    "index": "坚硬的指甲",
     "enabled": "1",
     "level": 7,
     "requiredLevel": "5",
@@ -1698,7 +1698,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "粗钉",
+    "displayName": "坚硬的指甲",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "10 to 16",
     "displayTwoHandDamage": null,
@@ -1718,7 +1718,7 @@
     "hellforged": false
   },
   {
-    "index": "碾压突缘",
+    "index": "压碎的凸边",
     "enabled": "1",
     "level": 12,
     "requiredLevel": "9",
@@ -1787,7 +1787,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "碾压突缘",
+    "displayName": "压碎的凸边",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "5-6 to 18-20",
     "displayTwoHandDamage": null,
@@ -1898,7 +1898,7 @@
     "hellforged": false
   },
   {
-    "index": "将军的坦多利加",
+    "index": "坦－杜－里－嘎将军",
     "enabled": "1",
     "level": 28,
     "requiredLevel": "21",
@@ -1956,7 +1956,7 @@
       "itemTier": "普通",
       "normalItemDisplayName": "链枷",
       "exceptionalItemDisplayName": "铁皮鞭",
-      "eliteItemDisplayName": "鞭",
+      "eliteItemDisplayName": "天罚之锤",
       "onlyClassDisplayText": null,
       "uniques": null,
       "dontDisplay": false,
@@ -1967,7 +1967,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "将军的坦多利加",
+    "displayName": "坦－杜－里－嘎将军",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "11 to 66",
     "displayTwoHandDamage": null,
@@ -2078,7 +2078,7 @@
     "hellforged": false
   },
   {
-    "index": "骨泣",
+    "index": "碎骨",
     "enabled": "1",
     "level": 32,
     "requiredLevel": "24",
@@ -2167,7 +2167,7 @@
     "hellforged": false
   },
   {
-    "index": "钢椎",
+    "index": "铁制大锤",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "29",
@@ -2236,7 +2236,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "钢椎",
+    "displayName": "铁制大锤",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "106-144 to 162-220",
@@ -2255,7 +2255,7 @@
     "hellforged": false
   },
   {
-    "index": "里索特的利刃",
+    "index": "瑞克撒特的挽歌",
     "enabled": "1",
     "level": 3,
     "requiredLevel": "2",
@@ -2324,7 +2324,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "里索特的利刃",
+    "displayName": "瑞克撒特的挽歌",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "9 to 14",
     "displayTwoHandDamage": null,
@@ -2436,7 +2436,7 @@
     "hellforged": false
   },
   {
-    "index": "克林蒂兹的串刺",
+    "index": "格林提斯的肉叉",
     "enabled": "1",
     "level": 14,
     "requiredLevel": "10",
@@ -2505,7 +2505,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "克林蒂兹的串刺",
+    "displayName": "格林提斯的肉叉",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "9-10 to 22-23",
     "displayTwoHandDamage": null,
@@ -2527,7 +2527,7 @@
     "hellforged": false
   },
   {
-    "index": "微光之镰",
+    "index": "闪耀的镰刀",
     "enabled": "1",
     "level": 18,
     "requiredLevel": "13",
@@ -2596,7 +2596,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "微光之镰",
+    "displayName": "闪耀的镰刀",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "14-18 to 27-34",
     "displayTwoHandDamage": null,
@@ -2617,7 +2617,7 @@
     "hellforged": false
   },
   {
-    "index": "格里斯沃尔德的边缘",
+    "index": "格瑞斯华尔德的锐利",
     "enabled": "1",
     "level": 23,
     "requiredLevel": "17",
@@ -2686,7 +2686,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "格里斯沃尔德的边缘",
+    "displayName": "格瑞斯华尔德的锐利",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "12-15 to 25-30",
     "displayTwoHandDamage": null,
@@ -2796,7 +2796,7 @@
     "hellforged": false
   },
   {
-    "index": "库尔温之尖",
+    "index": "库尔温的尖端",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "29",
@@ -2865,7 +2865,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "库尔温之尖",
+    "displayName": "库尔温的尖端",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "17-20 to 44-50",
     "displayTwoHandDamage": null,
@@ -2886,7 +2886,7 @@
     "hellforged": false
   },
   {
-    "index": "暗影之牙",
+    "index": "影之牙",
     "enabled": "1",
     "level": 16,
     "requiredLevel": "12",
@@ -2943,7 +2943,7 @@
       "displayName": "双手剑",
       "itemTier": "普通",
       "normalItemDisplayName": "双手剑",
-      "exceptionalItemDisplayName": "双刃大剑",
+      "exceptionalItemDisplayName": "斩铁剑",
       "eliteItemDisplayName": "传说之剑",
       "onlyClassDisplayText": null,
       "uniques": null,
@@ -2955,7 +2955,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "暗影之牙",
+    "displayName": "影之牙",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "4-5 to 19-23",
     "displayTwoHandDamage": "17-20 to 37-44",
@@ -2977,7 +2977,7 @@
     "hellforged": false
   },
   {
-    "index": "剥魂",
+    "index": "剥皮灵魂",
     "enabled": "1",
     "level": 26,
     "requiredLevel": "19",
@@ -3046,7 +3046,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "剥魂",
+    "displayName": "剥皮灵魂",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "10-11 to 24-27",
     "displayTwoHandDamage": "26-29 to 60-69",
@@ -3066,7 +3066,7 @@
     "hellforged": false
   },
   {
-    "index": "基尼米尔的锥子",
+    "index": "金麦尔的锥子",
     "enabled": "1",
     "level": 31,
     "requiredLevel": "23",
@@ -3135,7 +3135,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "基尼米尔的锥子",
+    "displayName": "金麦尔的锥子",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "5-6 to 28-32",
     "displayTwoHandDamage": "16-18 to 50-56",
@@ -3155,7 +3155,7 @@
     "hellforged": false
   },
   {
-    "index": "黑舌",
+    "index": "黑色之舌",
     "enabled": "1",
     "level": 35,
     "requiredLevel": "26",
@@ -3224,7 +3224,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "黑舌",
+    "displayName": "黑色之舌",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "10-12 to 28-34",
     "displayTwoHandDamage": "30-36 to 42-50",
@@ -3245,7 +3245,7 @@
     "hellforged": false
   },
   {
-    "index": "撕裂锯",
+    "index": "粗齿大锯",
     "enabled": "1",
     "level": 35,
     "requiredLevel": "26",
@@ -3314,7 +3314,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "撕裂锯",
+    "displayName": "粗齿大锯",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "19-23 to 48-54",
     "displayTwoHandDamage": "28-33 to 72-82",
@@ -3515,7 +3515,7 @@
     "hellforged": false
   },
   {
-    "index": "掘地者",
+    "index": "迪格勒",
     "enabled": "1",
     "level": 15,
     "requiredLevel": "11",
@@ -3573,7 +3573,7 @@
       "itemTier": "普通",
       "normalItemDisplayName": "长匕首",
       "exceptionalItemDisplayName": "诗歌匕首",
-      "eliteItemDisplayName": "秘银尖刺",
+      "eliteItemDisplayName": "秘银小刀",
       "onlyClassDisplayText": null,
       "uniques": null,
       "dontDisplay": false,
@@ -3584,7 +3584,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "掘地者",
+    "displayName": "迪格勒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "5 to 15",
     "displayTwoHandDamage": null,
@@ -3606,7 +3606,7 @@
     "hellforged": false
   },
   {
-    "index": "翡翠坦多",
+    "index": "坦杜之玉",
     "enabled": "1",
     "level": 26,
     "requiredLevel": "19",
@@ -3675,7 +3675,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "翡翠坦多",
+    "displayName": "坦杜之玉",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -3698,7 +3698,7 @@
     "hellforged": false
   },
   {
-    "index": "艾莉丝碎片",
+    "index": "妖怪碎片",
     "enabled": "1",
     "level": 34,
     "requiredLevel": "25",
@@ -3707,7 +3707,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "刀锋之",
+      "name": "短刀",
       "type": "knif",
       "secondType": "1han",
       "code": "bld",
@@ -3752,9 +3752,9 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "刀锋之",
+      "displayName": "短刀",
       "itemTier": "普通",
-      "normalItemDisplayName": "刀锋之",
+      "normalItemDisplayName": "短刀",
       "exceptionalItemDisplayName": "小剑",
       "eliteItemDisplayName": "传说尖刺",
       "onlyClassDisplayText": null,
@@ -3767,7 +3767,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "幽魂碎片",
+    "displayName": "妖怪碎片",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -3787,7 +3787,7 @@
     "hellforged": false
   },
   {
-    "index": "龙昌",
+    "index": "张龙",
     "enabled": "1",
     "level": 11,
     "requiredLevel": "8",
@@ -3856,7 +3856,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "龙昌",
+    "displayName": "张龙",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "10 to 0",
@@ -3967,7 +3967,7 @@
     "hellforged": false
   },
   {
-    "index": "血之窃贼",
+    "index": "血之偷",
     "enabled": "1",
     "level": 23,
     "requiredLevel": "17",
@@ -4036,7 +4036,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "血之窃贼",
+    "displayName": "血之偷",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "10-14 to 25-35",
@@ -4057,7 +4057,7 @@
     "hellforged": false
   },
   {
-    "index": "亚盖之枪",
+    "index": "雅该长矛",
     "enabled": "1",
     "level": 30,
     "requiredLevel": "22",
@@ -4126,7 +4126,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "亚盖之枪",
+    "displayName": "雅该长矛",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "0 to 0",
@@ -4147,7 +4147,7 @@
     "hellforged": false
   },
   {
-    "index": "坦恩的血棒",
+    "index": "坦之血杖",
     "enabled": "1",
     "level": 36,
     "requiredLevel": "27",
@@ -4216,7 +4216,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "坦恩的血棒",
+    "displayName": "坦之血杖",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "36-39 to 163-176",
@@ -4238,7 +4238,7 @@
     "hellforged": false
   },
   {
-    "index": "迪莫克之砍",
+    "index": "迪马克之劈砍",
     "enabled": "1",
     "level": 11,
     "requiredLevel": "8",
@@ -4307,7 +4307,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "迪莫克之砍",
+    "displayName": "迪马克之劈砍",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "2 to 54",
@@ -4326,7 +4326,7 @@
     "hellforged": false
   },
   {
-    "index": "钢刺",
+    "index": "铁刺棒",
     "enabled": "1",
     "level": 19,
     "requiredLevel": "14",
@@ -4395,7 +4395,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "钢刺",
+    "displayName": "铁刺棒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "9-10 to 33-37",
@@ -4415,7 +4415,7 @@
     "hellforged": false
   },
   {
-    "index": "灵魂收割",
+    "index": "灵魂采集者",
     "enabled": "1",
     "level": 26,
     "requiredLevel": "19",
@@ -4484,7 +4484,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "灵魂收割",
+    "displayName": "灵魂采集者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "12-14 to 30-36",
@@ -4506,7 +4506,7 @@
     "hellforged": false
   },
   {
-    "index": "战枝",
+    "index": "战斗支系",
     "enabled": "1",
     "level": 34,
     "requiredLevel": "25",
@@ -4575,7 +4575,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "战枝",
+    "displayName": "战斗支系",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "30-41 to 66-89",
@@ -4595,7 +4595,7 @@
     "hellforged": false
   },
   {
-    "index": "悲杖",
+    "index": "烦恼诗集",
     "enabled": "1",
     "level": 38,
     "requiredLevel": "28",
@@ -4664,7 +4664,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "悲杖",
+    "displayName": "烦恼诗集",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "16-21 to 63-81",
@@ -4687,7 +4687,7 @@
     "hellforged": false
   },
   {
-    "index": "冷酷死神",
+    "index": "冷酷开膛手",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "29",
@@ -4756,7 +4756,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "冷酷死神",
+    "displayName": "冷酷开膛手",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "43-51 to 68-86",
@@ -4777,7 +4777,7 @@
     "hellforged": false
   },
   {
-    "index": "灾厄之烬",
+    "index": "祸根之灰",
     "enabled": "1",
     "level": 7,
     "requiredLevel": "5",
@@ -4846,7 +4846,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "灾厄之烬",
+    "displayName": "祸根之灰",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "1 to 7",
@@ -4869,7 +4869,7 @@
     "hellforged": false
   },
   {
-    "index": "蛇王",
+    "index": "海蛇之王",
     "enabled": "1",
     "level": 12,
     "requiredLevel": "9",
@@ -4938,7 +4938,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "蛇王",
+    "displayName": "海蛇之王",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "2 to 10",
@@ -4962,7 +4962,7 @@
     "hellforged": false
   },
   {
-    "index": "拉撒路的尖塔",
+    "index": "拉撒罗斯之螺旋",
     "enabled": "1",
     "level": 24,
     "requiredLevel": "18",
@@ -5031,7 +5031,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "拉扎鲁斯的法杖",
+    "displayName": "拉撒罗斯之螺旋",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "0 to 0",
@@ -5056,7 +5056,7 @@
     "hellforged": false
   },
   {
-    "index": "火蜥蜴",
+    "index": "火精灵",
     "enabled": "1",
     "level": 28,
     "requiredLevel": "21",
@@ -5125,7 +5125,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "火蜥蜴",
+    "displayName": "火精灵",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "0 to 0",
@@ -5148,7 +5148,7 @@
     "hellforged": false
   },
   {
-    "index": "铁长棒",
+    "index": "铁检棒",
     "enabled": "1",
     "level": 38,
     "requiredLevel": "28",
@@ -5217,7 +5217,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "铁长棒",
+    "displayName": "铁检棒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "24 to 56",
@@ -5241,7 +5241,7 @@
     "hellforged": false
   },
   {
-    "index": "拔眼之弓",
+    "index": "勇气之眼",
     "enabled": "1",
     "level": 10,
     "requiredLevel": "7",
@@ -5300,7 +5300,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "拔眼之弓",
+    "displayName": "勇气之眼",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "2 to 8",
@@ -5322,7 +5322,7 @@
     "hellforged": false
   },
   {
-    "index": "枯萎之弦",
+    "index": "凋谢之戒",
     "enabled": "1",
     "level": 18,
     "requiredLevel": "13",
@@ -5381,7 +5381,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "枯萎之弦",
+    "displayName": "凋谢之戒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "5-6 to 14-15",
@@ -5402,7 +5402,7 @@
     "hellforged": false
   },
   {
-    "index": "霜鸦",
+    "index": "渡鸟之爪",
     "enabled": "1",
     "level": 20,
     "requiredLevel": "15",
@@ -5461,7 +5461,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "渡鸦之爪",
+    "displayName": "渡鸟之爪",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "8 to 16",
@@ -5481,7 +5481,7 @@
     "hellforged": false
   },
   {
-    "index": "穿肋",
+    "index": "萝格之弓",
     "enabled": "1",
     "level": 27,
     "requiredLevel": "20",
@@ -5540,7 +5540,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "游侠之弓",
+    "displayName": "萝格之弓",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "9-11 to 16-19",
@@ -5562,7 +5562,7 @@
     "hellforged": false
   },
   {
-    "index": "怨愤",
+    "index": "暴风之击",
     "enabled": "1",
     "level": 34,
     "requiredLevel": "25",
@@ -5621,7 +5621,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "风暴打击",
+    "displayName": "暴风之击",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "14-16 to 28-32",
@@ -5642,7 +5642,7 @@
     "hellforged": false
   },
   {
-    "index": "干枯之弓",
+    "index": "凋谢之画",
     "enabled": "1",
     "level": 35,
     "requiredLevel": "26",
@@ -5701,7 +5701,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "干枯之弓",
+    "displayName": "凋谢之画",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "11-12 to 30-32",
@@ -5724,7 +5724,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱雷鸣",
+    "index": "作响的地狱",
     "enabled": "1",
     "level": 36,
     "requiredLevel": "27",
@@ -5783,7 +5783,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "地狱雷鸣",
+    "displayName": "作响的地狱",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "13-15 to 30-36",
@@ -5806,7 +5806,7 @@
     "hellforged": false
   },
   {
-    "index": "爆裂树皮",
+    "index": "爆裂的吠叫",
     "enabled": "1",
     "level": 38,
     "requiredLevel": "28",
@@ -5865,7 +5865,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "爆裂树皮",
+    "displayName": "爆裂的吠叫",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "6-7 to 50-57",
@@ -5887,7 +5887,7 @@
     "hellforged": false
   },
   {
-    "index": "铅乌鸦",
+    "index": "引导乌鸦",
     "enabled": "1",
     "level": 12,
     "requiredLevel": "9",
@@ -5946,7 +5946,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "铅乌鸦",
+    "displayName": "引导乌鸦",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "13 to 18",
@@ -6048,7 +6048,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱投掷",
+    "index": "投掷地狱",
     "enabled": "1",
     "level": 36,
     "requiredLevel": "27",
@@ -6095,7 +6095,7 @@
       "displayName": "重十字弓",
       "itemTier": "普通",
       "normalItemDisplayName": "重十字弓",
-      "exceptionalItemDisplayName": "弩炮",
+      "exceptionalItemDisplayName": "弩弓",
       "eliteItemDisplayName": "巨神十字弓",
       "onlyClassDisplayText": null,
       "uniques": null,
@@ -6107,7 +6107,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "地狱投掷",
+    "displayName": "投掷地狱",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "34-36 to 56-59",
@@ -6129,7 +6129,7 @@
     "hellforged": false
   },
   {
-    "index": "末日之涎",
+    "index": "毁灭投石者",
     "enabled": "1",
     "level": 38,
     "requiredLevel": "28",
@@ -6188,7 +6188,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "末日投掷",
+    "displayName": "毁灭投石者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "17-21 to 34-43",
@@ -6209,7 +6209,7 @@
     "hellforged": false
   },
   {
-    "index": "战盔",
+    "index": "毕格因的软帽",
     "enabled": "1",
     "level": 4,
     "requiredLevel": "3",
@@ -6262,7 +6262,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "毕金的软帽",
+    "displayName": "毕格因的软帽",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -6282,7 +6282,7 @@
     "hellforged": false
   },
   {
-    "index": "塔恩头盔",
+    "index": "塔因头盔",
     "enabled": "1",
     "level": 20,
     "requiredLevel": "15",
@@ -6335,7 +6335,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "塔恩头盔",
+    "displayName": "塔因头盔",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -6354,7 +6354,7 @@
     "hellforged": false
   },
   {
-    "index": "荣耀之帽",
+    "index": "光荣布帽",
     "enabled": "1",
     "level": 19,
     "requiredLevel": "14",
@@ -6407,7 +6407,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "荣耀之帽",
+    "displayName": "光荣布帽",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -6428,7 +6428,7 @@
     "hellforged": false
   },
   {
-    "index": "黄昏之深",
+    "index": "黄昏深处",
     "enabled": "1",
     "level": 23,
     "requiredLevel": "17",
@@ -6481,7 +6481,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "黄昏之深",
+    "displayName": "黄昏深处",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -6502,7 +6502,7 @@
     "hellforged": false
   },
   {
-    "index": "虫颅",
+    "index": "蠕虫骷髅",
     "enabled": "1",
     "level": 28,
     "requiredLevel": "21",
@@ -6555,7 +6555,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "虫颅",
+    "displayName": "蠕虫骷髅",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -6576,7 +6576,7 @@
     "hellforged": false
   },
   {
-    "index": "嚎叫獠牙",
+    "index": "怒号长牙",
     "enabled": "1",
     "level": 34,
     "requiredLevel": "25",
@@ -6629,7 +6629,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "嚎叫獠牙",
+    "displayName": "怒号长牙",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -6726,7 +6726,7 @@
     "hellforged": false
   },
   {
-    "index": "恐怖之脸",
+    "index": "恐惧之脸",
     "enabled": "1",
     "level": 27,
     "requiredLevel": "20",
@@ -6779,7 +6779,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "恐怖之脸",
+    "displayName": "恐惧之脸",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -6799,7 +6799,7 @@
     "hellforged": false
   },
   {
-    "index": "灰色形态",
+    "index": "薄暮外观",
     "enabled": "1",
     "level": 10,
     "requiredLevel": "7",
@@ -6852,7 +6852,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "灰色形态",
+    "displayName": "薄暮外观",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -6873,7 +6873,7 @@
     "hellforged": false
   },
   {
-    "index": "蝙蝠之形",
+    "index": "眨眼蝙蝠的外观",
     "enabled": "1",
     "level": 16,
     "requiredLevel": "12",
@@ -6926,7 +6926,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "蝙蝠之形",
+    "displayName": "眨眼蝙蝠的外观",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -7022,7 +7022,7 @@
     "hellforged": false
   },
   {
-    "index": "抽搐之衣",
+    "index": "抽动的挣扎",
     "enabled": "1",
     "level": 22,
     "requiredLevel": "16",
@@ -7075,7 +7075,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "抽搐之衣",
+    "displayName": "抽动的挣扎",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -7096,7 +7096,7 @@
     "hellforged": false
   },
   {
-    "index": "暗光",
+    "index": "扩散黑暗",
     "enabled": "1",
     "level": 19,
     "requiredLevel": "14",
@@ -7149,7 +7149,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "暗光",
+    "displayName": "扩散黑暗",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -7320,7 +7320,7 @@
     "hellforged": false
   },
   {
-    "index": "毒液守卫",
+    "index": "毒液牢房",
     "enabled": "1",
     "level": 27,
     "requiredLevel": "20",
@@ -7373,7 +7373,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "毒液守卫",
+    "displayName": "毒液牢房",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -7394,7 +7394,7 @@
     "hellforged": false
   },
   {
-    "index": "冰眨",
+    "index": "冰雪眨眼",
     "enabled": "1",
     "level": 30,
     "requiredLevel": "22",
@@ -7447,7 +7447,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "冰眨",
+    "displayName": "冰雪眨眼",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -7510,7 +7510,7 @@
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "铠甲",
       "exceptionalItemDisplayName": "圣堂武士外袍",
-      "eliteItemDisplayName": "地狱锻铸板甲",
+      "eliteItemDisplayName": "地狱锻甲",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -7542,7 +7542,7 @@
     "hellforged": false
   },
   {
-    "index": "岩石之衣",
+    "index": "石之毛",
     "enabled": "1",
     "level": 38,
     "requiredLevel": "28",
@@ -7595,7 +7595,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "岩石之衣",
+    "displayName": "石之毛",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -7615,7 +7615,7 @@
     "hellforged": false
   },
   {
-    "index": "响骨之甲",
+    "index": "作响之笼",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "29",
@@ -7668,7 +7668,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "响骨之甲",
+    "displayName": "作响之笼",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -7688,7 +7688,7 @@
     "hellforged": false
   },
   {
-    "index": "金皮",
+    "index": "黄金之皮",
     "enabled": "1",
     "level": 38,
     "requiredLevel": "28",
@@ -7741,7 +7741,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "金皮",
+    "displayName": "黄金之皮",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -7761,7 +7761,7 @@
     "hellforged": false
   },
   {
-    "index": "胜利者之丝",
+    "index": "胜利者之丝绸",
     "enabled": "1",
     "level": 38,
     "requiredLevel": "28",
@@ -7814,7 +7814,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "胜利者之绸",
+    "displayName": "胜利者之丝绸",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -7835,7 +7835,7 @@
     "hellforged": false
   },
   {
-    "index": "天堂之衣",
+    "index": "天堂装束",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "29",
@@ -7888,7 +7888,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "天堂之衣",
+    "displayName": "天堂装束",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -7911,7 +7911,7 @@
     "hellforged": false
   },
   {
-    "index": "月牙盾",
+    "index": "新月小盾",
     "enabled": "1",
     "level": 3,
     "requiredLevel": "2",
@@ -7964,7 +7964,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "月牙盾",
+    "displayName": "新月小盾",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -7986,7 +7986,7 @@
     "hellforged": false
   },
   {
-    "index": "幽影之盘",
+    "index": "阴影圆盘",
     "enabled": "1",
     "level": 12,
     "requiredLevel": "9",
@@ -8039,7 +8039,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "幽影之盘",
+    "displayName": "阴影圆盘",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -8062,7 +8062,7 @@
     "hellforged": false
   },
   {
-    "index": "风暴行会",
+    "index": "暴风公会",
     "enabled": "1",
     "level": 18,
     "requiredLevel": "13",
@@ -8115,7 +8115,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "风暴行会",
+    "displayName": "暴风公会",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -8137,7 +8137,7 @@
     "hellforged": false
   },
   {
-    "index": "无目之墙",
+    "index": "无眼之墙",
     "enabled": "1",
     "level": 27,
     "requiredLevel": "20",
@@ -8200,7 +8200,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "无目之墙",
+    "displayName": "无眼之墙",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -8223,7 +8223,7 @@
     "hellforged": false
   },
   {
-    "index": "剑背",
+    "index": "剑背之架",
     "enabled": "1",
     "level": 20,
     "requiredLevel": "15",
@@ -8286,7 +8286,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "剑背",
+    "displayName": "剑背之架",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -8307,7 +8307,7 @@
     "hellforged": false
   },
   {
-    "index": "钢铁撞击",
+    "index": "作响的金属",
     "enabled": "1",
     "level": 23,
     "requiredLevel": "17",
@@ -8360,7 +8360,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "钢铁撞击",
+    "displayName": "作响的金属",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -8382,7 +8382,7 @@
     "hellforged": false
   },
   {
-    "index": "布维利特要塞",
+    "index": "贝弗提的纪念",
     "enabled": "1",
     "level": 26,
     "requiredLevel": "19",
@@ -8424,7 +8424,7 @@
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "塔盾",
       "exceptionalItemDisplayName": "大盾",
-      "eliteItemDisplayName": "庇护",
+      "eliteItemDisplayName": "圣盾",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -8435,7 +8435,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "布维利特要塞",
+    "displayName": "贝弗提的纪念",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -8457,7 +8457,7 @@
     "hellforged": false
   },
   {
-    "index": "守卫之盾",
+    "index": "囚房",
     "enabled": "1",
     "level": 35,
     "requiredLevel": "26",
@@ -8499,7 +8499,7 @@
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "哥德盾牌",
       "exceptionalItemDisplayName": "古代之盾",
-      "eliteItemDisplayName": "囚房",
+      "eliteItemDisplayName": "保护盾牌",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -8510,7 +8510,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "守卫之盾",
+    "displayName": "囚房",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -8531,7 +8531,7 @@
     "hellforged": false
   },
   {
-    "index": "布洛克之手",
+    "index": "柏克之手",
     "enabled": "1",
     "level": 7,
     "requiredLevel": "5",
@@ -8539,7 +8539,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "手套",
+      "name": "皮手套",
       "minDefense": 2,
       "maxDefense": 3,
       "requiredStrength": "0",
@@ -8569,9 +8569,9 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "手套",
+      "displayName": "皮手套",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "手套",
+      "normalItemDisplayName": "皮手套",
       "exceptionalItemDisplayName": "魔皮手套",
       "eliteItemDisplayName": "荆棘连指手套",
       "uniques": null,
@@ -8584,7 +8584,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "布洛克之手",
+    "displayName": "柏克之手",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -8680,7 +8680,7 @@
     "hellforged": false
   },
   {
-    "index": "幸运守护",
+    "index": "运气守护",
     "enabled": "1",
     "level": 20,
     "requiredLevel": "15",
@@ -8688,7 +8688,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "护腕",
+      "name": "锁链手套",
       "minDefense": 8,
       "maxDefense": 9,
       "requiredStrength": "25",
@@ -8718,9 +8718,9 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "护腕",
+      "displayName": "锁链手套",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "护腕",
+      "normalItemDisplayName": "锁链手套",
       "exceptionalItemDisplayName": "重型手镯",
       "eliteItemDisplayName": "吸血鬼手套",
       "uniques": null,
@@ -8733,7 +8733,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "幸运守护",
+    "displayName": "运气守护",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -8904,7 +8904,7 @@
     "hellforged": false
   },
   {
-    "index": "火爆",
+    "index": "热靴刺",
     "enabled": "1",
     "level": 7,
     "requiredLevel": "5",
@@ -8957,7 +8957,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "火爆",
+    "displayName": "热靴刺",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -8978,7 +8978,7 @@
     "hellforged": false
   },
   {
-    "index": "血腥之脚",
+    "index": "血脚",
     "enabled": "1",
     "level": 12,
     "requiredLevel": "12",
@@ -9031,7 +9031,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "血腥之脚",
+    "displayName": "血脚",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9051,7 +9051,7 @@
     "hellforged": false
   },
   {
-    "index": "冥土之履",
+    "index": "凯松的征服",
     "enabled": "1",
     "level": 20,
     "requiredLevel": "15",
@@ -9104,7 +9104,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "冥土之履",
+    "displayName": "凯松的征服",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9126,7 +9126,7 @@
     "hellforged": false
   },
   {
-    "index": "哥布林脚趾",
+    "index": "小妖精脚趾",
     "enabled": "1",
     "level": 30,
     "requiredLevel": "22",
@@ -9134,7 +9134,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "轻型板甲靴",
+      "name": "轻型金属靴",
       "minDefense": 9,
       "maxDefense": 11,
       "requiredStrength": "50",
@@ -9164,9 +9164,9 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "轻型板甲靴",
+      "displayName": "轻型金属靴",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "轻型板甲靴",
+      "normalItemDisplayName": "轻型金属靴",
       "exceptionalItemDisplayName": "战场之靴",
       "eliteItemDisplayName": "镜化靴",
       "uniques": null,
@@ -9179,7 +9179,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "哥布林脚趾",
+    "displayName": "小妖精脚趾",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9201,7 +9201,7 @@
     "hellforged": false
   },
   {
-    "index": "撕裂护腿",
+    "index": "泪之臀",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "29",
@@ -9209,7 +9209,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "板甲靴",
+      "name": "护胫",
       "minDefense": 12,
       "maxDefense": 15,
       "requiredStrength": "70",
@@ -9239,9 +9239,9 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "板甲靴",
+      "displayName": "护胫",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "板甲靴",
+      "normalItemDisplayName": "护胫",
       "exceptionalItemDisplayName": "巨战之靴",
       "eliteItemDisplayName": "极速靴",
       "uniques": null,
@@ -9254,7 +9254,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "撕裂护腿",
+    "displayName": "泪之臀",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9277,7 +9277,7 @@
     "hellforged": false
   },
   {
-    "index": "勒尼莫之索",
+    "index": "雷尼摩",
     "enabled": "1",
     "level": 10,
     "requiredLevel": "7",
@@ -9330,7 +9330,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "勒尼莫",
+    "displayName": "雷尼摩",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9350,7 +9350,7 @@
     "hellforged": false
   },
   {
-    "index": "蛇绳",
+    "index": "蛇索",
     "enabled": "1",
     "level": 16,
     "requiredLevel": "12",
@@ -9403,7 +9403,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "蛇绳",
+    "displayName": "蛇索",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9498,7 +9498,7 @@
     "hellforged": false
   },
   {
-    "index": "金裹",
+    "index": "金色包袱",
     "enabled": "1",
     "level": 36,
     "requiredLevel": "27",
@@ -9551,7 +9551,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "金裹",
+    "displayName": "金色包袱",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9572,7 +9572,7 @@
     "hellforged": false
   },
   {
-    "index": "刀扣",
+    "index": "锋利扣带",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "39",
@@ -9580,7 +9580,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "束带",
+      "name": "金属扣带",
       "minDefense": 8,
       "maxDefense": 11,
       "requiredStrength": "60",
@@ -9610,9 +9610,9 @@
       },
       "secondItemType": null,
       "itemTier": "普通",
-      "displayName": "束带",
+      "displayName": "金属扣带",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "束带",
+      "normalItemDisplayName": "金属扣带",
       "exceptionalItemDisplayName": "巨战腰带",
       "eliteItemDisplayName": "巨神腰带",
       "uniques": null,
@@ -9625,7 +9625,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "普通",
-    "displayName": "刀扣",
+    "displayName": "锋利扣带",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9647,7 +9647,7 @@
     "hellforged": false
   },
   {
-    "index": "诺科兰遗物",
+    "index": "诺科蓝遗物",
     "enabled": "1",
     "level": 14,
     "requiredLevel": "10",
@@ -9669,7 +9669,7 @@
     "occurrenceChance": "1,44%",
     "occurrenceChanceCurrency": "36,36%",
     "itemTier": null,
-    "displayName": "诺科兰遗物",
+    "displayName": "诺科蓝遗物",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9731,7 +9731,7 @@
     "hellforged": false
   },
   {
-    "index": "玛希姆奥克的橡木古董",
+    "index": "玛哈姆橡木古董",
     "enabled": "1",
     "level": 34,
     "requiredLevel": "25",
@@ -9753,7 +9753,7 @@
     "occurrenceChance": "0,72%",
     "occurrenceChanceCurrency": "18,18%",
     "itemTier": null,
-    "displayName": "玛希姆奥克的橡木古董",
+    "displayName": "玛哈姆橡木古董",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -9819,7 +9819,7 @@
     "hellforged": false
   },
   {
-    "index": "马纳德的治疗",
+    "index": "玛那得的治疗",
     "enabled": "1",
     "level": 20,
     "requiredLevel": "15",
@@ -9841,7 +9841,7 @@
     "occurrenceChance": "1,08%",
     "occurrenceChanceCurrency": "28,30%",
     "itemTier": null,
-    "displayName": "马纳德的治疗",
+    "displayName": "玛那得的治疗",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -10267,7 +10267,7 @@
     "hellforged": false
   },
   {
-    "index": "守护那加",
+    "index": "蛇神守护者",
     "enabled": "1",
     "level": 56,
     "requiredLevel": "48",
@@ -10336,7 +10336,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "守护那加",
+    "displayName": "蛇神守护者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "57-64 to 180-199",
     "displayTwoHandDamage": null,
@@ -10357,7 +10357,7 @@
     "hellforged": false
   },
   {
-    "index": "霸主的信任",
+    "index": "战爵之证",
     "enabled": "1",
     "level": 43,
     "requiredLevel": "35",
@@ -10426,7 +10426,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "霸主的信任",
+    "displayName": "战爵之证",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "57-74 to 167-216",
@@ -10449,7 +10449,7 @@
     "hellforged": false
   },
   {
-    "index": "咒术之钢",
+    "index": "钢铁魔咒",
     "enabled": "1",
     "level": 47,
     "requiredLevel": "39",
@@ -10518,7 +10518,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "咒术之钢",
+    "displayName": "钢铁魔咒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "79-103 to 185-241",
@@ -10543,7 +10543,7 @@
     "hellforged": false
   },
   {
-    "index": "风暴骑士",
+    "index": "暴风骑士",
     "enabled": "1",
     "level": 49,
     "requiredLevel": "41",
@@ -10612,7 +10612,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "风暴骑士",
+    "displayName": "暴风骑士",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "105 to 273",
@@ -10635,7 +10635,7 @@
     "hellforged": false
   },
   {
-    "index": "屠骨之刃",
+    "index": "碎骨者之刃",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -10704,7 +10704,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "屠骨之刃",
+    "displayName": "碎骨者之刃",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "64-73 to 280-320",
@@ -10819,7 +10819,7 @@
     "hellforged": false
   },
   {
-    "index": "自杀分支之杖",
+    "index": "自杀支系",
     "enabled": "1",
     "level": 41,
     "requiredLevel": "33",
@@ -10875,7 +10875,7 @@
       },
       "displayName": "烧焦之杖",
       "itemTier": "扩展",
-      "normalItemDisplayName": "杖",
+      "normalItemDisplayName": "法杖",
       "exceptionalItemDisplayName": "烧焦之杖",
       "eliteItemDisplayName": "洗练法杖",
       "onlyClassDisplayText": null,
@@ -10888,7 +10888,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "自杀分支之杖",
+    "displayName": "自杀支系",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -10910,7 +10910,7 @@
     "hellforged": false
   },
   {
-    "index": "卡林碎片",
+    "index": "凯恩碎片",
     "enabled": "1",
     "level": 43,
     "requiredLevel": "35",
@@ -10979,7 +10979,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "卡林碎片",
+    "displayName": "凯恩碎片",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -11002,7 +11002,7 @@
     "hellforged": false
   },
   {
-    "index": "李奥瑞克王的臂膀",
+    "index": "李奥瑞克王的武器",
     "enabled": "1",
     "level": 44,
     "requiredLevel": "36",
@@ -11071,7 +11071,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "李奥瑞克王的臂膀",
+    "displayName": "李奥瑞克王的武器",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -11187,7 +11187,7 @@
     "hellforged": false
   },
   {
-    "index": "黑暗氏族碾压者",
+    "index": "闇族碎灭者",
     "enabled": "1",
     "level": 42,
     "requiredLevel": "34",
@@ -11256,7 +11256,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "黑暗氏族碾压者",
+    "displayName": "闇族碎灭者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "28-34 to 84-102",
     "displayTwoHandDamage": null,
@@ -11278,7 +11278,7 @@
     "hellforged": false
   },
   {
-    "index": "萨卡兰姆之手",
+    "index": "撒卡兰姆之手",
     "enabled": "1",
     "level": 45,
     "requiredLevel": "37",
@@ -11347,7 +11347,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "萨卡兰姆之手",
+    "displayName": "撒卡兰姆之手",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "50-57 to 98-112",
     "displayTwoHandDamage": null,
@@ -11370,7 +11370,7 @@
     "hellforged": false
   },
   {
-    "index": "恶臭喷洒器",
+    "index": "恶臭散布者",
     "enabled": "1",
     "level": 46,
     "requiredLevel": "38",
@@ -11439,7 +11439,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "恶臭喷洒器",
+    "displayName": "恶臭散布者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "67-79 to 160-191",
     "displayTwoHandDamage": null,
@@ -11462,7 +11462,7 @@
     "hellforged": false
   },
   {
-    "index": "圣光之手",
+    "index": "祝福之光之手",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -11531,7 +11531,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "圣光之手",
+    "displayName": "祝福之光之手",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "75-82 to 150-164",
     "displayTwoHandDamage": null,
@@ -11557,7 +11557,7 @@
     "hellforged": false
   },
   {
-    "index": "血肉撕裂者",
+    "index": "血肉裁决者",
     "enabled": "1",
     "level": 46,
     "requiredLevel": "38",
@@ -11626,7 +11626,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "血肉撕裂者",
+    "displayName": "血肉裁决者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "76-85 to 132-150",
     "displayTwoHandDamage": null,
@@ -11651,7 +11651,7 @@
     "hellforged": false
   },
   {
-    "index": "尖啸寒霜",
+    "index": "尖啸冰霜",
     "enabled": "1",
     "level": 47,
     "requiredLevel": "39",
@@ -11720,7 +11720,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "尖啸寒霜",
+    "displayName": "尖啸冰霜",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "70-76 to 112-122",
     "displayTwoHandDamage": null,
@@ -11743,7 +11743,7 @@
     "hellforged": false
   },
   {
-    "index": "月落",
+    "index": "落月",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -11812,7 +11812,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "月落",
+    "displayName": "落月",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "79-88 to 123-136",
     "displayTwoHandDamage": null,
@@ -11835,7 +11835,7 @@
     "hellforged": false
   },
   {
-    "index": "贝泽尔的漩涡",
+    "index": "贝西尔的漩涡",
     "enabled": "1",
     "level": 53,
     "requiredLevel": "45",
@@ -11893,7 +11893,7 @@
       "itemTier": "扩展",
       "normalItemDisplayName": "链枷",
       "exceptionalItemDisplayName": "铁皮鞭",
-      "eliteItemDisplayName": "鞭",
+      "eliteItemDisplayName": "天罚之锤",
       "onlyClassDisplayText": null,
       "uniques": null,
       "dontDisplay": false,
@@ -11904,7 +11904,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "贝泽尔的漩涡",
+    "displayName": "贝西尔的漩涡",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "46-54 to 130-150",
     "displayTwoHandDamage": null,
@@ -11926,7 +11926,7 @@
     "hellforged": false
   },
   {
-    "index": "大地震撼者",
+    "index": "撼地者",
     "enabled": "1",
     "level": 51,
     "requiredLevel": "43",
@@ -11995,7 +11995,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "大地震撼者",
+    "displayName": "撼地者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "109-128 to 168-198",
     "displayTwoHandDamage": null,
@@ -12016,7 +12016,7 @@
     "hellforged": false
   },
   {
-    "index": "血树残桩",
+    "index": "血树残株",
     "enabled": "1",
     "level": 56,
     "requiredLevel": "48",
@@ -12085,7 +12085,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "血树残桩",
+    "displayName": "血树残株",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "213-248 to 350-406",
@@ -12107,7 +12107,7 @@
     "hellforged": false
   },
   {
-    "index": "痛苦之槌",
+    "index": "痛苦木锤",
     "enabled": "1",
     "level": 53,
     "requiredLevel": "45",
@@ -12176,7 +12176,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "痛苦之槌",
+    "displayName": "痛苦木锤",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "251-274 to 442-481",
@@ -12200,7 +12200,7 @@
     "hellforged": false
   },
   {
-    "index": "放血者",
+    "index": "血书",
     "enabled": "1",
     "level": 38,
     "requiredLevel": "30",
@@ -12269,7 +12269,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "放血者",
+    "displayName": "血书",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "57-64 to 166-185",
     "displayTwoHandDamage": null,
@@ -12293,7 +12293,7 @@
     "hellforged": false
   },
   {
-    "index": "冷钢之眼",
+    "index": "冰钢之眼",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "31",
@@ -12362,7 +12362,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "冷钢之眼",
+    "displayName": "冰钢之眼",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "39-45 to 97-112",
     "displayTwoHandDamage": null,
@@ -12384,7 +12384,7 @@
     "hellforged": false
   },
   {
-    "index": "巫火",
+    "index": "六角之火",
     "enabled": "1",
     "level": 41,
     "requiredLevel": "33",
@@ -12453,7 +12453,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "巫火",
+    "displayName": "六角之火",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "74-77 to 138-145",
     "displayTwoHandDamage": null,
@@ -12566,7 +12566,7 @@
     "hellforged": false
   },
   {
-    "index": "金瑟的裂口",
+    "index": "金瑟的裂缝",
     "enabled": "1",
     "level": 45,
     "requiredLevel": "37",
@@ -12635,7 +12635,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "金瑟的裂口",
+    "displayName": "金瑟的裂缝",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "45-63 to 127-178",
     "displayTwoHandDamage": null,
@@ -12655,7 +12655,7 @@
     "hellforged": false
   },
   {
-    "index": "斩首者",
+    "index": "击头者",
     "enabled": "1",
     "level": 47,
     "requiredLevel": "39",
@@ -12724,7 +12724,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "斩首者",
+    "displayName": "击头者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "58-70 to 219-243",
     "displayTwoHandDamage": null,
@@ -12746,7 +12746,7 @@
     "hellforged": false
   },
   {
-    "index": "瘟疫携带者",
+    "index": "疫病带原者",
     "enabled": "1",
     "level": 49,
     "requiredLevel": "41",
@@ -12815,7 +12815,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "瘟疫携带者",
+    "displayName": "疫病带原者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "45-59 to 195-255",
     "displayTwoHandDamage": null,
@@ -12838,7 +12838,7 @@
     "hellforged": false
   },
   {
-    "index": "亚特兰蒂斯",
+    "index": "亚特拉斯",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -12907,7 +12907,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "亚特兰蒂斯",
+    "displayName": "亚特拉斯",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "82-95 to 181-209",
     "displayTwoHandDamage": null,
@@ -12929,7 +12929,7 @@
     "hellforged": false
   },
   {
-    "index": "克雷恩特·沃米尔",
+    "index": "克林铁－弗姆",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -12938,7 +12938,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "双刃大剑",
+      "name": "斩铁剑",
       "type": "swor",
       "secondType": "2hsw",
       "code": "92h",
@@ -12983,10 +12983,10 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "双刃大剑",
+      "displayName": "斩铁剑",
       "itemTier": "扩展",
       "normalItemDisplayName": "双手剑",
-      "exceptionalItemDisplayName": "双刃大剑",
+      "exceptionalItemDisplayName": "斩铁剑",
       "eliteItemDisplayName": "传说之剑",
       "onlyClassDisplayText": null,
       "uniques": null,
@@ -12998,7 +12998,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "克雷恩特·沃米尔",
+    "displayName": "克林铁－弗姆",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "42-46 to 129-144",
     "displayTwoHandDamage": "112-124 to 203-226",
@@ -13019,7 +13019,7 @@
     "hellforged": false
   },
   {
-    "index": "冰之王",
+    "index": "兵之王",
     "enabled": "1",
     "level": 51,
     "requiredLevel": "43",
@@ -13088,7 +13088,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "冰之王",
+    "displayName": "兵之王",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "50-59 to 120-141",
     "displayTwoHandDamage": "106-125 to 243-287",
@@ -13111,7 +13111,7 @@
     "hellforged": false
   },
   {
-    "index": "邪恶外壳",
+    "index": "卑劣躯壳",
     "enabled": "1",
     "level": 52,
     "requiredLevel": "44",
@@ -13180,7 +13180,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "邪恶外壳",
+    "displayName": "卑劣躯壳",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "38-45 to 145-172",
     "displayTwoHandDamage": "77-91 to 228-269",
@@ -13295,7 +13295,7 @@
     "hellforged": false
   },
   {
-    "index": "死亡烈焰",
+    "index": "特迪斯法雷－芙法米",
     "enabled": "1",
     "level": 54,
     "requiredLevel": "46",
@@ -13364,7 +13364,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "死亡烈焰",
+    "displayName": "特迪斯法雷－芙法米",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "78-89 to 142-163",
     "displayTwoHandDamage": "114-131 to 215-246",
@@ -13482,7 +13482,7 @@
     "hellforged": false
   },
   {
-    "index": "断脊者",
+    "index": "裂脊者",
     "enabled": "1",
     "level": 40,
     "requiredLevel": "32",
@@ -13551,7 +13551,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "断脊者",
+    "displayName": "裂脊者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "42-45 to 105-115",
     "displayTwoHandDamage": null,
@@ -13576,7 +13576,7 @@
     "hellforged": false
   },
   {
-    "index": "剜心者",
+    "index": "刻心者",
     "enabled": "1",
     "level": 44,
     "requiredLevel": "36",
@@ -13634,7 +13634,7 @@
       "itemTier": "扩展",
       "normalItemDisplayName": "长匕首",
       "exceptionalItemDisplayName": "诗歌匕首",
-      "eliteItemDisplayName": "秘银尖刺",
+      "eliteItemDisplayName": "秘银小刀",
       "onlyClassDisplayText": null,
       "uniques": null,
       "dontDisplay": false,
@@ -13645,7 +13645,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "剜心者",
+    "displayName": "刻心者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "55-62 to 145-164",
     "displayTwoHandDamage": null,
@@ -13762,7 +13762,7 @@
     "hellforged": false
   },
   {
-    "index": "风暴之刺",
+    "index": "暴风尖刺",
     "enabled": "1",
     "level": 49,
     "requiredLevel": "41",
@@ -13818,7 +13818,7 @@
       },
       "displayName": "小剑",
       "itemTier": "扩展",
-      "normalItemDisplayName": "刀锋之",
+      "normalItemDisplayName": "短刀",
       "exceptionalItemDisplayName": "小剑",
       "eliteItemDisplayName": "传说尖刺",
       "onlyClassDisplayText": null,
@@ -13831,7 +13831,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "风暴之刺",
+    "displayName": "暴风尖刺",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "77-98 to 143-182",
     "displayTwoHandDamage": null,
@@ -13853,7 +13853,7 @@
     "hellforged": false
   },
   {
-    "index": "刺穿者",
+    "index": "穿刺者",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "31",
@@ -13922,7 +13922,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "刺穿者",
+    "displayName": "穿刺者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "36-45 to 129-162",
@@ -13946,7 +13946,7 @@
     "hellforged": false
   },
   {
-    "index": "水妖陷阱",
+    "index": "水魔陷阱",
     "enabled": "1",
     "level": 41,
     "requiredLevel": "33",
@@ -14015,7 +14015,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "水妖陷阱",
+    "displayName": "水魔陷阱",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "87-97 to 177-198",
@@ -14037,7 +14037,7 @@
     "hellforged": false
   },
   {
-    "index": "噬魂之叉",
+    "index": "噬魂叉",
     "enabled": "1",
     "level": 43,
     "requiredLevel": "35",
@@ -14106,7 +14106,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "噬魂之叉",
+    "displayName": "噬魂叉",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "66-85 to 168-214",
@@ -14127,7 +14127,7 @@
     "hellforged": false
   },
   {
-    "index": "洪森丹",
+    "index": "宏－森丹",
     "enabled": "1",
     "level": 45,
     "requiredLevel": "37",
@@ -14196,7 +14196,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "洪森丹",
+    "displayName": "宏－森丹",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "126-143 to 261-295",
@@ -14217,7 +14217,7 @@
     "hellforged": false
   },
   {
-    "index": "荣誉之矛",
+    "index": "荣耀的尖塔",
     "enabled": "1",
     "level": 47,
     "requiredLevel": "39",
@@ -14286,7 +14286,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "荣誉之矛",
+    "displayName": "荣耀的尖塔",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "119-135 to 529-610",
@@ -14311,7 +14311,7 @@
     "hellforged": false
   },
   {
-    "index": "刮肉刀",
+    "index": "刮肉者",
     "enabled": "1",
     "level": 49,
     "requiredLevel": "41",
@@ -14380,7 +14380,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "刮肉刀",
+    "displayName": "刮肉者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "22-27 to 207-249",
@@ -14402,7 +14402,7 @@
     "hellforged": false
   },
   {
-    "index": "黑蛭之刃",
+    "index": "黑水之刃",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -14471,7 +14471,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "黑蛭之刃",
+    "displayName": "黑水之刃",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "50-58 to 380-410",
@@ -14492,7 +14492,7 @@
     "hellforged": false
   },
   {
-    "index": "雅典娜之怒",
+    "index": "雅典娜的忿怒",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -14561,7 +14561,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "雅典娜之怒",
+    "displayName": "雅典娜的忿怒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "81-91 to 352-378",
@@ -14584,7 +14584,7 @@
     "hellforged": false
   },
   {
-    "index": "皮埃尔的墓刃",
+    "index": "皮尔－通把－考恩特",
     "enabled": "1",
     "level": 51,
     "requiredLevel": "43",
@@ -14653,7 +14653,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "皮埃尔的墓刃",
+    "displayName": "皮尔－通把－考恩特",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "151-192 to 320-405",
@@ -14676,7 +14676,7 @@
     "hellforged": false
   },
   {
-    "index": "胡索达尔·埃沃",
+    "index": "胡索丹－依弗",
     "enabled": "1",
     "level": 52,
     "requiredLevel": "44",
@@ -14745,7 +14745,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "胡索达尔·埃沃",
+    "displayName": "胡索丹－依弗",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "81-88 to 446-495",
@@ -14767,7 +14767,7 @@
     "hellforged": false
   },
   {
-    "index": "格林的燃烧之死",
+    "index": "惊怖焰亡灵",
     "enabled": "1",
     "level": 52,
     "requiredLevel": "45",
@@ -14836,7 +14836,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "格林的燃烧之死",
+    "displayName": "惊怖焰亡灵",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "140-158 to 320-360",
@@ -14860,7 +14860,7 @@
     "hellforged": false
   },
   {
-    "index": "剃刀之杖",
+    "index": "摆动剃刀",
     "enabled": "1",
     "level": 36,
     "requiredLevel": "28",
@@ -14929,7 +14929,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "剃刀之杖",
+    "displayName": "摆动剃刀",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "0 to 0",
@@ -15044,7 +15044,7 @@
     "hellforged": false
   },
   {
-    "index": "五彩之怒",
+    "index": "五彩的怒气",
     "enabled": "1",
     "level": 43,
     "requiredLevel": "35",
@@ -15113,7 +15113,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "五彩之怒",
+    "displayName": "五彩的怒气",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "0 to 0",
@@ -15482,7 +15482,7 @@
     "hellforged": false
   },
   {
-    "index": "库科·沙卡库",
+    "index": "社角久子",
     "enabled": "1",
     "level": 41,
     "requiredLevel": "33",
@@ -15541,7 +15541,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "库科·沙卡库",
+    "displayName": "社角久子",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "32-36 to 95-106",
@@ -15562,7 +15562,7 @@
     "hellforged": false
   },
   {
-    "index": "无尽冰雹",
+    "index": "无休止的冰雹",
     "enabled": "1",
     "level": 44,
     "requiredLevel": "36",
@@ -15621,7 +15621,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "无尽冰雹",
+    "displayName": "无休止的冰雹",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "39-44 to 98-112",
@@ -15722,7 +15722,7 @@
     "hellforged": false
   },
   {
-    "index": "悬崖杀手",
+    "index": "岩壁杀手",
     "enabled": "1",
     "level": 49,
     "requiredLevel": "41",
@@ -15781,7 +15781,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "悬崖杀手",
+    "displayName": "岩壁杀手",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "42-52 to 182-214",
@@ -15805,7 +15805,7 @@
     "hellforged": false
   },
   {
-    "index": "法师之怒",
+    "index": "巫师之怒",
     "enabled": "1",
     "level": 51,
     "requiredLevel": "43",
@@ -15864,7 +15864,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "法师之怒",
+    "displayName": "巫师之怒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "78-83 to 178-192",
@@ -15890,7 +15890,7 @@
     "hellforged": false
   },
   {
-    "index": "神击之弓",
+    "index": "金击圆弧",
     "enabled": "1",
     "level": 54,
     "requiredLevel": "46",
@@ -15949,7 +15949,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "金击之弓",
+    "displayName": "金击圆弧",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "24-28 to 189-220",
@@ -15971,7 +15971,7 @@
     "hellforged": false
   },
   {
-    "index": "朗格·布利泽",
+    "index": "兰格－布里瑟",
     "enabled": "1",
     "level": 40,
     "requiredLevel": "32",
@@ -16030,7 +16030,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "朗格·布利泽",
+    "displayName": "兰格－布里瑟",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "54-60 to 122-144",
@@ -16052,7 +16052,7 @@
     "hellforged": false
   },
   {
-    "index": "吐脓者",
+    "index": "毒液怪",
     "enabled": "1",
     "level": 44,
     "requiredLevel": "36",
@@ -16111,7 +16111,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "吐脓者",
+    "displayName": "毒液怪",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "70-89 to 150-192",
@@ -16135,7 +16135,7 @@
     "hellforged": false
   },
   {
-    "index": "布里撒-多-凯南",
+    "index": "布理撒－多－凯南",
     "enabled": "1",
     "level": 59,
     "requiredLevel": "41",
@@ -16144,7 +16144,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "弩炮",
+      "name": "弩弓",
       "type": "xbow",
       "secondType": "",
       "code": "8hx",
@@ -16179,10 +16179,10 @@
         "dontDisplay": false
       },
       "secondItemType": null,
-      "displayName": "弩炮",
+      "displayName": "弩弓",
       "itemTier": "扩展",
       "normalItemDisplayName": "重十字弓",
-      "exceptionalItemDisplayName": "弩炮",
+      "exceptionalItemDisplayName": "弩弓",
       "eliteItemDisplayName": "巨神十字弓",
       "onlyClassDisplayText": null,
       "uniques": null,
@@ -16194,7 +16194,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "布里撒-多-凯南",
+    "displayName": "布理撒－多－凯南",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "142-177 to 357-415",
@@ -16298,7 +16298,7 @@
     "hellforged": false
   },
   {
-    "index": "农民之冠",
+    "index": "粗野之冠",
     "enabled": "1",
     "level": 36,
     "requiredLevel": "28",
@@ -16351,7 +16351,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "农民之冠",
+    "displayName": "粗野之冠",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -16374,7 +16374,7 @@
     "hellforged": false
   },
   {
-    "index": "止石之盔",
+    "index": "岩石制动器",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "31",
@@ -16427,7 +16427,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "止石之盔",
+    "displayName": "岩石制动器",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -16449,7 +16449,7 @@
     "hellforged": false
   },
   {
-    "index": "窃颅盔",
+    "index": "偷取骷髅",
     "enabled": "1",
     "level": 43,
     "requiredLevel": "35",
@@ -16502,7 +16502,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "窃颅盔",
+    "displayName": "偷取骷髅",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -16523,7 +16523,7 @@
     "hellforged": false
   },
   {
-    "index": "暗视头盔",
+    "index": "暗视之盔",
     "enabled": "1",
     "level": 46,
     "requiredLevel": "38",
@@ -16576,7 +16576,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "暗视头盔",
+    "displayName": "暗视之盔",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -16599,7 +16599,7 @@
     "hellforged": false
   },
   {
-    "index": "女武神之翼",
+    "index": "女神之翼",
     "enabled": "1",
     "level": 52,
     "requiredLevel": "44",
@@ -16652,7 +16652,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "女武神之翼",
+    "displayName": "女神之翼",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -16674,7 +16674,7 @@
     "hellforged": false
   },
   {
-    "index": "盗贼之冠",
+    "index": "盗贼皇冠",
     "enabled": "1",
     "level": 57,
     "requiredLevel": "49",
@@ -16727,7 +16727,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "盗贼之冠",
+    "displayName": "盗贼皇冠",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -16749,7 +16749,7 @@
     "hellforged": false
   },
   {
-    "index": "黑角之脸",
+    "index": "黑角面具",
     "enabled": "1",
     "level": 49,
     "requiredLevel": "41",
@@ -16802,7 +16802,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "黑角之脸",
+    "displayName": "黑角面具",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -16899,7 +16899,7 @@
     "hellforged": false
   },
   {
-    "index": "灵魂裹尸布",
+    "index": "灵魂帷幕",
     "enabled": "1",
     "level": 36,
     "requiredLevel": "28",
@@ -16952,7 +16952,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "灵魂裹尸布",
+    "displayName": "灵魂帷幕",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -17121,7 +17121,7 @@
     "hellforged": false
   },
   {
-    "index": "铁皮",
+    "index": "掷铁",
     "enabled": "1",
     "level": 41,
     "requiredLevel": "33",
@@ -17174,7 +17174,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "铁皮",
+    "displayName": "掷铁",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -17271,7 +17271,7 @@
     "hellforged": false
   },
   {
-    "index": "乌鸦叫声",
+    "index": "鸦鸣",
     "enabled": "1",
     "level": 45,
     "requiredLevel": "37",
@@ -17324,7 +17324,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "乌鸦叫声",
+    "displayName": "鸦鸣",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -17418,7 +17418,7 @@
     "hellforged": false
   },
   {
-    "index": "都瑞尔的壳",
+    "index": "督瑞尔的壳",
     "enabled": "1",
     "level": 49,
     "requiredLevel": "41",
@@ -17471,7 +17471,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "都瑞尔的壳",
+    "displayName": "督瑞尔的壳",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -17610,7 +17610,7 @@
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "铠甲",
       "exceptionalItemDisplayName": "圣堂武士外袍",
-      "eliteItemDisplayName": "地狱锻铸板甲",
+      "eliteItemDisplayName": "地狱锻甲",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -17646,7 +17646,7 @@
     "hellforged": false
   },
   {
-    "index": "齿排",
+    "index": "排齿",
     "enabled": "1",
     "level": 56,
     "requiredLevel": "48",
@@ -17699,7 +17699,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "齿排",
+    "displayName": "排齿",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -17721,7 +17721,7 @@
     "hellforged": false
   },
   {
-    "index": "阿特玛的哀嚎",
+    "index": "亚特玛的哭喊",
     "enabled": "1",
     "level": 59,
     "requiredLevel": "51",
@@ -17774,7 +17774,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "阿特玛的哀嚎",
+    "displayName": "亚特玛的哭喊",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -17798,7 +17798,7 @@
     "hellforged": false
   },
   {
-    "index": "黑色哈迪斯",
+    "index": "黑色黑帝斯",
     "enabled": "1",
     "level": 61,
     "requiredLevel": "53",
@@ -17851,7 +17851,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "黑色哈迪斯",
+    "displayName": "黑色黑帝斯",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -17872,7 +17872,7 @@
     "hellforged": false
   },
   {
-    "index": "尸体哀悼",
+    "index": "尸体的哀伤",
     "enabled": "1",
     "level": 63,
     "requiredLevel": "55",
@@ -17925,7 +17925,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "尸体哀悼",
+    "displayName": "尸体的哀伤",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -17948,7 +17948,7 @@
     "hellforged": false
   },
   {
-    "index": "克赫根的智慧",
+    "index": "魁黑刚的智慧",
     "enabled": "1",
     "level": 59,
     "requiredLevel": "51",
@@ -18001,7 +18001,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "克赫根的智慧",
+    "displayName": "魁黑刚的智慧",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18023,7 +18023,7 @@
     "hellforged": false
   },
   {
-    "index": "内脏之盾",
+    "index": "维斯尔坦特",
     "enabled": "1",
     "level": 36,
     "requiredLevel": "28",
@@ -18076,7 +18076,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "内脏之盾",
+    "displayName": "维斯尔坦特",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18097,7 +18097,7 @@
     "hellforged": false
   },
   {
-    "index": "摩西的祝福之环",
+    "index": "摩西祝福之环",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "31",
@@ -18150,7 +18150,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "摩西的祝福之环",
+    "displayName": "摩西祝福之环",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18171,7 +18171,7 @@
     "hellforged": false
   },
   {
-    "index": "逐风者",
+    "index": "风暴追逐者",
     "enabled": "1",
     "level": 43,
     "requiredLevel": "35",
@@ -18224,7 +18224,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "逐风者",
+    "displayName": "风暴追逐者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18248,7 +18248,7 @@
     "hellforged": false
   },
   {
-    "index": "提亚马特的斥责",
+    "index": "魔龙的非难",
     "enabled": "1",
     "level": 46,
     "requiredLevel": "38",
@@ -18301,7 +18301,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "提亚马特的斥责",
+    "displayName": "魔龙的非难",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18324,7 +18324,7 @@
     "hellforged": false
   },
   {
-    "index": "克尔克的圣堂",
+    "index": "基尔克的圣堂",
     "enabled": "1",
     "level": 52,
     "requiredLevel": "44",
@@ -18366,7 +18366,7 @@
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "塔盾",
       "exceptionalItemDisplayName": "大盾",
-      "eliteItemDisplayName": "庇护",
+      "eliteItemDisplayName": "圣盾",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -18377,7 +18377,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "格尔克圣堂",
+    "displayName": "基尔克的圣堂",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18400,7 +18400,7 @@
     "hellforged": false
   },
   {
-    "index": "罗达门特的法球",
+    "index": "罗达门特之球体",
     "enabled": "1",
     "level": 58,
     "requiredLevel": "50",
@@ -18442,7 +18442,7 @@
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "哥德盾牌",
       "exceptionalItemDisplayName": "古代之盾",
-      "eliteItemDisplayName": "囚房",
+      "eliteItemDisplayName": "保护盾牌",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -18453,7 +18453,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "罗达门特的法球",
+    "displayName": "罗达门特之球体",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18476,7 +18476,7 @@
     "hellforged": false
   },
   {
-    "index": "无眼之墙",
+    "index": "警戒之墙",
     "enabled": "1",
     "level": 49,
     "requiredLevel": "41",
@@ -18539,7 +18539,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "无眼之墙",
+    "displayName": "警戒之墙",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18646,7 +18646,7 @@
     "hellforged": false
   },
   {
-    "index": "毒液之握",
+    "index": "剧毒之抓",
     "enabled": "1",
     "level": 37,
     "requiredLevel": "29",
@@ -18686,7 +18686,7 @@
       "itemTier": "扩展",
       "displayName": "魔皮手套",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "手套",
+      "normalItemDisplayName": "皮手套",
       "exceptionalItemDisplayName": "魔皮手套",
       "eliteItemDisplayName": "荆棘连指手套",
       "uniques": null,
@@ -18699,7 +18699,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "毒液之握",
+    "displayName": "剧毒之抓",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18721,7 +18721,7 @@
     "hellforged": false
   },
   {
-    "index": "墓穴之手",
+    "index": "墓穴的抚弄",
     "enabled": "1",
     "level": 39,
     "requiredLevel": "32",
@@ -18774,7 +18774,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "墓穴之手",
+    "displayName": "墓穴的抚弄",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18796,7 +18796,7 @@
     "hellforged": false
   },
   {
-    "index": "食尸鬼之皮",
+    "index": "食尸鬼外皮",
     "enabled": "1",
     "level": 44,
     "requiredLevel": "36",
@@ -18836,7 +18836,7 @@
       "itemTier": "扩展",
       "displayName": "重型手镯",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "护腕",
+      "normalItemDisplayName": "锁链手套",
       "exceptionalItemDisplayName": "重型手镯",
       "eliteItemDisplayName": "吸血鬼手套",
       "uniques": null,
@@ -18849,7 +18849,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "食尸鬼之皮",
+    "displayName": "食尸鬼外皮",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18870,7 +18870,7 @@
     "hellforged": false
   },
   {
-    "index": "熔岩之痛",
+    "index": "熔岩角羊",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -18923,7 +18923,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "熔岩之痛",
+    "displayName": "熔岩角羊",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -18945,7 +18945,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱之口",
+    "index": "地狱之嘴",
     "enabled": "1",
     "level": 55,
     "requiredLevel": "47",
@@ -18998,7 +18998,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "地狱之口",
+    "displayName": "地狱之嘴",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -19019,7 +19019,7 @@
     "hellforged": false
   },
   {
-    "index": "炼狱之步",
+    "index": "地狱阔步",
     "enabled": "1",
     "level": 37,
     "requiredLevel": "29",
@@ -19072,7 +19072,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "炼狱之步",
+    "displayName": "地狱阔步",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -19096,7 +19096,7 @@
     "hellforged": false
   },
   {
-    "index": "水上漂",
+    "index": "水上飘",
     "enabled": "1",
     "level": 40,
     "requiredLevel": "32",
@@ -19149,7 +19149,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "水上漂",
+    "displayName": "水上飘",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -19173,7 +19173,7 @@
     "hellforged": false
   },
   {
-    "index": "丝织",
+    "index": "纱织",
     "enabled": "1",
     "level": 44,
     "requiredLevel": "36",
@@ -19226,7 +19226,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "丝织",
+    "displayName": "纱织",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -19287,7 +19287,7 @@
       "itemTier": "扩展",
       "displayName": "战场之靴",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "轻型板甲靴",
+      "normalItemDisplayName": "轻型金属靴",
       "exceptionalItemDisplayName": "战场之靴",
       "eliteItemDisplayName": "镜化靴",
       "uniques": null,
@@ -19324,7 +19324,7 @@
     "hellforged": false
   },
   {
-    "index": "血腥骑士",
+    "index": "蚀肉骑士",
     "enabled": "1",
     "level": 55,
     "requiredLevel": "47",
@@ -19364,7 +19364,7 @@
       "itemTier": "扩展",
       "displayName": "巨战之靴",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "板甲靴",
+      "normalItemDisplayName": "护胫",
       "exceptionalItemDisplayName": "巨战之靴",
       "eliteItemDisplayName": "极速靴",
       "uniques": null,
@@ -19377,7 +19377,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "血腥骑士",
+    "displayName": "蚀肉骑士",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -19399,7 +19399,7 @@
     "hellforged": false
   },
   {
-    "index": "耳串",
+    "index": "长串之耳",
     "enabled": "1",
     "level": 37,
     "requiredLevel": "29",
@@ -19452,7 +19452,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "耳串",
+    "displayName": "长串之耳",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -19546,7 +19546,7 @@
     "hellforged": false
   },
   {
-    "index": "幽暗束带",
+    "index": "阴影陷阱",
     "enabled": "1",
     "level": 45,
     "requiredLevel": "36",
@@ -19599,7 +19599,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "幽暗陷阱",
+    "displayName": "阴影陷阱",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -19621,7 +19621,7 @@
     "hellforged": false
   },
   {
-    "index": "冰雪冲突",
+    "index": "雪之冲突",
     "enabled": "1",
     "level": 49,
     "requiredLevel": "42",
@@ -19674,7 +19674,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "冰雪冲突",
+    "displayName": "雪之冲突",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -19736,7 +19736,7 @@
       "itemTier": "扩展",
       "displayName": "巨战腰带",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "束带",
+      "normalItemDisplayName": "金属扣带",
       "exceptionalItemDisplayName": "巨战腰带",
       "eliteItemDisplayName": "巨神腰带",
       "uniques": null,
@@ -19924,7 +19924,7 @@
     "hellforged": false
   },
   {
-    "index": "角斗士的祸根",
+    "index": "斗士的祸根",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "85",
@@ -19977,7 +19977,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "角斗士的祸根",
+    "displayName": "斗士的祸根",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -20227,7 +20227,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱杀戮者",
+    "index": "地狱毁灭者",
     "enabled": "1",
     "level": 71,
     "requiredLevel": "66",
@@ -20296,7 +20296,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "地狱杀戮者",
+    "displayName": "地狱毁灭者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "146-183 to 410-513",
@@ -20319,7 +20319,7 @@
     "hellforged": false
   },
   {
-    "index": "梅塞施密特的掠夺者",
+    "index": "希梅斯特的掠夺",
     "enabled": "1",
     "level": 75,
     "requiredLevel": "70",
@@ -20388,7 +20388,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "梅塞施密特的掠夺者",
+    "displayName": "希梅斯特的掠夺",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "222-259 to 354-413",
@@ -20505,7 +20505,7 @@
     "hellforged": false
   },
   {
-    "index": "舍费尔的锤子",
+    "index": "史恰佛之锤",
     "enabled": "1",
     "level": 83,
     "requiredLevel": "79",
@@ -20574,7 +20574,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "舍费尔的锤子",
+    "displayName": "史恰佛之锤",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "191-228 to 426-471",
     "displayTwoHandDamage": null,
@@ -20599,7 +20599,7 @@
     "hellforged": false
   },
   {
-    "index": "颅骨粉碎者",
+    "index": "碎脑锤",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "87",
@@ -20668,7 +20668,7 @@
     "occurrenceChance": "0,29%",
     "occurrenceChanceCurrency": "0,29%",
     "itemTier": "精英",
-    "displayName": "颅骨粉碎者",
+    "displayName": "碎脑锤",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "151-167 to 745-835",
@@ -20788,7 +20788,7 @@
     "hellforged": false
   },
   {
-    "index": "末日使者",
+    "index": "末日毁灭者",
     "enabled": "1",
     "level": 75,
     "requiredLevel": "69",
@@ -20857,7 +20857,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "末日使者",
+    "displayName": "末日毁灭者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "222-234 to 381-408",
     "displayTwoHandDamage": "422-458 to 503-545",
@@ -21109,7 +21109,7 @@
     "hellforged": false
   },
   {
-    "index": "风暴之塔",
+    "index": "暴风尖塔",
     "enabled": "1",
     "level": 78,
     "requiredLevel": "70",
@@ -21178,7 +21178,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "风暴之塔",
+    "displayName": "暴风尖塔",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "125-175 to 355-497",
@@ -21202,7 +21202,7 @@
     "hellforged": false
   },
   {
-    "index": "鹰角",
+    "index": "鹰号角",
     "enabled": "1",
     "level": 77,
     "requiredLevel": "69",
@@ -21261,7 +21261,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "鹰角",
+    "displayName": "鹰号角",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "69-80 to 273-318",
@@ -21367,7 +21367,7 @@
     "hellforged": false
   },
   {
-    "index": "布尔凯索的婚戒",
+    "index": "布尔凯索之戒",
     "enabled": "1",
     "level": 66,
     "requiredLevel": "58",
@@ -21389,7 +21389,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "8,33%",
     "itemTier": null,
-    "displayName": "布尔凯索的婚戒",
+    "displayName": "布尔凯索之戒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -21581,7 +21581,7 @@
     "hellforged": false
   },
   {
-    "index": "阿特玛的圣甲虫",
+    "index": "亚特玛的圣甲虫",
     "enabled": "1",
     "level": 60,
     "requiredLevel": "60",
@@ -21603,7 +21603,7 @@
     "occurrenceChance": "0,36%",
     "occurrenceChanceCurrency": "9,09%",
     "itemTier": null,
-    "displayName": "阿特玛的圣甲虫",
+    "displayName": "亚特玛的圣甲虫",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -21876,7 +21876,7 @@
     "hellforged": false
   },
   {
-    "index": "霍姆恩库鲁斯",
+    "index": "侏儒",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -21884,7 +21884,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "祭司战利品",
+      "name": "祭司印记",
       "minDefense": 58,
       "maxDefense": 70,
       "requiredStrength": "58",
@@ -21914,10 +21914,10 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "祭司战利品",
+      "displayName": "祭司印记",
       "onlyClassDisplayText": "仅死灵法师",
-      "normalItemDisplayName": "恶魔头盖骨面具",
-      "exceptionalItemDisplayName": "祭司战利品",
+      "normalItemDisplayName": "恶魔之首",
+      "exceptionalItemDisplayName": "祭司印记",
       "eliteItemDisplayName": "血王之骨",
       "uniques": null,
       "dontDisplay": false,
@@ -21929,7 +21929,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "霍姆恩库鲁斯",
+    "displayName": "侏儒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -22045,7 +22045,7 @@
     "hellforged": false
   },
   {
-    "index": "莱坎德的瞄准",
+    "index": "雷山德的指标",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -22104,7 +22104,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "莱坎德的瞄准",
+    "displayName": "雷山德的指标",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "96-107 to 222-248",
@@ -22129,7 +22129,7 @@
     "hellforged": false
   },
   {
-    "index": "莱坎德的侧翼",
+    "index": "雷山德的侧腹",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -22198,7 +22198,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "莱坎德的侧翼",
+    "displayName": "雷山德的侧腹",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "235-265 to 540-610",
@@ -22269,7 +22269,7 @@
       "secondItemType": null,
       "displayName": "涡流水晶",
       "itemTier": "扩展",
-      "normalItemDisplayName": "龙石",
+      "normalItemDisplayName": "杰瑞德之石",
       "exceptionalItemDisplayName": "涡流水晶",
       "eliteItemDisplayName": "次元碎片",
       "onlyClassDisplayText": "仅法师",
@@ -22306,7 +22306,7 @@
     "hellforged": false
   },
   {
-    "index": "萨卡兰姆使者",
+    "index": "撒卡兰姆使者",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -22314,7 +22314,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "镀金盾",
+      "name": "饰金盾牌",
       "minDefense": 144,
       "maxDefense": 168,
       "requiredStrength": "89",
@@ -22344,10 +22344,10 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "镀金盾",
+      "displayName": "饰金盾牌",
       "onlyClassDisplayText": "仅圣骑士",
       "normalItemDisplayName": "艾文之盾",
-      "exceptionalItemDisplayName": "镀金盾",
+      "exceptionalItemDisplayName": "饰金盾牌",
       "eliteItemDisplayName": "撒卡兰姆盾牌",
       "uniques": null,
       "dontDisplay": false,
@@ -22359,7 +22359,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "萨卡兰姆使者",
+    "displayName": "撒卡兰姆使者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -22477,7 +22477,7 @@
     "hellforged": false
   },
   {
-    "index": "加尔的鬃毛",
+    "index": "加尔的长发",
     "enabled": "1",
     "level": 50,
     "requiredLevel": "42",
@@ -22530,7 +22530,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "加尔的鬃毛",
+    "displayName": "加尔的长发",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -22554,7 +22554,7 @@
     "hellforged": false
   },
   {
-    "index": "剥头皮者",
+    "index": "圆凿",
     "enabled": "1",
     "level": 65,
     "requiredLevel": "57",
@@ -22623,7 +22623,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "剥头皮者",
+    "displayName": "圆凿",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "39-45 to 81-94",
     "displayTwoHandDamage": null,
@@ -22734,7 +22734,7 @@
     "hellforged": false
   },
   {
-    "index": "巨灵杀手",
+    "index": "魔灵杀手",
     "enabled": "1",
     "level": 73,
     "requiredLevel": "65",
@@ -22803,7 +22803,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "巨灵杀手",
+    "displayName": "魔灵杀手",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "95-112 to 168-197",
     "displayTwoHandDamage": null,
@@ -22826,7 +22826,7 @@
     "hellforged": false
   },
   {
-    "index": "死亡之咬",
+    "index": "死亡碎片",
     "enabled": "1",
     "level": 52,
     "requiredLevel": "44",
@@ -22895,7 +22895,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "死亡之咬",
+    "displayName": "死亡碎片",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "33-39 to 56-66",
     "displayTwoHandDamage": null,
@@ -22916,7 +22916,7 @@
     "hellforged": false
   },
   {
-    "index": "战争伯劳",
+    "index": "战争之鸟",
     "enabled": "1",
     "level": 83,
     "requiredLevel": "75",
@@ -22985,7 +22985,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "战争伯劳",
+    "displayName": "战争之鸟",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "128-141 to 166-183",
     "displayTwoHandDamage": null,
@@ -23006,7 +23006,7 @@
     "hellforged": false
   },
   {
-    "index": "汲肠者",
+    "index": "内脏吸管",
     "enabled": "1",
     "level": 79,
     "requiredLevel": "71",
@@ -23065,7 +23065,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "汲肠者",
+    "displayName": "内脏吸管",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "189-215 to 290-330",
@@ -23088,7 +23088,7 @@
     "hellforged": false
   },
   {
-    "index": "剃刀之锋",
+    "index": "刀锋边缘",
     "enabled": "1",
     "level": 75,
     "requiredLevel": "67",
@@ -23157,7 +23157,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "剃刀之锋",
+    "displayName": "刀锋边缘",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "143-176 to 243-300",
     "displayTwoHandDamage": null,
@@ -23178,7 +23178,7 @@
     "hellforged": false
   },
   {
-    "index": "恶魔之肢",
+    "index": "恶魔爪牙",
     "enabled": "1",
     "level": 71,
     "requiredLevel": "63",
@@ -23247,7 +23247,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "恶魔之肢",
+    "displayName": "恶魔爪牙",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "120-141 to 210-247",
     "displayTwoHandDamage": null,
@@ -23345,7 +23345,7 @@
     "hellforged": false
   },
   {
-    "index": "古墓掠夺者",
+    "index": "盗墓者",
     "enabled": "1",
     "level": 86,
     "requiredLevel": "84",
@@ -23414,7 +23414,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "古墓掠夺者",
+    "displayName": "盗墓者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "123-155 to 564-714",
@@ -23529,7 +23529,7 @@
     "hellforged": false
   },
   {
-    "index": "自然的和平",
+    "index": "大自然的和平",
     "enabled": "1",
     "level": 77,
     "requiredLevel": "69",
@@ -23551,7 +23551,7 @@
     "occurrenceChance": "0,22%",
     "occurrenceChanceCurrency": "25,00%",
     "itemTier": null,
-    "displayName": "自然的和平",
+    "displayName": "大自然的和平",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -23576,7 +23576,7 @@
     "hellforged": false
   },
   {
-    "index": "青色愤怒",
+    "index": "碧蓝怒火",
     "enabled": "1",
     "level": 87,
     "requiredLevel": "85",
@@ -23645,7 +23645,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "青色愤怒",
+    "displayName": "碧蓝怒火",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "148-163 to 167-184",
     "displayTwoHandDamage": null,
@@ -23672,7 +23672,7 @@
     "hellforged": false
   },
   {
-    "index": "炽天使圣歌",
+    "index": "炽天使之韵",
     "enabled": "1",
     "level": 73,
     "requiredLevel": "65",
@@ -23694,7 +23694,7 @@
     "occurrenceChance": "0,22%",
     "occurrenceChanceCurrency": "13,64%",
     "itemTier": null,
-    "displayName": "炽天使圣歌",
+    "displayName": "炽天使之韵",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -23717,7 +23717,7 @@
     "hellforged": false
   },
   {
-    "index": "碎肉者",
+    "index": "裂肉者",
     "enabled": "1",
     "level": 76,
     "requiredLevel": "68",
@@ -23786,7 +23786,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "碎肉者",
+    "displayName": "裂肉者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "61-71 to 211-243",
     "displayTwoHandDamage": null,
@@ -23810,7 +23810,7 @@
     "hellforged": false
   },
   {
-    "index": "憎恶",
+    "index": "厌恶",
     "enabled": "1",
     "level": 87,
     "requiredLevel": "80",
@@ -23879,7 +23879,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "憎恶",
+    "displayName": "厌恶",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "180-193 to 308-343",
     "displayTwoHandDamage": "331-361 to 528-588",
@@ -23902,7 +23902,7 @@
     "hellforged": false
   },
   {
-    "index": "地平线的龙卷风",
+    "index": "地平线的台风",
     "enabled": "1",
     "level": 72,
     "requiredLevel": "64",
@@ -23911,7 +23911,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "鞭",
+      "name": "天罚之锤",
       "type": "mace",
       "secondType": "1han",
       "code": "7fl",
@@ -23956,11 +23956,11 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "鞭",
+      "displayName": "天罚之锤",
       "itemTier": "精英",
       "normalItemDisplayName": "链枷",
       "exceptionalItemDisplayName": "铁皮鞭",
-      "eliteItemDisplayName": "鞭",
+      "eliteItemDisplayName": "天罚之锤",
       "onlyClassDisplayText": null,
       "uniques": null,
       "dontDisplay": false,
@@ -23971,7 +23971,7 @@
     "occurrenceChance": "0,36%",
     "occurrenceChanceCurrency": "0,36%",
     "itemTier": "精英",
-    "displayName": "地平线的龙卷风",
+    "displayName": "地平线的台风",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "49-56 to 350-400",
     "displayTwoHandDamage": null,
@@ -24084,7 +24084,7 @@
     "hellforged": false
   },
   {
-    "index": "翡翠之爪",
+    "index": "碧玉爪",
     "enabled": "1",
     "level": 74,
     "requiredLevel": "66",
@@ -24153,7 +24153,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "翡翠之爪",
+    "displayName": "碧玉爪",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "156-193 to 214-264",
     "displayTwoHandDamage": null,
@@ -24175,7 +24175,7 @@
     "hellforged": false
   },
   {
-    "index": "阴影舞者",
+    "index": "影舞者",
     "enabled": "1",
     "level": 79,
     "requiredLevel": "71",
@@ -24215,7 +24215,7 @@
       "itemTier": "精英",
       "displayName": "极速靴",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "板甲靴",
+      "normalItemDisplayName": "护胫",
       "exceptionalItemDisplayName": "巨战之靴",
       "eliteItemDisplayName": "极速靴",
       "uniques": null,
@@ -24228,7 +24228,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "阴影舞者",
+    "displayName": "影舞者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -24250,7 +24250,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱三头犬",
+    "index": "地狱之吻",
     "enabled": "1",
     "level": 71,
     "requiredLevel": "63",
@@ -24258,7 +24258,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "血之灵",
+      "name": "血腥之灵",
       "minDefense": 101,
       "maxDefense": 145,
       "requiredStrength": "86",
@@ -24288,11 +24288,11 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "血之灵",
+      "displayName": "血腥之灵",
       "onlyClassDisplayText": "仅德鲁伊",
       "normalItemDisplayName": "狼头",
       "exceptionalItemDisplayName": "阿尔发头盔",
-      "eliteItemDisplayName": "血之灵",
+      "eliteItemDisplayName": "血腥之灵",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -24303,7 +24303,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "地狱犬之咬",
+    "displayName": "地狱之吻",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -24404,7 +24404,7 @@
     "hellforged": false
   },
   {
-    "index": "噬魂",
+    "index": "吸魂者",
     "enabled": "1",
     "level": 82,
     "requiredLevel": "74",
@@ -24444,7 +24444,7 @@
       "itemTier": "精英",
       "displayName": "吸血鬼手套",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "护腕",
+      "normalItemDisplayName": "锁链手套",
       "exceptionalItemDisplayName": "重型手镯",
       "eliteItemDisplayName": "吸血鬼手套",
       "uniques": null,
@@ -24457,7 +24457,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "噬魂者",
+    "displayName": "吸魂者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -24568,7 +24568,7 @@
     "hellforged": false
   },
   {
-    "index": "死亡切割者",
+    "index": "死亡之刀",
     "enabled": "1",
     "level": 78,
     "requiredLevel": "70",
@@ -24637,7 +24637,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "死亡切割者",
+    "displayName": "死亡之刀",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "140-165 to 356-400",
     "displayTwoHandDamage": null,
@@ -24750,7 +24750,7 @@
     "hellforged": false
   },
   {
-    "index": "石鸦",
+    "index": "石乌鸦",
     "enabled": "1",
     "level": 72,
     "requiredLevel": "64",
@@ -24819,7 +24819,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "石鸦",
+    "displayName": "石乌鸦",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "339-379 to 498-556",
@@ -24840,7 +24840,7 @@
     "hellforged": false
   },
   {
-    "index": "利维坦",
+    "index": "海王利维亚桑",
     "enabled": "1",
     "level": 73,
     "requiredLevel": "65",
@@ -24893,7 +24893,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "利维坦",
+    "displayName": "海王利维亚桑",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -24916,7 +24916,7 @@
     "hellforged": false
   },
   {
-    "index": "幽魂之环",
+    "index": "鬼火投射者",
     "enabled": "1",
     "level": 84,
     "requiredLevel": "76",
@@ -24938,7 +24938,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "8,33%",
     "itemTier": null,
-    "displayName": "幽魂投影",
+    "displayName": "鬼火投射者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -24959,7 +24959,7 @@
     "hellforged": false
   },
   {
-    "index": "石像鬼之咬",
+    "index": "石像鬼之噬",
     "enabled": "1",
     "level": 78,
     "requiredLevel": "70",
@@ -25028,7 +25028,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "石像鬼之咬",
+    "displayName": "石像鬼之噬",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "94-116 to 122-150",
     "displayTwoHandDamage": null,
@@ -25228,7 +25228,7 @@
     "hellforged": false
   },
   {
-    "index": "毒蛇之叉",
+    "index": "蝮蛇叉",
     "enabled": "1",
     "level": 79,
     "requiredLevel": "71",
@@ -25297,7 +25297,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "毒蛇之叉",
+    "displayName": "蝮蛇叉",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "176-202 to 391-448",
@@ -25320,7 +25320,7 @@
     "hellforged": false
   },
   {
-    "index": "虚无之刃",
+    "index": "永恒边界",
     "enabled": "1",
     "level": 82,
     "requiredLevel": "74",
@@ -25389,7 +25389,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "虚无之刃",
+    "displayName": "永恒边界",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "195-218 to 345-386",
@@ -25412,7 +25412,7 @@
     "hellforged": false
   },
   {
-    "index": "恶魔之角的边缘",
+    "index": "恶魔号角的边缘",
     "enabled": "1",
     "level": 69,
     "requiredLevel": "61",
@@ -25465,7 +25465,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "恶魔之角的边缘",
+    "displayName": "恶魔号角的边缘",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -25578,7 +25578,7 @@
     "hellforged": false
   },
   {
-    "index": "灵魂守护者",
+    "index": "灵魂看守者",
     "enabled": "1",
     "level": 75,
     "requiredLevel": "67",
@@ -25631,7 +25631,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "灵魂守护者",
+    "displayName": "灵魂看守者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -25656,7 +25656,7 @@
     "hellforged": false
   },
   {
-    "index": "地狱之架",
+    "index": "地狱拷问",
     "enabled": "1",
     "level": 84,
     "requiredLevel": "76",
@@ -25703,7 +25703,7 @@
       "displayName": "巨神十字弓",
       "itemTier": "精英",
       "normalItemDisplayName": "重十字弓",
-      "exceptionalItemDisplayName": "弩炮",
+      "exceptionalItemDisplayName": "弩弓",
       "eliteItemDisplayName": "巨神十字弓",
       "onlyClassDisplayText": null,
       "uniques": null,
@@ -25715,7 +25715,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "地狱之架",
+    "displayName": "地狱拷问",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "131-155 to 350-412",
@@ -25737,7 +25737,7 @@
     "hellforged": false
   },
   {
-    "index": "黑色灵魂",
+    "index": "阿尔玛－尼格拉",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "77",
@@ -25790,7 +25790,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "黑色灵魂",
+    "displayName": "阿尔玛－尼格拉",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -25813,7 +25813,7 @@
     "hellforged": false
   },
   {
-    "index": "黑暗熔炉衍生",
+    "index": "魔力肇生",
     "enabled": "1",
     "level": 72,
     "requiredLevel": "64",
@@ -25853,8 +25853,8 @@
       "itemTier": "精英",
       "displayName": "血王之骨",
       "onlyClassDisplayText": "仅死灵法师",
-      "normalItemDisplayName": "恶魔头盖骨面具",
-      "exceptionalItemDisplayName": "祭司战利品",
+      "normalItemDisplayName": "恶魔之首",
+      "exceptionalItemDisplayName": "祭司印记",
       "eliteItemDisplayName": "血王之骨",
       "uniques": null,
       "dontDisplay": false,
@@ -25866,7 +25866,7 @@
     "occurrenceChance": "0,22%",
     "occurrenceChanceCurrency": "0,22%",
     "itemTier": "精英",
-    "displayName": "黑暗之力衍生",
+    "displayName": "魔力肇生",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -25890,7 +25890,7 @@
     "hellforged": false
   },
   {
-    "index": "寡妇制造者",
+    "index": "戮夫刃",
     "enabled": "1",
     "level": 73,
     "requiredLevel": "65",
@@ -25949,7 +25949,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "寡妇制造者",
+    "displayName": "戮夫刃",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "108-130 to 288-346",
@@ -25971,7 +25971,7 @@
     "hellforged": false
   },
   {
-    "index": "血乌鸦之冲锋",
+    "index": "血鸟的袭击",
     "enabled": "1",
     "level": 79,
     "requiredLevel": "71",
@@ -26030,7 +26030,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "血乌鸦之冲锋",
+    "displayName": "血鸟的袭击",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "102-133 to 244-318",
@@ -26053,7 +26053,7 @@
     "hellforged": false
   },
   {
-    "index": "鬼火",
+    "index": "鬼火焰",
     "enabled": "1",
     "level": 70,
     "requiredLevel": "62",
@@ -26109,7 +26109,7 @@
       },
       "displayName": "传说尖刺",
       "itemTier": "精英",
-      "normalItemDisplayName": "刀锋之",
+      "normalItemDisplayName": "短刀",
       "exceptionalItemDisplayName": "小剑",
       "eliteItemDisplayName": "传说尖刺",
       "onlyClassDisplayText": null,
@@ -26122,7 +26122,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "鬼火",
+    "displayName": "鬼火焰",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "136-158 to 243-281",
     "displayTwoHandDamage": null,
@@ -26146,7 +26146,7 @@
     "hellforged": false
   },
   {
-    "index": "暗影杀手",
+    "index": "影杀者",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "78",
@@ -26215,7 +26215,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "暗影杀手",
+    "displayName": "影杀者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "121-166 to 143-196",
     "displayTwoHandDamage": null,
@@ -26240,7 +26240,7 @@
     "hellforged": false
   },
   {
-    "index": "闪光碎片",
+    "index": "碎片贪婪者",
     "enabled": "1",
     "level": 78,
     "requiredLevel": "70",
@@ -26309,7 +26309,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "闪光碎片",
+    "displayName": "碎片贪婪者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "49-57 to 188-221",
     "displayTwoHandDamage": null,
@@ -26329,7 +26329,7 @@
     "hellforged": false
   },
   {
-    "index": "狮鹫之眼",
+    "index": "格利风之眼",
     "enabled": "1",
     "level": 84,
     "requiredLevel": "76",
@@ -26337,7 +26337,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "王位",
+      "name": "权冠",
       "minDefense": 50,
       "maxDefense": 60,
       "requiredStrength": "0",
@@ -26367,11 +26367,11 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "王位",
+      "displayName": "权冠",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "宝冠",
       "exceptionalItemDisplayName": "三重冠",
-      "eliteItemDisplayName": "王位",
+      "eliteItemDisplayName": "权冠",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -26382,7 +26382,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "狮鹫之眼",
+    "displayName": "格利风之眼",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -26581,7 +26581,7 @@
     "hellforged": false
   },
   {
-    "index": "恶魔之拱",
+    "index": "恶魔之王",
     "enabled": "1",
     "level": 76,
     "requiredLevel": "68",
@@ -26650,7 +26650,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "恶魔之拱",
+    "displayName": "恶魔之王",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "102-135 to 195-258",
     "displayTwoHandDamage": null,
@@ -26680,7 +26680,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "魅魔头骨",
+      "name": "女妖之骨",
       "minDefense": 100,
       "maxDefense": 146,
       "requiredStrength": "95",
@@ -26710,11 +26710,11 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "魅魔头骨",
+      "displayName": "女妖之骨",
       "onlyClassDisplayText": "仅死灵法师",
       "normalItemDisplayName": "石像鬼之首",
       "exceptionalItemDisplayName": "领唱者印记",
-      "eliteItemDisplayName": "魅魔头骨",
+      "eliteItemDisplayName": "女妖之骨",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -26747,7 +26747,7 @@
     "hellforged": false
   },
   {
-    "index": "钢铁之柱",
+    "index": "铁柱",
     "enabled": "1",
     "level": 77,
     "requiredLevel": "69",
@@ -26816,7 +26816,7 @@
     "occurrenceChance": "0,22%",
     "occurrenceChanceCurrency": "0,22%",
     "itemTier": "精英",
-    "displayName": "钢铁之柱",
+    "displayName": "铁柱",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "127-147 to 691-802",
@@ -26913,7 +26913,7 @@
     "hellforged": false
   },
   {
-    "index": "岁月之冠",
+    "index": "年纪之冠",
     "enabled": "1",
     "level": 86,
     "requiredLevel": "82",
@@ -26966,7 +26966,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "岁月之冠",
+    "displayName": "年纪之冠",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -26990,7 +26990,7 @@
     "hellforged": false
   },
   {
-    "index": "安达利尔的面容",
+    "index": "安达利尔的面貌",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "83",
@@ -27043,7 +27043,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "安达利尔的面容",
+    "displayName": "安达利尔的面貌",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -27109,7 +27109,7 @@
       "displayName": "撒卡兰姆盾牌",
       "onlyClassDisplayText": "仅圣骑士",
       "normalItemDisplayName": "艾文之盾",
-      "exceptionalItemDisplayName": "镀金盾",
+      "exceptionalItemDisplayName": "饰金盾牌",
       "eliteItemDisplayName": "撒卡兰姆盾牌",
       "uniques": null,
       "dontDisplay": false,
@@ -27144,7 +27144,7 @@
     "hellforged": false
   },
   {
-    "index": "钢铁甲壳",
+    "index": "钢铁铠甲",
     "enabled": "1",
     "level": 74,
     "requiredLevel": "66",
@@ -27197,7 +27197,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "钢铁甲壳",
+    "displayName": "钢铁铠甲",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -27220,7 +27220,7 @@
     "hellforged": false
   },
   {
-    "index": "美杜莎的凝视",
+    "index": "梅杜莎的凝视",
     "enabled": "1",
     "level": 84,
     "requiredLevel": "76",
@@ -27228,7 +27228,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "庇护",
+      "name": "圣盾",
       "minDefense": 215,
       "maxDefense": 241,
       "requiredStrength": "219",
@@ -27258,11 +27258,11 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "庇护",
+      "displayName": "圣盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "塔盾",
       "exceptionalItemDisplayName": "大盾",
-      "eliteItemDisplayName": "庇护",
+      "eliteItemDisplayName": "圣盾",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -27273,7 +27273,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "美杜莎的凝视",
+    "displayName": "梅杜莎的凝视",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -27296,7 +27296,7 @@
     "hellforged": false
   },
   {
-    "index": "乌鸦贤者",
+    "index": "乌鸦之王",
     "enabled": "1",
     "level": 82,
     "requiredLevel": "74",
@@ -27349,7 +27349,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "乌鸦贤者",
+    "displayName": "乌鸦之王",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -27371,7 +27371,7 @@
     "hellforged": false
   },
   {
-    "index": "骨影",
+    "index": "白骨阴影",
     "enabled": "1",
     "level": 84,
     "requiredLevel": "79",
@@ -27440,7 +27440,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "骨影",
+    "displayName": "白骨阴影",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -27463,7 +27463,7 @@
     "hellforged": false
   },
   {
-    "index": "烈焰咆哮",
+    "index": "火焰号叫",
     "enabled": "1",
     "level": 79,
     "requiredLevel": "71",
@@ -27532,7 +27532,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "烈焰咆哮",
+    "displayName": "火焰号叫",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "51-64 to 253-319",
     "displayTwoHandDamage": "186-234 to 402-506",
@@ -27555,7 +27555,7 @@
     "hellforged": false
   },
   {
-    "index": "深度",
+    "index": "死亡深度",
     "enabled": "1",
     "level": 87,
     "requiredLevel": "73",
@@ -27601,7 +27601,7 @@
       "secondItemType": null,
       "displayName": "次元碎片",
       "itemTier": "精英",
-      "normalItemDisplayName": "龙石",
+      "normalItemDisplayName": "杰瑞德之石",
       "exceptionalItemDisplayName": "涡流水晶",
       "eliteItemDisplayName": "次元碎片",
       "onlyClassDisplayText": "仅法师",
@@ -27714,7 +27714,7 @@
     "hellforged": false
   },
   {
-    "index": "灵魂守卫",
+    "index": "魂系结界",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "68",
@@ -27722,7 +27722,7 @@
     "rarity": "9",
     "carryOne": "",
     "armorBase": {
-      "name": "囚房",
+      "name": "保护盾牌",
       "minDefense": 183,
       "maxDefense": 207,
       "requiredStrength": "185",
@@ -27752,11 +27752,11 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "囚房",
+      "displayName": "保护盾牌",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "哥德盾牌",
       "exceptionalItemDisplayName": "古代之盾",
-      "eliteItemDisplayName": "囚房",
+      "eliteItemDisplayName": "保护盾牌",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -27767,7 +27767,7 @@
     "occurrenceChance": "0,65%",
     "occurrenceChanceCurrency": "0,65%",
     "itemTier": "精英",
-    "displayName": "灵魂守卫",
+    "displayName": "魂系结界",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -27790,7 +27790,7 @@
     "hellforged": false
   },
   {
-    "index": "吉拉的守护者",
+    "index": "奇拉的守护",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "77",
@@ -27832,7 +27832,7 @@
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "宝冠",
       "exceptionalItemDisplayName": "三重冠",
-      "eliteItemDisplayName": "王位",
+      "eliteItemDisplayName": "权冠",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -27843,7 +27843,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "吉拉的守护者",
+    "displayName": "奇拉的守护",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -27865,7 +27865,7 @@
     "hellforged": false
   },
   {
-    "index": "奥玛斯的法袍",
+    "index": "奥玛斯的长袍",
     "enabled": "1",
     "level": 83,
     "requiredLevel": "75",
@@ -27918,7 +27918,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "奥玛斯的法袍",
+    "displayName": "奥玛斯的长袍",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -27942,7 +27942,7 @@
     "hellforged": false
   },
   {
-    "index": "基德的运气",
+    "index": "基得的运气",
     "enabled": "1",
     "level": 70,
     "requiredLevel": "62",
@@ -27958,13 +27958,13 @@
       "type": "lcha",
       "secondType": "",
       "nameString": "cm3",
-      "displayName": "大型护符"
+      "displayName": "超大型护身符"
     },
     "dropRate": null,
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": null,
-    "displayName": "基德的运气",
+    "displayName": "基得的运气",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -27982,7 +27982,7 @@
     "hellforged": false
   },
   {
-    "index": "风暴之鞭",
+    "index": "暴风之结",
     "enabled": "1",
     "level": 86,
     "requiredLevel": "82",
@@ -27991,7 +27991,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "鞭",
+      "name": "天罚之锤",
       "type": "mace",
       "secondType": "1han",
       "code": "7fl",
@@ -28036,11 +28036,11 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "鞭",
+      "displayName": "天罚之锤",
       "itemTier": "精英",
       "normalItemDisplayName": "链枷",
       "exceptionalItemDisplayName": "铁皮鞭",
-      "eliteItemDisplayName": "鞭",
+      "eliteItemDisplayName": "天罚之锤",
       "onlyClassDisplayText": null,
       "uniques": null,
       "dontDisplay": false,
@@ -28051,7 +28051,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "风暴之鞭",
+    "displayName": "暴风之结",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "56-61 to 400-440",
     "displayTwoHandDamage": null,
@@ -28074,7 +28074,7 @@
     "hellforged": false
   },
   {
-    "index": "哈拉伯德的统治",
+    "index": "海拉柏得的国度",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "77",
@@ -28082,7 +28082,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "征服者之冠",
+      "name": "征服者皇冠面甲",
       "minDefense": 114,
       "maxDefense": 159,
       "requiredStrength": "174",
@@ -28112,11 +28112,11 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "征服者之冠",
+      "displayName": "征服者皇冠面甲",
       "onlyClassDisplayText": "仅野蛮人",
       "normalItemDisplayName": "突击盔",
       "exceptionalItemDisplayName": "蛮族头盔",
-      "eliteItemDisplayName": "征服者之冠",
+      "eliteItemDisplayName": "征服者皇冠面甲",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -28127,7 +28127,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "哈拉伯德的统治",
+    "displayName": "海拉柏得的国度",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -28150,7 +28150,7 @@
     "hellforged": false
   },
   {
-    "index": "棘刺",
+    "index": "尖刺根源",
     "enabled": "1",
     "level": 78,
     "requiredLevel": "70",
@@ -28213,7 +28213,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "棘刺",
+    "displayName": "尖刺根源",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -28234,7 +28234,7 @@
     "hellforged": false
   },
   {
-    "index": "德古拉之握",
+    "index": "卓古拉之握",
     "enabled": "1",
     "level": 84,
     "requiredLevel": "76",
@@ -28287,7 +28287,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "德古拉之握",
+    "displayName": "卓古拉之握",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -28308,7 +28308,7 @@
     "hellforged": false
   },
   {
-    "index": "霜风",
+    "index": "冰霜之风",
     "enabled": "1",
     "level": 78,
     "requiredLevel": "70",
@@ -28377,7 +28377,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "霜风",
+    "displayName": "冰霜之风",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "19-22 to 307-355",
     "displayTwoHandDamage": null,
@@ -28558,7 +28558,7 @@
     "hellforged": false
   },
   {
-    "index": "火蜥蜴的利爪",
+    "index": "火蜥蜴之爪",
     "enabled": "1",
     "level": 75,
     "requiredLevel": "67",
@@ -28627,7 +28627,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "火蜥蜴的利爪",
+    "displayName": "火蜥蜴之爪",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "99-111 to 240-270",
     "displayTwoHandDamage": null,
@@ -28895,7 +28895,7 @@
     "hellforged": false
   },
   {
-    "index": "鱼人之速",
+    "index": "人鱼的齿轮",
     "enabled": "1",
     "level": 45,
     "requiredLevel": "45",
@@ -28948,7 +28948,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "鱼人齿轮",
+    "displayName": "人鱼的齿轮",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -29043,7 +29043,7 @@
     "hellforged": false
   },
   {
-    "index": "诺斯费拉图的缠绕",
+    "index": "吸血圣王之圈",
     "enabled": "1",
     "level": 68,
     "requiredLevel": "51",
@@ -29096,7 +29096,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "诺斯费拉图的缠绕",
+    "displayName": "吸血圣王之圈",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -29276,7 +29276,7 @@
       "itemTier": "精英",
       "displayName": "巨神腰带",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "束带",
+      "normalItemDisplayName": "金属扣带",
       "exceptionalItemDisplayName": "巨战腰带",
       "eliteItemDisplayName": "巨神腰带",
       "uniques": null,
@@ -29355,7 +29355,7 @@
     "hellforged": false
   },
   {
-    "index": "巨人之颅",
+    "index": "巨骷髅",
     "enabled": "1",
     "level": 73,
     "requiredLevel": "65",
@@ -29408,7 +29408,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "巨人之颅",
+    "displayName": "巨骷髅",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -29429,7 +29429,7 @@
     "hellforged": false
   },
   {
-    "index": "铁卫",
+    "index": "爱斯特龙之铁的保护区",
     "enabled": "1",
     "level": 68,
     "requiredLevel": "60",
@@ -29498,7 +29498,7 @@
     "occurrenceChance": "0,22%",
     "occurrenceChanceCurrency": "0,22%",
     "itemTier": "精英",
-    "displayName": "亚斯特龙的钢铁守护",
+    "displayName": "爱斯特龙之铁的保护区",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "256-279 to 308-335",
     "displayTwoHandDamage": null,
@@ -29538,7 +29538,7 @@
       "type": "scha",
       "secondType": "",
       "nameString": "cm1",
-      "displayName": "小型护符"
+      "displayName": "小护身符"
     },
     "dropRate": "100,00%",
     "occurrenceChance": null,
@@ -29564,7 +29564,7 @@
     "hellforged": false
   },
   {
-    "index": "阿里欧克之针",
+    "index": "爱理欧克之针",
     "enabled": "1",
     "level": 85,
     "requiredLevel": "81",
@@ -29633,7 +29633,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "阿里欧克之针",
+    "displayName": "爱理欧克之针",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "149-171 to 506-581",
@@ -29655,7 +29655,7 @@
     "hellforged": false
   },
   {
-    "index": "鹤嘴啄",
+    "index": "鹤嘴",
     "enabled": "1",
     "level": 71,
     "requiredLevel": "63",
@@ -29724,7 +29724,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "鹤嘴啄",
+    "displayName": "鹤嘴",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "129-152 to 204-240",
     "displayTwoHandDamage": null,
@@ -29745,7 +29745,7 @@
     "hellforged": false
   },
   {
-    "index": "诺德的蚀肉器",
+    "index": "诺德的蚀肉药",
     "enabled": "1",
     "level": 76,
     "requiredLevel": "68",
@@ -29814,7 +29814,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "诺德的蚀肉器",
+    "displayName": "诺德的蚀肉药",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "162-189 to 199-232",
     "displayTwoHandDamage": null,
@@ -29836,7 +29836,7 @@
     "hellforged": false
   },
   {
-    "index": "大地移位者",
+    "index": "大地变形者",
     "enabled": "1",
     "level": 77,
     "requiredLevel": "69",
@@ -29905,7 +29905,7 @@
     "occurrenceChance": "0,29%",
     "occurrenceChanceCurrency": "0,29%",
     "itemTier": "精英",
-    "displayName": "大地移位者",
+    "displayName": "大地变形者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "143-164 to 787-900",
@@ -29928,7 +29928,7 @@
     "hellforged": false
   },
   {
-    "index": "幽灵之翼",
+    "index": "死灵夜翔",
     "enabled": "1",
     "level": 84,
     "requiredLevel": "76",
@@ -29997,7 +29997,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "幽灵之翼",
+    "displayName": "死灵夜翔",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "55-64 to 174-204",
     "displayTwoHandDamage": null,
@@ -30019,7 +30019,7 @@
     "hellforged": false
   },
   {
-    "index": "斩骨",
+    "index": "破骨",
     "enabled": "1",
     "level": 72,
     "requiredLevel": "64",
@@ -30088,7 +30088,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "斩骨",
+    "displayName": "破骨",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "129-147 to 669-760",
@@ -30110,7 +30110,7 @@
     "hellforged": false
   },
   {
-    "index": "翁达尔的智慧",
+    "index": "安戴尔的智慧",
     "enabled": "1",
     "level": 74,
     "requiredLevel": "66",
@@ -30179,7 +30179,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "翁达尔的智慧",
+    "displayName": "安戴尔的智慧",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": "0 to 0",
@@ -30200,7 +30200,7 @@
     "hellforged": false
   },
   {
-    "index": "救赎者",
+    "index": "忏悔者",
     "enabled": "1",
     "level": 80,
     "requiredLevel": "72",
@@ -30269,7 +30269,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "救赎者",
+    "displayName": "忏悔者",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "235-260 to 347-380",
     "displayTwoHandDamage": null,
@@ -30294,7 +30294,7 @@
     "hellforged": false
   },
   {
-    "index": "猎头者之荣耀",
+    "index": "猎头人的荣耀",
     "enabled": "1",
     "level": 83,
     "requiredLevel": "75",
@@ -30357,7 +30357,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "猎头者之荣耀",
+    "displayName": "猎头人的荣耀",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -30380,7 +30380,7 @@
     "hellforged": false
   },
   {
-    "index": "钢铁拳套",
+    "index": "碎钢",
     "enabled": "1",
     "level": 78,
     "requiredLevel": "70",
@@ -30433,7 +30433,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "钢铁拳套",
+    "displayName": "碎钢",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -30797,7 +30797,7 @@
       "type": "mcha",
       "secondType": "",
       "nameString": "cm2",
-      "displayName": "大型护符"
+      "displayName": "大型护身符"
     },
     "dropRate": "100,00%",
     "occurrenceChance": null,
@@ -30863,7 +30863,7 @@
       "itemTier": "精英",
       "displayName": "镜化靴",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "轻型板甲靴",
+      "normalItemDisplayName": "轻型金属靴",
       "exceptionalItemDisplayName": "战场之靴",
       "eliteItemDisplayName": "镜化靴",
       "uniques": null,
@@ -31364,7 +31364,7 @@
       "displayName": "飞鹰头盔",
       "onlyClassDisplayText": "仅德鲁伊",
       "normalItemDisplayName": "飞鹰头盔",
-      "exceptionalItemDisplayName": "狮鹫头饰",
+      "exceptionalItemDisplayName": "狮鹫兽头带",
       "eliteItemDisplayName": "太阳之灵",
       "uniques": null,
       "dontDisplay": false,
@@ -31513,7 +31513,7 @@
       "onlyClassDisplayText": "仅圣骑士",
       "normalItemDisplayName": "纹章盾",
       "exceptionalItemDisplayName": "防护者盾牌",
-      "eliteItemDisplayName": "古代之盾",
+      "eliteItemDisplayName": "库拉斯特之盾",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -32974,7 +32974,7 @@
     "occurrenceChance": null,
     "occurrenceChanceCurrency": null,
     "itemTier": null,
-    "displayName": "扎尔的圣所",
+    "displayName": "疯狂之王扎尔",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -33636,7 +33636,7 @@
       "itemTier": "精英",
       "displayName": "荆棘连指手套",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "手套",
+      "normalItemDisplayName": "皮手套",
       "exceptionalItemDisplayName": "魔皮手套",
       "eliteItemDisplayName": "荆棘连指手套",
       "uniques": null,
@@ -33679,7 +33679,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "秘银尖刺",
+      "name": "秘银小刀",
       "type": "knif",
       "secondType": "1han",
       "code": "7di",
@@ -33724,11 +33724,11 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "秘银尖刺",
+      "displayName": "秘银小刀",
       "itemTier": "精英",
       "normalItemDisplayName": "长匕首",
       "exceptionalItemDisplayName": "诗歌匕首",
-      "eliteItemDisplayName": "秘银尖刺",
+      "eliteItemDisplayName": "秘银小刀",
       "onlyClassDisplayText": null,
       "uniques": null,
       "dontDisplay": false,
@@ -33804,7 +33804,7 @@
       "displayName": "太阳之灵",
       "onlyClassDisplayText": "仅德鲁伊",
       "normalItemDisplayName": "飞鹰头盔",
-      "exceptionalItemDisplayName": "狮鹫头饰",
+      "exceptionalItemDisplayName": "狮鹫兽头带",
       "eliteItemDisplayName": "太阳之灵",
       "uniques": null,
       "dontDisplay": false,
@@ -34386,7 +34386,7 @@
       "onlyClassDisplayText": "仅德鲁伊",
       "normalItemDisplayName": "狼头",
       "exceptionalItemDisplayName": "阿尔发头盔",
-      "eliteItemDisplayName": "血之灵",
+      "eliteItemDisplayName": "血腥之灵",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -35259,7 +35259,7 @@
     "hellforged": false
   },
   {
-    "index": "李奥瑞克王的臂膀",
+    "index": "李奥瑞克王的武器",
     "enabled": "1",
     "level": 44,
     "requiredLevel": "36",
@@ -35328,7 +35328,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "扩展",
-    "displayName": "李奥瑞克王的臂膀",
+    "displayName": "李奥瑞克王的武器",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "0 to 0",
     "displayTwoHandDamage": null,
@@ -35960,7 +35960,7 @@
       "type": "scha",
       "secondType": "",
       "nameString": "cm1",
-      "displayName": "小型护符"
+      "displayName": "小护身符"
     },
     "dropRate": null,
     "occurrenceChance": null,
@@ -36528,7 +36528,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": null,
-    "displayName": "阿卡拉特的怒火",
+    "displayName": "阿卡拉特之怒",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": null,
     "displayTwoHandDamage": null,
@@ -37010,7 +37010,7 @@
       "type": "scha",
       "secondType": "",
       "nameString": "cm1",
-      "displayName": "小型护符"
+      "displayName": "小护身符"
     },
     "dropRate": "5,00%",
     "occurrenceChance": null,
@@ -37042,7 +37042,7 @@
     "carryOne": "",
     "armorBase": null,
     "weaponBase": {
-      "name": "双手幻化之刃",
+      "name": "幻化之刃",
       "type": "2hcs",
       "secondType": "2han",
       "code": "7cr2",
@@ -37087,11 +37087,11 @@
         "throwable": "0",
         "dontDisplay": false
       },
-      "displayName": "双手幻化之刃",
+      "displayName": "幻化之刃",
       "itemTier": "精英",
       "normalItemDisplayName": "",
       "exceptionalItemDisplayName": "",
-      "eliteItemDisplayName": "双手幻化之刃",
+      "eliteItemDisplayName": "幻化之刃",
       "onlyClassDisplayText": "仅圣骑士",
       "uniques": null,
       "dontDisplay": true,
@@ -37206,8 +37206,8 @@
       "itemTier": "精英",
       "displayName": "血王之骨",
       "onlyClassDisplayText": "仅死灵法师",
-      "normalItemDisplayName": "恶魔头盖骨面具",
-      "exceptionalItemDisplayName": "祭司战利品",
+      "normalItemDisplayName": "恶魔之首",
+      "exceptionalItemDisplayName": "祭司印记",
       "eliteItemDisplayName": "血王之骨",
       "uniques": null,
       "dontDisplay": false,
@@ -37623,7 +37623,7 @@
       "itemTier": "精英",
       "displayName": "巨神腰带",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "束带",
+      "normalItemDisplayName": "金属扣带",
       "exceptionalItemDisplayName": "巨战腰带",
       "eliteItemDisplayName": "巨神腰带",
       "uniques": null,
@@ -38029,7 +38029,7 @@
       "type": "mcha",
       "secondType": "",
       "nameString": "cm2",
-      "displayName": "大型护符"
+      "displayName": "大型护身符"
     },
     "dropRate": "2,00%",
     "occurrenceChance": null,
@@ -38849,8 +38849,8 @@
       "itemTier": "精英",
       "displayName": "血王之骨",
       "onlyClassDisplayText": "仅死灵法师",
-      "normalItemDisplayName": "恶魔头盖骨面具",
-      "exceptionalItemDisplayName": "祭司战利品",
+      "normalItemDisplayName": "恶魔之首",
+      "exceptionalItemDisplayName": "祭司印记",
       "eliteItemDisplayName": "血王之骨",
       "uniques": null,
       "dontDisplay": false,
@@ -38891,7 +38891,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "庇护",
+      "name": "圣盾",
       "minDefense": 215,
       "maxDefense": 241,
       "requiredStrength": "219",
@@ -38921,11 +38921,11 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "庇护",
+      "displayName": "圣盾",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "塔盾",
       "exceptionalItemDisplayName": "大盾",
-      "eliteItemDisplayName": "庇护",
+      "eliteItemDisplayName": "圣盾",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -39415,7 +39415,7 @@
       "itemTier": "精英",
       "displayName": "镜化靴",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "轻型板甲靴",
+      "normalItemDisplayName": "轻型金属靴",
       "exceptionalItemDisplayName": "战场之靴",
       "eliteItemDisplayName": "镜化靴",
       "uniques": null,
@@ -39456,7 +39456,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "王位",
+      "name": "权冠",
       "minDefense": 50,
       "maxDefense": 60,
       "requiredStrength": "0",
@@ -39486,11 +39486,11 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "王位",
+      "displayName": "权冠",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "宝冠",
       "exceptionalItemDisplayName": "三重冠",
-      "eliteItemDisplayName": "王位",
+      "eliteItemDisplayName": "权冠",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -39625,7 +39625,7 @@
     "occurrenceChance": "0,07%",
     "occurrenceChanceCurrency": "0,07%",
     "itemTier": "精英",
-    "displayName": "法拉的怨恨",
+    "displayName": "法拉之怨",
     "onlyClassDisplayText": null,
     "displayOneHandDamage": "138-161 to 162-189",
     "displayTwoHandDamage": null,
@@ -40205,7 +40205,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "镀金盾",
+      "name": "饰金盾牌",
       "minDefense": 144,
       "maxDefense": 168,
       "requiredStrength": "89",
@@ -40235,10 +40235,10 @@
       },
       "secondItemType": null,
       "itemTier": "扩展",
-      "displayName": "镀金盾",
+      "displayName": "饰金盾牌",
       "onlyClassDisplayText": "仅圣骑士",
       "normalItemDisplayName": "艾文之盾",
-      "exceptionalItemDisplayName": "镀金盾",
+      "exceptionalItemDisplayName": "饰金盾牌",
       "eliteItemDisplayName": "撒卡兰姆盾牌",
       "uniques": null,
       "dontDisplay": false,
@@ -40631,7 +40631,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "囚房",
+      "name": "保护盾牌",
       "minDefense": 183,
       "maxDefense": 207,
       "requiredStrength": "185",
@@ -40661,11 +40661,11 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "囚房",
+      "displayName": "保护盾牌",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "哥德盾牌",
       "exceptionalItemDisplayName": "古代之盾",
-      "eliteItemDisplayName": "囚房",
+      "eliteItemDisplayName": "保护盾牌",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -40882,7 +40882,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "王位",
+      "name": "权冠",
       "minDefense": 50,
       "maxDefense": 60,
       "requiredStrength": "0",
@@ -40912,11 +40912,11 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "王位",
+      "displayName": "权冠",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "宝冠",
       "exceptionalItemDisplayName": "三重冠",
-      "eliteItemDisplayName": "王位",
+      "eliteItemDisplayName": "权冠",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false
@@ -41346,7 +41346,7 @@
       "itemTier": "精英",
       "displayName": "巨神腰带",
       "onlyClassDisplayText": null,
-      "normalItemDisplayName": "束带",
+      "normalItemDisplayName": "金属扣带",
       "exceptionalItemDisplayName": "巨战腰带",
       "eliteItemDisplayName": "巨神腰带",
       "uniques": null,
@@ -43748,7 +43748,7 @@
     "rarity": "1",
     "carryOne": "",
     "armorBase": {
-      "name": "囚房",
+      "name": "保护盾牌",
       "minDefense": 183,
       "maxDefense": 207,
       "requiredStrength": "185",
@@ -43778,11 +43778,11 @@
       },
       "secondItemType": null,
       "itemTier": "精英",
-      "displayName": "囚房",
+      "displayName": "保护盾牌",
       "onlyClassDisplayText": null,
       "normalItemDisplayName": "哥德盾牌",
       "exceptionalItemDisplayName": "古代之盾",
-      "eliteItemDisplayName": "囚房",
+      "eliteItemDisplayName": "保护盾牌",
       "uniques": null,
       "dontDisplay": false,
       "highlight": false

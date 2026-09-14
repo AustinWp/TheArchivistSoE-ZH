@@ -9,8 +9,10 @@
 import glob
 import json
 import os
+import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CJK = re.compile(r"[\u4e00-\u9fff]")
 
 # (旧词, 官方式新词)
 PAIRS = [
@@ -44,8 +46,65 @@ SKIP = {
 }
 
 
+def protected_terms():
+    """需要保护的「更长官方术语」集合：官方串表 + 站点各类名字字段。
+
+    ⚠️ 背景：裸串替换会把「**爱斯**特龙之铁的保护区」里的「爱斯」当旧符文名吃掉
+    （2026-09-14 实测，`("爱斯","艾斯")` 把官方暗金名改错）。命中位置若落在更长术语内就跳过。
+    """
+    out = set()
+    try:
+        names = json.load(open(os.path.join(ROOT, "public", "data", "official_zh.json"),
+                               encoding="utf-8"))["names"]
+        out.update(str(v) for v in names.values() if v and CJK.search(str(v)))
+    except OSError:
+        pass
+    for rel, fields in [("Uniques.json", ("index", "displayName")),
+                        ("damnation/Uniques.json", ("index", "displayName")),
+                        ("Weapons.json", ("displayName", "normalItemDisplayName",
+                                          "exceptionalItemDisplayName", "eliteItemDisplayName")),
+                        ("Armors.json", ("displayName", "normalItemDisplayName",
+                                         "exceptionalItemDisplayName", "eliteItemDisplayName")),
+                        ("Runewords.json", ("displayName", "runewordName")),
+                        ("Affixes.json", ("name",))]:
+        p = os.path.join(ROOT, "public", "data", rel)
+        if not os.path.exists(p):
+            continue
+        for it in json.load(open(p, encoding="utf-8")):
+            for f in fields:
+                v = it.get(f)
+                if v and CJK.search(str(v)):
+                    out.add(str(v).strip())
+    return out
+
+
+def replace_guarded(text, old, new, protected):
+    """替换 ``old``→``new``，跳过落在更长官方术语内部的匹配。返回 (文本, 替换数, 跳过数)。"""
+    out, i, done, skipped = [], 0, 0, 0
+    while True:
+        j = text.find(old, i)
+        if j < 0:
+            out.append(text[i:])
+            break
+        a, b = j, j + len(old)
+        while a > 0 and CJK.match(text[a - 1]):        # 向两侧扩到最长中文串
+            a -= 1
+        while b < len(text) and CJK.match(text[b]):
+            b += 1
+        run = text[a:b]
+        if run != old and run in protected:
+            skipped += 1
+        else:
+            out.append(text[i:j])
+            out.append(new)
+            done += 1
+        i = j + len(old)
+    return "".join(out), done, skipped
+
+
 def main():
-    counts = {}
+    protected = protected_terms()
+    counts, skips = {}, {}
     for pattern in (os.path.join(ROOT, "public", "data", "*.json"),
                     os.path.join(ROOT, "public", "data", "damnation", "*.json"),
                     os.path.join(ROOT, "src", "*.jsx")):
@@ -53,19 +112,25 @@ def main():
             if os.path.basename(f) in SKIP:
                 continue
             s = open(f, encoding="utf-8").read()
-            n = 0
+            n = k = 0
             for old, new in PAIRS:
-                c = s.count(old)
-                if c:
-                    n += c
-                    s = s.replace(old, new)
+                if old not in s:
+                    continue
+                s, d, sk = replace_guarded(s, old, new, protected)
+                n += d
+                k += sk
             if n:
                 open(f, "w", encoding="utf-8").write(s)
                 counts[f] = n
-    total = sum(counts.values())
-    print(f"替换总数: {total}")
+            if k:
+                skips[f] = k
+    print(f"替换总数: {sum(counts.values())}")
     for f, n in sorted(counts.items(), key=lambda x: -x[1]):
         print(f"  {n:5d}  {f}")
+    if skips:
+        print(f"跳过（落在更长官方术语内）: {sum(skips.values())}")
+        for f, n in sorted(skips.items(), key=lambda x: -x[1]):
+            print(f"  {n:5d}  {f}")
 
 
 if __name__ == "__main__":

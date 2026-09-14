@@ -33,7 +33,8 @@ npm run preview  # 预览构建产物
 
 | 来源 | 说明 | 仓库位置 |
 |---|---|---|
-| 官方中文字符串表（soe.txt） | 全站**术语唯一标准**；清洗后生成 `public/data/official_zh.json` | `docs/reference/soe.txt` |
+| 官方中文字符串表（soe.txt） | 服务端导出的模组串表；与国服客户端串表合并后生成 `public/data/official_zh.json`（**客户端优先**） | `docs/reference/soe.txt` |
+| 国服客户端中文串表 | 游戏**实际加载**的串表（`string` / `expansionstring` / `PatchString`，UTF-8 `key\0value\0`）。比旧 `.txt` 导出新且全（`PatchString` 多 1636 条），全站名字以此为准 | 从客户端包解出 → `<工作区>/.sources/client-zh/`（不入库） |
 | 标准模式魔方配方表 | 6,801 条启用配方 | `docs/reference/CubeMain.standard.txt` |
 | 炼狱（毁灭）模式魔方配方表 | 6,874 条启用配方 | `docs/reference/CubeMain.damnation.txt` |
 | 物品库存贴图 | 644 张 PNG（游戏客户端 DC6 库存贴图转换） | `public/item-images/`（映射见 `public/data/ItemImages.json`） |
@@ -319,6 +320,11 @@ React Hook 依赖提示，属历史遗留、无功能影响）。剩下 1 条 Re
 
 | 工具 | 用途 |
 |---|---|
+| `client_zh.py` | **客户端串表唯一加载/归一化入口**（`.tbl` 解析、`_pd2` 覆盖键、颜色码与英文名清洗） |
+| `verify_client_zh.py` | **全站翻译校验**：`official_zh` / 暗金 / 底材 / 符文之语 / 技能 / 词缀 逐项对客户端（报告 `tools/generated/client_zh_diff.md`） |
+| `apply_client_zh.py` | 把暗金 / 符文之语 / 词缀名对齐到客户端（含正文与生成器里的旧名同步；`--check` 只看差异） |
+| `uniques_match.py` | 暗金 ↔ 源表 `UniqueItems.txt` 的配对唯一实现（(code,lvl) 分组打分，解决 130 行撞车） |
+| `extract_official_zh.py` | `official_zh.json` 生成器：soe.txt + 客户端串表（`--no-client` 可只取 soe.txt） |
 | `source_repo.py` | **源码仓库路径唯一入口**（`$SOECN_REPO` → `<工作区>/.sources/SOECN` → `/tmp` 兜底）；直接运行即自检仓库与基准 commit |
 | `verify_dropcalc_tables.py` | 掉落计算器 10 张表 vs 国服源码（`--repo` / `--sha` 可省，默认自动解析） |
 | `affix_deep_align.py` / `affix_depth_diff.py` | 词缀与游戏表的三层比对（**结论见 §4.3.2：缺口真实但无法可靠列举 → 不做**；早先「缺 196 条」那个数字已作废） |

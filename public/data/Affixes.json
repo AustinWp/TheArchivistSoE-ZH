@@ -1,6 +1,6 @@
 [
   {
-    "name": "魁梧的",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -26,7 +26,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -52,7 +52,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -78,7 +78,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "魁梧之",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -104,7 +104,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "魁梧之",
     "spawnable": "1",
     "rare": "1",
     "level": 22,
@@ -130,7 +130,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "魁梧之",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -156,7 +156,7 @@
     "suffix": false
   },
   {
-    "name": "坚定的",
+    "name": "健壮之",
     "spawnable": "1",
     "rare": "",
     "level": 32,
@@ -182,7 +182,7 @@
     "suffix": false
   },
   {
-    "name": "坚定的",
+    "name": "健壮之",
     "spawnable": "1",
     "rare": "",
     "level": 37,
@@ -208,7 +208,7 @@
     "suffix": false
   },
   {
-    "name": "坚定的",
+    "name": "健壮之",
     "spawnable": "1",
     "rare": "",
     "level": 42,
@@ -234,7 +234,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -259,7 +259,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -284,7 +284,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -309,7 +309,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "魁梧之",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -334,7 +334,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "健壮之",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -359,7 +359,7 @@
     "suffix": false
   },
   {
-    "name": "坚定的",
+    "name": "健壮之",
     "spawnable": "1",
     "rare": "",
     "level": 38,
@@ -384,7 +384,7 @@
     "suffix": false
   },
   {
-    "name": "坚定的",
+    "name": "健壮之",
     "spawnable": "1",
     "rare": "",
     "level": 45,
@@ -409,7 +409,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -434,7 +434,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -459,7 +459,7 @@
     "suffix": false
   },
   {
-    "name": "魁梧的",
+    "name": "神圣之",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -484,7 +484,7 @@
     "suffix": false
   },
   {
-    "name": "坚定的",
+    "name": "健壮之",
     "spawnable": "1",
     "rare": "",
     "level": 48,
@@ -509,7 +509,7 @@
     "suffix": false
   },
   {
-    "name": "苍白的",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -535,7 +535,7 @@
     "suffix": false
   },
   {
-    "name": "象牙白的",
+    "name": "类象牙之",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -561,7 +561,7 @@
     "suffix": false
   },
   {
-    "name": "白骨",
+    "name": "健壮之",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -587,7 +587,7 @@
     "suffix": false
   },
   {
-    "name": "象牙的",
+    "name": "象牙之",
     "spawnable": "1",
     "rare": "",
     "level": 64,
@@ -613,7 +613,7 @@
     "suffix": false
   },
   {
-    "name": "结实的",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -638,7 +638,7 @@
     "suffix": false
   },
   {
-    "name": "结实的",
+    "name": "结实之",
     "spawnable": "1",
     "rare": "1",
     "level": 4,
@@ -688,7 +688,7 @@
     "suffix": false
   },
   {
-    "name": "荣耀的",
+    "name": "光荣之",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -713,7 +713,7 @@
     "suffix": false
   },
   {
-    "name": "神圣的",
+    "name": "祝福之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -738,7 +738,7 @@
     "suffix": false
   },
   {
-    "name": "圣人的",
+    "name": "崇高之",
     "spawnable": "1",
     "rare": "1",
     "level": 31,
@@ -763,7 +763,7 @@
     "suffix": false
   },
   {
-    "name": "圣洁的",
+    "name": "神圣之",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -788,7 +788,7 @@
     "suffix": false
   },
   {
-    "name": "神级的",
+    "name": "健壮之",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -813,7 +813,7 @@
     "suffix": false
   },
   {
-    "name": "猩红的",
+    "name": "猩红之",
     "spawnable": "1",
     "rare": "1",
     "level": 8,
@@ -840,7 +840,7 @@
     "suffix": false
   },
   {
-    "name": "深红的",
+    "name": "枣红之",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -866,7 +866,7 @@
     "suffix": false
   },
   {
-    "name": "红玉的",
+    "name": "红玉之",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -893,7 +893,7 @@
     "suffix": false
   },
   {
-    "name": "胭脂红的",
+    "name": "胭脂之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -920,7 +920,7 @@
     "suffix": false
   },
   {
-    "name": "朱红的",
+    "name": "朱砂之",
     "spawnable": "1",
     "rare": "1",
     "level": 58,
@@ -947,7 +947,7 @@
     "suffix": false
   },
   {
-    "name": "锯齿的",
+    "name": "锯齿之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -976,7 +976,7 @@
     "suffix": false
   },
   {
-    "name": "致命的",
+    "name": "致命之",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -1005,7 +1005,7 @@
     "suffix": false
   },
   {
-    "name": "恶毒的",
+    "name": "恶毒之",
     "spawnable": "1",
     "rare": "1",
     "level": 8,
@@ -1034,7 +1034,7 @@
     "suffix": false
   },
   {
-    "name": "残暴的",
+    "name": "残酷之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -1063,7 +1063,7 @@
     "suffix": false
   },
   {
-    "name": "巨大的",
+    "name": "稳重之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -1092,7 +1092,7 @@
     "suffix": false
   },
   {
-    "name": "野蛮的",
+    "name": "野蛮之",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -1121,7 +1121,7 @@
     "suffix": false
   },
   {
-    "name": "无情的",
+    "name": "绝情之",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -1150,7 +1150,7 @@
     "suffix": false
   },
   {
-    "name": "凶猛的",
+    "name": "凶暴之",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -1179,7 +1179,7 @@
     "suffix": false
   },
   {
-    "name": "残忍的",
+    "name": "残忍之",
     "spawnable": "1",
     "rare": "1",
     "level": 51,
@@ -1208,7 +1208,7 @@
     "suffix": false
   },
   {
-    "name": "朱砂的",
+    "name": "锯齿之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -1234,7 +1234,7 @@
     "suffix": false
   },
   {
-    "name": "生锈的",
+    "name": "铁锈之",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -1260,7 +1260,7 @@
     "suffix": false
   },
   {
-    "name": "雄黄的",
+    "name": "雄黄之",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -1286,7 +1286,7 @@
     "suffix": false
   },
   {
-    "name": "红宝石的",
+    "name": "红宝石之",
     "spawnable": "1",
     "rare": "1",
     "level": 66,
@@ -1312,7 +1312,7 @@
     "suffix": false
   },
   {
-    "name": "狐的",
+    "name": "奸诈之",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -1340,7 +1340,7 @@
     "suffix": false
   },
   {
-    "name": "暗褐色的",
+    "name": "暗楬之",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -1366,7 +1366,7 @@
     "suffix": false
   },
   {
-    "name": "不知疲倦的",
+    "name": "不倦之",
     "spawnable": "1",
     "rare": "1",
     "level": 6,
@@ -1391,7 +1391,7 @@
     "suffix": false
   },
   {
-    "name": "不知疲倦的",
+    "name": "不倦之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -1416,7 +1416,7 @@
     "suffix": false
   },
   {
-    "name": "青铜的",
+    "name": "青铜之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -1442,7 +1442,7 @@
     "suffix": false
   },
   {
-    "name": "青铜的",
+    "name": "青铜之",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -1468,7 +1468,7 @@
     "suffix": false
   },
   {
-    "name": "青铜的",
+    "name": "青铜之",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -1494,7 +1494,7 @@
     "suffix": false
   },
   {
-    "name": "铁的",
+    "name": "铁之",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -1520,7 +1520,7 @@
     "suffix": false
   },
   {
-    "name": "铁的",
+    "name": "铁之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -1546,7 +1546,7 @@
     "suffix": false
   },
   {
-    "name": "铁的",
+    "name": "铁之",
     "spawnable": "1",
     "rare": "1",
     "level": 31,
@@ -1572,7 +1572,7 @@
     "suffix": false
   },
   {
-    "name": "钢铁",
+    "name": "钢之",
     "spawnable": "1",
     "rare": "",
     "level": 37,
@@ -1598,7 +1598,7 @@
     "suffix": false
   },
   {
-    "name": "钢铁",
+    "name": "钢之",
     "spawnable": "1",
     "rare": "",
     "level": 43,
@@ -1624,7 +1624,7 @@
     "suffix": false
   },
   {
-    "name": "钢铁",
+    "name": "钢之",
     "spawnable": "1",
     "rare": "",
     "level": 49,
@@ -1650,7 +1650,7 @@
     "suffix": false
   },
   {
-    "name": "青铜的",
+    "name": "青铜之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -1675,7 +1675,7 @@
     "suffix": false
   },
   {
-    "name": "青铜的",
+    "name": "青铜之",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -1700,7 +1700,7 @@
     "suffix": false
   },
   {
-    "name": "青铜的",
+    "name": "青铜之",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -1725,7 +1725,7 @@
     "suffix": false
   },
   {
-    "name": "铁的",
+    "name": "铁之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -1750,7 +1750,7 @@
     "suffix": false
   },
   {
-    "name": "铁的",
+    "name": "铁之",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -1775,7 +1775,7 @@
     "suffix": false
   },
   {
-    "name": "钢铁",
+    "name": "钢之",
     "spawnable": "1",
     "rare": "",
     "level": 43,
@@ -1800,7 +1800,7 @@
     "suffix": false
   },
   {
-    "name": "钢铁",
+    "name": "钢之",
     "spawnable": "1",
     "rare": "",
     "level": 52,
@@ -1825,7 +1825,7 @@
     "suffix": false
   },
   {
-    "name": "青铜的",
+    "name": "青铜之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -1850,7 +1850,7 @@
     "suffix": false
   },
   {
-    "name": "青铜的",
+    "name": "青铜之",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -1875,7 +1875,7 @@
     "suffix": false
   },
   {
-    "name": "铁的",
+    "name": "铁之",
     "spawnable": "1",
     "rare": "1",
     "level": 39,
@@ -1900,7 +1900,7 @@
     "suffix": false
   },
   {
-    "name": "钢铁",
+    "name": "钢之",
     "spawnable": "1",
     "rare": "",
     "level": 57,
@@ -1925,7 +1925,7 @@
     "suffix": false
   },
   {
-    "name": "青铜的",
+    "name": "青铜之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -1960,7 +1960,7 @@
     "suffix": false
   },
   {
-    "name": "铁的",
+    "name": "铁之",
     "spawnable": "1",
     "rare": "1",
     "level": 4,
@@ -1994,7 +1994,7 @@
     "suffix": false
   },
   {
-    "name": "钢铁",
+    "name": "钢之",
     "spawnable": "1",
     "rare": "1",
     "level": 8,
@@ -2063,7 +2063,7 @@
     "suffix": false
   },
   {
-    "name": "金色的",
+    "name": "金之",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -2098,7 +2098,7 @@
     "suffix": false
   },
   {
-    "name": "铂金的",
+    "name": "白金之",
     "spawnable": "1",
     "rare": "1",
     "level": 22,
@@ -2133,7 +2133,7 @@
     "suffix": false
   },
   {
-    "name": "陨石的",
+    "name": "陨铁之",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -2163,7 +2163,7 @@
     "suffix": false
   },
   {
-    "name": "奇异的",
+    "name": "怪异之",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -2192,7 +2192,7 @@
     "suffix": false
   },
   {
-    "name": "古怪的",
+    "name": "钢之",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -2221,7 +2221,7 @@
     "suffix": false
   },
   {
-    "name": "镍的",
+    "name": "青铜之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -2247,7 +2247,7 @@
     "suffix": false
   },
   {
-    "name": "锡的",
+    "name": "钢之",
     "spawnable": "1",
     "rare": "1",
     "level": 8,
@@ -2273,7 +2273,7 @@
     "suffix": false
   },
   {
-    "name": "银",
+    "name": "铁之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -2299,7 +2299,7 @@
     "suffix": false
   },
   {
-    "name": "银白的",
+    "name": "银之",
     "spawnable": "1",
     "rare": "1",
     "level": 44,
@@ -2325,7 +2325,7 @@
     "suffix": false
   },
   {
-    "name": "精良的",
+    "name": "精良之",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -2357,7 +2357,7 @@
     "suffix": false
   },
   {
-    "name": "精良的",
+    "name": "白金之",
     "spawnable": "1",
     "rare": "1",
     "level": 22,
@@ -2389,7 +2389,7 @@
     "suffix": false
   },
   {
-    "name": "锋利的",
+    "name": "尖锐之",
     "spawnable": "1",
     "rare": "1",
     "level": 29,
@@ -2421,7 +2421,7 @@
     "suffix": false
   },
   {
-    "name": "精良的",
+    "name": "精良之",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -2452,7 +2452,7 @@
     "suffix": false
   },
   {
-    "name": "锋利的",
+    "name": "尖锐之",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -2483,7 +2483,7 @@
     "suffix": false
   },
   {
-    "name": "精良的",
+    "name": "尖锐之",
     "spawnable": "1",
     "rare": "",
     "level": 28,
@@ -2514,7 +2514,7 @@
     "suffix": false
   },
   {
-    "name": "锋利的",
+    "name": "尖锐之",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -2549,7 +2549,7 @@
     "suffix": false
   },
   {
-    "name": "精良的",
+    "name": "银",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -2584,7 +2584,7 @@
     "suffix": false
   },
   {
-    "name": "勇士的",
+    "name": "精良之",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -2619,7 +2619,7 @@
     "suffix": false
   },
   {
-    "name": "士兵的",
+    "name": "陨铁之",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -2654,7 +2654,7 @@
     "suffix": false
   },
   {
-    "name": "骑士的",
+    "name": "骑士之",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -2689,7 +2689,7 @@
     "suffix": false
   },
   {
-    "name": "领主的",
+    "name": "君王之",
     "spawnable": "1",
     "rare": "1",
     "level": 47,
@@ -2724,7 +2724,7 @@
     "suffix": false
   },
   {
-    "name": "国王的",
+    "name": "国王之",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -2759,7 +2759,7 @@
     "suffix": false
   },
   {
-    "name": "大师的",
+    "name": "国王之",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -2794,7 +2794,7 @@
     "suffix": false
   },
   {
-    "name": "大宗师的",
+    "name": "宗师之",
     "spawnable": "1",
     "rare": "1",
     "level": 69,
@@ -2829,7 +2829,7 @@
     "suffix": false
   },
   {
-    "name": "微光的",
+    "name": "微光之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -2859,7 +2859,7 @@
     "suffix": false
   },
   {
-    "name": "发光的",
+    "name": "发光之",
     "spawnable": "1",
     "rare": "1",
     "level": 6,
@@ -2889,7 +2889,7 @@
     "suffix": false
   },
   {
-    "name": "明亮的",
+    "name": "微光之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -2921,7 +2921,7 @@
     "suffix": false
   },
   {
-    "name": "幸运的",
+    "name": "好运之",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -2947,7 +2947,7 @@
     "suffix": false
   },
   {
-    "name": "幸运的",
+    "name": "好运之",
     "spawnable": "1",
     "rare": "",
     "level": 38,
@@ -2973,7 +2973,7 @@
     "suffix": false
   },
   {
-    "name": "幸运的",
+    "name": "好运之",
     "spawnable": "1",
     "rare": "",
     "level": 55,
@@ -2999,7 +2999,7 @@
     "suffix": false
   },
   {
-    "name": "幸运的",
+    "name": "好运之",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -3024,7 +3024,7 @@
     "suffix": false
   },
   {
-    "name": "幸运的",
+    "name": "好运之",
     "spawnable": "1",
     "rare": "",
     "level": 53,
@@ -3049,7 +3049,7 @@
     "suffix": false
   },
   {
-    "name": "幸运的",
+    "name": "好运之",
     "spawnable": "1",
     "rare": "",
     "level": 51,
@@ -3074,7 +3074,7 @@
     "suffix": false
   },
   {
-    "name": "吉祥的",
+    "name": "偶然之",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -3102,7 +3102,7 @@
     "suffix": false
   },
   {
-    "name": "侥幸的",
+    "name": "偶然之",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -3130,7 +3130,7 @@
     "suffix": false
   },
   {
-    "name": "翡翠的",
+    "name": "祖母绿之",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -3156,7 +3156,7 @@
     "suffix": false
   },
   {
-    "name": "蜥蜴的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -3182,7 +3182,7 @@
     "suffix": false
   },
   {
-    "name": "蜥蜴的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -3208,7 +3208,7 @@
     "suffix": false
   },
   {
-    "name": "蜥蜴的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -3234,7 +3234,7 @@
     "suffix": false
   },
   {
-    "name": "蛇的",
+    "name": "蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -3260,7 +3260,7 @@
     "suffix": false
   },
   {
-    "name": "蛇的",
+    "name": "蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -3286,7 +3286,7 @@
     "suffix": false
   },
   {
-    "name": "蛇的",
+    "name": "蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 31,
@@ -3312,7 +3312,7 @@
     "suffix": false
   },
   {
-    "name": "巨蛇的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -3338,7 +3338,7 @@
     "suffix": false
   },
   {
-    "name": "巨蛇的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 43,
@@ -3364,7 +3364,7 @@
     "suffix": false
   },
   {
-    "name": "巨蛇的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 49,
@@ -3390,7 +3390,7 @@
     "suffix": false
   },
   {
-    "name": "蜥蜴的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -3415,7 +3415,7 @@
     "suffix": false
   },
   {
-    "name": "蜥蜴的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -3440,7 +3440,7 @@
     "suffix": false
   },
   {
-    "name": "蜥蜴的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -3465,7 +3465,7 @@
     "suffix": false
   },
   {
-    "name": "蛇的",
+    "name": "蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -3490,7 +3490,7 @@
     "suffix": false
   },
   {
-    "name": "蛇的",
+    "name": "蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 33,
@@ -3515,7 +3515,7 @@
     "suffix": false
   },
   {
-    "name": "巨蛇的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -3540,7 +3540,7 @@
     "suffix": false
   },
   {
-    "name": "巨蛇的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 49,
@@ -3565,7 +3565,7 @@
     "suffix": false
   },
   {
-    "name": "蜥蜴的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -3590,7 +3590,7 @@
     "suffix": false
   },
   {
-    "name": "蜥蜴的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -3615,7 +3615,7 @@
     "suffix": false
   },
   {
-    "name": "蛇的",
+    "name": "蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -3640,7 +3640,7 @@
     "suffix": false
   },
   {
-    "name": "巨蛇的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "",
     "level": 48,
@@ -3665,7 +3665,7 @@
     "suffix": false
   },
   {
-    "name": "蜥蜴的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 3,
@@ -3697,7 +3697,7 @@
     "suffix": false
   },
   {
-    "name": "蛇的",
+    "name": "蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 6,
@@ -3728,7 +3728,7 @@
     "suffix": false
   },
   {
-    "name": "巨蛇的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -3757,7 +3757,7 @@
     "suffix": false
   },
   {
-    "name": "巨蛇的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -3786,7 +3786,7 @@
     "suffix": false
   },
   {
-    "name": "幼龙的",
+    "name": "蜉蝣之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -3816,7 +3816,7 @@
     "suffix": false
   },
   {
-    "name": "巨龙的",
+    "name": "龙之",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -3847,7 +3847,7 @@
     "suffix": false
   },
   {
-    "name": "巨龙的",
+    "name": "龙之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -3874,7 +3874,7 @@
     "suffix": false
   },
   {
-    "name": "巨龙的",
+    "name": "飞龙之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -3905,7 +3905,7 @@
     "suffix": false
   },
   {
-    "name": "古龙的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -3936,7 +3936,7 @@
     "suffix": false
   },
   {
-    "name": "巴哈姆特的",
+    "name": "巴哈姆特之",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -3965,7 +3965,7 @@
     "suffix": false
   },
   {
-    "name": "锆石的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 3,
@@ -3991,7 +3991,7 @@
     "suffix": false
   },
   {
-    "name": "风信子石的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -4017,7 +4017,7 @@
     "suffix": false
   },
   {
-    "name": "绿松石的",
+    "name": "绿松石之",
     "spawnable": "1",
     "rare": "1",
     "level": 29,
@@ -4043,7 +4043,7 @@
     "suffix": false
   },
   {
-    "name": "闪烁的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "",
     "level": 8,
@@ -4069,7 +4069,7 @@
     "suffix": false
   },
   {
-    "name": "闪烁的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "",
     "level": 14,
@@ -4095,7 +4095,7 @@
     "suffix": false
   },
   {
-    "name": "闪烁的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "",
     "level": 35,
@@ -4121,7 +4121,7 @@
     "suffix": false
   },
   {
-    "name": "闪烁的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "",
     "level": 17,
@@ -4146,7 +4146,7 @@
     "suffix": false
   },
   {
-    "name": "闪烁的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "",
     "level": 34,
@@ -4171,7 +4171,7 @@
     "suffix": false
   },
   {
-    "name": "闪烁的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "",
     "level": 33,
@@ -4196,7 +4196,7 @@
     "suffix": false
   },
   {
-    "name": "闪烁的",
+    "name": "发光之",
     "spawnable": "1",
     "rare": "1",
     "level": 6,
@@ -4222,7 +4222,7 @@
     "suffix": false
   },
   {
-    "name": "彩虹的",
+    "name": "彩虹之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -4248,7 +4248,7 @@
     "suffix": false
   },
   {
-    "name": "闪耀的",
+    "name": "闪闪发光之",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -4274,7 +4274,7 @@
     "suffix": false
   },
   {
-    "name": "棱镜的",
+    "name": "棱镜之",
     "spawnable": "1",
     "rare": "1",
     "level": 39,
@@ -4300,7 +4300,7 @@
     "suffix": false
   },
   {
-    "name": "彩色的",
+    "name": "多彩之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -4327,7 +4327,7 @@
     "suffix": false
   },
   {
-    "name": "闪烁的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "1",
     "level": 8,
@@ -4354,7 +4354,7 @@
     "suffix": false
   },
   {
-    "name": "彩虹的",
+    "name": "彩虹之",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -4381,7 +4381,7 @@
     "suffix": false
   },
   {
-    "name": "闪耀的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -4409,7 +4409,7 @@
     "suffix": false
   },
   {
-    "name": "棱镜的",
+    "name": "棱镜之",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -4436,7 +4436,7 @@
     "suffix": false
   },
   {
-    "name": "彩色的",
+    "name": "多彩之",
     "spawnable": "1",
     "rare": "1",
     "level": 55,
@@ -4462,7 +4462,7 @@
     "suffix": false
   },
   {
-    "name": "闪烁的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -4487,7 +4487,7 @@
     "suffix": false
   },
   {
-    "name": "彩虹的",
+    "name": "彩虹之",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -4512,7 +4512,7 @@
     "suffix": false
   },
   {
-    "name": "闪耀的",
+    "name": "闪闪发光之",
     "spawnable": "1",
     "rare": "",
     "level": 67,
@@ -4537,7 +4537,7 @@
     "suffix": false
   },
   {
-    "name": "闪烁的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -4564,7 +4564,7 @@
     "suffix": false
   },
   {
-    "name": "闪耀的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "",
     "level": 34,
@@ -4590,7 +4590,7 @@
     "suffix": false
   },
   {
-    "name": "天蓝的",
+    "name": "天青之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -4616,7 +4616,7 @@
     "suffix": false
   },
   {
-    "name": "青金石的",
+    "name": "碧蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -4642,7 +4642,7 @@
     "suffix": false
   },
   {
-    "name": "钴蓝的",
+    "name": "钴之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -4668,7 +4668,7 @@
     "suffix": false
   },
   {
-    "name": "蓝宝石的",
+    "name": "蔚蓝之",
     "spawnable": "1",
     "rare": "",
     "level": 30,
@@ -4694,7 +4694,7 @@
     "suffix": false
   },
   {
-    "name": "天蓝的",
+    "name": "天青之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -4719,7 +4719,7 @@
     "suffix": false
   },
   {
-    "name": "青金石的",
+    "name": "碧蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -4744,7 +4744,7 @@
     "suffix": false
   },
   {
-    "name": "钴蓝的",
+    "name": "钴之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -4769,7 +4769,7 @@
     "suffix": false
   },
   {
-    "name": "蓝宝石的",
+    "name": "蔚蓝之",
     "spawnable": "1",
     "rare": "",
     "level": 35,
@@ -4794,7 +4794,7 @@
     "suffix": false
   },
   {
-    "name": "天蓝的",
+    "name": "天青之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -4819,7 +4819,7 @@
     "suffix": false
   },
   {
-    "name": "青金石的",
+    "name": "碧蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -4844,7 +4844,7 @@
     "suffix": false
   },
   {
-    "name": "钴蓝的",
+    "name": "钴之",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -4869,7 +4869,7 @@
     "suffix": false
   },
   {
-    "name": "蓝宝石的",
+    "name": "蔚蓝之",
     "spawnable": "1",
     "rare": "",
     "level": 40,
@@ -4894,7 +4894,7 @@
     "suffix": false
   },
   {
-    "name": "天蓝的",
+    "name": "天青之",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -4925,7 +4925,7 @@
     "suffix": false
   },
   {
-    "name": "青金石的",
+    "name": "碧蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -4956,7 +4956,7 @@
     "suffix": false
   },
   {
-    "name": "青金石的",
+    "name": "蔚蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -4986,7 +4986,7 @@
     "suffix": false
   },
   {
-    "name": "钴蓝的",
+    "name": "钴之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -5017,7 +5017,7 @@
     "suffix": false
   },
   {
-    "name": "钴蓝的",
+    "name": "钴之",
     "spawnable": "1",
     "rare": "1",
     "level": 55,
@@ -5047,7 +5047,7 @@
     "suffix": false
   },
   {
-    "name": "蓝宝石的",
+    "name": "钴之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -5080,7 +5080,7 @@
     "suffix": false
   },
   {
-    "name": "天青石的",
+    "name": "青金石之",
     "spawnable": "1",
     "rare": "1",
     "level": 2,
@@ -5106,7 +5106,7 @@
     "suffix": false
   },
   {
-    "name": "蓝宝石的",
+    "name": "蔚蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -5132,7 +5132,7 @@
     "suffix": false
   },
   {
-    "name": "深红的",
+    "name": "枣红之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -5158,7 +5158,7 @@
     "suffix": false
   },
   {
-    "name": "赤褐色的",
+    "name": "赤楬之",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -5184,7 +5184,7 @@
     "suffix": false
   },
   {
-    "name": "石榴石的",
+    "name": "蜉蝣之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -5210,7 +5210,7 @@
     "suffix": false
   },
   {
-    "name": "红宝石的",
+    "name": "飞龙之",
     "spawnable": "1",
     "rare": "",
     "level": 30,
@@ -5236,7 +5236,7 @@
     "suffix": false
   },
   {
-    "name": "深红的",
+    "name": "枣红之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -5261,7 +5261,7 @@
     "suffix": false
   },
   {
-    "name": "赤褐色的",
+    "name": "赤楬之",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -5286,7 +5286,7 @@
     "suffix": false
   },
   {
-    "name": "石榴石的",
+    "name": "深红之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -5311,7 +5311,7 @@
     "suffix": false
   },
   {
-    "name": "红宝石的",
+    "name": "红宝石之",
     "spawnable": "1",
     "rare": "",
     "level": 35,
@@ -5336,7 +5336,7 @@
     "suffix": false
   },
   {
-    "name": "深红的",
+    "name": "枣红之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -5361,7 +5361,7 @@
     "suffix": false
   },
   {
-    "name": "赤褐色的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -5386,7 +5386,7 @@
     "suffix": false
   },
   {
-    "name": "石榴石的",
+    "name": "深红之",
     "spawnable": "1",
     "rare": "",
     "level": 27,
@@ -5411,7 +5411,7 @@
     "suffix": false
   },
   {
-    "name": "红宝石的",
+    "name": "红宝石之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -5436,7 +5436,7 @@
     "suffix": false
   },
   {
-    "name": "赤褐色的",
+    "name": "赤楬之",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -5467,7 +5467,7 @@
     "suffix": false
   },
   {
-    "name": "赤褐色的",
+    "name": "红宝石之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -5497,7 +5497,7 @@
     "suffix": false
   },
   {
-    "name": "石榴石的",
+    "name": "深红之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -5528,7 +5528,7 @@
     "suffix": false
   },
   {
-    "name": "石榴石的",
+    "name": "深红之",
     "spawnable": "1",
     "rare": "1",
     "level": 55,
@@ -5558,7 +5558,7 @@
     "suffix": false
   },
   {
-    "name": "红宝石的",
+    "name": "深红之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -5591,7 +5591,7 @@
     "suffix": false
   },
   {
-    "name": "石榴石的",
+    "name": "青金石之",
     "spawnable": "1",
     "rare": "1",
     "level": 2,
@@ -5617,7 +5617,7 @@
     "suffix": false
   },
   {
-    "name": "红宝石的",
+    "name": "钴之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -5643,7 +5643,7 @@
     "suffix": false
   },
   {
-    "name": "橘红的",
+    "name": "红柑之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -5669,7 +5669,7 @@
     "suffix": false
   },
   {
-    "name": "赭石的",
+    "name": "赭黄之",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -5695,7 +5695,7 @@
     "suffix": false
   },
   {
-    "name": "珊瑚的",
+    "name": "珊瑚之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -5721,7 +5721,7 @@
     "suffix": false
   },
   {
-    "name": "琥珀的",
+    "name": "琥珀之",
     "spawnable": "1",
     "rare": "",
     "level": 30,
@@ -5747,7 +5747,7 @@
     "suffix": false
   },
   {
-    "name": "橘红的",
+    "name": "红柑之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -5772,7 +5772,7 @@
     "suffix": false
   },
   {
-    "name": "赭石的",
+    "name": "赭黄之",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -5797,7 +5797,7 @@
     "suffix": false
   },
   {
-    "name": "珊瑚的",
+    "name": "珊瑚之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -5822,7 +5822,7 @@
     "suffix": false
   },
   {
-    "name": "琥珀的",
+    "name": "琥珀之",
     "spawnable": "1",
     "rare": "",
     "level": 35,
@@ -5847,7 +5847,7 @@
     "suffix": false
   },
   {
-    "name": "橘红的",
+    "name": "红柑之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -5872,7 +5872,7 @@
     "suffix": false
   },
   {
-    "name": "赭石的",
+    "name": "赭黄之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -5897,7 +5897,7 @@
     "suffix": false
   },
   {
-    "name": "珊瑚的",
+    "name": "珊瑚之",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -5922,7 +5922,7 @@
     "suffix": false
   },
   {
-    "name": "琥珀的",
+    "name": "琥珀之",
     "spawnable": "1",
     "rare": "",
     "level": 40,
@@ -5947,7 +5947,7 @@
     "suffix": false
   },
   {
-    "name": "橘红的",
+    "name": "红柑之",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -5978,7 +5978,7 @@
     "suffix": false
   },
   {
-    "name": "赭石的",
+    "name": "赭黄之",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -6009,7 +6009,7 @@
     "suffix": false
   },
   {
-    "name": "赭石的",
+    "name": "琥珀之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -6039,7 +6039,7 @@
     "suffix": false
   },
   {
-    "name": "珊瑚的",
+    "name": "珊瑚之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -6070,7 +6070,7 @@
     "suffix": false
   },
   {
-    "name": "珊瑚的",
+    "name": "珊瑚之",
     "spawnable": "1",
     "rare": "1",
     "level": 55,
@@ -6100,7 +6100,7 @@
     "suffix": false
   },
   {
-    "name": "琥珀的",
+    "name": "珊瑚之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -6133,7 +6133,7 @@
     "suffix": false
   },
   {
-    "name": "樟脑的",
+    "name": "青金石之",
     "spawnable": "1",
     "rare": "1",
     "level": 2,
@@ -6159,7 +6159,7 @@
     "suffix": false
   },
   {
-    "name": "龙涎香的",
+    "name": "蔚蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -6185,7 +6185,7 @@
     "suffix": false
   },
   {
-    "name": "绿柱石的",
+    "name": "海蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -6211,7 +6211,7 @@
     "suffix": false
   },
   {
-    "name": "翠绿的",
+    "name": "铭绿之",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -6263,7 +6263,7 @@
     "suffix": false
   },
   {
-    "name": "翡翠的",
+    "name": "祖母绿之",
     "spawnable": "1",
     "rare": "",
     "level": 30,
@@ -6289,7 +6289,7 @@
     "suffix": false
   },
   {
-    "name": "绿柱石的",
+    "name": "海蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -6314,7 +6314,7 @@
     "suffix": false
   },
   {
-    "name": "翠绿的",
+    "name": "铭绿之",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -6364,7 +6364,7 @@
     "suffix": false
   },
   {
-    "name": "翡翠的",
+    "name": "祖母绿之",
     "spawnable": "1",
     "rare": "",
     "level": 35,
@@ -6389,7 +6389,7 @@
     "suffix": false
   },
   {
-    "name": "绿柱石的",
+    "name": "海蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -6414,7 +6414,7 @@
     "suffix": false
   },
   {
-    "name": "翠绿的",
+    "name": "铭绿之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -6439,7 +6439,7 @@
     "suffix": false
   },
   {
-    "name": "玉的",
+    "name": "棱镜之",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -6464,7 +6464,7 @@
     "suffix": false
   },
   {
-    "name": "翡翠的",
+    "name": "祖母绿之",
     "spawnable": "1",
     "rare": "",
     "level": 40,
@@ -6489,7 +6489,7 @@
     "suffix": false
   },
   {
-    "name": "绿柱石的",
+    "name": "海蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -6520,7 +6520,7 @@
     "suffix": false
   },
   {
-    "name": "翠绿的",
+    "name": "铭绿之",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -6551,7 +6551,7 @@
     "suffix": false
   },
   {
-    "name": "翠绿的",
+    "name": "祖母绿之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -6642,7 +6642,7 @@
     "suffix": false
   },
   {
-    "name": "翡翠的",
+    "name": "玉的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -6675,7 +6675,7 @@
     "suffix": false
   },
   {
-    "name": "绿柱石的",
+    "name": "青金石之",
     "spawnable": "1",
     "rare": "1",
     "level": 2,
@@ -6701,7 +6701,7 @@
     "suffix": false
   },
   {
-    "name": "玉的",
+    "name": "蔚蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -6727,7 +6727,7 @@
     "suffix": false
   },
   {
-    "name": "凯旋的",
+    "name": "成功之",
     "spawnable": "1",
     "rare": "1",
     "level": 3,
@@ -6758,7 +6758,7 @@
     "suffix": false
   },
   {
-    "name": "胜利的",
+    "name": "优胜之",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -6789,7 +6789,7 @@
     "suffix": false
   },
   {
-    "name": "钴黄的",
+    "name": "碧蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -6821,7 +6821,7 @@
     "suffix": false
   },
   {
-    "name": "机械师的",
+    "name": "技工之",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -6852,7 +6852,7 @@
     "suffix": false
   },
   {
-    "name": "工匠的",
+    "name": "工匠之",
     "spawnable": "1",
     "rare": "1",
     "level": 33,
@@ -6882,7 +6882,7 @@
     "suffix": false
   },
   {
-    "name": "珠宝匠的",
+    "name": "深红之",
     "spawnable": "1",
     "rare": "1",
     "level": 55,
@@ -6911,7 +6911,7 @@
     "suffix": false
   },
   {
-    "name": "阿萨姆的",
+    "name": "月精灵之",
     "spawnable": "1",
     "rare": "1",
     "level": 3,
@@ -6947,7 +6947,7 @@
     "suffix": false
   },
   {
-    "name": "田园的",
+    "name": "田园之",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -6984,7 +6984,7 @@
     "suffix": false
   },
   {
-    "name": "超凡的",
+    "name": "琥珀之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -7019,7 +7019,7 @@
     "suffix": false
   },
   {
-    "name": "星界的",
+    "name": "红柑之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -7054,7 +7054,7 @@
     "suffix": false
   },
   {
-    "name": "极乐的",
+    "name": "极乐之",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -7089,7 +7089,7 @@
     "suffix": false
   },
   {
-    "name": "天界的",
+    "name": "珊瑚之",
     "spawnable": "1",
     "rare": "",
     "level": 55,
@@ -7124,7 +7124,7 @@
     "suffix": false
   },
   {
-    "name": "钻石的",
+    "name": "钻石之",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -7156,7 +7156,7 @@
     "suffix": false
   },
   {
-    "name": "制箭匠的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "",
     "level": 50,
@@ -7182,7 +7182,7 @@
     "suffix": false
   },
   {
-    "name": "杂技演员的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "",
     "level": 50,
@@ -7208,7 +7208,7 @@
     "suffix": false
   },
   {
-    "name": "鱼叉手的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "",
     "level": 50,
@@ -7234,7 +7234,7 @@
     "suffix": false
   },
   {
-    "name": "制箭匠的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -7263,7 +7263,7 @@
     "suffix": false
   },
   {
-    "name": "制弓匠的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -7292,7 +7292,7 @@
     "suffix": false
   },
   {
-    "name": "弓手的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -7321,7 +7321,7 @@
     "suffix": false
   },
   {
-    "name": "杂技演员的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -7349,7 +7349,7 @@
     "suffix": false
   },
   {
-    "name": "体操运动员的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -7377,7 +7377,7 @@
     "suffix": false
   },
   {
-    "name": "运动员的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -7405,7 +7405,7 @@
     "suffix": false
   },
   {
-    "name": "鱼叉手的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -7433,7 +7433,7 @@
     "suffix": false
   },
   {
-    "name": "矛女的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -7461,7 +7461,7 @@
     "suffix": false
   },
   {
-    "name": "枪骑兵的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -7486,7 +7486,7 @@
     "suffix": false
   },
   {
-    "name": "燃烧的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -7512,7 +7512,7 @@
     "suffix": false
   },
   {
-    "name": "闪耀",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -7538,7 +7538,7 @@
     "suffix": false
   },
   {
-    "name": "霜冻",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -7564,7 +7564,7 @@
     "suffix": false
   },
   {
-    "name": "燃烧的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -7592,7 +7592,7 @@
     "suffix": false
   },
   {
-    "name": "炽热的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -7620,7 +7620,7 @@
     "suffix": false
   },
   {
-    "name": "火山",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -7648,7 +7648,7 @@
     "suffix": false
   },
   {
-    "name": "闪耀",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -7676,7 +7676,7 @@
     "suffix": false
   },
   {
-    "name": "充能的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -7704,7 +7704,7 @@
     "suffix": false
   },
   {
-    "name": "强能的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -7732,7 +7732,7 @@
     "suffix": false
   },
   {
-    "name": "霜冻",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -7760,7 +7760,7 @@
     "suffix": false
   },
   {
-    "name": "冰冻的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -7788,7 +7788,7 @@
     "suffix": false
   },
   {
-    "name": "冰河",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -7816,7 +7816,7 @@
     "suffix": false
   },
   {
-    "name": "施咒的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -7842,7 +7842,7 @@
     "suffix": false
   },
   {
-    "name": "真菌的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -7868,7 +7868,7 @@
     "suffix": false
   },
   {
-    "name": "盗墓者的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -7894,7 +7894,7 @@
     "suffix": false
   },
   {
-    "name": "施咒的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -7922,7 +7922,7 @@
     "suffix": false
   },
   {
-    "name": "枯萎的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -7950,7 +7950,7 @@
     "suffix": false
   },
   {
-    "name": "被诅咒的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -7978,7 +7978,7 @@
     "suffix": false
   },
   {
-    "name": "真菌的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -8009,7 +8009,7 @@
     "suffix": false
   },
   {
-    "name": "有害的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -8040,7 +8040,7 @@
     "suffix": false
   },
   {
-    "name": "剧毒的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -8071,7 +8071,7 @@
     "suffix": false
   },
   {
-    "name": "盗墓者的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -8099,7 +8099,7 @@
     "suffix": false
   },
   {
-    "name": "巫毒的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -8127,7 +8127,7 @@
     "suffix": false
   },
   {
-    "name": "魔像领主的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -8155,7 +8155,7 @@
     "suffix": false
   },
   {
-    "name": "狮纹的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -8181,7 +8181,7 @@
     "suffix": false
   },
   {
-    "name": "船长的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -8207,7 +8207,7 @@
     "suffix": false
   },
   {
-    "name": "保存者的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -8233,7 +8233,7 @@
     "suffix": false
   },
   {
-    "name": "狮纹的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -8264,7 +8264,7 @@
     "suffix": false
   },
   {
-    "name": "鹰徽的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -8295,7 +8295,7 @@
     "suffix": false
   },
   {
-    "name": "玫瑰纹的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -8326,7 +8326,7 @@
     "suffix": false
   },
   {
-    "name": "船长的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -8357,7 +8357,7 @@
     "suffix": false
   },
   {
-    "name": "指挥官的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -8388,7 +8388,7 @@
     "suffix": false
   },
   {
-    "name": "元帅的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -8419,7 +8419,7 @@
     "suffix": false
   },
   {
-    "name": "保存者的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -8447,7 +8447,7 @@
     "suffix": false
   },
   {
-    "name": "守卫者的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -8475,7 +8475,7 @@
     "suffix": false
   },
   {
-    "name": "守护者的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -8503,7 +8503,7 @@
     "suffix": false
   },
   {
-    "name": "专家的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -8529,7 +8529,7 @@
     "suffix": false
   },
   {
-    "name": "狂热的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -8555,7 +8555,7 @@
     "suffix": false
   },
   {
-    "name": "响亮的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -8581,7 +8581,7 @@
     "suffix": false
   },
   {
-    "name": "专家的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -8613,7 +8613,7 @@
     "suffix": false
   },
   {
-    "name": "老兵的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -8646,7 +8646,7 @@
     "suffix": false
   },
   {
-    "name": "大师的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -8679,7 +8679,7 @@
     "suffix": false
   },
   {
-    "name": "狂热的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -8711,7 +8711,7 @@
     "suffix": false
   },
   {
-    "name": "暴怒的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -8743,7 +8743,7 @@
     "suffix": false
   },
   {
-    "name": "狂暴的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -8775,7 +8775,7 @@
     "suffix": false
   },
   {
-    "name": "响亮的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -8807,7 +8807,7 @@
     "suffix": false
   },
   {
-    "name": "共鸣的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -8839,7 +8839,7 @@
     "suffix": false
   },
   {
-    "name": "回响的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -8871,7 +8871,7 @@
     "suffix": false
   },
   {
-    "name": "训练师的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -8897,7 +8897,7 @@
     "suffix": false
   },
   {
-    "name": "精神的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -8923,7 +8923,7 @@
     "suffix": false
   },
   {
-    "name": "自然的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -8949,7 +8949,7 @@
     "suffix": false
   },
   {
-    "name": "训练师的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -8977,7 +8977,7 @@
     "suffix": false
   },
   {
-    "name": "看守者的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -9005,7 +9005,7 @@
     "suffix": false
   },
   {
-    "name": "看守者的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -9033,7 +9033,7 @@
     "suffix": false
   },
   {
-    "name": "精神的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -9061,7 +9061,7 @@
     "suffix": false
   },
   {
-    "name": "野性的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -9090,7 +9090,7 @@
     "suffix": false
   },
   {
-    "name": "共有的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -9119,7 +9119,7 @@
     "suffix": false
   },
   {
-    "name": "自然的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -9147,7 +9147,7 @@
     "suffix": false
   },
   {
-    "name": "泰拉的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -9175,7 +9175,7 @@
     "suffix": false
   },
   {
-    "name": "盖亚的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -9203,7 +9203,7 @@
     "suffix": false
   },
   {
-    "name": "诱捕的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -9229,7 +9229,7 @@
     "suffix": false
   },
   {
-    "name": "心灵师的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -9255,7 +9255,7 @@
     "suffix": false
   },
   {
-    "name": "将军的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -9281,7 +9281,7 @@
     "suffix": false
   },
   {
-    "name": "诱捕的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -9311,7 +9311,7 @@
     "suffix": false
   },
   {
-    "name": "骗子的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -9341,7 +9341,7 @@
     "suffix": false
   },
   {
-    "name": "狡诈的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -9371,7 +9371,7 @@
     "suffix": false
   },
   {
-    "name": "心灵师的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -9402,7 +9402,7 @@
     "suffix": false
   },
   {
-    "name": "心灵的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -9433,7 +9433,7 @@
     "suffix": false
   },
   {
-    "name": "暗影的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -9464,7 +9464,7 @@
     "suffix": false
   },
   {
-    "name": "将军的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -9495,7 +9495,7 @@
     "suffix": false
   },
   {
-    "name": "师范的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -9526,7 +9526,7 @@
     "suffix": false
   },
   {
-    "name": "剑豪的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -9557,7 +9557,7 @@
     "suffix": false
   },
   {
-    "name": "古新世的",
+    "name": "忠诚之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -9582,7 +9582,7 @@
     "suffix": false
   },
   {
-    "name": "古新世的",
+    "name": "忠诚之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -9610,7 +9610,7 @@
     "suffix": false
   },
   {
-    "name": "王牌的",
+    "name": "愚人之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -9645,7 +9645,7 @@
     "suffix": false
   },
   {
-    "name": "坚韧的",
+    "name": "磨碎之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -9674,7 +9674,7 @@
     "suffix": false
   },
   {
-    "name": "鹰眼的",
+    "name": "丑角之",
     "spawnable": "1",
     "rare": "",
     "level": 35,
@@ -9703,7 +9703,7 @@
     "suffix": false
   },
   {
-    "name": "有远见的",
+    "name": "幻影之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -9729,7 +9729,7 @@
     "suffix": false
   },
   {
-    "name": "记忆的",
+    "name": "蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -9754,7 +9754,7 @@
     "suffix": false
   },
   {
-    "name": "雪花的",
+    "name": "雪白之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -9784,7 +9784,7 @@
     "suffix": false
   },
   {
-    "name": "颤栗的",
+    "name": "颤抖之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -9814,7 +9814,7 @@
     "suffix": false
   },
   {
-    "name": "北极的",
+    "name": "北风之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -9844,7 +9844,7 @@
     "suffix": false
   },
   {
-    "name": "冬日的",
+    "name": "寒冬之",
     "spawnable": "1",
     "rare": "1",
     "level": 70,
@@ -9874,7 +9874,7 @@
     "suffix": false
   },
   {
-    "name": "余烬的",
+    "name": "烈火之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -9916,7 +9916,7 @@
     "suffix": false
   },
   {
-    "name": "闷燃的",
+    "name": "闷烧之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -9946,7 +9946,7 @@
     "suffix": false
   },
   {
-    "name": "冒烟的",
+    "name": "烟雾之",
     "spawnable": "1",
     "rare": "1",
     "level": 47,
@@ -9976,7 +9976,7 @@
     "suffix": false
   },
   {
-    "name": "烈焰的",
+    "name": "燃烧之",
     "spawnable": "1",
     "rare": "1",
     "level": 61,
@@ -10006,7 +10006,7 @@
     "suffix": false
   },
   {
-    "name": "灼烧的",
+    "name": "浓缩之",
     "spawnable": "1",
     "rare": "1",
     "level": 77,
@@ -10036,7 +10036,7 @@
     "suffix": false
   },
   {
-    "name": "静电的",
+    "name": "静态之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -10067,7 +10067,7 @@
     "suffix": false
   },
   {
-    "name": "发光的",
+    "name": "发光之",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -10097,7 +10097,7 @@
     "suffix": false
   },
   {
-    "name": "嗡嗡的",
+    "name": "嗡叫之",
     "spawnable": "1",
     "rare": "1",
     "level": 46,
@@ -10127,7 +10127,7 @@
     "suffix": false
   },
   {
-    "name": "电弧的",
+    "name": "弯曲之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -10157,7 +10157,7 @@
     "suffix": false
   },
   {
-    "name": "电击的",
+    "name": "震撼之",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -10187,7 +10187,7 @@
     "suffix": false
   },
   {
-    "name": "腐败的",
+    "name": "腐败之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -10236,7 +10236,7 @@
     "suffix": false
   },
   {
-    "name": "涂毒的",
+    "name": "险恶之",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -10266,7 +10266,7 @@
     "suffix": false
   },
   {
-    "name": "腐蚀的",
+    "name": "腐蚀之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -10296,7 +10296,7 @@
     "suffix": false
   },
   {
-    "name": "剧毒的",
+    "name": "剧毒之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -10326,7 +10326,7 @@
     "suffix": false
   },
   {
-    "name": "瘟疫的",
+    "name": "瘟疫之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -10382,7 +10382,7 @@
     "suffix": false
   },
   {
-    "name": "女武神的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -10408,7 +10408,7 @@
     "suffix": false
   },
   {
-    "name": "女战士的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -10434,7 +10434,7 @@
     "suffix": false
   },
   {
-    "name": "女武神的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -10460,7 +10460,7 @@
     "suffix": false
   },
   {
-    "name": "僧侣的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -10486,7 +10486,7 @@
     "suffix": false
   },
   {
-    "name": "牧师的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -10512,7 +10512,7 @@
     "suffix": false
   },
   {
-    "name": "僧侣的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -10538,7 +10538,7 @@
     "suffix": false
   },
   {
-    "name": "牧师的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -10564,7 +10564,7 @@
     "suffix": false
   },
   {
-    "name": "僧侣的",
+    "name": "僧人之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -10592,7 +10592,7 @@
     "suffix": false
   },
   {
-    "name": "牧师的",
+    "name": "牧师之",
     "spawnable": "1",
     "rare": "1",
     "level": 65,
@@ -10620,7 +10620,7 @@
     "suffix": false
   },
   {
-    "name": "召唤师的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -10646,7 +10646,7 @@
     "suffix": false
   },
   {
-    "name": "死灵法师的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -10672,7 +10672,7 @@
     "suffix": false
   },
   {
-    "name": "召唤师的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -10701,7 +10701,7 @@
     "suffix": false
   },
   {
-    "name": "死灵法师的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -10730,7 +10730,7 @@
     "suffix": false
   },
   {
-    "name": "天使的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -10756,7 +10756,7 @@
     "suffix": false
   },
   {
-    "name": "大天使的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -10782,7 +10782,7 @@
     "suffix": false
   },
   {
-    "name": "天使的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -10808,7 +10808,7 @@
     "suffix": false
   },
   {
-    "name": "大天使的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -10834,7 +10834,7 @@
     "suffix": false
   },
   {
-    "name": "杀手的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -10860,7 +10860,7 @@
     "suffix": false
   },
   {
-    "name": "狂战士的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -10886,7 +10886,7 @@
     "suffix": false
   },
   {
-    "name": "杀手的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -10919,7 +10919,7 @@
     "suffix": false
   },
   {
-    "name": "狂战士的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -10952,7 +10952,7 @@
     "suffix": false
   },
   {
-    "name": "杀手的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -10977,7 +10977,7 @@
     "suffix": false
   },
   {
-    "name": "狂战士的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -11002,7 +11002,7 @@
     "suffix": false
   },
   {
-    "name": "萨满的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -11028,7 +11028,7 @@
     "suffix": false
   },
   {
-    "name": "祭司长的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -11054,7 +11054,7 @@
     "suffix": false
   },
   {
-    "name": "萨满的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -11080,7 +11080,7 @@
     "suffix": false
   },
   {
-    "name": "祭司长的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -11106,7 +11106,7 @@
     "suffix": false
   },
   {
-    "name": "弑法师者的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -11132,7 +11132,7 @@
     "suffix": false
   },
   {
-    "name": "猎巫人的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -11158,7 +11158,7 @@
     "suffix": false
   },
   {
-    "name": "弑法师者的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -11186,7 +11186,7 @@
     "suffix": false
   },
   {
-    "name": "猎巫人的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -11214,7 +11214,7 @@
     "suffix": false
   },
   {
-    "name": "祝圣的",
+    "name": "净化之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -11249,7 +11249,7 @@
     "suffix": false
   },
   {
-    "name": "纯净的",
+    "name": "纯洁之",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -11284,7 +11284,7 @@
     "suffix": false
   },
   {
-    "name": "圣化",
+    "name": "神圣之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -11319,7 +11319,7 @@
     "suffix": false
   },
   {
-    "name": "圣洁的",
+    "name": "圣洁之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -11354,7 +11354,7 @@
     "suffix": false
   },
   {
-    "name": "神圣的",
+    "name": "神性之",
     "spawnable": "1",
     "rare": "",
     "level": 45,
@@ -11389,7 +11389,7 @@
     "suffix": false
   },
   {
-    "name": "珍珠的",
+    "name": "珍珠之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -11421,7 +11421,7 @@
     "suffix": false
   },
   {
-    "name": "深红的",
+    "name": "枣红之",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -11452,7 +11452,7 @@
     "suffix": false
   },
   {
-    "name": "红色的",
+    "name": "红之",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -11560,7 +11560,7 @@
     "suffix": false
   },
   {
-    "name": "红色的",
+    "name": "红之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -11610,7 +11610,7 @@
     "suffix": false
   },
   {
-    "name": "红色的",
+    "name": "红之",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -11635,7 +11635,7 @@
     "suffix": false
   },
   {
-    "name": "锯齿的",
+    "name": "锯齿之",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -11661,7 +11661,7 @@
     "suffix": false
   },
   {
-    "name": "叉状的",
+    "name": "分叉之",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -11687,7 +11687,7 @@
     "suffix": false
   },
   {
-    "name": "锯齿状的",
+    "name": "锯齿之",
     "spawnable": "1",
     "rare": "",
     "level": 67,
@@ -11713,7 +11713,7 @@
     "suffix": false
   },
   {
-    "name": "锯齿的",
+    "name": "锯齿之",
     "spawnable": "1",
     "rare": "1",
     "level": 22,
@@ -11738,7 +11738,7 @@
     "suffix": false
   },
   {
-    "name": "叉状的",
+    "name": "分叉之",
     "spawnable": "1",
     "rare": "",
     "level": 52,
@@ -11763,7 +11763,7 @@
     "suffix": false
   },
   {
-    "name": "锯齿的",
+    "name": "锯齿之",
     "spawnable": "1",
     "rare": "1",
     "level": 81,
@@ -11788,7 +11788,7 @@
     "suffix": false
   },
   {
-    "name": "雪花的",
+    "name": "雪白之",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -11814,7 +11814,7 @@
     "suffix": false
   },
   {
-    "name": "颤栗的",
+    "name": "颤抖之",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -11840,7 +11840,7 @@
     "suffix": false
   },
   {
-    "name": "北极的",
+    "name": "北风之",
     "spawnable": "1",
     "rare": "1",
     "level": 66,
@@ -11866,7 +11866,7 @@
     "suffix": false
   },
   {
-    "name": "冬日的",
+    "name": "寒冬之",
     "spawnable": "1",
     "rare": "",
     "level": 91,
@@ -11892,7 +11892,7 @@
     "suffix": false
   },
   {
-    "name": "雪花的",
+    "name": "雪白之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -11917,7 +11917,7 @@
     "suffix": false
   },
   {
-    "name": "颤栗的",
+    "name": "颤抖之",
     "spawnable": "1",
     "rare": "1",
     "level": 29,
@@ -11942,7 +11942,7 @@
     "suffix": false
   },
   {
-    "name": "北极的",
+    "name": "北风之",
     "spawnable": "1",
     "rare": "1",
     "level": 49,
@@ -11967,7 +11967,7 @@
     "suffix": false
   },
   {
-    "name": "冬日的",
+    "name": "寒冬之",
     "spawnable": "1",
     "rare": "",
     "level": 69,
@@ -11992,7 +11992,7 @@
     "suffix": false
   },
   {
-    "name": "雪花的",
+    "name": "雪白之",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -12017,7 +12017,7 @@
     "suffix": false
   },
   {
-    "name": "颤栗的",
+    "name": "颤抖之",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -12042,7 +12042,7 @@
     "suffix": false
   },
   {
-    "name": "北极的",
+    "name": "北风之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -12067,7 +12067,7 @@
     "suffix": false
   },
   {
-    "name": "冬日的",
+    "name": "寒冬之",
     "spawnable": "1",
     "rare": "",
     "level": 45,
@@ -12092,7 +12092,7 @@
     "suffix": false
   },
   {
-    "name": "余烬的",
+    "name": "烈火之",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -12118,7 +12118,7 @@
     "suffix": false
   },
   {
-    "name": "闷燃的",
+    "name": "闷烧之",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -12144,7 +12144,7 @@
     "suffix": false
   },
   {
-    "name": "冒烟的",
+    "name": "烟雾之",
     "spawnable": "1",
     "rare": "1",
     "level": 64,
@@ -12170,7 +12170,7 @@
     "suffix": false
   },
   {
-    "name": "烈焰的",
+    "name": "燃烧之",
     "spawnable": "1",
     "rare": "",
     "level": 89,
@@ -12196,7 +12196,7 @@
     "suffix": false
   },
   {
-    "name": "余烬的",
+    "name": "烈火之",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -12221,7 +12221,7 @@
     "suffix": false
   },
   {
-    "name": "闷燃的",
+    "name": "闷烧之",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -12246,7 +12246,7 @@
     "suffix": false
   },
   {
-    "name": "冒烟的",
+    "name": "烟雾之",
     "spawnable": "1",
     "rare": "1",
     "level": 47,
@@ -12271,7 +12271,7 @@
     "suffix": false
   },
   {
-    "name": "烈焰的",
+    "name": "燃烧之",
     "spawnable": "1",
     "rare": "",
     "level": 67,
@@ -12296,7 +12296,7 @@
     "suffix": false
   },
   {
-    "name": "余烬的",
+    "name": "烈火之",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -12321,7 +12321,7 @@
     "suffix": false
   },
   {
-    "name": "闷燃的",
+    "name": "闷烧之",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -12346,7 +12346,7 @@
     "suffix": false
   },
   {
-    "name": "冒烟的",
+    "name": "烟雾之",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -12371,7 +12371,7 @@
     "suffix": false
   },
   {
-    "name": "烈焰的",
+    "name": "燃烧之",
     "spawnable": "1",
     "rare": "",
     "level": 43,
@@ -12396,7 +12396,7 @@
     "suffix": false
   },
   {
-    "name": "静电的",
+    "name": "静态之",
     "spawnable": "1",
     "rare": "1",
     "level": 23,
@@ -12422,7 +12422,7 @@
     "suffix": false
   },
   {
-    "name": "发光的",
+    "name": "发光之",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -12448,7 +12448,7 @@
     "suffix": false
   },
   {
-    "name": "电弧的",
+    "name": "弯曲之",
     "spawnable": "1",
     "rare": "1",
     "level": 65,
@@ -12474,7 +12474,7 @@
     "suffix": false
   },
   {
-    "name": "电击的",
+    "name": "震撼之",
     "spawnable": "1",
     "rare": "",
     "level": 90,
@@ -12500,7 +12500,7 @@
     "suffix": false
   },
   {
-    "name": "静电的",
+    "name": "静态之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -12525,7 +12525,7 @@
     "suffix": false
   },
   {
-    "name": "发光的",
+    "name": "发光之",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -12550,7 +12550,7 @@
     "suffix": false
   },
   {
-    "name": "电弧的",
+    "name": "弯曲之",
     "spawnable": "1",
     "rare": "1",
     "level": 48,
@@ -12575,7 +12575,7 @@
     "suffix": false
   },
   {
-    "name": "电击的",
+    "name": "震撼之",
     "spawnable": "1",
     "rare": "",
     "level": 68,
@@ -12600,7 +12600,7 @@
     "suffix": false
   },
   {
-    "name": "静电的",
+    "name": "静态之",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -12625,7 +12625,7 @@
     "suffix": false
   },
   {
-    "name": "发光的",
+    "name": "静态之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -12650,7 +12650,7 @@
     "suffix": false
   },
   {
-    "name": "电弧的",
+    "name": "弯曲之",
     "spawnable": "1",
     "rare": "1",
     "level": 29,
@@ -12675,7 +12675,7 @@
     "suffix": false
   },
   {
-    "name": "电击的",
+    "name": "震撼之",
     "spawnable": "1",
     "rare": "",
     "level": 44,
@@ -12700,7 +12700,7 @@
     "suffix": false
   },
   {
-    "name": "腐败的",
+    "name": "腐败之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -12726,7 +12726,7 @@
     "suffix": false
   },
   {
-    "name": "涂毒的",
+    "name": "险恶之",
     "spawnable": "1",
     "rare": "1",
     "level": 39,
@@ -12752,7 +12752,7 @@
     "suffix": false
   },
   {
-    "name": "剧毒的",
+    "name": "剧毒之",
     "spawnable": "1",
     "rare": "1",
     "level": 63,
@@ -12778,7 +12778,7 @@
     "suffix": false
   },
   {
-    "name": "瘟疫的",
+    "name": "瘟疫之",
     "spawnable": "1",
     "rare": "",
     "level": 88,
@@ -12804,7 +12804,7 @@
     "suffix": false
   },
   {
-    "name": "腐败的",
+    "name": "腐败之",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -12829,7 +12829,7 @@
     "suffix": false
   },
   {
-    "name": "涂毒的",
+    "name": "险恶之",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -12854,7 +12854,7 @@
     "suffix": false
   },
   {
-    "name": "剧毒的",
+    "name": "剧毒之",
     "spawnable": "1",
     "rare": "1",
     "level": 46,
@@ -12879,7 +12879,7 @@
     "suffix": false
   },
   {
-    "name": "瘟疫的",
+    "name": "瘟疫之",
     "spawnable": "1",
     "rare": "",
     "level": 66,
@@ -12904,7 +12904,7 @@
     "suffix": false
   },
   {
-    "name": "腐败的",
+    "name": "腐败之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -12929,7 +12929,7 @@
     "suffix": false
   },
   {
-    "name": "涂毒的",
+    "name": "险恶之",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -12954,7 +12954,7 @@
     "suffix": false
   },
   {
-    "name": "剧毒的",
+    "name": "剧毒之",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -12979,7 +12979,7 @@
     "suffix": false
   },
   {
-    "name": "瘟疫的",
+    "name": "瘟疫之",
     "spawnable": "1",
     "rare": "",
     "level": 42,
@@ -13004,7 +13004,7 @@
     "suffix": false
   },
   {
-    "name": "不知疲倦的",
+    "name": "不倦之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13029,7 +13029,7 @@
     "suffix": false
   },
   {
-    "name": "蜥蜴的",
+    "name": "蜥蜴之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13061,7 +13061,7 @@
     "suffix": false
   },
   {
-    "name": "天蓝的",
+    "name": "天青之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13090,7 +13090,7 @@
     "suffix": false
   },
   {
-    "name": "深红的",
+    "name": "枣红之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13119,7 +13119,7 @@
     "suffix": false
   },
   {
-    "name": "橘红的",
+    "name": "红柑之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13148,7 +13148,7 @@
     "suffix": false
   },
   {
-    "name": "绿柱石的",
+    "name": "海蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13203,7 +13203,7 @@
     "suffix": false
   },
   {
-    "name": "烈焰的",
+    "name": "燃烧之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13241,7 +13241,7 @@
     "suffix": false
   },
   {
-    "name": "余烬的",
+    "name": "燃烧之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13279,7 +13279,7 @@
     "suffix": false
   },
   {
-    "name": "闷燃的",
+    "name": "燃烧之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13318,7 +13318,7 @@
     "suffix": false
   },
   {
-    "name": "冬日的",
+    "name": "寒冬之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13362,7 +13362,7 @@
     "suffix": false
   },
   {
-    "name": "雪花的",
+    "name": "寒冬之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13406,7 +13406,7 @@
     "suffix": false
   },
   {
-    "name": "颤栗的",
+    "name": "寒冬之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13451,7 +13451,7 @@
     "suffix": false
   },
   {
-    "name": "静电的",
+    "name": "静态之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13489,7 +13489,7 @@
     "suffix": false
   },
   {
-    "name": "发光的",
+    "name": "静态之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13527,7 +13527,7 @@
     "suffix": false
   },
   {
-    "name": "电弧的",
+    "name": "静态之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13566,7 +13566,7 @@
     "suffix": false
   },
   {
-    "name": "剧毒的",
+    "name": "剧毒之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13610,7 +13610,7 @@
     "suffix": false
   },
   {
-    "name": "瘟疫的",
+    "name": "剧毒之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13654,7 +13654,7 @@
     "suffix": false
   },
   {
-    "name": "腐败的",
+    "name": "剧毒之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13749,7 +13749,7 @@
     "suffix": false
   },
   {
-    "name": "闪亮的",
+    "name": "银",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13799,7 +13799,7 @@
     "suffix": false
   },
   {
-    "name": "丰富的",
+    "name": "银",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13894,7 +13894,7 @@
     "suffix": false
   },
   {
-    "name": "迅速",
+    "name": "快速",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -13938,7 +13938,7 @@
     "suffix": false
   },
   {
-    "name": "荒谬的",
+    "name": "快速",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14021,7 +14021,7 @@
     "suffix": false
   },
   {
-    "name": "巨大",
+    "name": "广大",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14059,7 +14059,7 @@
     "suffix": false
   },
   {
-    "name": "庞大",
+    "name": "广大",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14142,7 +14142,7 @@
     "suffix": false
   },
   {
-    "name": "威武的",
+    "name": "强壮",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14186,7 +14186,7 @@
     "suffix": false
   },
   {
-    "name": "强大",
+    "name": "强壮",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14414,7 +14414,7 @@
     "suffix": false
   },
   {
-    "name": "血淋淋的",
+    "name": "血腥",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14458,7 +14458,7 @@
     "suffix": false
   },
   {
-    "name": "流血的",
+    "name": "血腥",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14547,7 +14547,7 @@
     "suffix": false
   },
   {
-    "name": "病态的",
+    "name": "不良",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14591,7 +14591,7 @@
     "suffix": false
   },
   {
-    "name": "染病的",
+    "name": "不良",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14680,7 +14680,7 @@
     "suffix": false
   },
   {
-    "name": "粉碎",
+    "name": "压碎",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14724,7 +14724,7 @@
     "suffix": false
   },
   {
-    "name": "消灭",
+    "name": "压碎",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14813,7 +14813,7 @@
     "suffix": false
   },
   {
-    "name": "电击的",
+    "name": "闪耀",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14857,7 +14857,7 @@
     "suffix": false
   },
   {
-    "name": "雷霆",
+    "name": "闪耀",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14946,7 +14946,7 @@
     "suffix": false
   },
   {
-    "name": "北极的",
+    "name": "霜冻",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -14990,7 +14990,7 @@
     "suffix": false
   },
   {
-    "name": "冰河",
+    "name": "霜冻",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15035,7 +15035,7 @@
     "suffix": false
   },
   {
-    "name": "冒烟的",
+    "name": "烟雾之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15079,7 +15079,7 @@
     "suffix": false
   },
   {
-    "name": "熔火",
+    "name": "烟雾之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15123,7 +15123,7 @@
     "suffix": false
   },
   {
-    "name": "火山",
+    "name": "烟雾之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15212,7 +15212,7 @@
     "suffix": false
   },
   {
-    "name": "涂毒的",
+    "name": "恶毒",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15256,7 +15256,7 @@
     "suffix": false
   },
   {
-    "name": "困厄",
+    "name": "恶毒",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15345,7 +15345,7 @@
     "suffix": false
   },
   {
-    "name": "忌讳",
+    "name": "符文",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15389,7 +15389,7 @@
     "suffix": false
   },
   {
-    "name": "隐秘",
+    "name": "符文",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -15553,7 +15553,7 @@
     "suffix": false
   },
   {
-    "name": "冰冷",
+    "name": "通灵",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -15578,7 +15578,7 @@
     "suffix": false
   },
   {
-    "name": "灰烬",
+    "name": "通灵",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -15603,7 +15603,7 @@
     "suffix": false
   },
   {
-    "name": "病态",
+    "name": "通灵",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -15628,7 +15628,7 @@
     "suffix": false
   },
   {
-    "name": "闪耀",
+    "name": "通灵",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -15690,7 +15690,7 @@
     "suffix": false
   },
   {
-    "name": "严寒",
+    "name": "放电",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -15715,7 +15715,7 @@
     "suffix": false
   },
   {
-    "name": "野火",
+    "name": "放电",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -15740,7 +15740,7 @@
     "suffix": false
   },
   {
-    "name": "预谋",
+    "name": "放电",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -15765,7 +15765,7 @@
     "suffix": false
   },
   {
-    "name": "兴奋",
+    "name": "放电",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -15815,7 +15815,7 @@
     "suffix": false
   },
   {
-    "name": "麻木",
+    "name": "介质",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -15840,7 +15840,7 @@
     "suffix": false
   },
   {
-    "name": "炼狱",
+    "name": "介质",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -15865,7 +15865,7 @@
     "suffix": false
   },
   {
-    "name": "传染",
+    "name": "介质",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -15890,7 +15890,7 @@
     "suffix": false
   },
   {
-    "name": "闪耀的",
+    "name": "介质",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -15945,7 +15945,7 @@
     "suffix": false
   },
   {
-    "name": "神圣的",
+    "name": "神性之",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -15976,7 +15976,7 @@
     "suffix": false
   },
   {
-    "name": "天界的",
+    "name": "珊瑚之",
     "spawnable": "1",
     "rare": "1",
     "level": 55,
@@ -16007,7 +16007,7 @@
     "suffix": false
   },
   {
-    "name": "大宗师的",
+    "name": "宗师之",
     "spawnable": "1",
     "rare": "1",
     "level": 69,
@@ -16038,7 +16038,7 @@
     "suffix": false
   },
   {
-    "name": "支撑",
+    "name": "矛盾之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -16064,7 +16064,7 @@
     "suffix": false
   },
   {
-    "name": "加固",
+    "name": "狂哮之",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -16090,7 +16090,7 @@
     "suffix": false
   },
   {
-    "name": "赋能",
+    "name": "雄黄之",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -16168,7 +16168,7 @@
     "suffix": false
   },
   {
-    "name": "困厄",
+    "name": "本能",
     "spawnable": "1",
     "rare": "1",
     "level": 75,
@@ -16219,7 +16219,7 @@
     "suffix": false
   },
   {
-    "name": "枪骑兵的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -16244,7 +16244,7 @@
     "suffix": false
   },
   {
-    "name": "弓手的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -16269,7 +16269,7 @@
     "suffix": false
   },
   {
-    "name": "工匠的",
+    "name": "工匠之",
     "spawnable": "1",
     "rare": "",
     "level": 33,
@@ -16299,7 +16299,7 @@
     "suffix": false
   },
   {
-    "name": "枪骑兵的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -16352,7 +16352,7 @@
     "suffix": false
   },
   {
-    "name": "僧侣的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -16379,7 +16379,7 @@
     "suffix": false
   },
   {
-    "name": "召唤师的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -16406,7 +16406,7 @@
     "suffix": false
   },
   {
-    "name": "天使的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -16433,7 +16433,7 @@
     "suffix": false
   },
   {
-    "name": "杀手的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -16460,7 +16460,7 @@
     "suffix": false
   },
   {
-    "name": "萨满的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -16487,7 +16487,7 @@
     "suffix": false
   },
   {
-    "name": "弑法师者的",
+    "name": "女战士的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -16514,7 +16514,7 @@
     "suffix": false
   },
   {
-    "name": "蔚蓝的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 49,
@@ -16540,7 +16540,7 @@
     "suffix": false
   },
   {
-    "name": "枪骑兵的",
+    "name": "弓箭手之",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -16565,7 +16565,7 @@
     "suffix": false
   },
   {
-    "name": "奇异的",
+    "name": "怪异之",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -16590,7 +16590,7 @@
     "suffix": false
   },
   {
-    "name": "超凡的",
+    "name": "琥珀之",
     "spawnable": "1",
     "rare": "",
     "level": 25,
@@ -16621,7 +16621,7 @@
     "suffix": false
   },
   {
-    "name": "瘟疫",
+    "name": "瘟疫之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -16651,7 +16651,7 @@
     "suffix": false
   },
   {
-    "name": "野蛮的",
+    "name": "野蛮之",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -16676,7 +16676,7 @@
     "suffix": false
   },
   {
-    "name": "深红",
+    "name": "枣红之",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -16852,7 +16852,7 @@
     "suffix": false
   },
   {
-    "name": "祝圣的",
+    "name": "纯洁之",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -16883,7 +16883,7 @@
     "suffix": false
   },
   {
-    "name": "纯净的",
+    "name": "神圣之",
     "spawnable": "1",
     "rare": "",
     "level": 25,
@@ -16966,7 +16966,7 @@
     "suffix": false
   },
   {
-    "name": "深红的",
+    "name": "枣红之",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -16991,7 +16991,7 @@
     "suffix": false
   },
   {
-    "name": "巨蛇的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -17018,7 +17018,7 @@
     "suffix": false
   },
   {
-    "name": "巨蛇的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -17044,7 +17044,7 @@
     "suffix": false
   },
   {
-    "name": "锯齿的",
+    "name": "锯齿之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -17073,7 +17073,7 @@
     "suffix": false
   },
   {
-    "name": "致命的",
+    "name": "致命之",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -17102,7 +17102,7 @@
     "suffix": false
   },
   {
-    "name": "恶毒的",
+    "name": "恶毒之",
     "spawnable": "1",
     "rare": "1",
     "level": 8,
@@ -17131,7 +17131,7 @@
     "suffix": false
   },
   {
-    "name": "残暴的",
+    "name": "残酷之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -17160,7 +17160,7 @@
     "suffix": false
   },
   {
-    "name": "巨大的",
+    "name": "稳重之",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -17189,7 +17189,7 @@
     "suffix": false
   },
   {
-    "name": "阿萨姆的",
+    "name": "月精灵之",
     "spawnable": "1",
     "rare": "1",
     "level": 3,
@@ -17223,7 +17223,7 @@
     "suffix": false
   },
   {
-    "name": "田园的",
+    "name": "田园之",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -17461,7 +17461,7 @@
     "suffix": false
   },
   {
-    "name": "余烬的",
+    "name": "烈火之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -17486,7 +17486,7 @@
     "suffix": false
   },
   {
-    "name": "雪花的",
+    "name": "雪白之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -17541,7 +17541,7 @@
     "suffix": false
   },
   {
-    "name": "传染",
+    "name": "剧毒",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -17569,7 +17569,7 @@
     "suffix": false
   },
   {
-    "name": "精良的",
+    "name": "尖锐之",
     "spawnable": "1",
     "rare": "",
     "level": 28,
@@ -17598,7 +17598,7 @@
     "suffix": false
   },
   {
-    "name": "闪烁的",
+    "name": "闪耀之",
     "spawnable": "1",
     "rare": "",
     "level": 33,
@@ -17621,7 +17621,7 @@
     "suffix": false
   },
   {
-    "name": "青金石的",
+    "name": "碧蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -17644,7 +17644,7 @@
     "suffix": false
   },
   {
-    "name": "赤褐色的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -17667,7 +17667,7 @@
     "suffix": false
   },
   {
-    "name": "赭石的",
+    "name": "赭黄之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -17690,7 +17690,7 @@
     "suffix": false
   },
   {
-    "name": "翠绿的",
+    "name": "铭绿之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -17803,7 +17803,7 @@
     "suffix": false
   },
   {
-    "name": "严寒",
+    "name": "酷热的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -17833,7 +17833,7 @@
     "suffix": false
   },
   {
-    "name": "霜冻的",
+    "name": "烧焦的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -17863,7 +17863,7 @@
     "suffix": false
   },
   {
-    "name": "冰封的",
+    "name": "炼狱的",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -17893,7 +17893,7 @@
     "suffix": false
   },
   {
-    "name": "爆裂的",
+    "name": "酷热的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -17922,7 +17922,7 @@
     "suffix": false
   },
   {
-    "name": "震荡的",
+    "name": "烧焦的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -17951,7 +17951,7 @@
     "suffix": false
   },
   {
-    "name": "汹涌的",
+    "name": "炼狱的",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -17980,7 +17980,7 @@
     "suffix": false
   },
   {
-    "name": "破败的",
+    "name": "酷热的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -18007,7 +18007,7 @@
     "suffix": false
   },
   {
-    "name": "溃烂的",
+    "name": "烧焦的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -18034,7 +18034,7 @@
     "suffix": false
   },
   {
-    "name": "腐败的",
+    "name": "炼狱的",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -18136,7 +18136,7 @@
     "suffix": false
   },
   {
-    "name": "严寒",
+    "name": "酷热的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -18161,7 +18161,7 @@
     "suffix": false
   },
   {
-    "name": "霜冻的",
+    "name": "烧焦的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -18186,7 +18186,7 @@
     "suffix": false
   },
   {
-    "name": "冰封的",
+    "name": "炼狱的",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -18211,7 +18211,7 @@
     "suffix": false
   },
   {
-    "name": "爆裂的",
+    "name": "酷热的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -18237,7 +18237,7 @@
     "suffix": false
   },
   {
-    "name": "震荡的",
+    "name": "烧焦的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -18263,7 +18263,7 @@
     "suffix": false
   },
   {
-    "name": "汹涌的",
+    "name": "炼狱的",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -18368,7 +18368,7 @@
     "suffix": false
   },
   {
-    "name": "烈焰的",
+    "name": "燃烧之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18406,7 +18406,7 @@
     "suffix": false
   },
   {
-    "name": "余烬的",
+    "name": "燃烧之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18444,7 +18444,7 @@
     "suffix": false
   },
   {
-    "name": "闷燃的",
+    "name": "燃烧之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18483,7 +18483,7 @@
     "suffix": false
   },
   {
-    "name": "冬日的",
+    "name": "寒冬之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18527,7 +18527,7 @@
     "suffix": false
   },
   {
-    "name": "雪花的",
+    "name": "寒冬之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18571,7 +18571,7 @@
     "suffix": false
   },
   {
-    "name": "颤栗的",
+    "name": "寒冬之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18616,7 +18616,7 @@
     "suffix": false
   },
   {
-    "name": "静电的",
+    "name": "静态之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18654,7 +18654,7 @@
     "suffix": false
   },
   {
-    "name": "发光的",
+    "name": "静态之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18692,7 +18692,7 @@
     "suffix": false
   },
   {
-    "name": "电弧的",
+    "name": "静态之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18731,7 +18731,7 @@
     "suffix": false
   },
   {
-    "name": "剧毒的",
+    "name": "剧毒之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18775,7 +18775,7 @@
     "suffix": false
   },
   {
-    "name": "瘟疫的",
+    "name": "剧毒之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18819,7 +18819,7 @@
     "suffix": false
   },
   {
-    "name": "腐败的",
+    "name": "剧毒之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18914,7 +18914,7 @@
     "suffix": false
   },
   {
-    "name": "闪亮的",
+    "name": "银",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -18964,7 +18964,7 @@
     "suffix": false
   },
   {
-    "name": "丰富的",
+    "name": "银",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19059,7 +19059,7 @@
     "suffix": false
   },
   {
-    "name": "迅速",
+    "name": "快速",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19103,7 +19103,7 @@
     "suffix": false
   },
   {
-    "name": "荒谬的",
+    "name": "快速",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19186,7 +19186,7 @@
     "suffix": false
   },
   {
-    "name": "巨大",
+    "name": "广大",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19224,7 +19224,7 @@
     "suffix": false
   },
   {
-    "name": "庞大",
+    "name": "广大",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19307,7 +19307,7 @@
     "suffix": false
   },
   {
-    "name": "威武的",
+    "name": "强壮",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19351,7 +19351,7 @@
     "suffix": false
   },
   {
-    "name": "强大",
+    "name": "强壮",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19573,7 +19573,7 @@
     "suffix": false
   },
   {
-    "name": "血淋淋的",
+    "name": "血腥",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19617,7 +19617,7 @@
     "suffix": false
   },
   {
-    "name": "流血的",
+    "name": "血腥",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19706,7 +19706,7 @@
     "suffix": false
   },
   {
-    "name": "病态的",
+    "name": "不良",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19750,7 +19750,7 @@
     "suffix": false
   },
   {
-    "name": "染病的",
+    "name": "不良",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19839,7 +19839,7 @@
     "suffix": false
   },
   {
-    "name": "粉碎",
+    "name": "压碎",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19883,7 +19883,7 @@
     "suffix": false
   },
   {
-    "name": "消灭",
+    "name": "压碎",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -19972,7 +19972,7 @@
     "suffix": false
   },
   {
-    "name": "电击的",
+    "name": "闪耀",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20016,7 +20016,7 @@
     "suffix": false
   },
   {
-    "name": "雷霆",
+    "name": "闪耀",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20105,7 +20105,7 @@
     "suffix": false
   },
   {
-    "name": "北极的",
+    "name": "霜冻",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20149,7 +20149,7 @@
     "suffix": false
   },
   {
-    "name": "冰河",
+    "name": "霜冻",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20194,7 +20194,7 @@
     "suffix": false
   },
   {
-    "name": "冒烟的",
+    "name": "烟雾之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20238,7 +20238,7 @@
     "suffix": false
   },
   {
-    "name": "熔火",
+    "name": "烟雾之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20282,7 +20282,7 @@
     "suffix": false
   },
   {
-    "name": "火山",
+    "name": "烟雾之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20371,7 +20371,7 @@
     "suffix": false
   },
   {
-    "name": "涂毒的",
+    "name": "恶毒",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20415,7 +20415,7 @@
     "suffix": false
   },
   {
-    "name": "困厄",
+    "name": "恶毒",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20504,7 +20504,7 @@
     "suffix": false
   },
   {
-    "name": "忌讳",
+    "name": "符文",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20548,7 +20548,7 @@
     "suffix": false
   },
   {
-    "name": "隐秘",
+    "name": "符文",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -20593,7 +20593,7 @@
     "suffix": false
   },
   {
-    "name": "吉祥的",
+    "name": "得体之",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -20619,7 +20619,7 @@
     "suffix": false
   },
   {
-    "name": "侥幸的",
+    "name": "偶然之",
     "spawnable": "1",
     "rare": "1",
     "level": 46,
@@ -20645,7 +20645,7 @@
     "suffix": false
   },
   {
-    "name": "幼龙的",
+    "name": "海蛇之",
     "spawnable": "1",
     "rare": "1",
     "level": 49,
@@ -20783,7 +20783,7 @@
     "suffix": false
   },
   {
-    "name": "奥术",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -20808,7 +20808,7 @@
     "suffix": false
   },
   {
-    "name": "神秘的",
+    "name": "快速的",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -20860,7 +20860,7 @@
     "suffix": false
   },
   {
-    "name": "血铸",
+    "name": "虹吸",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -20887,7 +20887,7 @@
     "suffix": false
   },
   {
-    "name": "红宝石的",
+    "name": "深红之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -20912,7 +20912,7 @@
     "suffix": false
   },
   {
-    "name": "蓝宝石的",
+    "name": "钴之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -20937,7 +20937,7 @@
     "suffix": false
   },
   {
-    "name": "琥珀的",
+    "name": "珊瑚之",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -20962,7 +20962,7 @@
     "suffix": false
   },
   {
-    "name": "翡翠的",
+    "name": "玉的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -21112,7 +21112,7 @@
     "suffix": false
   },
   {
-    "name": "破裂",
+    "name": "不懈",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -21137,7 +21137,7 @@
     "suffix": false
   },
   {
-    "name": "粉碎",
+    "name": "撕裂",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -21162,7 +21162,7 @@
     "suffix": false
   },
   {
-    "name": "粉碎",
+    "name": "撕裂",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -21187,7 +21187,7 @@
     "suffix": false
   },
   {
-    "name": "分裂",
+    "name": "无情",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -21212,7 +21212,7 @@
     "suffix": false
   },
   {
-    "name": "分裂",
+    "name": "无情",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -21237,7 +21237,7 @@
     "suffix": false
   },
   {
-    "name": "天使的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -21262,7 +21262,7 @@
     "suffix": false
   },
   {
-    "name": "大天使的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -21287,7 +21287,7 @@
     "suffix": false
   },
   {
-    "name": "凯旋的",
+    "name": "成功之",
     "spawnable": "1",
     "rare": "1",
     "level": 3,
@@ -21313,7 +21313,7 @@
     "suffix": false
   },
   {
-    "name": "胜利的",
+    "name": "优胜之",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -21339,7 +21339,7 @@
     "suffix": false
   },
   {
-    "name": "钴黄的",
+    "name": "碧蓝之",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -21443,7 +21443,7 @@
     "suffix": false
   },
   {
-    "name": "杀手的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -21468,7 +21468,7 @@
     "suffix": false
   },
   {
-    "name": "狂战士的",
+    "name": "制箭者之",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -21493,7 +21493,7 @@
     "suffix": false
   },
   {
-    "name": "锯齿的",
+    "name": "锯齿之",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -21518,7 +21518,7 @@
     "suffix": false
   },
   {
-    "name": "致命的",
+    "name": "凶暴之",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -21543,7 +21543,7 @@
     "suffix": false
   },
   {
-    "name": "坚不可摧的",
+    "name": "坚不可摧",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -21568,7 +21568,7 @@
     "suffix": false
   },
   {
-    "name": "无情的",
+    "name": "绝情之",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -21593,7 +21593,7 @@
     "suffix": false
   },
   {
-    "name": "淬火的",
+    "name": "淬炼",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -21618,7 +21618,7 @@
     "suffix": false
   },
   {
-    "name": "闪耀的",
+    "name": "炽烈",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -21643,7 +21643,7 @@
     "suffix": false
   },
   {
-    "name": "熵能的",
+    "name": "熵灭",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -21668,7 +21668,7 @@
     "suffix": false
   },
   {
-    "name": "佣兵的",
+    "name": "雇佣兵",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -21693,7 +21693,7 @@
     "suffix": false
   },
   {
-    "name": "深蓝的",
+    "name": "藏蓝",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -21718,7 +21718,7 @@
     "suffix": false
   },
   {
-    "name": "乳白色的",
+    "name": "欧泊",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -21743,7 +21743,7 @@
     "suffix": false
   },
   {
-    "name": "哈斯特的",
+    "name": "凛寒",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -21768,7 +21768,7 @@
     "suffix": false
   },
   {
-    "name": "岩浆的",
+    "name": "凛寒",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -21793,7 +21793,7 @@
     "suffix": false
   },
   {
-    "name": "漩涡的",
+    "name": "凛寒",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -21830,7 +21830,7 @@
     "suffix": false
   },
   {
-    "name": "驱逐的",
+    "name": "凛寒",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -21855,7 +21855,7 @@
     "suffix": false
   },
   {
-    "name": "保留的",
+    "name": "留存",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -21880,7 +21880,7 @@
     "suffix": false
   },
   {
-    "name": "绝技的",
+    "name": "神来一击",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -21905,7 +21905,7 @@
     "suffix": false
   },
   {
-    "name": "大出血的",
+    "name": "出血",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -21936,7 +21936,7 @@
     "suffix": false
   },
   {
-    "name": "雄壮的",
+    "name": "强健",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -21961,7 +21961,7 @@
     "suffix": false
   },
   {
-    "name": "坚不可摧的",
+    "name": "坚不可摧",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -21986,7 +21986,7 @@
     "suffix": false
   },
   {
-    "name": "淬火的",
+    "name": "淬炼",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -22011,7 +22011,7 @@
     "suffix": false
   },
   {
-    "name": "闪耀的",
+    "name": "炽烈",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -22036,7 +22036,7 @@
     "suffix": false
   },
   {
-    "name": "佣兵的",
+    "name": "雇佣兵",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -22061,7 +22061,7 @@
     "suffix": false
   },
   {
-    "name": "皇帝的",
+    "name": "帝王",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -22092,7 +22092,7 @@
     "suffix": false
   },
   {
-    "name": "深蓝的",
+    "name": "藏蓝",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -22117,7 +22117,7 @@
     "suffix": false
   },
   {
-    "name": "乳白色的",
+    "name": "欧泊",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -22142,7 +22142,7 @@
     "suffix": false
   },
   {
-    "name": "哈斯特的",
+    "name": "凛寒",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -22167,7 +22167,7 @@
     "suffix": false
   },
   {
-    "name": "岩浆的",
+    "name": "熔岩",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -22192,7 +22192,7 @@
     "suffix": false
   },
   {
-    "name": "漩涡的",
+    "name": "雷暴",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -22217,7 +22217,7 @@
     "suffix": false
   },
   {
-    "name": "驱逐的",
+    "name": "驱毒",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -22242,7 +22242,7 @@
     "suffix": false
   },
   {
-    "name": "埋葬的",
+    "name": "封冻",
     "spawnable": "1",
     "rare": "1",
     "level": 92,
@@ -22267,7 +22267,7 @@
     "suffix": false
   },
   {
-    "name": "焚化的",
+    "name": "焚化",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -22329,7 +22329,7 @@
     "suffix": false
   },
   {
-    "name": "专精之",
+    "name": "专精",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -22354,7 +22354,7 @@
     "suffix": false
   },
   {
-    "name": "精通之",
+    "name": "精通",
     "spawnable": "1",
     "rare": "1",
     "level": 70,
@@ -22379,7 +22379,7 @@
     "suffix": false
   },
   {
-    "name": "大宗师之",
+    "name": "宗师",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -22462,7 +22462,7 @@
     "suffix": true
   },
   {
-    "name": "吸收之",
+    "name": "吸收的",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -22489,7 +22489,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -22516,7 +22516,7 @@
     "suffix": true
   },
   {
-    "name": "永生之",
+    "name": "永生的",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -22569,7 +22569,7 @@
     "suffix": true
   },
   {
-    "name": "吸收之",
+    "name": "吸收的",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -22597,7 +22597,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -22625,7 +22625,7 @@
     "suffix": true
   },
   {
-    "name": "灵魂之",
+    "name": "和睦的",
     "spawnable": "1",
     "rare": "1",
     "level": 51,
@@ -22689,7 +22689,7 @@
     "suffix": true
   },
   {
-    "name": "哨兵之",
+    "name": "步哨的",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -22752,7 +22752,7 @@
     "suffix": true
   },
   {
-    "name": "否定之",
+    "name": "否定的",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -22780,7 +22780,7 @@
     "suffix": true
   },
   {
-    "name": "哨兵之",
+    "name": "步哨的",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -22835,7 +22835,7 @@
     "suffix": true
   },
   {
-    "name": "否定之",
+    "name": "否定的",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -22862,7 +22862,7 @@
     "suffix": true
   },
   {
-    "name": "穿刺之",
+    "name": "刺穿的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -22892,7 +22892,7 @@
     "suffix": true
   },
   {
-    "name": "荆棘之",
+    "name": "刺尖的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -22920,7 +22920,7 @@
     "suffix": true
   },
   {
-    "name": "尖刺之",
+    "name": "尖刺的",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -22948,7 +22948,7 @@
     "suffix": true
   },
   {
-    "name": "剃刀之",
+    "name": "剃刀的",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -22975,7 +22975,7 @@
     "suffix": true
   },
   {
-    "name": "剑之",
+    "name": "刀剑的",
     "spawnable": "1",
     "rare": "1",
     "level": 47,
@@ -23002,7 +23002,7 @@
     "suffix": true
   },
   {
-    "name": "恶意之",
+    "name": "恶意的",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -23028,7 +23028,7 @@
     "suffix": true
   },
   {
-    "name": "备战之",
+    "name": "迅速的",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -23058,7 +23058,7 @@
     "suffix": true
   },
   {
-    "name": "迅捷之",
+    "name": "轻快的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -23149,7 +23149,7 @@
     "suffix": true
   },
   {
-    "name": "迅捷之",
+    "name": "轻快的",
     "spawnable": "1",
     "rare": "1",
     "level": 43,
@@ -23174,7 +23174,7 @@
     "suffix": true
   },
   {
-    "name": "狂热之",
+    "name": "白热的",
     "spawnable": "1",
     "rare": "",
     "level": 39,
@@ -23200,7 +23200,7 @@
     "suffix": true
   },
   {
-    "name": "格挡之",
+    "name": "格挡的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -23231,7 +23231,7 @@
     "suffix": true
   },
   {
-    "name": "偏转之",
+    "name": "偏向的",
     "spawnable": "1",
     "rare": "1",
     "level": 11,
@@ -23262,7 +23262,7 @@
     "suffix": true
   },
   {
-    "name": "学徒之",
+    "name": "学徒的",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -23288,7 +23288,7 @@
     "suffix": true
   },
   {
-    "name": "贤者之",
+    "name": "术士的",
     "spawnable": "1",
     "rare": "1",
     "level": 29,
@@ -23316,7 +23316,7 @@
     "suffix": true
   },
   {
-    "name": "霜之",
+    "name": "霜冻的",
     "spawnable": "1",
     "rare": "1",
     "level": 4,
@@ -23346,7 +23346,7 @@
     "suffix": true
   },
   {
-    "name": "冰柱之",
+    "name": "冰刺的",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -23376,7 +23376,7 @@
     "suffix": true
   },
   {
-    "name": "冰川之",
+    "name": "冰河的",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -23406,7 +23406,7 @@
     "suffix": true
   },
   {
-    "name": "寒冬之",
+    "name": "严冬的",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -23436,7 +23436,7 @@
     "suffix": true
   },
   {
-    "name": "霜之",
+    "name": "严冬的",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -23462,7 +23462,7 @@
     "suffix": true
   },
   {
-    "name": "严寒之",
+    "name": "寒冷的",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -23488,7 +23488,7 @@
     "suffix": true
   },
   {
-    "name": "温暖之",
+    "name": "融解的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -23519,7 +23519,7 @@
     "suffix": true
   },
   {
-    "name": "烈焰之",
+    "name": "冲击的",
     "spawnable": "1",
     "rare": "1",
     "level": 4,
@@ -23549,7 +23549,7 @@
     "suffix": true
   },
   {
-    "name": "火焰之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -23579,7 +23579,7 @@
     "suffix": true
   },
   {
-    "name": "燃烧之",
+    "name": "雷电的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -23609,7 +23609,7 @@
     "suffix": true
   },
   {
-    "name": "焚化之",
+    "name": "炽炎的",
     "spawnable": "1",
     "rare": "1",
     "level": 43,
@@ -23639,7 +23639,7 @@
     "suffix": true
   },
   {
-    "name": "激情之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -23665,7 +23665,7 @@
     "suffix": true
   },
   {
-    "name": "冲击之",
+    "name": "品质的",
     "spawnable": "1",
     "rare": "1",
     "level": 4,
@@ -23791,7 +23791,7 @@
     "suffix": true
   },
   {
-    "name": "雷霆之",
+    "name": "残杀的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -23821,7 +23821,7 @@
     "suffix": true
   },
   {
-    "name": "风暴之",
+    "name": "暴风的",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -23851,7 +23851,7 @@
     "suffix": true
   },
   {
-    "name": "冲击之",
+    "name": "冲击的",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -23878,7 +23878,7 @@
     "suffix": true
   },
   {
-    "name": "倦怠之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -23904,7 +23904,7 @@
     "suffix": true
   },
   {
-    "name": "工艺之",
+    "name": "工匠的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -23935,7 +23935,7 @@
     "suffix": true
   },
   {
-    "name": "品质之",
+    "name": "品质的",
     "spawnable": "1",
     "rare": "1",
     "level": 4,
@@ -23964,7 +23964,7 @@
     "suffix": true
   },
   {
-    "name": "残废之",
+    "name": "伤残的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -23993,7 +23993,7 @@
     "suffix": true
   },
   {
-    "name": "杀戮之",
+    "name": "屠杀的",
     "spawnable": "1",
     "rare": "1",
     "level": 11,
@@ -24022,7 +24022,7 @@
     "suffix": true
   },
   {
-    "name": "血腥之",
+    "name": "凝血的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -24051,7 +24051,7 @@
     "suffix": true
   },
   {
-    "name": "大屠杀之",
+    "name": "屠杀的",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -24080,7 +24080,7 @@
     "suffix": true
   },
   {
-    "name": "屠杀之",
+    "name": "残杀的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -24109,7 +24109,7 @@
     "suffix": true
   },
   {
-    "name": "屠戮之",
+    "name": "屠杀的",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -24167,7 +24167,7 @@
     "suffix": true
   },
   {
-    "name": "残废之",
+    "name": "伤残的",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -24194,7 +24194,7 @@
     "suffix": true
   },
   {
-    "name": "工艺之",
+    "name": "工匠的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -24220,7 +24220,7 @@
     "suffix": true
   },
   {
-    "name": "工艺之",
+    "name": "工匠的",
     "spawnable": "1",
     "rare": "1",
     "level": 8,
@@ -24246,7 +24246,7 @@
     "suffix": true
   },
   {
-    "name": "工艺之",
+    "name": "工匠的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -24272,7 +24272,7 @@
     "suffix": true
   },
   {
-    "name": "品质之",
+    "name": "品质的",
     "spawnable": "1",
     "rare": "1",
     "level": 23,
@@ -24298,7 +24298,7 @@
     "suffix": true
   },
   {
-    "name": "品质之",
+    "name": "品质的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -24324,7 +24324,7 @@
     "suffix": true
   },
   {
-    "name": "残废之",
+    "name": "测量的",
     "spawnable": "1",
     "rare": "",
     "level": 37,
@@ -24350,7 +24350,7 @@
     "suffix": true
   },
   {
-    "name": "残废之",
+    "name": "剜空之",
     "spawnable": "1",
     "rare": "",
     "level": 45,
@@ -24376,7 +24376,7 @@
     "suffix": true
   },
   {
-    "name": "愤怒之",
+    "name": "品质的",
     "spawnable": "1",
     "rare": "1",
     "level": 4,
@@ -24402,7 +24402,7 @@
     "suffix": true
   },
   {
-    "name": "愤怒之",
+    "name": "屠杀的",
     "spawnable": "1",
     "rare": "1",
     "level": 11,
@@ -24428,7 +24428,7 @@
     "suffix": true
   },
   {
-    "name": "大屠杀之",
+    "name": "残杀的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -24454,7 +24454,7 @@
     "suffix": true
   },
   {
-    "name": "价值之",
+    "name": "价值的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -24483,7 +24483,7 @@
     "suffix": true
   },
   {
-    "name": "度量之",
+    "name": "测量的",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -24512,7 +24512,7 @@
     "suffix": true
   },
   {
-    "name": "卓越之",
+    "name": "卓越的",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -24541,7 +24541,7 @@
     "suffix": true
   },
   {
-    "name": "表现之",
+    "name": "表现的",
     "spawnable": "1",
     "rare": "1",
     "level": 48,
@@ -24570,7 +24570,7 @@
     "suffix": true
   },
   {
-    "name": "超越之",
+    "name": "超凡的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -24599,7 +24599,7 @@
     "suffix": true
   },
   {
-    "name": "价值之",
+    "name": "毒素的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -24627,7 +24627,7 @@
     "suffix": true
   },
   {
-    "name": "度量之",
+    "name": "测量的",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -24655,7 +24655,7 @@
     "suffix": true
   },
   {
-    "name": "卓越之",
+    "name": "卓越的",
     "spawnable": "1",
     "rare": "1",
     "level": 59,
@@ -24683,7 +24683,7 @@
     "suffix": true
   },
   {
-    "name": "表现之",
+    "name": "表现的",
     "spawnable": "1",
     "rare": "1",
     "level": 81,
@@ -24711,7 +24711,7 @@
     "suffix": true
   },
   {
-    "name": "喜悦之",
+    "name": "枯萎的",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -24737,7 +24737,7 @@
     "suffix": true
   },
   {
-    "name": "极乐之",
+    "name": "福气的",
     "spawnable": "1",
     "rare": "1",
     "level": 43,
@@ -24763,7 +24763,7 @@
     "suffix": true
   },
   {
-    "name": "枯萎之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -24795,7 +24795,7 @@
     "suffix": true
   },
   {
-    "name": "剧毒之",
+    "name": "毒素的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -24827,7 +24827,7 @@
     "suffix": true
   },
   {
-    "name": "瘟疫之",
+    "name": "瘟疫的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -24859,7 +24859,7 @@
     "suffix": true
   },
   {
-    "name": "炭疽之",
+    "name": "炭疽的",
     "spawnable": "1",
     "rare": "1",
     "level": 33,
@@ -24890,7 +24890,7 @@
     "suffix": true
   },
   {
-    "name": "枯萎之",
+    "name": "技巧的",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -24916,7 +24916,7 @@
     "suffix": true
   },
   {
-    "name": "嫉妒之",
+    "name": "嫉妒的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -24942,7 +24942,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -24970,7 +24970,7 @@
     "suffix": true
   },
   {
-    "name": "技能之",
+    "name": "技巧的",
     "spawnable": "1",
     "rare": "1",
     "level": 11,
@@ -25001,7 +25001,7 @@
     "suffix": true
   },
   {
-    "name": "精准之",
+    "name": "准确的",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -25032,7 +25032,7 @@
     "suffix": true
   },
   {
-    "name": "精准之",
+    "name": "精密的",
     "spawnable": "1",
     "rare": "1",
     "level": 43,
@@ -25063,7 +25063,7 @@
     "suffix": true
   },
   {
-    "name": "完美之",
+    "name": "完美的",
     "spawnable": "1",
     "rare": "1",
     "level": 59,
@@ -25093,7 +25093,7 @@
     "suffix": true
   },
   {
-    "name": "涅槃之",
+    "name": "涅槃的",
     "spawnable": "1",
     "rare": "1",
     "level": 72,
@@ -25123,7 +25123,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 6,
@@ -25149,7 +25149,7 @@
     "suffix": true
   },
   {
-    "name": "技能之",
+    "name": "技巧的",
     "spawnable": "1",
     "rare": "1",
     "level": 22,
@@ -25176,7 +25176,7 @@
     "suffix": true
   },
   {
-    "name": "精准之",
+    "name": "准确的",
     "spawnable": "1",
     "rare": "1",
     "level": 39,
@@ -25202,7 +25202,7 @@
     "suffix": true
   },
   {
-    "name": "精准之",
+    "name": "精密的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -25228,7 +25228,7 @@
     "suffix": true
   },
   {
-    "name": "完美之",
+    "name": "完美的",
     "spawnable": "1",
     "rare": "1",
     "level": 75,
@@ -25254,7 +25254,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -25282,7 +25282,7 @@
     "suffix": true
   },
   {
-    "name": "技能之",
+    "name": "技巧的",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -25309,7 +25309,7 @@
     "suffix": true
   },
   {
-    "name": "精准之",
+    "name": "准确的",
     "spawnable": "1",
     "rare": "1",
     "level": 46,
@@ -25337,7 +25337,7 @@
     "suffix": true
   },
   {
-    "name": "精准之",
+    "name": "精密的",
     "spawnable": "1",
     "rare": "1",
     "level": 60,
@@ -25365,7 +25365,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -25391,7 +25391,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 3,
@@ -25416,7 +25416,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -25441,7 +25441,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -25467,7 +25467,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -25492,7 +25492,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 22,
@@ -25517,7 +25517,7 @@
     "suffix": true
   },
   {
-    "name": "无畏之",
+    "name": "猛进的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -25543,7 +25543,7 @@
     "suffix": true
   },
   {
-    "name": "平衡之",
+    "name": "平衡的",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -25634,7 +25634,7 @@
     "suffix": true
   },
   {
-    "name": "平衡之",
+    "name": "平衡的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -25660,7 +25660,7 @@
     "suffix": true
   },
   {
-    "name": "平衡之",
+    "name": "平衡的",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -25685,7 +25685,7 @@
     "suffix": true
   },
   {
-    "name": "平衡之",
+    "name": "平衡的",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -25710,7 +25710,7 @@
     "suffix": true
   },
   {
-    "name": "真理之",
+    "name": "真理的",
     "spawnable": "1",
     "rare": "1",
     "level": 44,
@@ -25826,7 +25826,7 @@
     "suffix": true
   },
   {
-    "name": "复苏之",
+    "name": "重生的",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -25853,7 +25853,7 @@
     "suffix": true
   },
   {
-    "name": "复苏之",
+    "name": "重生的",
     "spawnable": "1",
     "rare": "1",
     "level": 55,
@@ -25879,7 +25879,7 @@
     "suffix": true
   },
   {
-    "name": "复苏之",
+    "name": "复苏的",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -25906,7 +25906,7 @@
     "suffix": true
   },
   {
-    "name": "荣誉之",
+    "name": "荣誉的",
     "spawnable": "1",
     "rare": "1",
     "level": 47,
@@ -25932,7 +25932,7 @@
     "suffix": true
   },
   {
-    "name": "卑劣之",
+    "name": "下流的",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -25963,7 +25963,7 @@
     "suffix": true
   },
   {
-    "name": "贪婪之",
+    "name": "贪婪的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -25991,7 +25991,7 @@
     "suffix": true
   },
   {
-    "name": "财富之",
+    "name": "财富的",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -26021,7 +26021,7 @@
     "suffix": true
   },
   {
-    "name": "贪婪之",
+    "name": "贪婪的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -26047,7 +26047,7 @@
     "suffix": true
   },
   {
-    "name": "贪婪之",
+    "name": "贪婪的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -26073,7 +26073,7 @@
     "suffix": true
   },
   {
-    "name": "贪婪之",
+    "name": "贪婪的",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -26099,7 +26099,7 @@
     "suffix": true
   },
   {
-    "name": "贪婪之",
+    "name": "贪婪的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -26124,7 +26124,7 @@
     "suffix": true
   },
   {
-    "name": "贪婪之",
+    "name": "贪婪的",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -26149,7 +26149,7 @@
     "suffix": true
   },
   {
-    "name": "贪婪之",
+    "name": "贪婪的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -26174,7 +26174,7 @@
     "suffix": true
   },
   {
-    "name": "贪婪之",
+    "name": "贪婪的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -26200,7 +26200,7 @@
     "suffix": true
   },
   {
-    "name": "机遇之",
+    "name": "机会的",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -26231,7 +26231,7 @@
     "suffix": true
   },
   {
-    "name": "幸运之",
+    "name": "幸运的",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -26261,7 +26261,7 @@
     "suffix": true
   },
   {
-    "name": "幸运之",
+    "name": "幸运的",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -26286,7 +26286,7 @@
     "suffix": true
   },
   {
-    "name": "幸运之",
+    "name": "幸运的",
     "spawnable": "1",
     "rare": "",
     "level": 26,
@@ -26314,7 +26314,7 @@
     "suffix": true
   },
   {
-    "name": "幸运之",
+    "name": "幸运的",
     "spawnable": "1",
     "rare": "1",
     "level": 31,
@@ -26339,7 +26339,7 @@
     "suffix": true
   },
   {
-    "name": "好运之",
+    "name": "幸运的",
     "spawnable": "1",
     "rare": "",
     "level": 47,
@@ -26364,7 +26364,7 @@
     "suffix": true
   },
   {
-    "name": "繁荣之",
+    "name": "幸运的",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -26390,7 +26390,7 @@
     "suffix": true
   },
   {
-    "name": "能量之",
+    "name": "能源的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -26421,7 +26421,7 @@
     "suffix": true
   },
   {
-    "name": "心灵之",
+    "name": "思想的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -26452,7 +26452,7 @@
     "suffix": true
   },
   {
-    "name": "光辉之",
+    "name": "才华的",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -26483,7 +26483,7 @@
     "suffix": true
   },
   {
-    "name": "巫术之",
+    "name": "幻术的",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -26514,7 +26514,7 @@
     "suffix": true
   },
   {
-    "name": "法术之",
+    "name": "法术的",
     "spawnable": "1",
     "rare": "1",
     "level": 31,
@@ -26545,7 +26545,7 @@
     "suffix": true
   },
   {
-    "name": "启迪之",
+    "name": "启发的",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -26576,7 +26576,7 @@
     "suffix": true
   },
   {
-    "name": "能量之",
+    "name": "思想的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -26601,7 +26601,7 @@
     "suffix": true
   },
   {
-    "name": "心灵之",
+    "name": "才华的",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -26627,7 +26627,7 @@
     "suffix": true
   },
   {
-    "name": "光辉之",
+    "name": "幻术的",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -26652,7 +26652,7 @@
     "suffix": true
   },
   {
-    "name": "巫术之",
+    "name": "法术的",
     "spawnable": "1",
     "rare": "1",
     "level": 31,
@@ -26677,7 +26677,7 @@
     "suffix": true
   },
   {
-    "name": "法术之",
+    "name": "启发的",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -26702,7 +26702,7 @@
     "suffix": true
   },
   {
-    "name": "能量之",
+    "name": "能源的",
     "spawnable": "1",
     "rare": "1",
     "level": 4,
@@ -26728,7 +26728,7 @@
     "suffix": true
   },
   {
-    "name": "心灵之",
+    "name": "思想的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -26754,7 +26754,7 @@
     "suffix": true
   },
   {
-    "name": "光辉之",
+    "name": "幸运的",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -26780,7 +26780,7 @@
     "suffix": true
   },
   {
-    "name": "巫术之",
+    "name": "幻术的",
     "spawnable": "1",
     "rare": "",
     "level": 26,
@@ -26806,7 +26806,7 @@
     "suffix": true
   },
   {
-    "name": "知识之",
+    "name": "知识的",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -26832,7 +26832,7 @@
     "suffix": true
   },
   {
-    "name": "巨熊之",
+    "name": "巨熊的",
     "spawnable": "1",
     "rare": "1",
     "level": 8,
@@ -26857,7 +26857,7 @@
     "suffix": true
   },
   {
-    "name": "光明之",
+    "name": "光明的",
     "spawnable": "1",
     "rare": "1",
     "level": 6,
@@ -26892,7 +26892,7 @@
     "suffix": true
   },
   {
-    "name": "光辉之",
+    "name": "光彩的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -26924,7 +26924,7 @@
     "suffix": true
   },
   {
-    "name": "太阳之",
+    "name": "太阳的",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -26965,7 +26965,7 @@
     "suffix": true
   },
   {
-    "name": "豺狼之",
+    "name": "豺狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -26994,7 +26994,7 @@
     "suffix": true
   },
   {
-    "name": "狡狐之",
+    "name": "狐狸的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -27024,7 +27024,7 @@
     "suffix": true
   },
   {
-    "name": "恶狼之",
+    "name": "光彩的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -27052,7 +27052,7 @@
     "suffix": true
   },
   {
-    "name": "猛虎之",
+    "name": "猛虎的",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -27082,7 +27082,7 @@
     "suffix": true
   },
   {
-    "name": "猛犸之",
+    "name": "巨大的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -27112,7 +27112,7 @@
     "suffix": true
   },
   {
-    "name": "巨神之",
+    "name": "巨神的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -27141,7 +27141,7 @@
     "suffix": true
   },
   {
-    "name": "乌贼之",
+    "name": "乌贼的",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -27166,7 +27166,7 @@
     "suffix": true
   },
   {
-    "name": "鲸鱼之",
+    "name": "巨鲸的",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -27191,7 +27191,7 @@
     "suffix": true
   },
   {
-    "name": "豺狼之",
+    "name": "豺狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 4,
@@ -27218,7 +27218,7 @@
     "suffix": true
   },
   {
-    "name": "狡狐之",
+    "name": "狐狸的",
     "spawnable": "1",
     "rare": "1",
     "level": 11,
@@ -27245,7 +27245,7 @@
     "suffix": true
   },
   {
-    "name": "恶狼之",
+    "name": "狂狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -27272,7 +27272,7 @@
     "suffix": true
   },
   {
-    "name": "猛虎之",
+    "name": "猛虎的",
     "spawnable": "1",
     "rare": "1",
     "level": 43,
@@ -27299,7 +27299,7 @@
     "suffix": true
   },
   {
-    "name": "猛犸之",
+    "name": "巨大的",
     "spawnable": "1",
     "rare": "1",
     "level": 59,
@@ -27326,7 +27326,7 @@
     "suffix": true
   },
   {
-    "name": "巨神之",
+    "name": "巨神的",
     "spawnable": "1",
     "rare": "1",
     "level": 75,
@@ -27352,7 +27352,7 @@
     "suffix": true
   },
   {
-    "name": "豺狼之",
+    "name": "豺狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 8,
@@ -27381,7 +27381,7 @@
     "suffix": true
   },
   {
-    "name": "狡狐之",
+    "name": "太阳的",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -27409,7 +27409,7 @@
     "suffix": true
   },
   {
-    "name": "恶狼之",
+    "name": "狂狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -27437,7 +27437,7 @@
     "suffix": true
   },
   {
-    "name": "猛虎之",
+    "name": "猛虎的",
     "spawnable": "1",
     "rare": "1",
     "level": 51,
@@ -27466,7 +27466,7 @@
     "suffix": true
   },
   {
-    "name": "猛犸之",
+    "name": "巨大的",
     "spawnable": "1",
     "rare": "1",
     "level": 68,
@@ -27495,7 +27495,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "豺狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -27521,7 +27521,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -27547,7 +27547,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -27573,7 +27573,7 @@
     "suffix": true
   },
   {
-    "name": "维生之",
+    "name": "耐久的",
     "spawnable": "1",
     "rare": "1",
     "level": 31,
@@ -27599,7 +27599,7 @@
     "suffix": true
   },
   {
-    "name": "维生之",
+    "name": "耐久的",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -27625,7 +27625,7 @@
     "suffix": true
   },
   {
-    "name": "维生之",
+    "name": "耐久的",
     "spawnable": "1",
     "rare": "1",
     "level": 61,
@@ -27651,7 +27651,7 @@
     "suffix": true
   },
   {
-    "name": "活力之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "",
     "level": 77,
@@ -27677,7 +27677,7 @@
     "suffix": true
   },
   {
-    "name": "活力之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "",
     "level": 91,
@@ -27703,7 +27703,7 @@
     "suffix": true
   },
   {
-    "name": "活力之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "",
     "level": 110,
@@ -27729,7 +27729,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "豺狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -27754,7 +27754,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -27779,7 +27779,7 @@
     "suffix": true
   },
   {
-    "name": "维生之",
+    "name": "耐久的",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -27804,7 +27804,7 @@
     "suffix": true
   },
   {
-    "name": "维生之",
+    "name": "耐久的",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -27829,7 +27829,7 @@
     "suffix": true
   },
   {
-    "name": "活力之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "",
     "level": 58,
@@ -27854,7 +27854,7 @@
     "suffix": true
   },
   {
-    "name": "活力之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "",
     "level": 74,
@@ -27879,7 +27879,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "豺狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -27904,7 +27904,7 @@
     "suffix": true
   },
   {
-    "name": "维生之",
+    "name": "耐久的",
     "spawnable": "1",
     "rare": "1",
     "level": 23,
@@ -27929,7 +27929,7 @@
     "suffix": true
   },
   {
-    "name": "活力之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "",
     "level": 47,
@@ -27954,7 +27954,7 @@
     "suffix": true
   },
   {
-    "name": "精神之",
+    "name": "豺狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -27980,7 +27980,7 @@
     "suffix": true
   },
   {
-    "name": "希望之",
+    "name": "耐久的",
     "spawnable": "1",
     "rare": "",
     "level": 45,
@@ -28006,7 +28006,7 @@
     "suffix": true
   },
   {
-    "name": "水蛭之",
+    "name": "狐狸的",
     "spawnable": "1",
     "rare": "1",
     "level": 6,
@@ -28042,7 +28042,7 @@
     "suffix": true
   },
   {
-    "name": "蝗虫之",
+    "name": "猛虎的",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -28072,7 +28072,7 @@
     "suffix": true
   },
   {
-    "name": "七鳃鳗之",
+    "name": "八目鳗的",
     "spawnable": "1",
     "rare": "1",
     "level": 55,
@@ -28101,7 +28101,7 @@
     "suffix": true
   },
   {
-    "name": "水蛭之",
+    "name": "狂狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -28128,7 +28128,7 @@
     "suffix": true
   },
   {
-    "name": "蝗虫之",
+    "name": "蝗虫的",
     "spawnable": "1",
     "rare": "1",
     "level": 47,
@@ -28155,7 +28155,7 @@
     "suffix": true
   },
   {
-    "name": "七鳃鳗之",
+    "name": "八目鳗的",
     "spawnable": "1",
     "rare": "1",
     "level": 77,
@@ -28206,7 +28206,7 @@
     "suffix": true
   },
   {
-    "name": "蝙蝠之",
+    "name": "蝙蝠的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -28266,7 +28266,7 @@
     "suffix": true
   },
   {
-    "name": "吸血鬼之",
+    "name": "吸血鬼的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -28295,7 +28295,7 @@
     "suffix": true
   },
   {
-    "name": "蝙蝠之",
+    "name": "蝙蝠的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -28349,7 +28349,7 @@
     "suffix": true
   },
   {
-    "name": "吸血鬼之",
+    "name": "吸血鬼的",
     "spawnable": "1",
     "rare": "1",
     "level": 78,
@@ -28375,7 +28375,7 @@
     "suffix": true
   },
   {
-    "name": "蝙蝠之",
+    "name": "蝙蝠的",
     "spawnable": "1",
     "rare": "1",
     "level": 35,
@@ -28400,7 +28400,7 @@
     "suffix": true
   },
   {
-    "name": "抗争之",
+    "name": "反抗的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -28429,7 +28429,7 @@
     "suffix": true
   },
   {
-    "name": "改善之",
+    "name": "演进的",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -28458,7 +28458,7 @@
     "suffix": true
   },
   {
-    "name": "疗愈之",
+    "name": "医治的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -28487,7 +28487,7 @@
     "suffix": true
   },
   {
-    "name": "简朴之",
+    "name": "反抗的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -28518,7 +28518,7 @@
     "suffix": true
   },
   {
-    "name": "安逸之",
+    "name": "安逸的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -28549,7 +28549,7 @@
     "suffix": true
   },
   {
-    "name": "自由之",
+    "name": "自由的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -28575,7 +28575,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -28605,7 +28605,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "武力的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -28635,7 +28635,7 @@
     "suffix": true
   },
   {
-    "name": "蛮牛之",
+    "name": "公牛的",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -28666,7 +28666,7 @@
     "suffix": true
   },
   {
-    "name": "巨人之",
+    "name": "巨人的",
     "spawnable": "1",
     "rare": "1",
     "level": 42,
@@ -28697,7 +28697,7 @@
     "suffix": true
   },
   {
-    "name": "泰坦之",
+    "name": "泰坦的",
     "spawnable": "1",
     "rare": "1",
     "level": 58,
@@ -28727,7 +28727,7 @@
     "suffix": true
   },
   {
-    "name": "阿特拉斯之",
+    "name": "擎天神的",
     "spawnable": "1",
     "rare": "1",
     "level": 71,
@@ -28758,7 +28758,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "力量的",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -28788,7 +28788,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "武力的",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -28818,7 +28818,7 @@
     "suffix": true
   },
   {
-    "name": "蛮牛之",
+    "name": "公牛的",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -28849,7 +28849,7 @@
     "suffix": true
   },
   {
-    "name": "巨人之",
+    "name": "巨人的",
     "spawnable": "1",
     "rare": "1",
     "level": 55,
@@ -28878,7 +28878,7 @@
     "suffix": true
   },
   {
-    "name": "泰坦之",
+    "name": "泰坦的",
     "spawnable": "1",
     "rare": "1",
     "level": 74,
@@ -28907,7 +28907,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "力量的",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -28937,7 +28937,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "武力的",
     "spawnable": "1",
     "rare": "1",
     "level": 33,
@@ -28966,7 +28966,7 @@
     "suffix": true
   },
   {
-    "name": "蛮牛之",
+    "name": "公牛的",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -28996,7 +28996,7 @@
     "suffix": true
   },
   {
-    "name": "巨人之",
+    "name": "巨人的",
     "spawnable": "1",
     "rare": "1",
     "level": 59,
@@ -29024,7 +29024,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -29050,7 +29050,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 3,
@@ -29075,7 +29075,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -29100,7 +29100,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -29126,7 +29126,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -29151,7 +29151,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 22,
@@ -29176,7 +29176,7 @@
     "suffix": true
   },
   {
-    "name": "阳刚之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -29202,7 +29202,7 @@
     "suffix": true
   },
   {
-    "name": "步伐之",
+    "name": "匆忙的",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -29227,7 +29227,7 @@
     "suffix": true
   },
   {
-    "name": "急速之",
+    "name": "速度的",
     "spawnable": "1",
     "rare": "1",
     "level": 22,
@@ -29252,7 +29252,7 @@
     "suffix": true
   },
   {
-    "name": "速度之",
+    "name": "速度的",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -29277,7 +29277,7 @@
     "suffix": true
   },
   {
-    "name": "旅行之",
+    "name": "传送的",
     "spawnable": "1",
     "rare": "1",
     "level": 65,
@@ -29308,7 +29308,7 @@
     "suffix": true
   },
   {
-    "name": "加速之",
+    "name": "加速的",
     "spawnable": "1",
     "rare": "1",
     "level": 51,
@@ -29333,7 +29333,7 @@
     "suffix": true
   },
   {
-    "name": "惯性之",
+    "name": "惯性的",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -29359,7 +29359,7 @@
     "suffix": true
   },
   {
-    "name": "惯性之",
+    "name": "惯性的",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -29384,7 +29384,7 @@
     "suffix": true
   },
   {
-    "name": "惯性之",
+    "name": "惯性的",
     "spawnable": "1",
     "rare": "",
     "level": 35,
@@ -29409,7 +29409,7 @@
     "suffix": true
   },
   {
-    "name": "自我修复之",
+    "name": "自我修复的",
     "spawnable": "1",
     "rare": "1",
     "level": 3,
@@ -29440,7 +29440,7 @@
     "suffix": true
   },
   {
-    "name": "快速修复之",
+    "name": "恢复的",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -29471,7 +29471,7 @@
     "suffix": true
   },
   {
-    "name": "永恒之",
+    "name": "岁月的",
     "spawnable": "1",
     "rare": "",
     "level": 50,
@@ -29502,7 +29502,7 @@
     "suffix": true
   },
   {
-    "name": "海妖之",
+    "name": "半人马的",
     "spawnable": "1",
     "rare": "",
     "level": 20,
@@ -29527,7 +29527,7 @@
     "suffix": true
   },
   {
-    "name": "记忆之",
+    "name": "半人马的",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -29554,7 +29554,7 @@
     "suffix": true
   },
   {
-    "name": "巨象之",
+    "name": "巨象的",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -29586,7 +29586,7 @@
     "suffix": true
   },
   {
-    "name": "火弹之",
+    "name": "火弹的",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -29616,7 +29616,7 @@
     "suffix": true
   },
   {
-    "name": "充能盾之",
+    "name": "火弹的",
     "spawnable": "1",
     "rare": "1",
     "level": 6,
@@ -29643,7 +29643,7 @@
     "suffix": true
   },
   {
-    "name": "充能盾之",
+    "name": "火弹的",
     "spawnable": "1",
     "rare": "1",
     "level": 16,
@@ -29670,7 +29670,7 @@
     "suffix": true
   },
   {
-    "name": "充能盾之",
+    "name": "充能弹的",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -29697,7 +29697,7 @@
     "suffix": true
   },
   {
-    "name": "霜盾之",
+    "name": "冷凝盾的",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -29723,7 +29723,7 @@
     "suffix": true
   },
   {
-    "name": "新星的",
+    "name": "冷凝盾的",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -29783,7 +29783,7 @@
     "suffix": true
   },
   {
-    "name": "新星盾之",
+    "name": "新星的",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -29809,7 +29809,7 @@
     "suffix": true
   },
   {
-    "name": "新星盾之",
+    "name": "新星盾的",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -29835,7 +29835,7 @@
     "suffix": true
   },
   {
-    "name": "新星盾之",
+    "name": "新星盾的",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -29861,7 +29861,7 @@
     "suffix": true
   },
   {
-    "name": "九头蛇盾之",
+    "name": "九头蛇盾的",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -29886,7 +29886,7 @@
     "suffix": true
   },
   {
-    "name": "念力之",
+    "name": "戳刺的",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -29911,7 +29911,7 @@
     "suffix": true
   },
   {
-    "name": "传送之",
+    "name": "戳刺的",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -29936,7 +29936,7 @@
     "suffix": true
   },
   {
-    "name": "传送之",
+    "name": "火墙的",
     "spawnable": "1",
     "rare": "1",
     "level": 48,
@@ -29962,7 +29962,7 @@
     "suffix": true
   },
   {
-    "name": "生命偷取之",
+    "name": "戳刺的",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -29989,7 +29989,7 @@
     "suffix": true
   },
   {
-    "name": "生命偷取之",
+    "name": "火墙的",
     "spawnable": "1",
     "rare": "1",
     "level": 48,
@@ -30014,7 +30014,7 @@
     "suffix": true
   },
   {
-    "name": "降低抵抗力之",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -30041,7 +30041,7 @@
     "suffix": true
   },
   {
-    "name": "降低抵抗力之",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 72,
@@ -30066,7 +30066,7 @@
     "suffix": true
   },
   {
-    "name": "伤害增幅之",
+    "name": "冰箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -30095,7 +30095,7 @@
     "suffix": true
   },
   {
-    "name": "冰柱之",
+    "name": "冰刺的",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -30121,7 +30121,7 @@
     "suffix": true
   },
   {
-    "name": "冰川之",
+    "name": "冰河的",
     "spawnable": "1",
     "rare": "",
     "level": 58,
@@ -30147,7 +30147,7 @@
     "suffix": true
   },
   {
-    "name": "火焰之",
+    "name": "烈火的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -30173,7 +30173,7 @@
     "suffix": true
   },
   {
-    "name": "燃烧之",
+    "name": "燃烧的",
     "spawnable": "1",
     "rare": "1",
     "level": 57,
@@ -30225,7 +30225,7 @@
     "suffix": true
   },
   {
-    "name": "雷霆之",
+    "name": "雷电的",
     "spawnable": "1",
     "rare": "1",
     "level": 57,
@@ -30251,7 +30251,7 @@
     "suffix": true
   },
   {
-    "name": "无畏之",
+    "name": "猛进的",
     "spawnable": "1",
     "rare": "1",
     "level": 19,
@@ -30277,7 +30277,7 @@
     "suffix": true
   },
   {
-    "name": "无畏之",
+    "name": "猛进的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -30303,7 +30303,7 @@
     "suffix": true
   },
   {
-    "name": "知识之",
+    "name": "知识的",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -30329,7 +30329,7 @@
     "suffix": true
   },
   {
-    "name": "知识之",
+    "name": "启发的",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -30355,7 +30355,7 @@
     "suffix": true
   },
   {
-    "name": "阳刚之",
+    "name": "武力的",
     "spawnable": "1",
     "rare": "1",
     "level": 33,
@@ -30381,7 +30381,7 @@
     "suffix": true
   },
   {
-    "name": "阳刚之",
+    "name": "精气的",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -30407,7 +30407,7 @@
     "suffix": true
   },
   {
-    "name": "备战之",
+    "name": "迅速的",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -30432,7 +30432,7 @@
     "suffix": true
   },
   {
-    "name": "工艺之",
+    "name": "工匠的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -30458,7 +30458,7 @@
     "suffix": true
   },
   {
-    "name": "品质之",
+    "name": "品质的",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -30484,7 +30484,7 @@
     "suffix": true
   },
   {
-    "name": "残废之",
+    "name": "伤残的",
     "spawnable": "1",
     "rare": "",
     "level": 71,
@@ -30510,7 +30510,7 @@
     "suffix": true
   },
   {
-    "name": "工艺之",
+    "name": "工匠的",
     "spawnable": "1",
     "rare": "1",
     "level": 26,
@@ -30535,7 +30535,7 @@
     "suffix": true
   },
   {
-    "name": "品质之",
+    "name": "品质的",
     "spawnable": "1",
     "rare": "",
     "level": 56,
@@ -30560,7 +30560,7 @@
     "suffix": true
   },
   {
-    "name": "工艺之",
+    "name": "工匠的",
     "spawnable": "1",
     "rare": "1",
     "level": 85,
@@ -30585,7 +30585,7 @@
     "suffix": true
   },
   {
-    "name": "枯萎之",
+    "name": "枯萎的",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -30611,7 +30611,7 @@
     "suffix": true
   },
   {
-    "name": "剧毒之",
+    "name": "毒素的",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -30637,7 +30637,7 @@
     "suffix": true
   },
   {
-    "name": "瘟疫之",
+    "name": "瘟疫的",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -30663,7 +30663,7 @@
     "suffix": true
   },
   {
-    "name": "炭疽之",
+    "name": "炭疽的",
     "spawnable": "1",
     "rare": "",
     "level": 44,
@@ -30689,7 +30689,7 @@
     "suffix": true
   },
   {
-    "name": "枯萎之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -30714,7 +30714,7 @@
     "suffix": true
   },
   {
-    "name": "剧毒之",
+    "name": "毒素的",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -30739,7 +30739,7 @@
     "suffix": true
   },
   {
-    "name": "瘟疫之",
+    "name": "瘟疫的",
     "spawnable": "1",
     "rare": "1",
     "level": 23,
@@ -30764,7 +30764,7 @@
     "suffix": true
   },
   {
-    "name": "炭疽之",
+    "name": "炭疽的",
     "spawnable": "1",
     "rare": "",
     "level": 33,
@@ -30789,7 +30789,7 @@
     "suffix": true
   },
   {
-    "name": "枯萎之",
+    "name": "嫉妒的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -30814,7 +30814,7 @@
     "suffix": true
   },
   {
-    "name": "剧毒之",
+    "name": "毒素的",
     "spawnable": "1",
     "rare": "1",
     "level": 6,
@@ -30839,7 +30839,7 @@
     "suffix": true
   },
   {
-    "name": "瘟疫之",
+    "name": "瘟疫的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -30864,7 +30864,7 @@
     "suffix": true
   },
   {
-    "name": "炭疽之",
+    "name": "炭疽的",
     "spawnable": "1",
     "rare": "",
     "level": 21,
@@ -30889,7 +30889,7 @@
     "suffix": true
   },
   {
-    "name": "霜之",
+    "name": "霜冻的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -30915,7 +30915,7 @@
     "suffix": true
   },
   {
-    "name": "冰柱之",
+    "name": "冰刺的",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -30941,7 +30941,7 @@
     "suffix": true
   },
   {
-    "name": "冰川之",
+    "name": "冰河的",
     "spawnable": "1",
     "rare": "1",
     "level": 33,
@@ -30967,7 +30967,7 @@
     "suffix": true
   },
   {
-    "name": "寒冬之",
+    "name": "严冬的",
     "spawnable": "1",
     "rare": "",
     "level": 46,
@@ -30993,7 +30993,7 @@
     "suffix": true
   },
   {
-    "name": "霜之",
+    "name": "霜冻的",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -31018,7 +31018,7 @@
     "suffix": true
   },
   {
-    "name": "冰柱之",
+    "name": "冰刺的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -31043,7 +31043,7 @@
     "suffix": true
   },
   {
-    "name": "冰川之",
+    "name": "冰河的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -31068,7 +31068,7 @@
     "suffix": true
   },
   {
-    "name": "寒冬之",
+    "name": "严冬的",
     "spawnable": "1",
     "rare": "",
     "level": 35,
@@ -31093,7 +31093,7 @@
     "suffix": true
   },
   {
-    "name": "霜之",
+    "name": "霜冻的",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -31118,7 +31118,7 @@
     "suffix": true
   },
   {
-    "name": "冰柱之",
+    "name": "冰刺的",
     "spawnable": "1",
     "rare": "1",
     "level": 8,
@@ -31143,7 +31143,7 @@
     "suffix": true
   },
   {
-    "name": "冰川之",
+    "name": "冰刺的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -31168,7 +31168,7 @@
     "suffix": true
   },
   {
-    "name": "寒冬之",
+    "name": "严冬的",
     "spawnable": "1",
     "rare": "",
     "level": 23,
@@ -31193,7 +31193,7 @@
     "suffix": true
   },
   {
-    "name": "烈焰之",
+    "name": "火焰的",
     "spawnable": "1",
     "rare": "1",
     "level": 11,
@@ -31219,7 +31219,7 @@
     "suffix": true
   },
   {
-    "name": "火焰之",
+    "name": "烈火的",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -31245,7 +31245,7 @@
     "suffix": true
   },
   {
-    "name": "燃烧之",
+    "name": "燃烧的",
     "spawnable": "1",
     "rare": "1",
     "level": 32,
@@ -31271,7 +31271,7 @@
     "suffix": true
   },
   {
-    "name": "焚化之",
+    "name": "炽炎的",
     "spawnable": "1",
     "rare": "",
     "level": 45,
@@ -31297,7 +31297,7 @@
     "suffix": true
   },
   {
-    "name": "烈焰之",
+    "name": "火焰的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -31322,7 +31322,7 @@
     "suffix": true
   },
   {
-    "name": "火焰之",
+    "name": "烈火的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -31347,7 +31347,7 @@
     "suffix": true
   },
   {
-    "name": "燃烧之",
+    "name": "燃烧的",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -31372,7 +31372,7 @@
     "suffix": true
   },
   {
-    "name": "焚化之",
+    "name": "炽炎的",
     "spawnable": "1",
     "rare": "",
     "level": 34,
@@ -31397,7 +31397,7 @@
     "suffix": true
   },
   {
-    "name": "烈焰之",
+    "name": "火焰的",
     "spawnable": "1",
     "rare": "1",
     "level": 3,
@@ -31422,7 +31422,7 @@
     "suffix": true
   },
   {
-    "name": "火焰之",
+    "name": "烈火的",
     "spawnable": "1",
     "rare": "1",
     "level": 8,
@@ -31447,7 +31447,7 @@
     "suffix": true
   },
   {
-    "name": "燃烧之",
+    "name": "烈火的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -31472,7 +31472,7 @@
     "suffix": true
   },
   {
-    "name": "焚化之",
+    "name": "炽炎的",
     "spawnable": "1",
     "rare": "",
     "level": 22,
@@ -31497,7 +31497,7 @@
     "suffix": true
   },
   {
-    "name": "冲击之",
+    "name": "冲击的",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -31549,7 +31549,7 @@
     "suffix": true
   },
   {
-    "name": "雷霆之",
+    "name": "雷电的",
     "spawnable": "1",
     "rare": "1",
     "level": 33,
@@ -31575,7 +31575,7 @@
     "suffix": true
   },
   {
-    "name": "风暴之",
+    "name": "冲击的",
     "spawnable": "1",
     "rare": "",
     "level": 45,
@@ -31601,7 +31601,7 @@
     "suffix": true
   },
   {
-    "name": "冲击之",
+    "name": "伤残的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -31626,7 +31626,7 @@
     "suffix": true
   },
   {
-    "name": "闪电的",
+    "name": "凝血的",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -31651,7 +31651,7 @@
     "suffix": true
   },
   {
-    "name": "雷霆之",
+    "name": "雷电的",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -31676,7 +31676,7 @@
     "suffix": true
   },
   {
-    "name": "风暴之",
+    "name": "暴风的",
     "spawnable": "1",
     "rare": "",
     "level": 34,
@@ -31701,7 +31701,7 @@
     "suffix": true
   },
   {
-    "name": "冲击之",
+    "name": "品质的",
     "spawnable": "1",
     "rare": "1",
     "level": 4,
@@ -31726,7 +31726,7 @@
     "suffix": true
   },
   {
-    "name": "闪电的",
+    "name": "伤残的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -31751,7 +31751,7 @@
     "suffix": true
   },
   {
-    "name": "雷霆之",
+    "name": "闪电的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -31776,7 +31776,7 @@
     "suffix": true
   },
   {
-    "name": "风暴之",
+    "name": "暴风的",
     "spawnable": "1",
     "rare": "",
     "level": 22,
@@ -31801,7 +31801,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -31827,7 +31827,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -31852,7 +31852,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -31877,7 +31877,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "敏捷的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -31902,7 +31902,7 @@
     "suffix": true
   },
   {
-    "name": "荆棘之",
+    "name": "迅速的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -31929,7 +31929,7 @@
     "suffix": true
   },
   {
-    "name": "霜之",
+    "name": "霜冻的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -31958,7 +31958,7 @@
     "suffix": true
   },
   {
-    "name": "烈焰之",
+    "name": "火焰的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -31987,7 +31987,7 @@
     "suffix": true
   },
   {
-    "name": "枯萎之",
+    "name": "嫉妒的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32017,7 +32017,7 @@
     "suffix": true
   },
   {
-    "name": "冲击之",
+    "name": "工匠的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32072,7 +32072,7 @@
     "suffix": true
   },
   {
-    "name": "能量之",
+    "name": "能源的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32103,7 +32103,7 @@
     "suffix": true
   },
   {
-    "name": "光明之",
+    "name": "光明的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32135,7 +32135,7 @@
     "suffix": true
   },
   {
-    "name": "水蛭之",
+    "name": "巨大的",
     "spawnable": "1",
     "rare": "1",
     "level": 24,
@@ -32160,7 +32160,7 @@
     "suffix": true
   },
   {
-    "name": "蝗虫之",
+    "name": "蝗虫的",
     "spawnable": "1",
     "rare": "1",
     "level": 57,
@@ -32185,7 +32185,7 @@
     "suffix": true
   },
   {
-    "name": "七鳃鳗之",
+    "name": "八目鳗的",
     "spawnable": "1",
     "rare": "1",
     "level": 75,
@@ -32210,7 +32210,7 @@
     "suffix": true
   },
   {
-    "name": "蝙蝠之",
+    "name": "蝙蝠的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -32260,7 +32260,7 @@
     "suffix": true
   },
   {
-    "name": "吸血鬼之",
+    "name": "吸血鬼的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -32329,7 +32329,7 @@
     "suffix": true
   },
   {
-    "name": "稳定之",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32373,7 +32373,7 @@
     "suffix": true
   },
   {
-    "name": "活力之",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32922,7 +32922,7 @@
     "suffix": true
   },
   {
-    "name": "保障之",
+    "name": "保护之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -32966,7 +32966,7 @@
     "suffix": true
   },
   {
-    "name": "安全之",
+    "name": "保护之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33049,7 +33049,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "迅捷之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33087,7 +33087,7 @@
     "suffix": true
   },
   {
-    "name": "速度之",
+    "name": "迅捷之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33170,7 +33170,7 @@
     "suffix": true
   },
   {
-    "name": "更新之",
+    "name": "再生之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33214,7 +33214,7 @@
     "suffix": true
   },
   {
-    "name": "重生之",
+    "name": "再生之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33303,7 +33303,7 @@
     "suffix": true
   },
   {
-    "name": "寄生之",
+    "name": "水蛭之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33347,7 +33347,7 @@
     "suffix": true
   },
   {
-    "name": "吸血鬼之",
+    "name": "水蛭之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33436,7 +33436,7 @@
     "suffix": true
   },
   {
-    "name": "坚韧之",
+    "name": "弹性之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33480,7 +33480,7 @@
     "suffix": true
   },
   {
-    "name": "刚毅之",
+    "name": "弹性之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33563,7 +33563,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "健康之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33601,7 +33601,7 @@
     "suffix": true
   },
   {
-    "name": "力气之",
+    "name": "健康之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33678,7 +33678,7 @@
     "suffix": true
   },
   {
-    "name": "不平之",
+    "name": "失衡之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33716,7 +33716,7 @@
     "suffix": true
   },
   {
-    "name": "参差不齐之",
+    "name": "失衡之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33799,7 +33799,7 @@
     "suffix": true
   },
   {
-    "name": "御魔之",
+    "name": "结界之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33843,7 +33843,7 @@
     "suffix": true
   },
   {
-    "name": "保存之",
+    "name": "结界之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -33948,7 +33948,7 @@
     "suffix": true
   },
   {
-    "name": "厌恶之",
+    "name": "阻碍之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -34010,7 +34010,7 @@
     "suffix": true
   },
   {
-    "name": "渗透之",
+    "name": "阻碍之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -34117,7 +34117,7 @@
     "suffix": true
   },
   {
-    "name": "粉碎之",
+    "name": "裂痕之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -34161,7 +34161,7 @@
     "suffix": true
   },
   {
-    "name": "瓦解之",
+    "name": "裂痕之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -34206,7 +34206,7 @@
     "suffix": true
   },
   {
-    "name": "失误之",
+    "name": "探索之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -34250,7 +34250,7 @@
     "suffix": true
   },
   {
-    "name": "笨拙之",
+    "name": "探索之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -34294,7 +34294,7 @@
     "suffix": true
   },
   {
-    "name": "失误之",
+    "name": "探索之",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -34391,7 +34391,7 @@
     "suffix": true
   },
   {
-    "name": "保护之",
+    "name": "防御之",
     "spawnable": "1",
     "rare": "1",
     "level": 65,
@@ -34593,7 +34593,7 @@
     "suffix": true
   },
   {
-    "name": "流血之",
+    "name": "野性之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -34629,7 +34629,7 @@
     "suffix": true
   },
   {
-    "name": "吸血之",
+    "name": "灾难之",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -34665,7 +34665,7 @@
     "suffix": true
   },
   {
-    "name": "血腥之",
+    "name": "浩劫之",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -34701,7 +34701,7 @@
     "suffix": true
   },
   {
-    "name": "嗜杀之",
+    "name": "毁灭之",
     "spawnable": "1",
     "rare": "1",
     "level": 48,
@@ -34737,7 +34737,7 @@
     "suffix": true
   },
   {
-    "name": "血之",
+    "name": "荒芜之",
     "spawnable": "1",
     "rare": "1",
     "level": 58,
@@ -34773,7 +34773,7 @@
     "suffix": true
   },
   {
-    "name": "残缺之",
+    "name": "野性之",
     "spawnable": "1",
     "rare": "1",
     "level": 18,
@@ -34803,7 +34803,7 @@
     "suffix": true
   },
   {
-    "name": "粉碎之",
+    "name": "灾难之",
     "spawnable": "1",
     "rare": "1",
     "level": 28,
@@ -34833,7 +34833,7 @@
     "suffix": true
   },
   {
-    "name": "破裂之",
+    "name": "浩劫之",
     "spawnable": "1",
     "rare": "1",
     "level": 38,
@@ -34863,7 +34863,7 @@
     "suffix": true
   },
   {
-    "name": "压碎之",
+    "name": "毁灭之",
     "spawnable": "1",
     "rare": "1",
     "level": 48,
@@ -34893,7 +34893,7 @@
     "suffix": true
   },
   {
-    "name": "粉碎之",
+    "name": "荒芜之",
     "spawnable": "1",
     "rare": "1",
     "level": 58,
@@ -34923,7 +34923,7 @@
     "suffix": true
   },
   {
-    "name": "学徒之",
+    "name": "学徒的",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -34951,7 +34951,7 @@
     "suffix": true
   },
   {
-    "name": "学徒之",
+    "name": "学徒的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -34977,7 +34977,7 @@
     "suffix": true
   },
   {
-    "name": "贤者之",
+    "name": "学徒的",
     "spawnable": "1",
     "rare": "1",
     "level": 25,
@@ -35007,7 +35007,7 @@
     "suffix": true
   },
   {
-    "name": "乌贼之",
+    "name": "乌贼的",
     "spawnable": "1",
     "rare": "1",
     "level": 40,
@@ -35036,7 +35036,7 @@
     "suffix": true
   },
   {
-    "name": "鲸鱼之",
+    "name": "巨鲸的",
     "spawnable": "1",
     "rare": "1",
     "level": 50,
@@ -35065,7 +35065,7 @@
     "suffix": true
   },
   {
-    "name": "海妖之",
+    "name": "半人马的",
     "spawnable": "1",
     "rare": "1",
     "level": 20,
@@ -35169,7 +35169,7 @@
     "suffix": true
   },
   {
-    "name": "晨曦的",
+    "name": "黎明之",
     "spawnable": "1",
     "rare": "1",
     "level": 27,
@@ -35209,7 +35209,7 @@
     "suffix": true
   },
   {
-    "name": "步伐之",
+    "name": "匆忙的",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -35235,7 +35235,7 @@
     "suffix": true
   },
   {
-    "name": "急速之",
+    "name": "速度的",
     "spawnable": "1",
     "rare": "1",
     "level": 22,
@@ -35286,7 +35286,7 @@
     "suffix": true
   },
   {
-    "name": "大屠杀之",
+    "name": "伤残的",
     "spawnable": "1",
     "rare": "1",
     "level": 71,
@@ -35314,7 +35314,7 @@
     "suffix": true
   },
   {
-    "name": "巨熊之",
+    "name": "法术的",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -35339,7 +35339,7 @@
     "suffix": true
   },
   {
-    "name": "七鳃鳗之",
+    "name": "八目鳗的",
     "spawnable": "1",
     "rare": "1",
     "level": 55,
@@ -35366,7 +35366,7 @@
     "suffix": true
   },
   {
-    "name": "吸血鬼之",
+    "name": "吸血鬼的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -35505,7 +35505,7 @@
     "suffix": true
   },
   {
-    "name": "光辉之",
+    "name": "光彩的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -35543,7 +35543,7 @@
     "suffix": true
   },
   {
-    "name": "狡狐之",
+    "name": "太阳的",
     "spawnable": "1",
     "rare": "1",
     "level": 17,
@@ -35568,7 +35568,7 @@
     "suffix": true
   },
   {
-    "name": "力量之",
+    "name": "武力的",
     "spawnable": "1",
     "rare": "1",
     "level": 10,
@@ -35595,7 +35595,7 @@
     "suffix": true
   },
   {
-    "name": "恶狼之",
+    "name": "光彩的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -35621,7 +35621,7 @@
     "suffix": true
   },
   {
-    "name": "恶狼之",
+    "name": "狂狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -35646,7 +35646,7 @@
     "suffix": true
   },
   {
-    "name": "晨曦的",
+    "name": "黎明之",
     "spawnable": "1",
     "rare": "1",
     "level": 34,
@@ -35687,7 +35687,7 @@
     "suffix": true
   },
   {
-    "name": "火球的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -35762,7 +35762,7 @@
     "suffix": true
   },
   {
-    "name": "火球的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -35849,7 +35849,7 @@
     "suffix": true
   },
   {
-    "name": "闪电的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -35874,7 +35874,7 @@
     "suffix": true
   },
   {
-    "name": "闪电的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -35899,7 +35899,7 @@
     "suffix": true
   },
   {
-    "name": "闪电的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -35924,7 +35924,7 @@
     "suffix": true
   },
   {
-    "name": "闪电的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -35953,7 +35953,7 @@
     "suffix": true
   },
   {
-    "name": "闪电的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -35982,7 +35982,7 @@
     "suffix": true
   },
   {
-    "name": "闪电的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36011,7 +36011,7 @@
     "suffix": true
   },
   {
-    "name": "新星的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36036,7 +36036,7 @@
     "suffix": true
   },
   {
-    "name": "新星的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36061,7 +36061,7 @@
     "suffix": true
   },
   {
-    "name": "新星的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36086,7 +36086,7 @@
     "suffix": true
   },
   {
-    "name": "新星的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36115,7 +36115,7 @@
     "suffix": true
   },
   {
-    "name": "新星的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36144,7 +36144,7 @@
     "suffix": true
   },
   {
-    "name": "新星的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36173,7 +36173,7 @@
     "suffix": true
   },
   {
-    "name": "闪电链的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36228,7 +36228,7 @@
     "suffix": true
   },
   {
-    "name": "闪电链的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36253,7 +36253,7 @@
     "suffix": true
   },
   {
-    "name": "闪电链的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36278,7 +36278,7 @@
     "suffix": true
   },
   {
-    "name": "闪电链的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36307,7 +36307,7 @@
     "suffix": true
   },
   {
-    "name": "闪电链的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36336,7 +36336,7 @@
     "suffix": true
   },
   {
-    "name": "闪电链的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36365,7 +36365,7 @@
     "suffix": true
   },
   {
-    "name": "充能的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36390,7 +36390,7 @@
     "suffix": true
   },
   {
-    "name": "充能的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36415,7 +36415,7 @@
     "suffix": true
   },
   {
-    "name": "充能的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36440,7 +36440,7 @@
     "suffix": true
   },
   {
-    "name": "充能的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36469,7 +36469,7 @@
     "suffix": true
   },
   {
-    "name": "充能的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36498,7 +36498,7 @@
     "suffix": true
   },
   {
-    "name": "充能的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36527,7 +36527,7 @@
     "suffix": true
   },
   {
-    "name": "冰霜新星的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36552,7 +36552,7 @@
     "suffix": true
   },
   {
-    "name": "冰霜新星的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36577,7 +36577,7 @@
     "suffix": true
   },
   {
-    "name": "冰霜新星的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36602,7 +36602,7 @@
     "suffix": true
   },
   {
-    "name": "冰霜新星的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36631,7 +36631,7 @@
     "suffix": true
   },
   {
-    "name": "冰霜新星的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36660,7 +36660,7 @@
     "suffix": true
   },
   {
-    "name": "冰霜新星的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36689,7 +36689,7 @@
     "suffix": true
   },
   {
-    "name": "连串冰枪的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36714,7 +36714,7 @@
     "suffix": true
   },
   {
-    "name": "连串冰枪的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36739,7 +36739,7 @@
     "suffix": true
   },
   {
-    "name": "连串冰枪的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36764,7 +36764,7 @@
     "suffix": true
   },
   {
-    "name": "连串冰枪的",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36793,7 +36793,7 @@
     "suffix": true
   },
   {
-    "name": "连串冰枪的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 56,
@@ -36822,7 +36822,7 @@
     "suffix": true
   },
   {
-    "name": "连串冰枪的",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36851,7 +36851,7 @@
     "suffix": true
   },
   {
-    "name": "伤害增幅之",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36880,7 +36880,7 @@
     "suffix": true
   },
   {
-    "name": "伤害增幅之",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -36909,7 +36909,7 @@
     "suffix": true
   },
   {
-    "name": "剑之",
+    "name": "刀剑的",
     "spawnable": "1",
     "rare": "1",
     "level": 67,
@@ -36936,7 +36936,7 @@
     "suffix": true
   },
   {
-    "name": "伤害增幅之",
+    "name": "冰箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -36961,7 +36961,7 @@
     "suffix": true
   },
   {
-    "name": "伤害增幅之",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -36986,7 +36986,7 @@
     "suffix": true
   },
   {
-    "name": "伤害增幅之",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -37011,7 +37011,7 @@
     "suffix": true
   },
   {
-    "name": "降低抗性之",
+    "name": "冰箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -37040,7 +37040,7 @@
     "suffix": true
   },
   {
-    "name": "降低抗性之",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -37069,7 +37069,7 @@
     "suffix": true
   },
   {
-    "name": "降低抗性之",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -37098,7 +37098,7 @@
     "suffix": true
   },
   {
-    "name": "降低抗性之",
+    "name": "冰箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 15,
@@ -37123,7 +37123,7 @@
     "suffix": true
   },
   {
-    "name": "降低抗性之",
+    "name": "急冻箭的",
     "spawnable": "1",
     "rare": "1",
     "level": 36,
@@ -37148,7 +37148,7 @@
     "suffix": true
   },
   {
-    "name": "降低抗性之",
+    "name": "火球的",
     "spawnable": "1",
     "rare": "1",
     "level": 76,
@@ -37221,7 +37221,7 @@
     "suffix": true
   },
   {
-    "name": "灰烬的",
+    "name": "余烬之",
     "spawnable": "1",
     "rare": "1",
     "level": 70,
@@ -37281,7 +37281,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "豺狼的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -37304,7 +37304,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -37327,7 +37327,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "生命的",
     "spawnable": "1",
     "rare": "1",
     "level": 9,
@@ -37350,7 +37350,7 @@
     "suffix": true
   },
   {
-    "name": "平衡之",
+    "name": "平衡的",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -37417,7 +37417,7 @@
     "suffix": true
   },
   {
-    "name": "稳定之",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -37461,7 +37461,7 @@
     "suffix": true
   },
   {
-    "name": "活力之",
+    "name": "坚固之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38010,7 +38010,7 @@
     "suffix": true
   },
   {
-    "name": "保障之",
+    "name": "保护之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38054,7 +38054,7 @@
     "suffix": true
   },
   {
-    "name": "安全之",
+    "name": "保护之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38137,7 +38137,7 @@
     "suffix": true
   },
   {
-    "name": "敏捷之",
+    "name": "迅捷之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38175,7 +38175,7 @@
     "suffix": true
   },
   {
-    "name": "速度之",
+    "name": "迅捷之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38258,7 +38258,7 @@
     "suffix": true
   },
   {
-    "name": "更新之",
+    "name": "再生之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38302,7 +38302,7 @@
     "suffix": true
   },
   {
-    "name": "重生之",
+    "name": "再生之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38391,7 +38391,7 @@
     "suffix": true
   },
   {
-    "name": "寄生之",
+    "name": "水蛭之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38435,7 +38435,7 @@
     "suffix": true
   },
   {
-    "name": "吸血鬼之",
+    "name": "水蛭之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38524,7 +38524,7 @@
     "suffix": true
   },
   {
-    "name": "坚韧之",
+    "name": "弹性之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38568,7 +38568,7 @@
     "suffix": true
   },
   {
-    "name": "刚毅之",
+    "name": "弹性之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38651,7 +38651,7 @@
     "suffix": true
   },
   {
-    "name": "生命之",
+    "name": "健康之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38689,7 +38689,7 @@
     "suffix": true
   },
   {
-    "name": "力气之",
+    "name": "健康之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38766,7 +38766,7 @@
     "suffix": true
   },
   {
-    "name": "不平之",
+    "name": "失衡之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38804,7 +38804,7 @@
     "suffix": true
   },
   {
-    "name": "参差不齐之",
+    "name": "失衡之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38887,7 +38887,7 @@
     "suffix": true
   },
   {
-    "name": "御魔之",
+    "name": "结界之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -38931,7 +38931,7 @@
     "suffix": true
   },
   {
-    "name": "保存之",
+    "name": "结界之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39036,7 +39036,7 @@
     "suffix": true
   },
   {
-    "name": "厌恶之",
+    "name": "阻碍之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39098,7 +39098,7 @@
     "suffix": true
   },
   {
-    "name": "渗透之",
+    "name": "阻碍之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39205,7 +39205,7 @@
     "suffix": true
   },
   {
-    "name": "粉碎之",
+    "name": "裂痕之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39249,7 +39249,7 @@
     "suffix": true
   },
   {
-    "name": "瓦解之",
+    "name": "裂痕之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39294,7 +39294,7 @@
     "suffix": true
   },
   {
-    "name": "失误之",
+    "name": "探索之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39338,7 +39338,7 @@
     "suffix": true
   },
   {
-    "name": "笨拙之",
+    "name": "探索之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39382,7 +39382,7 @@
     "suffix": true
   },
   {
-    "name": "失误之",
+    "name": "探索之",
     "spawnable": "1",
     "rare": "",
     "level": 1,
@@ -39569,7 +39569,7 @@
     "suffix": true
   },
   {
-    "name": "永生之",
+    "name": "永生的",
     "spawnable": "1",
     "rare": "1",
     "level": 45,
@@ -39646,7 +39646,7 @@
     "suffix": true
   },
   {
-    "name": "阿特拉斯之",
+    "name": "擎天神的",
     "spawnable": "1",
     "rare": "1",
     "level": 71,
@@ -39671,7 +39671,7 @@
     "suffix": true
   },
   {
-    "name": "能量之",
+    "name": "能源的",
     "spawnable": "1",
     "rare": "1",
     "level": 1,
@@ -39696,7 +39696,7 @@
     "suffix": true
   },
   {
-    "name": "心灵之",
+    "name": "思想的",
     "spawnable": "1",
     "rare": "1",
     "level": 7,
@@ -39721,7 +39721,7 @@
     "suffix": true
   },
   {
-    "name": "光辉之",
+    "name": "才华的",
     "spawnable": "1",
     "rare": "1",
     "level": 13,
@@ -39747,7 +39747,7 @@
     "suffix": true
   },
   {
-    "name": "巫术之",
+    "name": "幻术的",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -39773,7 +39773,7 @@
     "suffix": true
   },
   {
-    "name": "法术之",
+    "name": "法术的",
     "spawnable": "1",
     "rare": "1",
     "level": 31,
@@ -39798,7 +39798,7 @@
     "suffix": true
   },
   {
-    "name": "启迪之",
+    "name": "启发的",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -39823,7 +39823,7 @@
     "suffix": true
   },
   {
-    "name": "平衡之",
+    "name": "平衡的",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -39924,7 +39924,7 @@
     "suffix": true
   },
   {
-    "name": "冰风之",
+    "name": "过载之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -39949,7 +39949,7 @@
     "suffix": true
   },
   {
-    "name": "深冻之",
+    "name": "导电之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -39974,7 +39974,7 @@
     "suffix": true
   },
   {
-    "name": "霜冻之",
+    "name": "涡流之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -39999,7 +39999,7 @@
     "suffix": true
   },
   {
-    "name": "灰烬的",
+    "name": "过载之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -40025,7 +40025,7 @@
     "suffix": true
   },
   {
-    "name": "灼热之",
+    "name": "导电之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -40051,7 +40051,7 @@
     "suffix": true
   },
   {
-    "name": "狱火之",
+    "name": "涡流之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40152,7 +40152,7 @@
     "suffix": true
   },
   {
-    "name": "冰风之",
+    "name": "过载之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -40177,7 +40177,7 @@
     "suffix": true
   },
   {
-    "name": "深冻之",
+    "name": "导电之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -40202,7 +40202,7 @@
     "suffix": true
   },
   {
-    "name": "霜冻之",
+    "name": "涡流之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40227,7 +40227,7 @@
     "suffix": true
   },
   {
-    "name": "灰烬的",
+    "name": "过载之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -40252,7 +40252,7 @@
     "suffix": true
   },
   {
-    "name": "灼热之",
+    "name": "导电之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -40277,7 +40277,7 @@
     "suffix": true
   },
   {
-    "name": "狱火之",
+    "name": "涡流之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40302,7 +40302,7 @@
     "suffix": true
   },
   {
-    "name": "疾病之",
+    "name": "过载之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -40327,7 +40327,7 @@
     "suffix": true
   },
   {
-    "name": "传染之",
+    "name": "导电之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -40352,7 +40352,7 @@
     "suffix": true
   },
   {
-    "name": "瘟疫之",
+    "name": "涡流之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40377,7 +40377,7 @@
     "suffix": true
   },
   {
-    "name": "神谕之",
+    "name": "过载之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -40402,7 +40402,7 @@
     "suffix": true
   },
   {
-    "name": "术士之",
+    "name": "导电之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -40427,7 +40427,7 @@
     "suffix": true
   },
   {
-    "name": "怪异之",
+    "name": "涡流之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40452,7 +40452,7 @@
     "suffix": true
   },
   {
-    "name": "学徒之",
+    "name": "学徒的",
     "spawnable": "1",
     "rare": "1",
     "level": 5,
@@ -40479,7 +40479,7 @@
     "suffix": true
   },
   {
-    "name": "步伐之",
+    "name": "匆忙的",
     "spawnable": "1",
     "rare": "1",
     "level": 12,
@@ -40504,7 +40504,7 @@
     "suffix": true
   },
   {
-    "name": "急速之",
+    "name": "速度的",
     "spawnable": "1",
     "rare": "1",
     "level": 22,
@@ -40529,7 +40529,7 @@
     "suffix": true
   },
   {
-    "name": "速度之",
+    "name": "速度的",
     "spawnable": "1",
     "rare": "1",
     "level": 37,
@@ -40707,7 +40707,7 @@
     "suffix": true
   },
   {
-    "name": "再生之",
+    "name": "洞察之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -40733,7 +40733,7 @@
     "suffix": true
   },
   {
-    "name": "再生之",
+    "name": "清晰之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -40759,7 +40759,7 @@
     "suffix": true
   },
   {
-    "name": "再生之",
+    "name": "平静之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40785,7 +40785,7 @@
     "suffix": true
   },
   {
-    "name": "再生之",
+    "name": "洞察之",
     "spawnable": "1",
     "rare": "1",
     "level": 14,
@@ -40810,7 +40810,7 @@
     "suffix": true
   },
   {
-    "name": "再生之",
+    "name": "清晰之",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -40835,7 +40835,7 @@
     "suffix": true
   },
   {
-    "name": "再生之",
+    "name": "平静之",
     "spawnable": "1",
     "rare": "1",
     "level": 52,
@@ -40910,7 +40910,7 @@
     "suffix": true
   },
   {
-    "name": "冲击之",
+    "name": "控制之",
     "spawnable": "1",
     "rare": "1",
     "level": 21,
@@ -40935,7 +40935,7 @@
     "suffix": true
   },
   {
-    "name": "规避之",
+    "name": "有序之",
     "spawnable": "1",
     "rare": "1",
     "level": 41,
@@ -40960,7 +40960,7 @@
     "suffix": true
   },
   {
-    "name": "保护之",
+    "name": "防御之",
     "spawnable": "1",
     "rare": "1",
     "level": 65,
@@ -40985,7 +40985,7 @@
     "suffix": true
   },
   {
-    "name": "恶名之",
+    "name": "恶名",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41010,7 +41010,7 @@
     "suffix": true
   },
   {
-    "name": "回火之",
+    "name": "淬炼",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41035,7 +41035,7 @@
     "suffix": true
   },
   {
-    "name": "剃刀锋利之",
+    "name": "锋锐",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41060,7 +41060,7 @@
     "suffix": true
   },
   {
-    "name": "风之",
+    "name": "疾风",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41085,7 +41085,7 @@
     "suffix": true
   },
   {
-    "name": "圣战之",
+    "name": "圣战",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41110,7 +41110,7 @@
     "suffix": true
   },
   {
-    "name": "凤凰之",
+    "name": "凤凰的",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41135,7 +41135,7 @@
     "suffix": true
   },
   {
-    "name": "天才之",
+    "name": "天才",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41160,7 +41160,7 @@
     "suffix": true
   },
   {
-    "name": "鼎盛之",
+    "name": "至高",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41185,7 +41185,7 @@
     "suffix": true
   },
   {
-    "name": "泰坦之",
+    "name": "泰坦的",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41210,7 +41210,7 @@
     "suffix": true
   },
   {
-    "name": "结晶之",
+    "name": "晶化",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41235,7 +41235,7 @@
     "suffix": true
   },
   {
-    "name": "碳化之",
+    "name": "碳化",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41284,7 +41284,7 @@
     "suffix": true
   },
   {
-    "name": "电击之",
+    "name": "电刑",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41309,7 +41309,7 @@
     "suffix": true
   },
   {
-    "name": "精巧之",
+    "name": "精巧",
     "spawnable": "1",
     "rare": "1",
     "level": 90,
@@ -41334,7 +41334,7 @@
     "suffix": true
   },
   {
-    "name": "涅槃之",
+    "name": "涅槃的",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41359,7 +41359,7 @@
     "suffix": true
   },
   {
-    "name": "钢青之",
+    "name": "钢青",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41384,7 +41384,7 @@
     "suffix": true
   },
   {
-    "name": "刺穿之",
+    "name": "穿刺",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41409,7 +41409,7 @@
     "suffix": true
   },
   {
-    "name": "风之",
+    "name": "泰坦的",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41434,7 +41434,7 @@
     "suffix": true
   },
   {
-    "name": "圣战之",
+    "name": "圣战",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41459,7 +41459,7 @@
     "suffix": true
   },
   {
-    "name": "鼎盛之",
+    "name": "至高",
     "spawnable": "1",
     "rare": "1",
     "level": 92,
@@ -41484,7 +41484,7 @@
     "suffix": true
   },
   {
-    "name": "泰坦之",
+    "name": "泰坦的",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41509,7 +41509,7 @@
     "suffix": true
   },
   {
-    "name": "猎豹之",
+    "name": "猎豹",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41534,7 +41534,7 @@
     "suffix": true
   },
   {
-    "name": "回火之",
+    "name": "淬炼",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41559,7 +41559,7 @@
     "suffix": true
   },
   {
-    "name": "结晶之",
+    "name": "晶化",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41584,7 +41584,7 @@
     "suffix": true
   },
   {
-    "name": "碳化之",
+    "name": "碳化",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41609,7 +41609,7 @@
     "suffix": true
   },
   {
-    "name": "电击之",
+    "name": "电刑",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41634,7 +41634,7 @@
     "suffix": true
   },
   {
-    "name": "天才之",
+    "name": "泰坦的",
     "spawnable": "1",
     "rare": "1",
     "level": 87,
@@ -41659,7 +41659,7 @@
     "suffix": true
   },
   {
-    "name": "频发之",
+    "name": "偶发",
     "spawnable": "1",
     "rare": "1",
     "level": 30,
@@ -41690,7 +41690,7 @@
     "suffix": true
   },
   {
-    "name": "发生之",
+    "name": "频发",
     "spawnable": "1",
     "rare": "1",
     "level": 70,
@@ -41715,7 +41715,7 @@
     "suffix": true
   },
   {
-    "name": "盛行之",
+    "name": "盛行",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41740,7 +41740,7 @@
     "suffix": true
   },
   {
-    "name": "玄秘之",
+    "name": "秘术",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41765,7 +41765,7 @@
     "suffix": true
   },
   {
-    "name": "影响力之",
+    "name": "影响",
     "spawnable": "1",
     "rare": "1",
     "level": 89,
@@ -41790,7 +41790,7 @@
     "suffix": true
   },
   {
-    "name": "灵巧之",
+    "name": "学徒的",
     "spawnable": "1",
     "rare": "1",
     "level": 17,

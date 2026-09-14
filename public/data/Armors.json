@@ -39,7 +39,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "毕金的软帽",
+        "uniqueName": "毕格因的软帽",
         "uniqueCode": "cap"
       }
     ]
@@ -84,7 +84,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "塔恩头盔",
+        "uniqueName": "塔因头盔",
         "uniqueCode": "skp"
       }
     ]
@@ -129,7 +129,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "荣耀之帽",
+        "uniqueName": "光荣布帽",
         "uniqueCode": "hlm"
       }
     ]
@@ -174,7 +174,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "黄昏之深",
+        "uniqueName": "黄昏深处",
         "uniqueCode": "fhl"
       }
     ]
@@ -219,7 +219,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "嚎叫獠牙",
+        "uniqueName": "怒号长牙",
         "uniqueCode": "ghm"
       }
     ]
@@ -309,7 +309,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "恐怖之脸",
+        "uniqueName": "恐惧之脸",
         "uniqueCode": "msk"
       }
     ]
@@ -354,7 +354,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "灰色形态",
+        "uniqueName": "薄暮外观",
         "uniqueCode": "qui"
       }
     ]
@@ -399,7 +399,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "蝙蝠之形",
+        "uniqueName": "眨眼蝙蝠的外观",
         "uniqueCode": "lea"
       }
     ]
@@ -489,7 +489,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "抽搐之衣",
+        "uniqueName": "抽动的挣扎",
         "uniqueCode": "stu"
       }
     ]
@@ -534,7 +534,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "暗光",
+        "uniqueName": "扩散黑暗",
         "uniqueCode": "rng"
       }
     ]
@@ -669,7 +669,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "毒液守卫",
+        "uniqueName": "毒液牢房",
         "uniqueCode": "brs"
       }
     ]
@@ -714,7 +714,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "冰眨",
+        "uniqueName": "冰雪眨眼",
         "uniqueCode": "spl"
       }
     ]
@@ -740,7 +740,7 @@
     "displayName": "铠甲",
     "normalItemDisplayName": "铠甲",
     "exceptionalItemDisplayName": "圣堂武士外袍",
-    "eliteItemDisplayName": "地狱锻铸板甲",
+    "eliteItemDisplayName": "地狱锻甲",
     "itemTier": "普通",
     "itemType": {
       "displayName": "",
@@ -804,7 +804,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "岩石之衣",
+        "uniqueName": "石之毛",
         "uniqueCode": "fld"
       }
     ]
@@ -849,7 +849,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "响骨之甲",
+        "uniqueName": "作响之笼",
         "uniqueCode": "gth"
       }
     ]
@@ -894,7 +894,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "金皮",
+        "uniqueName": "黄金之皮",
         "uniqueCode": "ful"
       }
     ]
@@ -939,7 +939,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "胜利者之绸",
+        "uniqueName": "胜利者之丝绸",
         "uniqueCode": "aar"
       }
     ]
@@ -984,7 +984,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "天堂之衣",
+        "uniqueName": "天堂装束",
         "uniqueCode": "ltp"
       }
     ]
@@ -1029,7 +1029,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "月牙盾",
+        "uniqueName": "新月小盾",
         "uniqueCode": "buc"
       }
     ]
@@ -1074,7 +1074,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "幽影之盘",
+        "uniqueName": "阴影圆盘",
         "uniqueCode": "sml"
       }
     ]
@@ -1119,7 +1119,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "风暴行会",
+        "uniqueName": "暴风公会",
         "uniqueCode": "lrg"
       }
     ]
@@ -1164,7 +1164,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "钢铁撞击",
+        "uniqueName": "作响的金属",
         "uniqueCode": "kit"
       }
     ]
@@ -1190,7 +1190,7 @@
     "displayName": "塔盾",
     "normalItemDisplayName": "塔盾",
     "exceptionalItemDisplayName": "大盾",
-    "eliteItemDisplayName": "庇护",
+    "eliteItemDisplayName": "圣盾",
     "itemTier": "普通",
     "itemType": {
       "displayName": "",
@@ -1209,7 +1209,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "布维利特要塞",
+        "uniqueName": "贝弗提的纪念",
         "uniqueCode": "tow"
       }
     ]
@@ -1235,7 +1235,7 @@
     "displayName": "哥德盾牌",
     "normalItemDisplayName": "哥德盾牌",
     "exceptionalItemDisplayName": "古代之盾",
-    "eliteItemDisplayName": "囚房",
+    "eliteItemDisplayName": "保护盾牌",
     "itemTier": "普通",
     "itemType": {
       "displayName": "",
@@ -1254,7 +1254,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "守卫之盾",
+        "uniqueName": "囚房",
         "uniqueCode": "gts"
       }
     ]
@@ -1276,9 +1276,9 @@
     "exceptionalTierCode": "xlg",
     "eliteTierCode": "ulg",
     "maxSockets": "0",
-    "name": "手套",
-    "displayName": "手套",
-    "normalItemDisplayName": "手套",
+    "name": "皮手套",
+    "displayName": "皮手套",
+    "normalItemDisplayName": "皮手套",
     "exceptionalItemDisplayName": "魔皮手套",
     "eliteItemDisplayName": "荆棘连指手套",
     "itemTier": "普通",
@@ -1299,7 +1299,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "布洛克之手",
+        "uniqueName": "柏克之手",
         "uniqueCode": "lgl"
       }
     ]
@@ -1366,9 +1366,9 @@
     "exceptionalTierCode": "xmg",
     "eliteTierCode": "umg",
     "maxSockets": "0",
-    "name": "护腕",
-    "displayName": "护腕",
-    "normalItemDisplayName": "护腕",
+    "name": "锁链手套",
+    "displayName": "锁链手套",
+    "normalItemDisplayName": "锁链手套",
     "exceptionalItemDisplayName": "重型手镯",
     "eliteItemDisplayName": "吸血鬼手套",
     "itemTier": "普通",
@@ -1389,7 +1389,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "幸运守护",
+        "uniqueName": "运气守护",
         "uniqueCode": "mgl"
       }
     ]
@@ -1540,7 +1540,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "火爆",
+        "uniqueName": "热靴刺",
         "uniqueCode": "lbt"
       },
       {
@@ -1589,7 +1589,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "血腥之脚",
+        "uniqueName": "血脚",
         "uniqueCode": "vbt"
       }
     ]
@@ -1634,7 +1634,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "冥土之履",
+        "uniqueName": "凯松的征服",
         "uniqueCode": "mbt"
       }
     ]
@@ -1656,9 +1656,9 @@
     "exceptionalTierCode": "xtb",
     "eliteTierCode": "utb",
     "maxSockets": "1",
-    "name": "轻型板甲靴",
-    "displayName": "轻型板甲靴",
-    "normalItemDisplayName": "轻型板甲靴",
+    "name": "轻型金属靴",
+    "displayName": "轻型金属靴",
+    "normalItemDisplayName": "轻型金属靴",
     "exceptionalItemDisplayName": "战场之靴",
     "eliteItemDisplayName": "镜化靴",
     "itemTier": "普通",
@@ -1679,7 +1679,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "哥布林脚趾",
+        "uniqueName": "小妖精脚趾",
         "uniqueCode": "tbt"
       }
     ]
@@ -1701,9 +1701,9 @@
     "exceptionalTierCode": "xhb",
     "eliteTierCode": "uhb",
     "maxSockets": "1",
-    "name": "板甲靴",
-    "displayName": "板甲靴",
-    "normalItemDisplayName": "板甲靴",
+    "name": "护胫",
+    "displayName": "护胫",
+    "normalItemDisplayName": "护胫",
     "exceptionalItemDisplayName": "巨战之靴",
     "eliteItemDisplayName": "极速靴",
     "itemTier": "普通",
@@ -1724,7 +1724,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "撕裂护腿",
+        "uniqueName": "泪之臀",
         "uniqueCode": "hbt"
       }
     ]
@@ -1769,7 +1769,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "勒尼莫",
+        "uniqueName": "雷尼摩",
         "uniqueCode": "lbl"
       }
     ]
@@ -1814,7 +1814,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "蛇绳",
+        "uniqueName": "蛇索",
         "uniqueCode": "vbl"
       }
     ]
@@ -1904,7 +1904,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "金裹",
+        "uniqueName": "金色包袱",
         "uniqueCode": "tbl"
       }
     ]
@@ -1926,9 +1926,9 @@
     "exceptionalTierCode": "zhb",
     "eliteTierCode": "uhc",
     "maxSockets": "0",
-    "name": "束带",
-    "displayName": "束带",
-    "normalItemDisplayName": "束带",
+    "name": "金属扣带",
+    "displayName": "金属扣带",
+    "normalItemDisplayName": "金属扣带",
     "exceptionalItemDisplayName": "巨战腰带",
     "eliteItemDisplayName": "巨神腰带",
     "itemTier": "普通",
@@ -1949,7 +1949,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "刀扣",
+        "uniqueName": "锋利扣带",
         "uniqueCode": "hbl"
       }
     ]
@@ -1994,7 +1994,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "虫颅",
+        "uniqueName": "蠕虫骷髅",
         "uniqueCode": "bhm"
       }
     ]
@@ -2049,7 +2049,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "无目之墙",
+        "uniqueName": "无眼之墙",
         "uniqueCode": "bsh"
       }
     ]
@@ -2104,7 +2104,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "剑背",
+        "uniqueName": "剑背之架",
         "uniqueCode": "spk"
       }
     ]
@@ -2149,7 +2149,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "农民之冠",
+        "uniqueName": "粗野之冠",
         "uniqueCode": "xap"
       }
     ]
@@ -2194,7 +2194,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "止石之盔",
+        "uniqueName": "岩石制动器",
         "uniqueCode": "xkp"
       }
     ]
@@ -2239,7 +2239,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "窃颅盔",
+        "uniqueName": "偷取骷髅",
         "uniqueCode": "xlm"
       }
     ]
@@ -2284,7 +2284,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "暗视头盔",
+        "uniqueName": "暗视之盔",
         "uniqueCode": "xhl"
       }
     ]
@@ -2329,7 +2329,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "女武神之翼",
+        "uniqueName": "女神之翼",
         "uniqueCode": "xhm"
       }
     ]
@@ -2374,7 +2374,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "盗贼之冠",
+        "uniqueName": "盗贼皇冠",
         "uniqueCode": "xrn"
       }
     ]
@@ -2419,7 +2419,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "黑角之脸",
+        "uniqueName": "黑角面具",
         "uniqueCode": "xsk"
       }
     ]
@@ -2464,7 +2464,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "灵魂裹尸布",
+        "uniqueName": "灵魂帷幕",
         "uniqueCode": "xui"
       }
     ]
@@ -2599,7 +2599,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "铁皮",
+        "uniqueName": "掷铁",
         "uniqueCode": "xtu"
       }
     ]
@@ -2689,7 +2689,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "乌鸦叫声",
+        "uniqueName": "鸦鸣",
         "uniqueCode": "xcl"
       }
     ]
@@ -2779,7 +2779,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "都瑞尔的壳",
+        "uniqueName": "督瑞尔的壳",
         "uniqueCode": "xrs"
       }
     ]
@@ -2850,7 +2850,7 @@
     "displayName": "圣堂武士外袍",
     "normalItemDisplayName": "铠甲",
     "exceptionalItemDisplayName": "圣堂武士外袍",
-    "eliteItemDisplayName": "地狱锻铸板甲",
+    "eliteItemDisplayName": "地狱锻甲",
     "itemTier": "扩展",
     "itemType": {
       "displayName": "",
@@ -2914,7 +2914,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "齿排",
+        "uniqueName": "排齿",
         "uniqueCode": "xld"
       }
     ]
@@ -2959,7 +2959,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "阿特玛的哀嚎",
+        "uniqueName": "亚特玛的哭喊",
         "uniqueCode": "xth"
       }
     ]
@@ -3004,7 +3004,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "黑色哈迪斯",
+        "uniqueName": "黑色黑帝斯",
         "uniqueCode": "xul"
       }
     ]
@@ -3049,7 +3049,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "尸体哀悼",
+        "uniqueName": "尸体的哀伤",
         "uniqueCode": "xar"
       }
     ]
@@ -3094,7 +3094,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "克赫根的智慧",
+        "uniqueName": "魁黑刚的智慧",
         "uniqueCode": "xtp"
       }
     ]
@@ -3139,7 +3139,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "内脏之盾",
+        "uniqueName": "维斯尔坦特",
         "uniqueCode": "xuc"
       }
     ]
@@ -3184,7 +3184,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "摩西的祝福之环",
+        "uniqueName": "摩西祝福之环",
         "uniqueCode": "xml"
       }
     ]
@@ -3229,7 +3229,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "逐风者",
+        "uniqueName": "风暴追逐者",
         "uniqueCode": "xrg"
       }
     ]
@@ -3274,7 +3274,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "提亚马特的斥责",
+        "uniqueName": "魔龙的非难",
         "uniqueCode": "xit"
       }
     ]
@@ -3300,7 +3300,7 @@
     "displayName": "大盾",
     "normalItemDisplayName": "塔盾",
     "exceptionalItemDisplayName": "大盾",
-    "eliteItemDisplayName": "庇护",
+    "eliteItemDisplayName": "圣盾",
     "itemTier": "扩展",
     "itemType": {
       "displayName": "",
@@ -3319,7 +3319,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "格尔克圣堂",
+        "uniqueName": "基尔克的圣堂",
         "uniqueCode": "xow"
       }
     ]
@@ -3345,7 +3345,7 @@
     "displayName": "古代之盾",
     "normalItemDisplayName": "哥德盾牌",
     "exceptionalItemDisplayName": "古代之盾",
-    "eliteItemDisplayName": "囚房",
+    "eliteItemDisplayName": "保护盾牌",
     "itemTier": "扩展",
     "itemType": {
       "displayName": "",
@@ -3364,7 +3364,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "罗达门特的法球",
+        "uniqueName": "罗达门特之球体",
         "uniqueCode": "xts"
       }
     ]
@@ -3388,7 +3388,7 @@
     "maxSockets": "0",
     "name": "魔皮手套",
     "displayName": "魔皮手套",
-    "normalItemDisplayName": "手套",
+    "normalItemDisplayName": "皮手套",
     "exceptionalItemDisplayName": "魔皮手套",
     "eliteItemDisplayName": "荆棘连指手套",
     "itemTier": "扩展",
@@ -3409,7 +3409,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "毒液之握",
+        "uniqueName": "剧毒之抓",
         "uniqueCode": "xlg"
       }
     ]
@@ -3454,7 +3454,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "墓穴之手",
+        "uniqueName": "墓穴的抚弄",
         "uniqueCode": "xvg"
       }
     ]
@@ -3478,7 +3478,7 @@
     "maxSockets": "0",
     "name": "重型手镯",
     "displayName": "重型手镯",
-    "normalItemDisplayName": "护腕",
+    "normalItemDisplayName": "锁链手套",
     "exceptionalItemDisplayName": "重型手镯",
     "eliteItemDisplayName": "吸血鬼手套",
     "itemTier": "扩展",
@@ -3499,7 +3499,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "食尸鬼之皮",
+        "uniqueName": "食尸鬼外皮",
         "uniqueCode": "xmg"
       }
     ]
@@ -3544,7 +3544,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "熔岩之痛",
+        "uniqueName": "熔岩角羊",
         "uniqueCode": "xtg"
       }
     ]
@@ -3589,7 +3589,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "地狱之口",
+        "uniqueName": "地狱之嘴",
         "uniqueCode": "xhg"
       }
     ]
@@ -3634,7 +3634,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "炼狱之步",
+        "uniqueName": "地狱阔步",
         "uniqueCode": "xlb"
       }
     ]
@@ -3679,7 +3679,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "水上漂",
+        "uniqueName": "水上飘",
         "uniqueCode": "xvb"
       }
     ]
@@ -3724,7 +3724,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "丝织",
+        "uniqueName": "纱织",
         "uniqueCode": "xmb"
       }
     ]
@@ -3748,7 +3748,7 @@
     "maxSockets": "2",
     "name": "战场之靴",
     "displayName": "战场之靴",
-    "normalItemDisplayName": "轻型板甲靴",
+    "normalItemDisplayName": "轻型金属靴",
     "exceptionalItemDisplayName": "战场之靴",
     "eliteItemDisplayName": "镜化靴",
     "itemTier": "扩展",
@@ -3793,7 +3793,7 @@
     "maxSockets": "2",
     "name": "巨战之靴",
     "displayName": "巨战之靴",
-    "normalItemDisplayName": "板甲靴",
+    "normalItemDisplayName": "护胫",
     "exceptionalItemDisplayName": "巨战之靴",
     "eliteItemDisplayName": "极速靴",
     "itemTier": "扩展",
@@ -3814,7 +3814,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "血腥骑士",
+        "uniqueName": "蚀肉骑士",
         "uniqueCode": "xhb"
       }
     ]
@@ -3859,7 +3859,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "耳串",
+        "uniqueName": "长串之耳",
         "uniqueCode": "zlb"
       }
     ]
@@ -3949,7 +3949,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "幽暗陷阱",
+        "uniqueName": "阴影陷阱",
         "uniqueCode": "zmb"
       }
     ]
@@ -3994,7 +3994,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "冰雪冲突",
+        "uniqueName": "雪之冲突",
         "uniqueCode": "ztb"
       }
     ]
@@ -4018,7 +4018,7 @@
     "maxSockets": "0",
     "name": "巨战腰带",
     "displayName": "巨战腰带",
-    "normalItemDisplayName": "束带",
+    "normalItemDisplayName": "金属扣带",
     "exceptionalItemDisplayName": "巨战腰带",
     "eliteItemDisplayName": "巨神腰带",
     "itemTier": "扩展",
@@ -4139,7 +4139,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "无眼之墙",
+        "uniqueName": "警戒之墙",
         "uniqueCode": "xsh"
       }
     ]
@@ -4220,7 +4220,7 @@
     "displayName": "狼头",
     "normalItemDisplayName": "狼头",
     "exceptionalItemDisplayName": "阿尔发头盔",
-    "eliteItemDisplayName": "血之灵",
+    "eliteItemDisplayName": "血腥之灵",
     "itemTier": "普通",
     "itemType": {
       "displayName": "",
@@ -4259,7 +4259,7 @@
     "name": "飞鹰头盔",
     "displayName": "飞鹰头盔",
     "normalItemDisplayName": "飞鹰头盔",
-    "exceptionalItemDisplayName": "狮鹫头饰",
+    "exceptionalItemDisplayName": "狮鹫兽头带",
     "eliteItemDisplayName": "太阳之灵",
     "itemTier": "普通",
     "itemType": {
@@ -4545,7 +4545,7 @@
     "displayName": "突击盔",
     "normalItemDisplayName": "突击盔",
     "exceptionalItemDisplayName": "蛮族头盔",
-    "eliteItemDisplayName": "征服者之冠",
+    "eliteItemDisplayName": "征服者皇冠面甲",
     "itemTier": "普通",
     "itemType": {
       "displayName": "",
@@ -4705,7 +4705,7 @@
     "displayName": "纹章盾",
     "normalItemDisplayName": "纹章盾",
     "exceptionalItemDisplayName": "防护者盾牌",
-    "eliteItemDisplayName": "古代之盾",
+    "eliteItemDisplayName": "库拉斯特之盾",
     "itemTier": "普通",
     "itemType": {
       "displayName": "",
@@ -4749,7 +4749,7 @@
     "name": "艾文之盾",
     "displayName": "艾文之盾",
     "normalItemDisplayName": "艾文之盾",
-    "exceptionalItemDisplayName": "镀金盾",
+    "exceptionalItemDisplayName": "饰金盾牌",
     "eliteItemDisplayName": "撒卡兰姆盾牌",
     "itemTier": "普通",
     "itemType": {
@@ -4950,7 +4950,7 @@
     "displayName": "石像鬼之首",
     "normalItemDisplayName": "石像鬼之首",
     "exceptionalItemDisplayName": "领唱者印记",
-    "eliteItemDisplayName": "魅魔头骨",
+    "eliteItemDisplayName": "女妖之骨",
     "itemTier": "普通",
     "itemType": {
       "displayName": "头颅",
@@ -4986,10 +4986,10 @@
     "exceptionalTierCode": "nea",
     "eliteTierCode": "nef",
     "maxSockets": "2",
-    "name": "恶魔头盖骨面具",
-    "displayName": "恶魔头盖骨面具",
-    "normalItemDisplayName": "恶魔头盖骨面具",
-    "exceptionalItemDisplayName": "祭司战利品",
+    "name": "恶魔之首",
+    "displayName": "恶魔之首",
+    "normalItemDisplayName": "恶魔之首",
+    "exceptionalItemDisplayName": "祭司印记",
     "eliteItemDisplayName": "血王之骨",
     "itemTier": "普通",
     "itemType": {
@@ -5026,9 +5026,9 @@
     "exceptionalTierCode": "ci1",
     "eliteTierCode": "",
     "maxSockets": "2",
-    "name": "饰环",
-    "displayName": "饰环",
-    "normalItemDisplayName": "饰环",
+    "name": "头饰",
+    "displayName": "头饰",
+    "normalItemDisplayName": "头饰",
     "exceptionalItemDisplayName": "宝冠",
     "eliteItemDisplayName": null,
     "itemTier": "普通",
@@ -5070,7 +5070,7 @@
     "displayName": "宝冠",
     "normalItemDisplayName": "宝冠",
     "exceptionalItemDisplayName": "三重冠",
-    "eliteItemDisplayName": "王位",
+    "eliteItemDisplayName": "权冠",
     "itemTier": "普通",
     "itemType": {
       "displayName": "",
@@ -5110,7 +5110,7 @@
     "displayName": "三重冠",
     "normalItemDisplayName": "宝冠",
     "exceptionalItemDisplayName": "三重冠",
-    "eliteItemDisplayName": "王位",
+    "eliteItemDisplayName": "权冠",
     "itemTier": "扩展",
     "itemType": {
       "displayName": "",
@@ -5129,7 +5129,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "吉拉的守护者",
+        "uniqueName": "奇拉的守护",
         "uniqueCode": "ci2"
       }
     ]
@@ -5151,11 +5151,11 @@
     "exceptionalTierCode": "ci2",
     "eliteTierCode": "ci3",
     "maxSockets": "3",
-    "name": "王位",
-    "displayName": "王位",
+    "name": "权冠",
+    "displayName": "权冠",
     "normalItemDisplayName": "宝冠",
     "exceptionalItemDisplayName": "三重冠",
-    "eliteItemDisplayName": "王位",
+    "eliteItemDisplayName": "权冠",
     "itemTier": "精英",
     "itemType": {
       "displayName": "",
@@ -5174,7 +5174,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "狮鹫之眼",
+        "uniqueName": "格利风之眼",
         "uniqueCode": "ci3"
       },
       {
@@ -5459,7 +5459,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "岁月之冠",
+        "uniqueName": "年纪之冠",
         "uniqueCode": "urn"
       }
     ]
@@ -5504,7 +5504,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "安达利尔的面容",
+        "uniqueName": "安达利尔的面貌",
         "uniqueCode": "usk"
       },
       {
@@ -5553,7 +5553,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "奥玛斯的法袍",
+        "uniqueName": "奥玛斯的长袍",
         "uniqueCode": "uui"
       }
     ]
@@ -5678,7 +5678,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "角斗士的祸根",
+        "uniqueName": "斗士的祸根",
         "uniqueCode": "utu"
       }
     ]
@@ -5910,11 +5910,11 @@
     "exceptionalTierCode": "xlt",
     "eliteTierCode": "ult",
     "maxSockets": "4",
-    "name": "地狱锻铸板甲",
-    "displayName": "地狱锻铸板甲",
+    "name": "地狱锻甲",
+    "displayName": "地狱锻甲",
     "normalItemDisplayName": "铠甲",
     "exceptionalItemDisplayName": "圣堂武士外袍",
-    "eliteItemDisplayName": "地狱锻铸板甲",
+    "eliteItemDisplayName": "地狱锻甲",
     "itemTier": "精英",
     "itemType": {
       "displayName": "",
@@ -5973,7 +5973,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "利维坦",
+        "uniqueName": "海王利维亚桑",
         "uniqueCode": "uld"
       }
     ]
@@ -6063,7 +6063,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "钢铁甲壳",
+        "uniqueName": "钢铁铠甲",
         "uniqueCode": "uul"
       },
       {
@@ -6371,11 +6371,11 @@
     "exceptionalTierCode": "xow",
     "eliteTierCode": "uow",
     "maxSockets": "4",
-    "name": "庇护",
-    "displayName": "庇护",
+    "name": "圣盾",
+    "displayName": "圣盾",
     "normalItemDisplayName": "塔盾",
     "exceptionalItemDisplayName": "大盾",
-    "eliteItemDisplayName": "庇护",
+    "eliteItemDisplayName": "圣盾",
     "itemTier": "精英",
     "itemType": {
       "displayName": "",
@@ -6394,7 +6394,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "美杜莎的凝视",
+        "uniqueName": "梅杜莎的凝视",
         "uniqueCode": "uow"
       },
       {
@@ -6420,11 +6420,11 @@
     "exceptionalTierCode": "xts",
     "eliteTierCode": "uts",
     "maxSockets": "4",
-    "name": "囚房",
-    "displayName": "囚房",
+    "name": "保护盾牌",
+    "displayName": "保护盾牌",
     "normalItemDisplayName": "哥德盾牌",
     "exceptionalItemDisplayName": "古代之盾",
-    "eliteItemDisplayName": "囚房",
+    "eliteItemDisplayName": "保护盾牌",
     "itemTier": "精英",
     "itemType": {
       "displayName": "",
@@ -6443,7 +6443,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "灵魂守卫",
+        "uniqueName": "魂系结界",
         "uniqueCode": "uts"
       },
       {
@@ -6475,7 +6475,7 @@
     "maxSockets": "0",
     "name": "荆棘连指手套",
     "displayName": "荆棘连指手套",
-    "normalItemDisplayName": "手套",
+    "normalItemDisplayName": "皮手套",
     "exceptionalItemDisplayName": "魔皮手套",
     "eliteItemDisplayName": "荆棘连指手套",
     "itemTier": "精英",
@@ -6541,7 +6541,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "德古拉之握",
+        "uniqueName": "卓古拉之握",
         "uniqueCode": "uvg"
       }
     ]
@@ -6565,7 +6565,7 @@
     "maxSockets": "0",
     "name": "吸血鬼手套",
     "displayName": "吸血鬼手套",
-    "normalItemDisplayName": "护腕",
+    "normalItemDisplayName": "锁链手套",
     "exceptionalItemDisplayName": "重型手镯",
     "eliteItemDisplayName": "吸血鬼手套",
     "itemTier": "精英",
@@ -6586,7 +6586,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "噬魂者",
+        "uniqueName": "吸魂者",
         "uniqueCode": "umg"
       }
     ]
@@ -6680,7 +6680,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "钢铁拳套",
+        "uniqueName": "碎钢",
         "uniqueCode": "uhg"
       },
       {
@@ -6729,7 +6729,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "鱼人齿轮",
+        "uniqueName": "人鱼的齿轮",
         "uniqueCode": "ulb"
       }
     ]
@@ -6843,7 +6843,7 @@
     "maxSockets": "3",
     "name": "镜化靴",
     "displayName": "镜化靴",
-    "normalItemDisplayName": "轻型板甲靴",
+    "normalItemDisplayName": "轻型金属靴",
     "exceptionalItemDisplayName": "战场之靴",
     "eliteItemDisplayName": "镜化靴",
     "itemTier": "精英",
@@ -6892,7 +6892,7 @@
     "maxSockets": "3",
     "name": "极速靴",
     "displayName": "极速靴",
-    "normalItemDisplayName": "板甲靴",
+    "normalItemDisplayName": "护胫",
     "exceptionalItemDisplayName": "巨战之靴",
     "eliteItemDisplayName": "极速靴",
     "itemTier": "精英",
@@ -6913,7 +6913,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "阴影舞者",
+        "uniqueName": "影舞者",
         "uniqueCode": "uhb"
       }
     ]
@@ -7007,7 +7007,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "诺斯费拉图的缠绕",
+        "uniqueName": "吸血圣王之圈",
         "uniqueCode": "uvc"
       }
     ]
@@ -7121,7 +7121,7 @@
     "maxSockets": "0",
     "name": "巨神腰带",
     "displayName": "巨神腰带",
-    "normalItemDisplayName": "束带",
+    "normalItemDisplayName": "金属扣带",
     "exceptionalItemDisplayName": "巨战腰带",
     "eliteItemDisplayName": "巨神腰带",
     "itemTier": "精英",
@@ -7195,7 +7195,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "巨人之颅",
+        "uniqueName": "巨骷髅",
         "uniqueCode": "uh9"
       }
     ]
@@ -7250,7 +7250,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "猎头者之荣耀",
+        "uniqueName": "猎头人的荣耀",
         "uniqueCode": "ush"
       }
     ]
@@ -7305,7 +7305,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "棘刺",
+        "uniqueName": "尖刺根源",
         "uniqueCode": "upk"
       }
     ]
@@ -7331,7 +7331,7 @@
     "displayName": "阿尔发头盔",
     "normalItemDisplayName": "狼头",
     "exceptionalItemDisplayName": "阿尔发头盔",
-    "eliteItemDisplayName": "血之灵",
+    "eliteItemDisplayName": "血腥之灵",
     "itemTier": "扩展",
     "itemType": {
       "displayName": "",
@@ -7372,10 +7372,10 @@
     "exceptionalTierCode": "dr7",
     "eliteTierCode": "drc",
     "maxSockets": "3",
-    "name": "狮鹫头饰",
-    "displayName": "狮鹫头饰",
+    "name": "狮鹫兽头带",
+    "displayName": "狮鹫兽头带",
     "normalItemDisplayName": "飞鹰头盔",
-    "exceptionalItemDisplayName": "狮鹫头饰",
+    "exceptionalItemDisplayName": "狮鹫兽头带",
     "eliteItemDisplayName": "太阳之灵",
     "itemTier": "扩展",
     "itemType": {
@@ -7515,7 +7515,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "加尔的鬃毛",
+        "uniqueName": "加尔的长发",
         "uniqueCode": "dra"
       }
     ]
@@ -7675,7 +7675,7 @@
     "displayName": "蛮族头盔",
     "normalItemDisplayName": "突击盔",
     "exceptionalItemDisplayName": "蛮族头盔",
-    "eliteItemDisplayName": "征服者之冠",
+    "eliteItemDisplayName": "征服者皇冠面甲",
     "itemTier": "扩展",
     "itemType": {
       "displayName": "",
@@ -7840,7 +7840,7 @@
     "displayName": "防护者盾牌",
     "normalItemDisplayName": "纹章盾",
     "exceptionalItemDisplayName": "防护者盾牌",
-    "eliteItemDisplayName": "古代之盾",
+    "eliteItemDisplayName": "库拉斯特之盾",
     "itemTier": "扩展",
     "itemType": {
       "displayName": "",
@@ -7876,10 +7876,10 @@
     "exceptionalTierCode": "pa9",
     "eliteTierCode": "pae",
     "maxSockets": "4",
-    "name": "镀金盾",
-    "displayName": "镀金盾",
+    "name": "饰金盾牌",
+    "displayName": "饰金盾牌",
     "normalItemDisplayName": "艾文之盾",
-    "exceptionalItemDisplayName": "镀金盾",
+    "exceptionalItemDisplayName": "饰金盾牌",
     "eliteItemDisplayName": "撒卡兰姆盾牌",
     "itemTier": "扩展",
     "itemType": {
@@ -7899,7 +7899,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "萨卡兰姆使者",
+        "uniqueName": "撒卡兰姆使者",
         "uniqueCode": "pa9"
       },
       {
@@ -8094,7 +8094,7 @@
     "displayName": "领唱者印记",
     "normalItemDisplayName": "石像鬼之首",
     "exceptionalItemDisplayName": "领唱者印记",
-    "eliteItemDisplayName": "魅魔头骨",
+    "eliteItemDisplayName": "女妖之骨",
     "itemTier": "扩展",
     "itemType": {
       "displayName": "头颅",
@@ -8130,10 +8130,10 @@
     "exceptionalTierCode": "nea",
     "eliteTierCode": "nef",
     "maxSockets": "3",
-    "name": "祭司战利品",
-    "displayName": "祭司战利品",
-    "normalItemDisplayName": "恶魔头盖骨面具",
-    "exceptionalItemDisplayName": "祭司战利品",
+    "name": "祭司印记",
+    "displayName": "祭司印记",
+    "normalItemDisplayName": "恶魔之首",
+    "exceptionalItemDisplayName": "祭司印记",
     "eliteItemDisplayName": "血王之骨",
     "itemTier": "扩展",
     "itemType": {
@@ -8153,7 +8153,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "霍姆恩库鲁斯",
+        "uniqueName": "侏儒",
         "uniqueCode": "nea"
       }
     ]
@@ -8175,11 +8175,11 @@
     "exceptionalTierCode": "dr6",
     "eliteTierCode": "drb",
     "maxSockets": "3",
-    "name": "血之灵",
-    "displayName": "血之灵",
+    "name": "血腥之灵",
+    "displayName": "血腥之灵",
     "normalItemDisplayName": "狼头",
     "exceptionalItemDisplayName": "阿尔发头盔",
-    "eliteItemDisplayName": "血之灵",
+    "eliteItemDisplayName": "血腥之灵",
     "itemTier": "精英",
     "itemType": {
       "displayName": "",
@@ -8198,7 +8198,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "地狱犬之咬",
+        "uniqueName": "地狱之吻",
         "uniqueCode": "drb"
       }
     ]
@@ -8223,7 +8223,7 @@
     "name": "太阳之灵",
     "displayName": "太阳之灵",
     "normalItemDisplayName": "飞鹰头盔",
-    "exceptionalItemDisplayName": "狮鹫头饰",
+    "exceptionalItemDisplayName": "狮鹫兽头带",
     "eliteItemDisplayName": "太阳之灵",
     "itemTier": "精英",
     "itemType": {
@@ -8288,7 +8288,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "灵魂守护者",
+        "uniqueName": "灵魂看守者",
         "uniqueCode": "drd"
       }
     ]
@@ -8333,7 +8333,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "乌鸦贤者",
+        "uniqueName": "乌鸦之王",
         "uniqueCode": "dre"
       }
     ]
@@ -8508,7 +8508,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "恶魔之角的边缘",
+        "uniqueName": "恶魔号角的边缘",
         "uniqueCode": "bad"
       }
     ]
@@ -8530,11 +8530,11 @@
     "exceptionalTierCode": "ba9",
     "eliteTierCode": "bae",
     "maxSockets": "3",
-    "name": "征服者之冠",
-    "displayName": "征服者之冠",
+    "name": "征服者皇冠面甲",
+    "displayName": "征服者皇冠面甲",
     "normalItemDisplayName": "突击盔",
     "exceptionalItemDisplayName": "蛮族头盔",
-    "eliteItemDisplayName": "征服者之冠",
+    "eliteItemDisplayName": "征服者皇冠面甲",
     "itemTier": "精英",
     "itemType": {
       "displayName": "",
@@ -8553,7 +8553,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "哈拉伯德的统治",
+        "uniqueName": "海拉柏得的国度",
         "uniqueCode": "bae"
       }
     ]
@@ -8692,7 +8692,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "黑色灵魂",
+        "uniqueName": "阿尔玛－尼格拉",
         "uniqueCode": "pac"
       }
     ]
@@ -8714,11 +8714,11 @@
     "exceptionalTierCode": "pa8",
     "eliteTierCode": "pad",
     "maxSockets": "4",
-    "name": "古代之盾",
-    "displayName": "古代之盾",
+    "name": "库拉斯特之盾",
+    "displayName": "库拉斯特之盾",
     "normalItemDisplayName": "纹章盾",
     "exceptionalItemDisplayName": "防护者盾牌",
-    "eliteItemDisplayName": "古代之盾",
+    "eliteItemDisplayName": "库拉斯特之盾",
     "itemTier": "精英",
     "itemType": {
       "displayName": "",
@@ -8757,7 +8757,7 @@
     "name": "撒卡兰姆盾牌",
     "displayName": "撒卡兰姆盾牌",
     "normalItemDisplayName": "艾文之盾",
-    "exceptionalItemDisplayName": "镀金盾",
+    "exceptionalItemDisplayName": "饰金盾牌",
     "eliteItemDisplayName": "撒卡兰姆盾牌",
     "itemTier": "精英",
     "itemType": {
@@ -8974,11 +8974,11 @@
     "exceptionalTierCode": "ne9",
     "eliteTierCode": "nee",
     "maxSockets": "3",
-    "name": "魅魔头骨",
-    "displayName": "魅魔头骨",
+    "name": "女妖之骨",
+    "displayName": "女妖之骨",
     "normalItemDisplayName": "石像鬼之首",
     "exceptionalItemDisplayName": "领唱者印记",
-    "eliteItemDisplayName": "魅魔头骨",
+    "eliteItemDisplayName": "女妖之骨",
     "itemTier": "精英",
     "itemType": {
       "displayName": "头颅",
@@ -9021,8 +9021,8 @@
     "maxSockets": "3",
     "name": "血王之骨",
     "displayName": "血王之骨",
-    "normalItemDisplayName": "恶魔头盖骨面具",
-    "exceptionalItemDisplayName": "祭司战利品",
+    "normalItemDisplayName": "恶魔之首",
+    "exceptionalItemDisplayName": "祭司印记",
     "eliteItemDisplayName": "血王之骨",
     "itemTier": "精英",
     "itemType": {
@@ -9042,7 +9042,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "黑暗之力衍生",
+        "uniqueName": "魔力肇生",
         "uniqueCode": "nef"
       },
       {

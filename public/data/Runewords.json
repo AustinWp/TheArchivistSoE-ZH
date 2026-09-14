@@ -1,7 +1,7 @@
 [
   {
     "name": "Runeword1",
-    "runewordName": "远古誓约",
+    "runewordName": "古代人的契约",
     "firstRune": "r08",
     "secondRune": "r09",
     "thirdRune": "r07",
@@ -12,7 +12,7 @@
       "shld"
     ],
     "excludedItemTypes": [],
-    "displayName": "远古誓言",
+    "displayName": "古代人的契约",
     "firstRuneDisplayName": "Ral",
     "secondRuneDisplayName": "Ort",
     "thirdRuneDisplayName": "Tal",
@@ -174,7 +174,7 @@
   },
   {
     "name": "Runeword55",
-    "runewordName": "荣誉",
+    "runewordName": "荣耀",
     "firstRune": "r11",
     "secondRune": "r01",
     "thirdRune": "r06",
@@ -185,7 +185,7 @@
       "mele"
     ],
     "excludedItemTypes": [],
-    "displayName": "荣誉",
+    "displayName": "荣耀",
     "firstRuneDisplayName": "Amn",
     "secondRuneDisplayName": "El",
     "thirdRuneDisplayName": "Ith",
@@ -221,7 +221,7 @@
   },
   {
     "name": "Runeword65",
-    "runewordName": "王者恩典",
+    "runewordName": "王者的慈悲",
     "firstRune": "r11",
     "secondRune": "r08",
     "thirdRune": "r10",
@@ -237,7 +237,7 @@
       "thro"
     ],
     "excludedItemTypes": [],
-    "displayName": "王者恩典",
+    "displayName": "王者的慈悲",
     "firstRuneDisplayName": "Amn",
     "secondRuneDisplayName": "Ral",
     "thirdRuneDisplayName": "Thul",
@@ -306,7 +306,7 @@
   },
   {
     "name": "Runeword74",
-    "runewordName": "狮心",
+    "runewordName": "狮子心",
     "firstRune": "r15",
     "secondRune": "r17",
     "thirdRune": "r19",
@@ -317,7 +317,7 @@
       "tors"
     ],
     "excludedItemTypes": [],
-    "displayName": "狮心",
+    "displayName": "狮子心",
     "firstRuneDisplayName": "Hel",
     "secondRuneDisplayName": "Lum",
     "thirdRuneDisplayName": "Fal",
@@ -343,7 +343,7 @@
   },
   {
     "name": "Runeword75",
-    "runewordName": "学识",
+    "runewordName": "知识",
     "firstRune": "r09",
     "secondRune": "r12",
     "thirdRune": "",
@@ -354,7 +354,7 @@
       "helm"
     ],
     "excludedItemTypes": [],
-    "displayName": "学识",
+    "displayName": "知识",
     "firstRuneDisplayName": "Ort",
     "secondRuneDisplayName": "Sol",
     "thirdRuneDisplayName": null,
@@ -461,7 +461,7 @@
   },
   {
     "name": "Runeword83",
-    "runewordName": "回忆",
+    "runewordName": "记忆",
     "firstRune": "r17",
     "secondRune": "r16",
     "thirdRune": "r12",
@@ -472,7 +472,7 @@
       "staf"
     ],
     "excludedItemTypes": [],
-    "displayName": "回忆",
+    "displayName": "记忆",
     "firstRuneDisplayName": "Lum",
     "secondRuneDisplayName": "Io",
     "thirdRuneDisplayName": "Sol",
@@ -583,7 +583,7 @@
   },
   {
     "name": "Runeword120",
-    "runewordName": "韵律",
+    "runewordName": "押韵",
     "firstRune": "r13",
     "secondRune": "r05",
     "thirdRune": "",
@@ -594,7 +594,7 @@
       "shld"
     ],
     "excludedItemTypes": [],
-    "displayName": "韵律",
+    "displayName": "押韵",
     "firstRuneDisplayName": "Shael",
     "secondRuneDisplayName": "Eth",
     "thirdRuneDisplayName": null,
@@ -697,7 +697,7 @@
   },
   {
     "name": "Runeword133",
-    "runewordName": "隐秘",
+    "runewordName": "隐密",
     "firstRune": "r07",
     "secondRune": "r05",
     "thirdRune": "",
@@ -708,7 +708,7 @@
       "tors"
     ],
     "excludedItemTypes": [],
-    "displayName": "隐秘",
+    "displayName": "隐密",
     "firstRuneDisplayName": "Tal",
     "secondRuneDisplayName": "Eth",
     "thirdRuneDisplayName": null,
@@ -826,7 +826,7 @@
   },
   {
     "name": "Runeword154",
-    "runewordName": "毒牙",
+    "runewordName": "毒液",
     "firstRune": "r07",
     "secondRune": "r14",
     "thirdRune": "r23",
@@ -840,7 +840,7 @@
       "thro"
     ],
     "excludedItemTypes": [],
-    "displayName": "毒牙",
+    "displayName": "毒液",
     "firstRuneDisplayName": "Tal",
     "secondRuneDisplayName": "Dol",
     "thirdRuneDisplayName": "Mal",
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "Runeword14",
-    "runewordName": "职责所缚",
+    "runewordName": "荣耀之链",
     "firstRune": "r14",
     "secondRune": "r22",
     "thirdRune": "r30",
@@ -1040,7 +1040,7 @@
   },
   {
     "name": "Runeword9",
-    "runewordName": "荆棘",
+    "runewordName": "野蔷薇",
     "firstRune": "r08",
     "secondRune": "r27",
     "thirdRune": "r29",
@@ -1051,7 +1051,7 @@
       "tors"
     ],
     "excludedItemTypes": [],
-    "displayName": "荆棘",
+    "displayName": "野蔷薇",
     "firstRuneDisplayName": "Ral",
     "secondRuneDisplayName": "Ohm",
     "thirdRuneDisplayName": "Sur",
@@ -1277,7 +1277,7 @@
   },
   {
     "name": "Runeword26",
-    "runewordName": "末日预言者",
+    "runewordName": "末日",
     "firstRune": "r15",
     "secondRune": "r27",
     "thirdRune": "r22",
@@ -1481,7 +1481,7 @@
   },
   {
     "name": "Runeword37",
-    "runewordName": "流亡之路",
+    "runewordName": "流亡",
     "firstRune": "r26",
     "secondRune": "r27",
     "thirdRune": "r24",
@@ -1889,7 +1889,7 @@
   },
   {
     "name": "Runeword4",
-    "runewordName": "猛兽",
+    "runewordName": "野兽",
     "firstRune": "r30",
     "secondRune": "r03",
     "thirdRune": "r22",
@@ -2140,7 +2140,7 @@
   },
   {
     "name": "Runeword92",
-    "runewordName": "服从",
+    "runewordName": "遵从",
     "firstRune": "r15",
     "secondRune": "r18",
     "thirdRune": "r10",
@@ -2153,7 +2153,7 @@
       "hamm"
     ],
     "excludedItemTypes": [],
-    "displayName": "服从",
+    "displayName": "遵从",
     "firstRuneDisplayName": "Hel",
     "secondRuneDisplayName": "Ko",
     "thirdRuneDisplayName": "Thul",
@@ -2194,7 +2194,7 @@
   },
   {
     "name": "Runeword94",
-    "runewordName": "执念",
+    "runewordName": "着魔",
     "firstRune": "r33",
     "secondRune": "r24",
     "thirdRune": "r20",
@@ -2205,7 +2205,7 @@
       "staf"
     ],
     "excludedItemTypes": [],
-    "displayName": "执念",
+    "displayName": "着魔",
     "firstRuneDisplayName": "Zod",
     "secondRuneDisplayName": "Ist",
     "thirdRuneDisplayName": "Lem",
@@ -2389,7 +2389,7 @@
   },
   {
     "name": "Runeword38",
-    "runewordName": "信念",
+    "runewordName": "信心",
     "firstRune": "r27",
     "secondRune": "r31",
     "thirdRune": "r20",
@@ -2400,7 +2400,7 @@
       "miss"
     ],
     "excludedItemTypes": [],
-    "displayName": "信念",
+    "displayName": "信心",
     "firstRuneDisplayName": "Ohm",
     "secondRuneDisplayName": "Jah",
     "thirdRuneDisplayName": "Lem",
@@ -2526,7 +2526,7 @@
   },
   {
     "name": "Runeword20",
-    "runewordName": "死亡",
+    "runewordName": "死神",
     "firstRune": "r15",
     "secondRune": "r01",
     "thirdRune": "r26",
@@ -2538,7 +2538,7 @@
       "axe"
     ],
     "excludedItemTypes": [],
-    "displayName": "死亡",
+    "displayName": "死神",
     "firstRuneDisplayName": "Hel",
     "secondRuneDisplayName": "El",
     "thirdRuneDisplayName": "Vex",
@@ -2632,7 +2632,7 @@
   },
   {
     "name": "Runeword27",
-    "runewordName": "龙",
+    "runewordName": "飞龙",
     "firstRune": "r29",
     "secondRune": "r28",
     "thirdRune": "r12",
@@ -2644,7 +2644,7 @@
       "shld"
     ],
     "excludedItemTypes": [],
-    "displayName": "龙",
+    "displayName": "飞龙",
     "firstRuneDisplayName": "Sur",
     "secondRuneDisplayName": "Lo",
     "thirdRuneDisplayName": "Sol",
@@ -2781,7 +2781,7 @@
   },
   {
     "name": "Runeword34",
-    "runewordName": "启迪",
+    "runewordName": "教化",
     "firstRune": "r21",
     "secondRune": "r08",
     "thirdRune": "r12",
@@ -2792,7 +2792,7 @@
       "tors"
     ],
     "excludedItemTypes": [],
-    "displayName": "启迪",
+    "displayName": "教化",
     "firstRuneDisplayName": "Pul",
     "secondRuneDisplayName": "Ral",
     "thirdRuneDisplayName": "Sol",
@@ -2917,7 +2917,7 @@
   },
   {
     "name": "Runeword61",
-    "runewordName": "纯真",
+    "runewordName": "天真",
     "firstRune": "r25",
     "secondRune": "r20",
     "thirdRune": "r33",
@@ -2928,7 +2928,7 @@
       "tors"
     ],
     "excludedItemTypes": [],
-    "displayName": "纯真",
+    "displayName": "天真",
     "firstRuneDisplayName": "Gul",
     "secondRuneDisplayName": "Lem",
     "thirdRuneDisplayName": "Zod",
@@ -3310,7 +3310,7 @@
   },
   {
     "name": "Runeword98",
-    "runewordName": "宁静",
+    "runewordName": "和平",
     "firstRune": "r13",
     "secondRune": "r10",
     "thirdRune": "r11",
@@ -3321,7 +3321,7 @@
       "tors"
     ],
     "excludedItemTypes": [],
-    "displayName": "宁静",
+    "displayName": "和平",
     "firstRuneDisplayName": "Shael",
     "secondRuneDisplayName": "Thul",
     "thirdRuneDisplayName": "Amn",
@@ -3505,7 +3505,7 @@
   },
   {
     "name": "Runeword110",
-    "runewordName": "原则",
+    "runewordName": "原理",
     "firstRune": "r08",
     "secondRune": "r25",
     "thirdRune": "r02",
@@ -3516,7 +3516,7 @@
       "tors"
     ],
     "excludedItemTypes": [],
-    "displayName": "原则",
+    "displayName": "原理",
     "firstRuneDisplayName": "Ral",
     "secondRuneDisplayName": "Gul",
     "thirdRuneDisplayName": "Eld",
@@ -3542,7 +3542,7 @@
   },
   {
     "name": "Runeword112",
-    "runewordName": "审慎",
+    "runewordName": "慎重",
     "firstRune": "r23",
     "secondRune": "r03",
     "thirdRune": "",
@@ -3553,7 +3553,7 @@
       "tors"
     ],
     "excludedItemTypes": [],
-    "displayName": "审慎",
+    "displayName": "慎重",
     "firstRuneDisplayName": "Mal",
     "secondRuneDisplayName": "Tir",
     "thirdRuneDisplayName": null,
@@ -3586,7 +3586,7 @@
   },
   {
     "name": "Runeword117",
-    "runewordName": "雨",
+    "runewordName": "降雨",
     "firstRune": "r09",
     "secondRune": "r23",
     "thirdRune": "r06",
@@ -3597,7 +3597,7 @@
       "tors"
     ],
     "excludedItemTypes": [],
-    "displayName": "雨",
+    "displayName": "降雨",
     "firstRuneDisplayName": "Ort",
     "secondRuneDisplayName": "Mal",
     "thirdRuneDisplayName": "Ith",
@@ -3724,7 +3724,7 @@
   },
   {
     "name": "Runeword151",
-    "runewordName": "不屈意志",
+    "runewordName": "坚定意志",
     "firstRune": "r19",
     "secondRune": "r16",
     "thirdRune": "r06",
@@ -3735,7 +3735,7 @@
       "swor"
     ],
     "excludedItemTypes": [],
-    "displayName": "不屈意志",
+    "displayName": "坚定意志",
     "firstRuneDisplayName": "Fal",
     "secondRuneDisplayName": "Io",
     "thirdRuneDisplayName": "Ith",
@@ -3776,7 +3776,7 @@
   },
   {
     "name": "Runeword47",
-    "runewordName": "寡妇制造者",
+    "runewordName": "悔恨",
     "firstRune": "r05",
     "secondRune": "r03",
     "thirdRune": "r28",
@@ -3832,7 +3832,7 @@
   },
   {
     "name": "Runeword163",
-    "runewordName": "疾风",
+    "runewordName": "轻风",
     "firstRune": "r29",
     "secondRune": "r01",
     "thirdRune": "",
@@ -3846,7 +3846,7 @@
       "staf",
       "thro"
     ],
-    "displayName": "疾风",
+    "displayName": "轻风",
     "firstRuneDisplayName": "Sur",
     "secondRuneDisplayName": "El",
     "thirdRuneDisplayName": null,
@@ -3883,7 +3883,7 @@
   },
   {
     "name": "Runeword99",
-    "runewordName": "寒冬",
+    "runewordName": "思考之声",
     "firstRune": "r20",
     "secondRune": "r18",
     "thirdRune": "r01",
@@ -3897,7 +3897,7 @@
       "scep"
     ],
     "excludedItemTypes": [],
-    "displayName": "理智之声",
+    "displayName": "思考之声",
     "firstRuneDisplayName": "Lem",
     "secondRuneDisplayName": "Ko",
     "thirdRuneDisplayName": "El",
@@ -4027,7 +4027,7 @@
   },
   {
     "name": "Runeword26",
-    "runewordName": "末日预言者",
+    "runewordName": "末日",
     "firstRune": "r15",
     "secondRune": "r27",
     "thirdRune": "r22",

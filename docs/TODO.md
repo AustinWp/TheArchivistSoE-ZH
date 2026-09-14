@@ -2,6 +2,8 @@
 
 > **最后更新**：2026-09-14
 > **当前状态**：14 项审计全绿 · **45 条**断言通过 · `npm run lint` **0 error / 4 warning** · 已推送 `main`（发布由 Actions 完成）
+> **翻译已全量对齐国服客户端**：暗金 280 个改名、词缀 1210 条、符文之语 27 个、底材 80 处、术语表扩展 3854→10760 条。
+> 校验：`python3 tools/verify_client_zh.py`（当前剩「客户端无中文名」类，非翻译错）
 > 源码仓库已恢复到 `<工作区>/.sources/SOECN`（不再放 `/tmp`），自检：`python3 tools/source_repo.py`
 > 本文是「下次继续」的入口；具体规则细节在 [`../README.md`](../README.md)，本文只做索引与待办。
 
@@ -29,7 +31,7 @@
 
 | # | 事项 | 说明 |
 |---|---|---|
-| 2 | S1 中文文案验证 | 技能描述、狼人变化中文名等只存在于客户端文案，仓库只有英文 → 需要国服客户端文案或截图。<br>**2026-09-14 预查**（6 处 = 说明第 10 节 5 条）：①**风遁** `Gust`/`GustShortDesc`/`GustLongDesc` 在 `official_zh.json` 里**有官方中文，可直接对**；②**狼人变化** 说明有（`Skillsd224`/`Skillld224`），但**名称 0 条** → S1 改的正是名称+快捷栏名，仍需截图；③灰熊溅射/骷髅法师/火魔圣火 串表只有拼片段；④**渡鸦 vs 乌鸦**（串表技能文案用「渡鸦」、PVP 表用「乌鸦」）待确认。<br>另：第 10 节「修正乌鸦冰霜伤害显示异常文字」这条**连 ❓ 行都没登记**（`docs/reference/s1-verification.md`） |
+| 2 | ~~S1 中文文案验证~~ **已完成（2026-09-14）** | 客户端中文串表拿到后已全量校验：技能名/说明用 `skillname<id>`・`skillan<id>`・`skillsd<id>`（含 `_pd2` 覆盖键）对完；狼人变化 = `Skillname223/224`「狼人变化」、召唤灰熊 = `Skillname248`。剩余「技能名 4 / 说明 16」是**键名约定差异**（我方取自 `Skilldesc.txt` 键，值本身就在客户端串表里），不是翻译错 |
 
 ---
 
@@ -87,6 +89,11 @@ npm run lint && npm run build
 ../.sources/SOECN                  # 工作区级持久目录（⚠️ 不要放 /tmp：系统清理后 8 个工具会集体失效）
 python3 tools/source_repo.py       # 自检：解析到的路径 + HEAD 是否等于基准 commit 9b24eb72
 python3 tools/verify_dropcalc_tables.py   # --repo / --sha 可省，默认自动解析
+
+# 翻译校验 / 对齐（客户端串表放 <工作区>/.sources/client-zh）
+python3 tools/verify_client_zh.py   # 全站翻译对客户端：差异报告 tools/generated/client_zh_diff.md
+python3 tools/apply_client_zh.py --check   # 只看会改什么（暗金/符文/词缀 + 正文旧名）
+python3 tools/extract_official_zh.py       # 重新生成 official_zh.json（soe.txt + 客户端，客户端优先）
 
 # 部署：push main 后 GitHub Actions 自动发布
 git -c http.proxy=http://127.0.0.1:7897 -c https.proxy=http://127.0.0.1:7897 push origin main

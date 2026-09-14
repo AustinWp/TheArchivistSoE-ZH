@@ -86,7 +86,7 @@
   {
     "code": "fa15",
     "name": "虹彩之梦",
-    "description": "未切割的纯净珠宝",
+    "description": "未切割的纯净{{icon:jew}}珠宝",
     "requiredAmount": 3
   },
   {
@@ -284,7 +284,7 @@
   {
     "code": "fa48",
     "name": "熊熊烈焰",
-    "description": "物品等级：85\n法师火焰法术技能护符",
+    "description": "物品等级：85\n法师{{icon:tch}}火焰法术技能护符",
     "requiredAmount": 2
   },
   {
@@ -320,7 +320,7 @@
   {
     "code": "fa54",
     "name": "宝石匠的馈赠",
-    "description": "物品等级：88\n稀有珠宝",
+    "description": "物品等级：88\n稀有{{icon:jew}}珠宝",
     "requiredAmount": 4
   },
   {

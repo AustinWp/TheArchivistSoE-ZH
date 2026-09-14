@@ -55,7 +55,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "啃咬者",
+        "uniqueName": "牙齿",
         "uniqueCode": "hax"
       }
     ]
@@ -177,7 +177,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "刀骨",
+        "uniqueName": "肩胛骨",
         "uniqueCode": "2ax"
       }
     ]
@@ -238,7 +238,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "劈颅者",
+        "uniqueName": "切开骷髅",
         "uniqueCode": "mpi"
       }
     ]
@@ -299,7 +299,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "耙痕",
+        "uniqueName": "火钩之伤",
         "uniqueCode": "wax"
       }
     ]
@@ -421,7 +421,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "血腥之铲",
+        "uniqueName": "血块之铲",
         "uniqueCode": "bax"
       }
     ]
@@ -482,7 +482,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "酋长",
+        "uniqueName": "族长",
         "uniqueCode": "btx"
       }
     ]
@@ -543,7 +543,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "斩脑",
+        "uniqueName": "脑袋",
         "uniqueCode": "gax"
       }
     ]
@@ -604,7 +604,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "巨大",
+        "uniqueName": "巨大无比",
         "uniqueCode": "gix"
       }
     ]
@@ -632,9 +632,9 @@
     "exceptionalTierCode": "9wn",
     "eliteTierCode": "7wn",
     "maxSockets": "1",
-    "name": "杖",
-    "displayName": "杖",
-    "normalItemDisplayName": "杖",
+    "name": "法杖",
+    "displayName": "法杖",
+    "normalItemDisplayName": "法杖",
     "exceptionalItemDisplayName": "烧焦之杖",
     "eliteItemDisplayName": "洗练法杖",
     "itemTier": "普通",
@@ -665,7 +665,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "伊罗的火炬",
+        "uniqueName": "衣洛的火炬",
         "uniqueCode": "wnd"
       }
     ]
@@ -726,7 +726,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "大漩涡",
+        "uniqueName": "漩涡",
         "uniqueCode": "ywn"
       }
     ]
@@ -787,7 +787,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "墓穴脊椎",
+        "uniqueName": "墓穴之脊",
         "uniqueCode": "bwn"
       }
     ]
@@ -848,7 +848,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "乌米的悲叹",
+        "uniqueName": "乌米的恸哭",
         "uniqueCode": "gwn"
       }
     ]
@@ -909,7 +909,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "费洛橡木",
+        "uniqueName": "凶猛橡树",
         "uniqueCode": "clb"
       }
     ]
@@ -970,7 +970,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "丧钟打击者",
+        "uniqueName": "敲击丧钟者",
         "uniqueCode": "scp"
       }
     ]
@@ -1031,7 +1031,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "锈柄",
+        "uniqueName": "腐蚀的把手",
         "uniqueCode": "gsc"
       }
     ]
@@ -1092,7 +1092,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "风暴之眼",
+        "uniqueName": "暴风眼",
         "uniqueCode": "wsp"
       }
     ]
@@ -1153,7 +1153,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "粗钉",
+        "uniqueName": "坚硬的指甲",
         "uniqueCode": "spc"
       }
     ]
@@ -1214,7 +1214,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "碾压突缘",
+        "uniqueName": "压碎的凸边",
         "uniqueCode": "mac"
       }
     ]
@@ -1307,7 +1307,7 @@
     "displayName": "链枷",
     "normalItemDisplayName": "链枷",
     "exceptionalItemDisplayName": "铁皮鞭",
-    "eliteItemDisplayName": "鞭",
+    "eliteItemDisplayName": "天罚之锤",
     "itemTier": "普通",
     "itemType": {
       "displayName": "锤类",
@@ -1336,7 +1336,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "将军的坦多利加",
+        "uniqueName": "坦－杜－里－嘎将军",
         "uniqueCode": "fla"
       }
     ]
@@ -1519,7 +1519,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "钢椎",
+        "uniqueName": "铁制大锤",
         "uniqueCode": "gma"
       }
     ]
@@ -1580,7 +1580,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "里索特的利刃",
+        "uniqueName": "瑞克撒特的挽歌",
         "uniqueCode": "ssd"
       }
     ]
@@ -1702,7 +1702,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "克林蒂兹的串刺",
+        "uniqueName": "格林提斯的肉叉",
         "uniqueCode": "sbr"
       }
     ]
@@ -1763,7 +1763,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "微光之镰",
+        "uniqueName": "闪耀的镰刀",
         "uniqueCode": "flc"
       }
     ]
@@ -1880,7 +1880,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "格里斯沃尔德的边缘",
+        "uniqueName": "格瑞斯华尔德的锐利",
         "uniqueCode": "bsd"
       }
     ]
@@ -2002,7 +2002,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "库尔温之尖",
+        "uniqueName": "库尔温的尖端",
         "uniqueCode": "wsd"
       }
     ]
@@ -2033,7 +2033,7 @@
     "name": "双手剑",
     "displayName": "双手剑",
     "normalItemDisplayName": "双手剑",
-    "exceptionalItemDisplayName": "双刃大剑",
+    "exceptionalItemDisplayName": "斩铁剑",
     "eliteItemDisplayName": "传说之剑",
     "itemTier": "普通",
     "itemType": {
@@ -2063,7 +2063,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "暗影之牙",
+        "uniqueName": "影之牙",
         "uniqueCode": "2hs"
       }
     ]
@@ -2124,7 +2124,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "剥魂",
+        "uniqueName": "剥皮灵魂",
         "uniqueCode": "clm"
       }
     ]
@@ -2185,7 +2185,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "基尼米尔的锥子",
+        "uniqueName": "金麦尔的锥子",
         "uniqueCode": "gis"
       }
     ]
@@ -2246,7 +2246,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "黑舌",
+        "uniqueName": "黑色之舌",
         "uniqueCode": "bsw"
       }
     ]
@@ -2307,7 +2307,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "撕裂锯",
+        "uniqueName": "粗齿大锯",
         "uniqueCode": "flb"
       }
     ]
@@ -2461,7 +2461,7 @@
     "displayName": "长匕首",
     "normalItemDisplayName": "长匕首",
     "exceptionalItemDisplayName": "诗歌匕首",
-    "eliteItemDisplayName": "秘银尖刺",
+    "eliteItemDisplayName": "秘银小刀",
     "itemTier": "普通",
     "itemType": {
       "displayName": "匕首类",
@@ -2490,7 +2490,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "掘地者",
+        "uniqueName": "迪格勒",
         "uniqueCode": "dir"
       }
     ]
@@ -2551,7 +2551,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "翡翠坦多",
+        "uniqueName": "坦杜之玉",
         "uniqueCode": "kri"
       }
     ]
@@ -2579,9 +2579,9 @@
     "exceptionalTierCode": "9bl",
     "eliteTierCode": "7bl",
     "maxSockets": "2",
-    "name": "刀锋之",
-    "displayName": "刀锋之",
-    "normalItemDisplayName": "刀锋之",
+    "name": "短刀",
+    "displayName": "短刀",
+    "normalItemDisplayName": "短刀",
     "exceptionalItemDisplayName": "小剑",
     "eliteItemDisplayName": "传说尖刺",
     "itemTier": "普通",
@@ -2612,7 +2612,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "幽魂碎片",
+        "uniqueName": "妖怪碎片",
         "uniqueCode": "bld"
       }
     ]
@@ -3177,7 +3177,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "龙昌",
+        "uniqueName": "张龙",
         "uniqueCode": "spr"
       }
     ]
@@ -3299,7 +3299,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "血之窃贼",
+        "uniqueName": "血之偷",
         "uniqueCode": "brn"
       }
     ]
@@ -3360,7 +3360,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "亚盖之枪",
+        "uniqueName": "雅该长矛",
         "uniqueCode": "spt"
       }
     ]
@@ -3421,7 +3421,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "坦恩的血棒",
+        "uniqueName": "坦之血杖",
         "uniqueCode": "pik"
       }
     ]
@@ -3482,7 +3482,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "迪莫克之砍",
+        "uniqueName": "迪马克之劈砍",
         "uniqueCode": "bar"
       }
     ]
@@ -3543,7 +3543,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "钢刺",
+        "uniqueName": "铁刺棒",
         "uniqueCode": "vou"
       }
     ]
@@ -3604,7 +3604,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "灵魂收割",
+        "uniqueName": "灵魂采集者",
         "uniqueCode": "scy"
       }
     ]
@@ -3665,7 +3665,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "战枝",
+        "uniqueName": "战斗支系",
         "uniqueCode": "pax"
       }
     ]
@@ -3726,7 +3726,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "悲杖",
+        "uniqueName": "烦恼诗集",
         "uniqueCode": "hal"
       }
     ]
@@ -3787,7 +3787,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "冷酷死神",
+        "uniqueName": "冷酷开膛手",
         "uniqueCode": "wsc"
       }
     ]
@@ -3848,7 +3848,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "灾厄之烬",
+        "uniqueName": "祸根之灰",
         "uniqueCode": "sst"
       }
     ]
@@ -3909,7 +3909,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "蛇王",
+        "uniqueName": "海蛇之王",
         "uniqueCode": "lst"
       }
     ]
@@ -3970,7 +3970,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "拉扎鲁斯的法杖",
+        "uniqueName": "拉撒罗斯之螺旋",
         "uniqueCode": "cst"
       }
     ]
@@ -4031,7 +4031,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "火蜥蜴",
+        "uniqueName": "火精灵",
         "uniqueCode": "bst"
       }
     ]
@@ -4092,7 +4092,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "铁长棒",
+        "uniqueName": "铁检棒",
         "uniqueCode": "wst"
       }
     ]
@@ -4143,7 +4143,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "拔眼之弓",
+        "uniqueName": "勇气之眼",
         "uniqueCode": "sbw"
       }
     ]
@@ -4194,7 +4194,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "枯萎之弦",
+        "uniqueName": "凋谢之戒",
         "uniqueCode": "hbw"
       }
     ]
@@ -4245,7 +4245,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "渡鸦之爪",
+        "uniqueName": "渡鸟之爪",
         "uniqueCode": "lbw"
       }
     ]
@@ -4296,7 +4296,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "游侠之弓",
+        "uniqueName": "萝格之弓",
         "uniqueCode": "cbw"
       }
     ]
@@ -4347,7 +4347,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "风暴打击",
+        "uniqueName": "暴风之击",
         "uniqueCode": "sbb"
       }
     ]
@@ -4398,7 +4398,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "干枯之弓",
+        "uniqueName": "凋谢之画",
         "uniqueCode": "lbb"
       }
     ]
@@ -4449,7 +4449,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "地狱雷鸣",
+        "uniqueName": "作响的地狱",
         "uniqueCode": "swb"
       }
     ]
@@ -4500,7 +4500,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "爆裂树皮",
+        "uniqueName": "爆裂的吠叫",
         "uniqueCode": "lwb"
       }
     ]
@@ -4551,7 +4551,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "铅乌鸦",
+        "uniqueName": "引导乌鸦",
         "uniqueCode": "lxb"
       }
     ]
@@ -4633,7 +4633,7 @@
     "name": "重十字弓",
     "displayName": "重十字弓",
     "normalItemDisplayName": "重十字弓",
-    "exceptionalItemDisplayName": "弩炮",
+    "exceptionalItemDisplayName": "弩弓",
     "eliteItemDisplayName": "巨神十字弓",
     "itemTier": "普通",
     "itemType": {
@@ -4653,7 +4653,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "地狱投掷",
+        "uniqueName": "投掷地狱",
         "uniqueCode": "hxb"
       }
     ]
@@ -4704,10 +4704,165 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "末日投掷",
+        "uniqueName": "毁灭投石者",
         "uniqueCode": "rxb"
       }
     ]
+  },
+  {
+    "type": "knif",
+    "secondType": "1han",
+    "code": "d33",
+    "minDamage": 1,
+    "maxDamage": 2,
+    "oneOrTwoHanded": null,
+    "twoHanded": null,
+    "twoHandedMinDamage": null,
+    "twoHandedMaxDamage": null,
+    "minMissileDamage": null,
+    "maxMissileDamage": null,
+    "speed": "-20",
+    "requiredStrength": 15,
+    "requiredDexterity": 20,
+    "noDurability": null,
+    "durability": 10,
+    "level": 0,
+    "requiredLevel": 0,
+    "normalTierCode": "d33",
+    "exceptionalTierCode": null,
+    "eliteTierCode": null,
+    "maxSockets": null,
+    "name": "吉得宾诱饵",
+    "displayName": "吉得宾诱饵",
+    "normalItemDisplayName": "吉得宾诱饵",
+    "exceptionalItemDisplayName": null,
+    "eliteItemDisplayName": null,
+    "itemTier": "普通",
+    "uniques": null
+  },
+  {
+    "type": "knif",
+    "secondType": "1han",
+    "code": "g33",
+    "minDamage": 3,
+    "maxDamage": 7,
+    "oneOrTwoHanded": null,
+    "twoHanded": null,
+    "twoHandedMinDamage": null,
+    "twoHandedMaxDamage": null,
+    "minMissileDamage": null,
+    "maxMissileDamage": null,
+    "speed": "-20",
+    "requiredStrength": 15,
+    "requiredDexterity": 25,
+    "noDurability": null,
+    "durability": 30,
+    "level": 0,
+    "requiredLevel": 0,
+    "normalTierCode": "g33",
+    "exceptionalTierCode": "9dg",
+    "eliteTierCode": "7dg",
+    "maxSockets": "2",
+    "name": "吉得宾",
+    "displayName": "吉得宾",
+    "normalItemDisplayName": "吉得宾",
+    "exceptionalItemDisplayName": "锐匕",
+    "eliteItemDisplayName": "骸骨小刀",
+    "itemTier": "普通",
+    "uniques": null
+  },
+  {
+    "type": "club",
+    "secondType": "1han",
+    "code": "leg",
+    "minDamage": 2,
+    "maxDamage": 8,
+    "oneOrTwoHanded": null,
+    "twoHanded": null,
+    "twoHandedMinDamage": null,
+    "twoHandedMaxDamage": null,
+    "minMissileDamage": null,
+    "maxMissileDamage": null,
+    "speed": "-10",
+    "requiredStrength": null,
+    "requiredDexterity": null,
+    "noDurability": null,
+    "durability": 66,
+    "level": 0,
+    "requiredLevel": 0,
+    "normalTierCode": "leg",
+    "exceptionalTierCode": "9cl",
+    "eliteTierCode": "7cl",
+    "maxSockets": "3",
+    "name": "维特之腿",
+    "displayName": "维特之腿",
+    "normalItemDisplayName": "维特之腿",
+    "exceptionalItemDisplayName": "棍棒",
+    "eliteItemDisplayName": "战仪杖",
+    "itemTier": "普通",
+    "uniques": null
+  },
+  {
+    "type": "hamm",
+    "secondType": "1han",
+    "code": "hdm",
+    "minDamage": 6,
+    "maxDamage": 15,
+    "oneOrTwoHanded": null,
+    "twoHanded": null,
+    "twoHandedMinDamage": null,
+    "twoHandedMaxDamage": null,
+    "minMissileDamage": null,
+    "maxMissileDamage": null,
+    "speed": "20",
+    "requiredStrength": 15,
+    "requiredDexterity": 15,
+    "noDurability": null,
+    "durability": 55,
+    "level": 0,
+    "requiredLevel": 0,
+    "normalTierCode": "hdm",
+    "exceptionalTierCode": "9wh",
+    "eliteTierCode": "7wh",
+    "maxSockets": "2",
+    "name": "赫拉迪克－马勒斯",
+    "displayName": "赫拉迪克－马勒斯",
+    "normalItemDisplayName": "赫拉迪克－马勒斯",
+    "exceptionalItemDisplayName": "战斗铁锤",
+    "eliteItemDisplayName": "传说之锤",
+    "itemTier": "普通",
+    "uniques": null
+  },
+  {
+    "type": "hamm",
+    "secondType": "1han",
+    "code": "hfh",
+    "minDamage": 6,
+    "maxDamage": 15,
+    "oneOrTwoHanded": null,
+    "twoHanded": null,
+    "twoHandedMinDamage": null,
+    "twoHandedMaxDamage": null,
+    "minMissileDamage": null,
+    "maxMissileDamage": null,
+    "speed": null,
+    "requiredStrength": null,
+    "requiredDexterity": null,
+    "noDurability": null,
+    "durability": 55,
+    "level": 0,
+    "requiredLevel": 0,
+    "normalTierCode": "hfh",
+    "exceptionalTierCode": "9wh",
+    "eliteTierCode": "7wh",
+    "maxSockets": "5",
+    "name": "地狱熔炉铁锤",
+    "displayName": "地狱熔炉铁锤",
+    "normalItemDisplayName": "地狱熔炉铁锤",
+    "exceptionalItemDisplayName": "战斗铁锤",
+    "eliteItemDisplayName": "传说之锤",
+    "itemTier": "普通",
+    "uniques": null
   },
   {
     "type": "staf",
@@ -4732,9 +4887,9 @@
     "exceptionalTierCode": "8bs",
     "eliteTierCode": "6bs",
     "maxSockets": "4",
-    "name": "赫拉迪克法杖",
-    "displayName": "赫拉迪克法杖",
-    "normalItemDisplayName": "赫拉迪克法杖",
+    "name": "赫拉迪克之杖",
+    "displayName": "赫拉迪克之杖",
+    "normalItemDisplayName": "赫拉迪克之杖",
     "exceptionalItemDisplayName": "哥德之棍",
     "eliteItemDisplayName": "树皮之杖",
     "itemTier": "普通",
@@ -4763,6 +4918,37 @@
     "onlyClassDisplayText": null,
     "highlight": false,
     "dontDisplay": false,
+    "uniques": null
+  },
+  {
+    "type": "staf",
+    "secondType": "2han",
+    "code": "msf",
+    "minDamage": null,
+    "maxDamage": null,
+    "oneOrTwoHanded": null,
+    "twoHanded": "1",
+    "twoHandedMinDamage": 10,
+    "twoHandedMaxDamage": 15,
+    "minMissileDamage": null,
+    "maxMissileDamage": null,
+    "speed": null,
+    "requiredStrength": 25,
+    "requiredDexterity": null,
+    "noDurability": null,
+    "durability": 45,
+    "level": 0,
+    "requiredLevel": 0,
+    "normalTierCode": "msf",
+    "exceptionalTierCode": "8bs",
+    "eliteTierCode": "6bs",
+    "maxSockets": "3",
+    "name": "赫拉迪克之杖的转轴",
+    "displayName": "赫拉迪克之杖的转轴",
+    "normalItemDisplayName": "赫拉迪克之杖的转轴",
+    "exceptionalItemDisplayName": "哥德之棍",
+    "eliteItemDisplayName": "树皮之杖",
+    "itemTier": "普通",
     "uniques": null
   },
   {
@@ -5065,7 +5251,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "守护那加",
+        "uniqueName": "蛇神守护者",
         "uniqueCode": "9wa"
       }
     ]
@@ -5126,7 +5312,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "霸主的信任",
+        "uniqueName": "战爵之证",
         "uniqueCode": "9la"
       }
     ]
@@ -5187,7 +5373,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "咒术之钢",
+        "uniqueName": "钢铁魔咒",
         "uniqueCode": "9ba"
       }
     ]
@@ -5248,7 +5434,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "风暴骑士",
+        "uniqueName": "暴风骑士",
         "uniqueCode": "9bt"
       }
     ]
@@ -5309,7 +5495,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "屠骨之刃",
+        "uniqueName": "碎骨者之刃",
         "uniqueCode": "9ga"
       }
     ]
@@ -5400,7 +5586,7 @@
     "maxSockets": "1",
     "name": "烧焦之杖",
     "displayName": "烧焦之杖",
-    "normalItemDisplayName": "杖",
+    "normalItemDisplayName": "法杖",
     "exceptionalItemDisplayName": "烧焦之杖",
     "eliteItemDisplayName": "洗练法杖",
     "itemTier": "扩展",
@@ -5431,7 +5617,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "自杀分支之杖",
+        "uniqueName": "自杀支系",
         "uniqueCode": "9wn"
       }
     ]
@@ -5492,7 +5678,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "卡林碎片",
+        "uniqueName": "凯恩碎片",
         "uniqueCode": "9yw"
       }
     ]
@@ -5553,11 +5739,11 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "李奥瑞克王的臂膀",
+        "uniqueName": "李奥瑞克王的武器",
         "uniqueCode": "9bw"
       },
       {
-        "uniqueName": "李奥瑞克王的臂膀",
+        "uniqueName": "李奥瑞克王的武器",
         "uniqueCode": "9bw"
       }
     ]
@@ -5679,7 +5865,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "黑暗氏族碾压者",
+        "uniqueName": "闇族碎灭者",
         "uniqueCode": "9cl"
       }
     ]
@@ -5740,7 +5926,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "萨卡兰姆之手",
+        "uniqueName": "撒卡兰姆之手",
         "uniqueCode": "9sc"
       }
     ]
@@ -5801,7 +5987,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "恶臭喷洒器",
+        "uniqueName": "恶臭散布者",
         "uniqueCode": "9qs"
       }
     ]
@@ -5862,7 +6048,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "圣光之手",
+        "uniqueName": "祝福之光之手",
         "uniqueCode": "9ws"
       }
     ]
@@ -5923,7 +6109,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "血肉撕裂者",
+        "uniqueName": "血肉裁决者",
         "uniqueCode": "9sp"
       }
     ]
@@ -5984,7 +6170,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "尖啸寒霜",
+        "uniqueName": "尖啸冰霜",
         "uniqueCode": "9ma"
       }
     ]
@@ -6045,7 +6231,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "月落",
+        "uniqueName": "落月",
         "uniqueCode": "9mt"
       }
     ]
@@ -6077,7 +6263,7 @@
     "displayName": "铁皮鞭",
     "normalItemDisplayName": "链枷",
     "exceptionalItemDisplayName": "铁皮鞭",
-    "eliteItemDisplayName": "鞭",
+    "eliteItemDisplayName": "天罚之锤",
     "itemTier": "扩展",
     "itemType": {
       "displayName": "锤类",
@@ -6106,7 +6292,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "贝泽尔的漩涡",
+        "uniqueName": "贝西尔的漩涡",
         "uniqueCode": "9fl"
       }
     ]
@@ -6167,7 +6353,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "大地震撼者",
+        "uniqueName": "撼地者",
         "uniqueCode": "9wh"
       }
     ]
@@ -6228,7 +6414,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "血树残桩",
+        "uniqueName": "血树残株",
         "uniqueCode": "9m9"
       }
     ]
@@ -6289,7 +6475,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "痛苦之槌",
+        "uniqueName": "痛苦木锤",
         "uniqueCode": "9gm"
       }
     ]
@@ -6350,7 +6536,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "放血者",
+        "uniqueName": "血书",
         "uniqueCode": "9ss"
       }
     ]
@@ -6411,7 +6597,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "冷钢之眼",
+        "uniqueName": "冰钢之眼",
         "uniqueCode": "9sm"
       }
     ]
@@ -6472,7 +6658,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "巫火",
+        "uniqueName": "六角之火",
         "uniqueCode": "9sb"
       }
     ]
@@ -6594,7 +6780,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "金瑟的裂口",
+        "uniqueName": "金瑟的裂缝",
         "uniqueCode": "9cr"
       }
     ]
@@ -6655,7 +6841,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "斩首者",
+        "uniqueName": "击头者",
         "uniqueCode": "9bs"
       }
     ]
@@ -6716,7 +6902,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "瘟疫携带者",
+        "uniqueName": "疫病带原者",
         "uniqueCode": "9ls"
       }
     ]
@@ -6777,7 +6963,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "亚特兰蒂斯",
+        "uniqueName": "亚特拉斯",
         "uniqueCode": "9wd"
       }
     ]
@@ -6805,10 +6991,10 @@
     "exceptionalTierCode": "92h",
     "eliteTierCode": "72h",
     "maxSockets": "3",
-    "name": "双刃大剑",
-    "displayName": "双刃大剑",
+    "name": "斩铁剑",
+    "displayName": "斩铁剑",
     "normalItemDisplayName": "双手剑",
-    "exceptionalItemDisplayName": "双刃大剑",
+    "exceptionalItemDisplayName": "斩铁剑",
     "eliteItemDisplayName": "传说之剑",
     "itemTier": "扩展",
     "itemType": {
@@ -6838,7 +7024,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "克雷恩特·沃米尔",
+        "uniqueName": "克林铁－弗姆",
         "uniqueCode": "92h"
       }
     ]
@@ -6899,7 +7085,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "冰之王",
+        "uniqueName": "兵之王",
         "uniqueCode": "9cm"
       }
     ]
@@ -6960,7 +7146,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "邪恶外壳",
+        "uniqueName": "卑劣躯壳",
         "uniqueCode": "9gs"
       }
     ]
@@ -7082,7 +7268,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "死亡烈焰",
+        "uniqueName": "特迪斯法雷－芙法米",
         "uniqueCode": "9fb"
       }
     ]
@@ -7204,7 +7390,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "断脊者",
+        "uniqueName": "裂脊者",
         "uniqueCode": "9dg"
       }
     ]
@@ -7236,7 +7422,7 @@
     "displayName": "诗歌匕首",
     "normalItemDisplayName": "长匕首",
     "exceptionalItemDisplayName": "诗歌匕首",
-    "eliteItemDisplayName": "秘银尖刺",
+    "eliteItemDisplayName": "秘银小刀",
     "itemTier": "扩展",
     "itemType": {
       "displayName": "匕首类",
@@ -7265,7 +7451,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "剜心者",
+        "uniqueName": "刻心者",
         "uniqueCode": "9di"
       }
     ]
@@ -7356,7 +7542,7 @@
     "maxSockets": "2",
     "name": "小剑",
     "displayName": "小剑",
-    "normalItemDisplayName": "刀锋之",
+    "normalItemDisplayName": "短刀",
     "exceptionalItemDisplayName": "小剑",
     "eliteItemDisplayName": "传说尖刺",
     "itemTier": "扩展",
@@ -7387,7 +7573,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "风暴之刺",
+        "uniqueName": "暴风尖刺",
         "uniqueCode": "9bl"
       }
     ]
@@ -7448,7 +7634,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "死亡之咬",
+        "uniqueName": "死亡碎片",
         "uniqueCode": "9tk"
       }
     ]
@@ -7509,7 +7695,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "剥头皮者",
+        "uniqueName": "圆凿",
         "uniqueCode": "9ta"
       }
     ]
@@ -7967,7 +8153,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "刺穿者",
+        "uniqueName": "穿刺者",
         "uniqueCode": "9sr"
       }
     ]
@@ -8028,7 +8214,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "水妖陷阱",
+        "uniqueName": "水魔陷阱",
         "uniqueCode": "9tr"
       }
     ]
@@ -8089,7 +8275,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "噬魂之叉",
+        "uniqueName": "噬魂叉",
         "uniqueCode": "9br"
       }
     ]
@@ -8150,7 +8336,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "洪森丹",
+        "uniqueName": "宏－森丹",
         "uniqueCode": "9st"
       }
     ]
@@ -8211,7 +8397,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "荣誉之矛",
+        "uniqueName": "荣耀的尖塔",
         "uniqueCode": "9p9"
       }
     ]
@@ -8272,7 +8458,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "刮肉刀",
+        "uniqueName": "刮肉者",
         "uniqueCode": "9b7"
       }
     ]
@@ -8333,7 +8519,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "黑蛭之刃",
+        "uniqueName": "黑水之刃",
         "uniqueCode": "9vo"
       }
     ]
@@ -8394,7 +8580,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "雅典娜之怒",
+        "uniqueName": "雅典娜的忿怒",
         "uniqueCode": "9s8"
       }
     ]
@@ -8455,7 +8641,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "皮埃尔的墓刃",
+        "uniqueName": "皮尔－通把－考恩特",
         "uniqueCode": "9pa"
       }
     ]
@@ -8516,7 +8702,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "胡索达尔·埃沃",
+        "uniqueName": "胡索丹－依弗",
         "uniqueCode": "9h9"
       }
     ]
@@ -8577,7 +8763,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "格林的燃烧之死",
+        "uniqueName": "惊怖焰亡灵",
         "uniqueCode": "9wc"
       }
     ]
@@ -8638,7 +8824,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "剃刀之杖",
+        "uniqueName": "摆动剃刀",
         "uniqueCode": "8ss"
       }
     ]
@@ -8760,7 +8946,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "五彩之怒",
+        "uniqueName": "五彩的怒气",
         "uniqueCode": "8cs"
       }
     ]
@@ -9035,7 +9221,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "库科·沙卡库",
+        "uniqueName": "社角久子",
         "uniqueCode": "8lb"
       }
     ]
@@ -9086,7 +9272,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "无尽冰雹",
+        "uniqueName": "无休止的冰雹",
         "uniqueCode": "8cb"
       }
     ]
@@ -9188,7 +9374,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "悬崖杀手",
+        "uniqueName": "岩壁杀手",
         "uniqueCode": "8l8"
       }
     ]
@@ -9239,7 +9425,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "法师之怒",
+        "uniqueName": "巫师之怒",
         "uniqueCode": "8sw"
       }
     ]
@@ -9290,7 +9476,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "金击之弓",
+        "uniqueName": "金击圆弧",
         "uniqueCode": "8lw"
       }
     ]
@@ -9341,7 +9527,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "朗格·布利泽",
+        "uniqueName": "兰格－布里瑟",
         "uniqueCode": "8lx"
       }
     ]
@@ -9392,7 +9578,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "吐脓者",
+        "uniqueName": "毒液怪",
         "uniqueCode": "8mx"
       }
     ]
@@ -9420,10 +9606,10 @@
     "exceptionalTierCode": "8hx",
     "eliteTierCode": "6hx",
     "maxSockets": "6",
-    "name": "弩炮",
-    "displayName": "弩炮",
+    "name": "弩弓",
+    "displayName": "弩弓",
     "normalItemDisplayName": "重十字弓",
-    "exceptionalItemDisplayName": "弩炮",
+    "exceptionalItemDisplayName": "弩弓",
     "eliteItemDisplayName": "巨神十字弓",
     "itemTier": "扩展",
     "itemType": {
@@ -9443,7 +9629,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "布里撒-多-凯南",
+        "uniqueName": "布理撒－多－凯南",
         "uniqueCode": "8hx"
       }
     ]
@@ -9522,11 +9708,11 @@
     "exceptionalTierCode": "9fl",
     "eliteTierCode": "7fl",
     "maxSockets": "3",
-    "name": "克林姆的连枷",
-    "displayName": "克林姆的连枷",
-    "normalItemDisplayName": "克林姆的连枷",
+    "name": "克林姆的链枷",
+    "displayName": "克林姆的链枷",
+    "normalItemDisplayName": "克林姆的链枷",
     "exceptionalItemDisplayName": "铁皮鞭",
-    "eliteItemDisplayName": "鞭",
+    "eliteItemDisplayName": "天罚之锤",
     "itemTier": "普通",
     "itemType": {
       "displayName": "锤类",
@@ -9578,11 +9764,11 @@
     "exceptionalTierCode": "9fl",
     "eliteTierCode": "7fl",
     "maxSockets": "3",
-    "name": "强化克林姆连枷",
-    "displayName": "强化克林姆连枷",
-    "normalItemDisplayName": "强化克林姆连枷",
+    "name": "克林姆的意志",
+    "displayName": "克林姆的意志",
+    "normalItemDisplayName": "克林姆的意志",
     "exceptionalItemDisplayName": "铁皮鞭",
-    "eliteItemDisplayName": "鞭",
+    "eliteItemDisplayName": "天罚之锤",
     "itemTier": "普通",
     "itemType": {
       "displayName": "锤类",
@@ -10517,7 +10703,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "翡翠之爪",
+        "uniqueName": "碧玉爪",
         "uniqueCode": "7wb"
       },
       {
@@ -10643,7 +10829,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "暗影杀手",
+        "uniqueName": "影杀者",
         "uniqueCode": "7cs"
       }
     ]
@@ -10704,7 +10890,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "火蜥蜴的利爪",
+        "uniqueName": "火蜥蜴之爪",
         "uniqueCode": "7lw"
       }
     ]
@@ -10887,7 +11073,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "剃刀之锋",
+        "uniqueName": "刀锋边缘",
         "uniqueCode": "7ha"
       }
     ]
@@ -11065,7 +11251,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "鹤嘴啄",
+        "uniqueName": "鹤嘴",
         "uniqueCode": "7mp"
       }
     ]
@@ -11126,7 +11312,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "死亡切割者",
+        "uniqueName": "死亡之刀",
         "uniqueCode": "7wa"
       }
     ]
@@ -11243,7 +11429,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "虚无之刃",
+        "uniqueName": "永恒边界",
         "uniqueCode": "7ba"
       }
     ]
@@ -11304,7 +11490,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "地狱杀戮者",
+        "uniqueName": "地狱毁灭者",
         "uniqueCode": "7bt"
       },
       {
@@ -11369,7 +11555,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "梅塞施密特的掠夺者",
+        "uniqueName": "希梅斯特的掠夺",
         "uniqueCode": "7ga"
       }
     ]
@@ -11460,7 +11646,7 @@
     "maxSockets": "2",
     "name": "洗练法杖",
     "displayName": "洗练法杖",
-    "normalItemDisplayName": "杖",
+    "normalItemDisplayName": "法杖",
     "exceptionalItemDisplayName": "烧焦之杖",
     "eliteItemDisplayName": "洗练法杖",
     "itemTier": "精英",
@@ -11608,7 +11794,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "骨影",
+        "uniqueName": "白骨阴影",
         "uniqueCode": "7bw"
       }
     ]
@@ -11742,7 +11928,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "诺德的蚀肉器",
+        "uniqueName": "诺德的蚀肉药",
         "uniqueCode": "7cl"
       }
     ]
@@ -11807,7 +11993,7 @@
         "uniqueCode": "7sc"
       },
       {
-        "uniqueName": "救赎者",
+        "uniqueName": "忏悔者",
         "uniqueCode": "7sc"
       }
     ]
@@ -11933,11 +12119,11 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "亚斯特龙的钢铁守护",
+        "uniqueName": "爱斯特龙之铁的保护区",
         "uniqueCode": "7ws"
       },
       {
-        "uniqueName": "法拉的怨恨",
+        "uniqueName": "法拉之怨",
         "uniqueCode": "7ws"
       },
       {
@@ -12006,7 +12192,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "恶魔之肢",
+        "uniqueName": "恶魔爪牙",
         "uniqueCode": "7sp"
       }
     ]
@@ -12151,11 +12337,11 @@
     "exceptionalTierCode": "9fl",
     "eliteTierCode": "7fl",
     "maxSockets": "5",
-    "name": "鞭",
-    "displayName": "鞭",
+    "name": "天罚之锤",
+    "displayName": "天罚之锤",
     "normalItemDisplayName": "链枷",
     "exceptionalItemDisplayName": "铁皮鞭",
-    "eliteItemDisplayName": "鞭",
+    "eliteItemDisplayName": "天罚之锤",
     "itemTier": "精英",
     "itemType": {
       "displayName": "锤类",
@@ -12184,11 +12370,11 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "地平线的龙卷风",
+        "uniqueName": "地平线的台风",
         "uniqueCode": "7fl"
       },
       {
-        "uniqueName": "风暴之鞭",
+        "uniqueName": "暴风之结",
         "uniqueCode": "7fl"
       }
     ]
@@ -12249,7 +12435,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "舍费尔的锤子",
+        "uniqueName": "史恰佛之锤",
         "uniqueCode": "7wh"
       },
       {
@@ -12375,11 +12561,11 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "颅骨粉碎者",
+        "uniqueName": "碎脑锤",
         "uniqueCode": "7gm"
       },
       {
-        "uniqueName": "大地移位者",
+        "uniqueName": "大地变形者",
         "uniqueCode": "7gm"
       },
       {
@@ -12500,7 +12686,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "巨灵杀手",
+        "uniqueName": "魔灵杀手",
         "uniqueCode": "7sm"
       }
     ]
@@ -12682,7 +12868,7 @@
         "uniqueCode": "7cr"
       },
       {
-        "uniqueName": "青色愤怒",
+        "uniqueName": "碧蓝怒火",
         "uniqueCode": "7cr"
       },
       {
@@ -12808,7 +12994,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "霜风",
+        "uniqueName": "冰霜之风",
         "uniqueCode": "7ls"
       }
     ]
@@ -12900,7 +13086,7 @@
     "name": "传说之剑",
     "displayName": "传说之剑",
     "normalItemDisplayName": "双手剑",
-    "exceptionalItemDisplayName": "双刃大剑",
+    "exceptionalItemDisplayName": "斩铁剑",
     "eliteItemDisplayName": "传说之剑",
     "itemTier": "精英",
     "itemType": {
@@ -13047,7 +13233,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "烈焰咆哮",
+        "uniqueName": "火焰号叫",
         "uniqueCode": "7gs"
       }
     ]
@@ -13108,7 +13294,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "末日使者",
+        "uniqueName": "末日毁灭者",
         "uniqueCode": "7b7"
       }
     ]
@@ -13169,7 +13355,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "憎恶",
+        "uniqueName": "厌恶",
         "uniqueCode": "7fb"
       }
     ]
@@ -13319,11 +13505,11 @@
     "exceptionalTierCode": "9di",
     "eliteTierCode": "7di",
     "maxSockets": "2",
-    "name": "秘银尖刺",
-    "displayName": "秘银尖刺",
+    "name": "秘银小刀",
+    "displayName": "秘银小刀",
     "normalItemDisplayName": "长匕首",
     "exceptionalItemDisplayName": "诗歌匕首",
-    "eliteItemDisplayName": "秘银尖刺",
+    "eliteItemDisplayName": "秘银小刀",
     "itemTier": "精英",
     "itemType": {
       "displayName": "匕首类",
@@ -13413,7 +13599,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "碎肉者",
+        "uniqueName": "裂肉者",
         "uniqueCode": "7kr"
       }
     ]
@@ -13443,7 +13629,7 @@
     "maxSockets": "2",
     "name": "传说尖刺",
     "displayName": "传说尖刺",
-    "normalItemDisplayName": "刀锋之",
+    "normalItemDisplayName": "短刀",
     "exceptionalItemDisplayName": "小剑",
     "eliteItemDisplayName": "传说尖刺",
     "itemTier": "精英",
@@ -13474,7 +13660,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "鬼火",
+        "uniqueName": "鬼火焰",
         "uniqueCode": "7bl"
       }
     ]
@@ -13591,7 +13777,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "闪光碎片",
+        "uniqueName": "碎片贪婪者",
         "uniqueCode": "7ta"
       }
     ]
@@ -13652,7 +13838,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "战争伯劳",
+        "uniqueName": "战争之鸟",
         "uniqueCode": "7bk"
       }
     ]
@@ -13886,7 +14072,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "恶魔之拱",
+        "uniqueName": "恶魔之王",
         "uniqueCode": "7s7"
       }
     ]
@@ -13947,7 +14133,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "幽灵之翼",
+        "uniqueName": "死灵夜翔",
         "uniqueCode": "7gl"
       }
     ]
@@ -14008,7 +14194,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "石像鬼之咬",
+        "uniqueName": "石像鬼之噬",
         "uniqueCode": "7ts"
       }
     ]
@@ -14069,7 +14255,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "阿里欧克之针",
+        "uniqueName": "爱理欧克之针",
         "uniqueCode": "7sr"
       }
     ]
@@ -14186,7 +14372,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "毒蛇之叉",
+        "uniqueName": "蝮蛇叉",
         "uniqueCode": "7br"
       }
     ]
@@ -14308,7 +14494,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "钢铁之柱",
+        "uniqueName": "铁柱",
         "uniqueCode": "7p7"
       },
       {
@@ -14373,7 +14559,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "斩骨",
+        "uniqueName": "破骨",
         "uniqueCode": "7o7"
       },
       {
@@ -14560,7 +14746,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "古墓掠夺者",
+        "uniqueName": "盗墓者",
         "uniqueCode": "7pa"
       }
     ]
@@ -14677,7 +14863,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "风暴之塔",
+        "uniqueName": "暴风尖塔",
         "uniqueCode": "7wc"
       }
     ]
@@ -14850,7 +15036,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "翁达尔的智慧",
+        "uniqueName": "安戴尔的智慧",
         "uniqueCode": "6cs"
       }
     ]
@@ -15266,7 +15452,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "鹰角",
+        "uniqueName": "鹰号角",
         "uniqueCode": "6l7"
       }
     ]
@@ -15317,7 +15503,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "寡妇制造者",
+        "uniqueName": "戮夫刃",
         "uniqueCode": "6sw"
       },
       {
@@ -15499,7 +15685,7 @@
     "name": "巨神十字弓",
     "displayName": "巨神十字弓",
     "normalItemDisplayName": "重十字弓",
-    "exceptionalItemDisplayName": "弩炮",
+    "exceptionalItemDisplayName": "弩弓",
     "eliteItemDisplayName": "巨神十字弓",
     "itemTier": "精英",
     "itemType": {
@@ -15519,7 +15705,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "地狱之架",
+        "uniqueName": "地狱拷问",
         "uniqueCode": "6hx"
       }
     ]
@@ -15570,7 +15756,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "汲肠者",
+        "uniqueName": "内脏吸管",
         "uniqueCode": "6rx"
       }
     ]
@@ -15782,9 +15968,9 @@
     "exceptionalTierCode": "oba",
     "eliteTierCode": "obf",
     "maxSockets": "4",
-    "name": "龙石",
-    "displayName": "龙石",
-    "normalItemDisplayName": "龙石",
+    "name": "杰瑞德之石",
+    "displayName": "杰瑞德之石",
+    "normalItemDisplayName": "杰瑞德之石",
     "exceptionalItemDisplayName": "涡流水晶",
     "eliteItemDisplayName": "次元碎片",
     "itemTier": "普通",
@@ -16289,7 +16475,7 @@
     "maxSockets": "4",
     "name": "涡流水晶",
     "displayName": "涡流水晶",
-    "normalItemDisplayName": "龙石",
+    "normalItemDisplayName": "杰瑞德之石",
     "exceptionalItemDisplayName": "涡流水晶",
     "eliteItemDisplayName": "次元碎片",
     "itemTier": "扩展",
@@ -16407,7 +16593,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "莱坎德的瞄准",
+        "uniqueName": "雷山德的指标",
         "uniqueCode": "am7"
       }
     ]
@@ -16524,7 +16710,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "莱坎德的侧翼",
+        "uniqueName": "雷山德的侧腹",
         "uniqueCode": "am9"
       }
     ]
@@ -16814,7 +17000,7 @@
     "maxSockets": "4",
     "name": "次元碎片",
     "displayName": "次元碎片",
-    "normalItemDisplayName": "龙石",
+    "normalItemDisplayName": "杰瑞德之石",
     "exceptionalItemDisplayName": "涡流水晶",
     "eliteItemDisplayName": "次元碎片",
     "itemTier": "精英",
@@ -16886,7 +17072,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "血乌鸦之冲锋",
+        "uniqueName": "血鸟的袭击",
         "uniqueCode": "amb"
       }
     ]
@@ -16998,7 +17184,7 @@
     "dontDisplay": false,
     "uniques": [
       {
-        "uniqueName": "石鸦",
+        "uniqueName": "石乌鸦",
         "uniqueCode": "amd"
       }
     ]
@@ -17152,11 +17338,11 @@
     "exceptionalTierCode": "9cr2",
     "eliteTierCode": "7cr2",
     "maxSockets": "6",
-    "name": "双手幻化之刃",
-    "displayName": "双手幻化之刃",
+    "name": "幻化之刃",
+    "displayName": "幻化之刃",
     "normalItemDisplayName": "",
     "exceptionalItemDisplayName": "",
-    "eliteItemDisplayName": "双手幻化之刃",
+    "eliteItemDisplayName": "幻化之刃",
     "itemTier": "精英",
     "itemType": {
       "displayName": "",

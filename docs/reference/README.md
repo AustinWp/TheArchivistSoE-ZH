@@ -47,3 +47,32 @@ tools/generated/cube_recipes.json           （gitignore，不入库；随时可
   未覆盖的保留本站现有译名。
 - 标准模式 `Misc.txt` 等物品表滞后于实际游戏（部分条目只有串表条目并无物品定义）；
   交叉核验以两模式 `misc.bin`（游戏实际加载的物品表）为准，结论见 `verification-notes.md`。
+
+
+---
+
+## 国服客户端中文串表（2026-09-14 起纳入基准）
+
+除 `soe.txt`（服务端导出）外，**国服客户端**自带一份中文串表，这才是游戏真正加载、玩家看到的东西：
+
+| 文件 | 条数 | 说明 |
+|---|---|---|
+| `string.tbl` | 5391 | 基础游戏（D2 classic）|
+| `expansionstring.tbl` | 2818 | 资料片 |
+| `PatchString.tbl` | 4616 | 补丁（**PD2 新增串最多**：`mfo`/`exo`/`ncoi` 等只在这里）|
+
+来源：客户端包（如 `PD2-SOE-战网.zip`）里的 `Diablo II/SoE/Data/local/Lng/Chi/`。
+解出后放 `<工作区>/.sources/client-zh/`（不入库，路径可用 `$CLIENT_ZH` 覆盖）。
+
+**格式与坑（都实测踩过，别再重新发现）**：
+
+1. `.tbl` 是 **UTF-8 的 `key\0value\0` 序列**，文件头 `word@2` = 条数；同目录的 `.txt` 是**旧导出**
+   （08-16 vs `.tbl` 09-02），会给出过期值（`Blank` 旧 txt 写「空无」，实为「虚无」）→ **以 `.tbl` 为准**。
+2. 查找优先级 **PatchString > ExpansionString > String**，键名大小写不敏感。
+3. **`<key>_pd2` 覆盖键**（126 个）：PD2 用它顶替基础串，游戏显示 `_pd2` 的值
+   （`skillname17_pd2` = 迟缓，而 `skillname17` 是旧名「慢速箭」）。比对/合并都必须先查它。
+4. 值里带颜色码（`ÿc1`）与英文名（`军帽 Shako`）→ 清洗时**只剥「空白 + 字母开头、长度 ≥2」的尾巴**，
+   否则会把格式符剥掉（`所有抗性 +%d` 曾被剥成 `所有抗性 +%`）。
+5. `.tbl` 用**真换行**，本站数据历来用字面 `\n` → 入库时转换。
+
+工具：`tools/verify_client_zh.py`（校验）、`tools/apply_client_zh.py`（对齐）、`tools/client_zh.py`（唯一加载入口）。
