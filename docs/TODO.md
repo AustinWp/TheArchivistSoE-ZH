@@ -96,6 +96,20 @@ git -c http.proxy=http://127.0.0.1:7897 -c https.proxy=http://127.0.0.1:7897 pus
 **部署校验**：轮询 `https://api.github.com/repos/AustinWp/TheArchivistSoE-ZH/actions/runs?per_page=1`
 直到 `conclusion == success`，再抽查线上数据文件。
 
+### 什么时候才该 push（2026-09-14 定的规则）
+
+Actions **任何 push 到 main 都会跑**，没有路径过滤 —— 所以：
+
+| 改动类型 | 怎么做 |
+|---|---|
+| **内容**：`public/**`、`src/**` | 提交 + push（必然触发部署，应该的） |
+| **纯文档 / 工具**：`docs/**`、`tools/**`、`README.md`、`.gitignore` | **只本地提交，不 push**；攒到下次内容改动一起推 |
+
+理由：`docs/TODO.md` 这类文件**不参与站点构建**（已核实无任何脚本读取它），
+推了只跑一次「内容零变化」的空部署 —— 2026-09-14 干过两次（`2275891`、`8785602`），
+线上产物 asset hash 与本地完全一致，纯浪费 CI。
+代价是远端会落后几个纯文档提交，可接受。
+
 ---
 
 ## 四、2026-09-13 已完成（简要）
