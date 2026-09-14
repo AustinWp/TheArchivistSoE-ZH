@@ -28,3 +28,6 @@ dist-ssr
 __pycache__/
 *.pyc
 tools/generated/
+
+# 国服源码仓库（tools/source_repo.py 的候选位置之一）—— 别让它被 git add -A 扫进来
+.sources/

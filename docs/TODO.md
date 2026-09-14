@@ -2,6 +2,7 @@
 
 > **最后更新**：2026-09-14
 > **当前状态**：14 项审计全绿 · **45 条**断言通过 · `npm run lint` **0 error / 4 warning** · 本地已提交，**未推送**（push 后 Actions 自动发布）
+> 源码仓库已恢复到 `<工作区>/.sources/SOECN`（不再放 `/tmp`），自检：`python3 tools/source_repo.py`
 > 本文是「下次继续」的入口；具体规则细节在 [`../README.md`](../README.md)，本文只做索引与待办。
 
 ---
@@ -21,10 +22,12 @@
   2. 校验干净后，再考虑用它生成缺失条目。
 - ⚠️ **别把同样的思路用在 `Affixes.json` 上** —— 词缀那条路已试过并证明走不通
   （源码有 141 行是同一条词缀按物品类型重复登记；两组数据 key 对不齐，既缺 273 又多 226）。详见 README「4.3.2 已知缺口」。
+- **起点不是零**：`tools/unique_prop_parser.py`（中文属性串解析器）+ `tools/unique_prop_diff.py`（桥接 221 件暗金做数值 diff）
+  早在 2026-08-30 就写过，README §4.5 有登记。但 `tools/generated/` 是 gitignored → **当时那份报告已丢，要重跑一次**。
 
 **2. 国服「神授宝珠」问题简报 —— 已写好，是否发出由你定**
 
-- 文件：[`issue-divine-orb-damnation.md`](issue-divine-orb-damnation.md)
+- 文件：[`docs/reference/issue-divine-orb-damnation.md`](reference/issue-divine-orb-damnation.md)
 - **结论已更正过**：不是「狱铸装备拿不到」，而是「**定向**路线不可用 + 32 条启用配方成为死配方」
   （狱铸暗金本身在炼狱模式 `enabled=1`、`rarity` 1~5，照常掉落）。
 - 含可运行的复现命令（实测输出 32 行、行号一致）。
@@ -39,10 +42,12 @@
 
 ### P2 · 结构性（不急）
 
-**6. 还有 4 个数据文件没有生成器**：`Uniques.json` · `Affixes.json` · `Runewords.json` · `SkillsData.json`
-（`Weapons.json` / `Armors.json` 已由 `tools/build_item_tables.py` 从游戏表生成）
+**6. 还有 3 个数据文件没有生成器**：`Uniques.json` · `Affixes.json` · `Runewords.json`
+（`Weapons.json` / `Armors.json` 已由 `tools/build_item_tables.py` 从游戏表生成；
+`SkillsData.json` 已由 `tools/gen_skills_data.py` 生成 —— **2026-09-14 订正，原文写「4 个」有误**）
 
-今天 5 个数据 bug 全部出自这类「手改产物」，所以长期看值得逐个收编 —— 但只有 Uniques 的性价比最高（见 P0-1）。
+今天 5 个数据 bug 全部出自这类「手改产物」，所以长期看值得逐个收编 —— 但只有 Uniques 的性价比最高（见 P0-1）；
+Affixes 那条路已证走不通（§4.3.2），Runewords 目前无已知问题。
 
 ---
 
@@ -85,9 +90,10 @@ python3 tools/refresh_data.py      # 一键流程：解析→校验→生成→�
 python3 tools/audit_official_terms.py   # 14 项审计（单独跑）
 npm run lint && npm run build
 
-# 国服源码仓库（核对用；不入库）
-/tmp/SOECN_repo                    # git 仓库，S1 基准 commit = 9b24eb72
-python3 tools/verify_dropcalc_tables.py --repo /tmp/SOECN_repo --sha 9b24eb72…
+# 国服源码仓库（核对用；不入库）—— 位置由 tools/source_repo.py 统一解析，别再硬编码
+../.sources/SOECN                  # 工作区级持久目录（⚠️ 不要放 /tmp：系统清理后 8 个工具会集体失效）
+python3 tools/source_repo.py       # 自检：解析到的路径 + HEAD 是否等于基准 commit 9b24eb72
+python3 tools/verify_dropcalc_tables.py   # --repo / --sha 可省，默认自动解析
 
 # 部署：push main 后 GitHub Actions 自动发布
 git -c http.proxy=http://127.0.0.1:7897 -c https.proxy=http://127.0.0.1:7897 push origin main
@@ -111,6 +117,13 @@ git -c http.proxy=http://127.0.0.1:7897 -c https.proxy=http://127.0.0.1:7897 pus
 | **机制加固** | 审计 3 → **14 项**；唯一解析入口 `official_names.py`；`textwalk.py`；两篇事故复盘 |
 | **清理** | 废弃翻译脚本/旧词典/过期研究文档/样式 mockup/6.4 MB 死文件；lint 11 errors → 0 |
 
+### 2026-09-14 补充
+
+| 类别 | 内容 |
+|---|---|
+| **环境加固** | 源码仓库从 `/tmp` 迁到 `<工作区>/.sources/SOECN`。起因：`/tmp` 被系统清理后 **8 个工具集体失效**，`refresh_data.py` 第 1 步就挂（源码不在仓库里，丢了只能重下）。新增 `tools/source_repo.py` 作**路径唯一入口**，8 个工具改为向它取路径，顺手消掉 `/tmp/SOECN` 与 `/tmp/SOECN_repo` 两套不一致的硬编码；`verify_dropcalc_tables.py` / `sync_dropcalc_tables.py` 的 `--repo` / `--sha` 变成可省 |
+| **文档订正** | ① TODO 里失效的简报链接（真实位置 `docs/reference/`）；② P2-6「4 个数据文件没有生成器」→ 实为 **3 个**（`SkillsData.json` 早有 `gen_skills_data.py`）；③ README §4.5 里**已作废的「词缀缺 196 条」**数字清掉；④ 标注 `docs/SOE战网经济平衡TODO.md` 并不在本仓库 |
+
 ---
 
 ## 五、今天踩过的坑（下次别再踩）
@@ -131,7 +144,7 @@ git -c http.proxy=http://127.0.0.1:7897 -c https.proxy=http://127.0.0.1:7897 pus
    每次都是先写了个看起来精确的错数字。**不确定就写「无法可靠枚举」**。
 8. **同一件暗金的中文名有 3 个来源，动手前先分清**（2026-09-14 补）：
    源码表里是**英文名**（`Templar's Might`）→ 中文化副本的 `index` 列（可被早期翻译脚本污染）→
-   **客户端实际显示**（国服实机画面为「圣堂武士的力量」）。只看其中一处都会得出相反结论；
+   **客户端实际显示**（国服实测为「圣堂武士的力量」）。只看其中一处都会得出相反结论；
    本次还顺手发现「底材能在商店买到」这类**游戏内事实本站数据无法复核**（参考文件只有串表 + 两张 `CubeMain`），
    写进页面时必须标明是社区经验。
 

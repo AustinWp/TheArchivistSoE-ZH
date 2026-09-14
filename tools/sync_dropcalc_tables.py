@@ -9,9 +9,9 @@
 3. 校验行数 / 列数是否一致，不一致则中止，避免破坏计算器。
 
 用法:
-    python3 tools/sync_dropcalc_tables.py \
-        --repo /tmp/SOECN_repo --sha 9b24eb72380a724457e8e6d37a169c837f0ad0a0 [--check]
+    python3 tools/sync_dropcalc_tables.py [--repo <SOECN 仓库根>] [--sha <提交>] [--check]
 
+`--repo` / `--sha` 默认走 tools/source_repo.py（仓库位置 + S1 基准提交）。
 `--check` 只报告差异，不写文件。
 """
 import argparse
@@ -21,6 +21,8 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
+sys.path.insert(0, HERE)
+from source_repo import BASELINE_SHA, repo_root
 
 # (模式, 文件名, 上游相对路径模板, 需要保留中文的列)
 TABLES = [
@@ -47,10 +49,12 @@ def to_rows(text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--repo", required=True, help="SOECN 仓库本地路径")
-    ap.add_argument("--sha", required=True, help="目标提交")
+    ap.add_argument("--repo", default=None,
+                    help="SOECN 仓库根目录；默认走 tools/source_repo.py 解析")
+    ap.add_argument("--sha", default=BASELINE_SHA, help="目标提交（默认 S1 基准）")
     ap.add_argument("--check", action="store_true", help="只报告差异，不写文件")
     args = ap.parse_args()
+    args.repo = args.repo or repo_root()
 
     total_changed = 0
     for mode, fname, rel, keep_cols in TABLES:

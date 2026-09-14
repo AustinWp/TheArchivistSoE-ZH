@@ -7,10 +7,14 @@
 """
 import json
 import os
+import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-GE = "/tmp/SOECN/standard-mode/data/global/excel"
+sys.path.insert(0, HERE)
+from source_repo import excel_dir
+
+GE = excel_dir()  # 源码路径唯一入口，见 tools/source_repo.py
 
 CLASS_ZH = {"ama": "亚马逊", "bar": "野蛮人", "pal": "圣骑士", "nec": "死灵法师",
             "sor": "法师", "dru": "德鲁伊", "ass": "刺客"}

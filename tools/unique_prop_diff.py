@@ -12,11 +12,15 @@
 import json
 import os
 import re
+import sys
 from collections import defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-GE = "/tmp/SOECN/standard-mode/data/global/excel"
+sys.path.insert(0, HERE)
+from source_repo import excel_dir
+
+GE = excel_dir()  # 源码路径唯一入口，见 tools/source_repo.py
 
 
 def read(path):

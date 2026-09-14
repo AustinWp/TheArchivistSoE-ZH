@@ -4,8 +4,10 @@
 第一阶段只产出报告（不改数据），按数据集输出：
   新增（游戏有/站点无） / 缺失（站点有/游戏无） / 字段不一致
 
-用法: python3 tools/diff_game_tables.py [--src /tmp/SOECN]
+用法: python3 tools/diff_game_tables.py [--src <SOECN 仓库根>]
 输出: tools/generated/table_diff.md
+
+`--src` 默认由 tools/source_repo.py 自动解析（持久目录优先，/tmp 兜底）。
 """
 import argparse
 import json
@@ -15,6 +17,8 @@ from collections import Counter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
+sys.path.insert(0, HERE)
+from source_repo import repo_root
 
 
 def read(path):
@@ -34,7 +38,8 @@ def rows_by(path, key):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--src", default="/tmp/SOECN")
+    ap.add_argument("--src", default=repo_root(),
+                    help="SOECN 仓库根目录；默认走 tools/source_repo.py 解析")
     args = ap.parse_args()
     GE = os.path.join(args.src, "standard-mode", "data", "global", "excel")
     out = []

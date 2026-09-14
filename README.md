@@ -39,6 +39,8 @@ npm run preview  # 预览构建产物
 | 物品库存贴图 | 644 张 PNG（游戏客户端 DC6 库存贴图转换） | `public/item-images/`（映射见 `public/data/ItemImages.json`） |
 
 - 原始来源：游戏模组仓库 [`wdjwxh/PD2-Sanctuary-of-Exile`](https://github.com/wdjwxh/PD2-Sanctuary-of-Exile) 的 `SOECN` 分支（commit `9b24eb72`，2026-09-11，国服 S1 正式服版本；上一基准 `374d8971`）
+- **源码仓库位置由 `tools/source_repo.py` 统一解析**：`$SOECN_REPO` → `<工作区>/.sources/SOECN` → `/tmp/SOECN_repo`。
+  不要再在工具里硬编码路径，也**不要放 `/tmp`**（会被系统清理，工具集体失效）。自检：`python3 tools/source_repo.py`
 - 数据流与重生成方法见 [`docs/reference/README.md`](docs/reference/README.md)
 - 校验：`python3 tools/verify_cube_claims.py`（**45 条**事实断言 + 页面表格自检，含国服 S1 拆解分档 / 随机狱铸配方已删除）
 - 重生成全部数据：`python3 tools/refresh_data.py`（解析 → 校验 → 生成页面数据 → 构建）
@@ -53,8 +55,11 @@ npm run preview  # 预览构建产物
 
 ```bash
 # 1) 拉取上游 SOECN（GitHub 直连不稳时走本地代理）
-git -c http.proxy=http://127.0.0.1:7897 clone --filter=blob:none \
-    https://github.com/wdjwxh/PD2-Sanctuary-of-Exile.git /tmp/SOECN_repo
+#    ⚠️ 别放 /tmp —— 系统清理后 8 个工具会同时失效（2026-09-14 踩过）
+SOURCES="$(dirname "$PWD")/.sources"                 # 工作区级持久目录
+git -c http.proxy=http://127.0.0.1:7897 clone --single-branch --branch SOECN \
+    https://github.com/wdjwxh/PD2-Sanctuary-of-Exile.git "$SOURCES/SOECN"
+python3 tools/source_repo.py                         # 自检：路径 + HEAD 是否等于基准 commit
 
 # 2) 看区间内到底改了哪些文件（不要靠猜）
 #    https://api.github.com/repos/wdjwxh/PD2-Sanctuary-of-Exile/compare/<旧>...<新>
@@ -71,7 +76,7 @@ python3 tools/refresh_data.py     # 解析 → 校验 → 生成 → 术语替�
 
 **国服（SOECN 战网）运行的是「炼狱（毁灭）模式」，不是标准模式。** 依据：S1 说明中的经济改动
 （烬魂消耗 25→50、取消完美级以下精华、分解档位等）**全部只落在 `damnation-mode` 数据**；
-`docs/SOE战网经济平衡TODO.md` 也写明「Damnation 当前继承 standard 的 MonStats」。
+`docs/SOE战网经济平衡TODO.md` 也写明「Damnation 当前继承 standard 的 MonStats」（⚠️ 该文件**不在本仓库**、git 历史里也没有，无法直接查证）。
 
 因此本站的原则是 **国服优先**：
 
@@ -233,8 +238,7 @@ StrEternalShako    =  基础类型：军帽
 核对方法（需要 SOECN 仓库）：
 
 ```bash
-python3 tools/verify_dropcalc_tables.py --repo /tmp/SOECN_repo \
-    --sha 9b24eb72380a724457e8e6d37a169c837f0ad0a0
+python3 tools/verify_dropcalc_tables.py      # 仓库位置 + S1 基准提交都由 source_repo.py 解析
 ```
 
 同步新版本用 `tools/sync_dropcalc_tables.py`（保留中文列，只换其它列）。
@@ -249,7 +253,7 @@ python3 tools/verify_dropcalc_tables.py --repo /tmp/SOECN_repo \
 |---|---|---|
 | 词缀 | **无法可靠枚举** | 早先按「行」比出「前缀缺 85 / 后缀缺 111」，**这个数字不可信**：源码 839 行里有 141 行是同一条词缀按物品类型重复登记。改按「属性码+数值」比对后，源码唯一组合 616 / 本站 569，但**既缺 273 又多 226** → 两组数据的 key 对不齐（`group` 编号体系不同、多属性行的组合方式不同）。抽查证实：有的确实缺（`mag% 10-15`、`res-ltng 31-50`），有的其实有但 group 号不同（`att 81-100`）。**结论：缺口真实存在但无法可靠列举，更不能靠模板猜着补 → 不做** |
 | ~~暗金「驯服」~~ | **已收录** | 查明它是**方块合成**产物（巴尔通行证 + 巴尔喘息 + 巴尔之握 → 驯服），`rarity=0` 只表示不掉落。官方串表里有 `The Taming` / `StrTamingAura` / `StrTamingHint`，已补入暗金表与魔方页 |
-| ~~暗金 `Templar's Might` 中文名~~ | **已校准** | 源码表里只有英文名 `Templar's Might`；旧译「圣骑士的力量」是早期翻译脚本遗留（`Uniques.json` + `UniqueItems.txt` 中文化副本各一处）。**国服客户端实机画面显示「圣堂武士的力量」**，并与官方串表的 `Templar Coat = 圣堂武士外袍` 同源 → 2026-09-14 统一为「圣堂武士的力量」（改 `Uniques.json` / `damnation/Uniques.json` / 两张 `UniqueItems.txt` 的中文 `index` 列） |
+| ~~暗金 `Templar's Might` 中文名~~ | **已校准** | 源码表里只有英文名 `Templar's Might`；旧译「圣骑士的力量」是早期翻译脚本遗留（`Uniques.json` + `UniqueItems.txt` 中文化副本各一处）。**国服客户端实测显示「圣堂武士的力量」**，并与官方串表的 `Templar Coat = 圣堂武士外袍` 同源 → 2026-09-14 统一为「圣堂武士的力量」（改 `Uniques.json` / `damnation/Uniques.json` / 两张 `UniqueItems.txt` 的中文 `index` 列） |
 | 任务物品 | 6 条 | 国王之杖 / 赫拉迪克法杖 等，`quest` 列非空，不进暗金列表 |
 | 升华灵魂石系列 | 19 条 | 源码 `UniqueItems.txt` 里有，但属**升华**内容，已在「升华」页收录 |
 | 基础游戏物品中文名 | 92 条已校准 | 珠宝 / 护身符 / 钥匙 / 宝石 / 药水走**基础游戏**中文串，SOE 串表（3854 条，仅为模组覆盖表）里没有。**改以 PD2 汉化 wiki 为准**（SOE 的底座）：对照表存档在 `docs/reference/pd2_zh_item_names.json`，登记在 `official_names.BASE_GAME_NAME`，审计第 3e 项逐条比对（当前 0 不一致，1 条登记的有意偏离：`key` 本站作「普通钥匙」以区别于「骷髅钥匙」） |
@@ -315,8 +319,9 @@ React Hook 依赖提示，属历史遗留、无功能影响）。剩下 1 条 Re
 
 | 工具 | 用途 |
 |---|---|
-| `verify_dropcalc_tables.py` | 掉落计算器 10 张表 vs 国服源码（需 `--repo` / `--sha`） |
-| `affix_deep_align.py` / `affix_depth_diff.py` | 词缀与游戏表的三层比对（缺 196 条的结论就出自这里） |
+| `source_repo.py` | **源码仓库路径唯一入口**（`$SOECN_REPO` → `<工作区>/.sources/SOECN` → `/tmp` 兜底）；直接运行即自检仓库与基准 commit |
+| `verify_dropcalc_tables.py` | 掉落计算器 10 张表 vs 国服源码（`--repo` / `--sha` 可省，默认自动解析） |
+| `affix_deep_align.py` / `affix_depth_diff.py` | 词缀与游戏表的三层比对（**结论见 §4.3.2：缺口真实但无法可靠列举 → 不做**；早先「缺 196 条」那个数字已作废） |
 | `unique_prop_parser.py` / `unique_prop_diff.py` | 暗金属性串 → (property, min, max) 解析与数值 diff |
 | `diff_game_tables.py` | 全表差异报告（游戏仓库 vs 站点数据） |
 | `sync_dropcalc_tables.py` | 同步游戏数据表到新提交（保留中文列） |

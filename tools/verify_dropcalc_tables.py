@@ -8,8 +8,9 @@
   这些列的差异属预期，比对时跳过。
 
 用法:
-    python3 tools/verify_dropcalc_tables.py --repo /tmp/SOECN_repo \
-        --sha 9b24eb72380a724457e8e6d37a169c837f0ad0a0
+    python3 tools/verify_dropcalc_tables.py [--repo <SOECN 仓库根>] [--sha <提交>]
+
+`--repo` / `--sha` 默认走 tools/source_repo.py（仓库位置 + S1 基准提交）。
 """
 import argparse
 import os
@@ -18,6 +19,8 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
+sys.path.insert(0, HERE)
+from source_repo import BASELINE_SHA, repo_root
 
 TABLES = ["MonStats.txt", "TreasureClassEx.txt", "Weapons.txt", "Armor.txt", "Misc.txt",
           "UniqueItems.txt", "SetItems.txt", "ItemRatio.txt", "ItemTypes.txt", "Levels.txt"]
@@ -48,9 +51,11 @@ def rows(text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--repo", required=True)
-    ap.add_argument("--sha", required=True)
+    ap.add_argument("--repo", default=None,
+                    help="SOECN 仓库根目录；默认走 tools/source_repo.py 解析")
+    ap.add_argument("--sha", default=BASELINE_SHA, help="目标提交（默认 S1 基准）")
     args = ap.parse_args()
+    args.repo = args.repo or repo_root()
 
     problems = 0
     print(f"基准: {args.repo} @ {args.sha[:7]}\n")

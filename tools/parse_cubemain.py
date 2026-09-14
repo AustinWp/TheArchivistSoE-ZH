@@ -6,11 +6,18 @@
 保留来源行号与 mods 摘要，输出 JSON 供页面/校验脚本使用。
 
 用法:
-    python3 tools/parse_cubemain.py --src /tmp/SOECN --out public/data/cube_recipes.json
+    python3 tools/parse_cubemain.py [--src <SOECN 仓库根>] [--out public/data/cube_recipes.json]
+
+`--src` 默认由 tools/source_repo.py 自动解析（持久目录优先，/tmp 兜底）。
 """
 import argparse
 import json
 import os
+import sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+from source_repo import repo_root
 
 
 def read(path):
@@ -139,8 +146,9 @@ def _decode(tok, names, types):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--src", default="/tmp/SOECN",
-                    help="SOECN 仓库根目录（含 standard-mode/damnation-mode）")
+    ap.add_argument("--src", default=repo_root(),
+                    help="SOECN 仓库根目录（含 standard-mode/damnation-mode）；"
+                         "默认走 tools/source_repo.py 解析")
     ap.add_argument("--out", default=os.path.join(
         os.path.dirname(os.path.abspath(__file__)),
         "generated", "cube_recipes.json"))
