@@ -59,6 +59,7 @@ TBL_FILES = [("string", "String.txt"), ("expansionstring", "expansionstring.txt"
 
 # 客户端串表加载与归一化统一走 client_zh（唯一入口，别再在这里手写一遍）
 from uniques_match import cell, match  # noqa: E402
+from affixes_match import match as affix_match  # noqa: E402
 from client_zh import (  # noqa: E402
     client_candidates,
     client_value,
@@ -265,33 +266,22 @@ def check_skills(table, rep):
 
 def check_affixes(table, rep):
     items = json.load(open(os.path.join(ROOT, "public", "data", "Affixes.json"), encoding="utf-8"))
-    # 逐条 join：我方 (group, level, 前缀/后缀) → 源表行 → Name 键 → 客户端官方名
-    idx = {}
-    for fname, is_suffix in [("MagicPrefix.txt", False), ("MagicSuffix.txt", True)]:
-        hdr, rows = _excel(fname)
-        if not hdr or "Name" not in hdr:
-            continue
-        gi, li, ni = hdr.index("group"), hdr.index("level"), hdr.index("Name")
-        for r in rows:
-            if len(r) > max(gi, li, ni) and r[ni]:
-                idx.setdefault((r[gi], r[li], is_suffix), []).append(r[ni])
+    assign, guessed = affix_match(table, items)
     bad, unmatched = [], []
-    for it in items:
-        keys = idx.get((str(it.get("group")), str(it.get("level")), bool(it.get("suffix"))))
-        if not keys:
+    for i, it in enumerate(items):
+        if i not in assign:
             unmatched.append((f"g{it.get('group')} lvl{it.get('level')}", it.get("name"), "*(源表未匹配)*"))
             continue
-        _, theirs = client_value(table, keys[0])
-        want = official_name(table, keys[0])
+        row, cols = assign[i]
+        want = official_name(table, cell(row, cols, "Name"))
         if not want:
-            # 源表里有未使用的占位行（`Name=Dummy`），客户端值就是英文 "Dummy"，
-            # 不属于「翻译错」——单独归类，不混进差异数。
-            unmatched.append((keys[0], it.get("name"), "*(占位行 / 客户端无中文名)*"))
+            unmatched.append((cell(row, cols, "Name"), it.get("name"), "*(占位行 / 客户端无中文名)*"))
             continue
         if norm(it.get("name")) != norm(want):
-            bad.append((keys[0], it.get("name"), theirs))
+            bad.append((cell(row, cols, "Name"), it.get("name"), want))
     rep.add("六、词缀名 `Affixes.json`",
-            "逐条 join：我方 (group, level, 前缀/后缀) → 源表 `MagicPrefix/Suffix.txt` 行 → `Name` 键 → 客户端官方名。",
+            f"配对走 tools/affixes_match.py（(group,level) 多候选 → 属性指纹 code/min/max 消歧；"
+            f"配对 {len(assign)}/{len(items)}，按顺序推定 {guessed}）。",
             {"checked": len(items), "mismatch": len(bad), "missing": len(unmatched)}, bad)
 
 

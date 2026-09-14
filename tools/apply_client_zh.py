@@ -42,6 +42,7 @@ from client_zh import (  # noqa: E402
 )
 from source_repo import excel_dir  # noqa: E402
 from uniques_match import cell, match  # noqa: E402
+from affixes_match import match as affix_match  # noqa: E402
 
 GEN = os.path.join(HERE, "generated")
 
@@ -116,33 +117,29 @@ def fix_runewords(table, ch):
 
 
 def fix_affixes(table, ch):
-    idx = {}
-    for fname, is_suffix in [("MagicPrefix.txt", False), ("MagicSuffix.txt", True)]:
-        hdr, rows = read_excel(fname)
-        if not hdr or "Name" not in hdr:
-            continue
-        gi, li, ni = hdr.index("group"), hdr.index("level"), hdr.index("Name")
-        for r in rows:
-            if len(r) > max(gi, li, ni) and r[ni]:
-                idx.setdefault((r[gi], r[li], is_suffix), []).append(r[ni])
+    """词缀名对齐（配对规则见 tools/affixes_match.py，校验与修正共用）。
 
+    ⚠️ 不要按 `(group, level)` 取第一个候选：同一键下多行、官方名各不相同
+    （组101 lvl1：Stout 坚固之 / Blanched 白化之 / Sturdy 结实之 / Miocene 教化之），
+    取第一个会把 736 条词缀塞成同一个名字（实测踩过，468 条名字是错的）。
+    """
     path = os.path.join(ROOT, "public", "data", "Affixes.json")
     items = json.load(open(path, encoding="utf-8"))
+    assign, guessed = affix_match(table, items)
     changed = 0
-    for it in items:
-        keys = idx.get((str(it.get("group")), str(it.get("level")), bool(it.get("suffix"))))
-        if not keys:
+    for i, it in enumerate(items):
+        if i not in assign:
             continue
-        want = official_name(table, keys[0])
+        row, cols = assign[i]
+        want = official_name(table, cell(row, cols, "Name"))
         if not want:
             continue
-        if ch.set("affixes", path, "name", it.get("name"), want,
-                  f"g{it.get('group')} lvl{it.get('level')} ← {keys[0]}"):
+        if ch.set("affixes", path, "name", it.get("name"), want, f"g{it.get('group')} lvl{it.get('level')}"):
             it["name"] = want
             changed += 1
     if changed and not ch.check:
         json.dump(items, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-    print(f"  词缀 Affixes.json: {changed} 处")
+    print(f"  词缀 Affixes.json: {changed} 处（配对 {len(assign)}/{len(items)}，按顺序推定 {guessed}）")
 
 
 SAFE_MIN_LEN = 4          # 短名（如「酋长」「霜风」）可能是别的东西（升华名/技能名），不自动改
@@ -163,11 +160,16 @@ def fix_renamed_prose(ch, log, safe_min=SAFE_MIN_LEN):
     pairs = {}
     if os.path.exists(map_path):
         try:
-            pairs.update(json.load(open(map_path, encoding="utf-8")))
+            pairs.update({k: v for k, v in json.load(open(map_path, encoding="utf-8")).items()})
         except (OSError, ValueError):
             pass
     for e in log:
         old, new = e["old"], e["new"]
+        # ⚠️ **只同步暗金名**：词缀名是通用词（`冰冷`→`通灵`、`炼狱`→`介质`、`强大`→`强壮`），
+        #    套到正文会把内容改烂（实测污染了 SkillsData / Skills / Cube 等 30 个文件）。
+        #    符文之语同理偏短（`荣誉`→`荣耀`），一律不动正文。
+        if e["section"] != "uniques":
+            continue
         if old and new and old != new and len(str(old)) >= safe_min:
             pairs[str(old)] = new
     if not pairs:
